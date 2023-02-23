@@ -125,7 +125,7 @@ Learner Outcomes - Students will be able to:
 
 Further Requirement: Intrinsic interest in learning about Southeast Asia.
 
-**<b>Feedback on RA 2.0 by students and teachers</u>**
+**<u>Feedback on RA 2.0 by students and teachers</u>**
 
 “I think the **_wide variety_** of RA modules, especially those not heavily related to academics makes the idea of RA more interesting and appealing to students.”
 

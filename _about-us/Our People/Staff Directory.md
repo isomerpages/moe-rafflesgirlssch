@@ -227,3 +227,19 @@ third_nav_title: Our People
 | Sheila Loh  | Attendant, Home Economics  |
 |   |   |
 
+**<u>Department - Estate</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Leong Fook Weng  | Manager, Operations  |
+| Jansen Ng  | Executive, Operations  |
+|  Mohd Nor | Officer, Operations  |
+|   |   |
+
+**<u>Department - Procurement</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Christina Lee  | Executive, Procurement  |
+|   |   |
+

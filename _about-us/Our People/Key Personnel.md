@@ -17,16 +17,16 @@ third_nav_title: Our People
 | Ms Juliana Chia  | Bursar  | Senior Management  |   |
 | Ms Goh Lee Kian  | Director, Planning and Infrastructure  | Senior Management  |   |
 | Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  |   |
-| Ms Anna Loo  |   |   |   |
-| Miss Foo Ling <br>Ling  |   |   |   |
-| Ms Regina Lee  |   |   |   |
-| Ms Stella Picca  |   |   |   |
-| Mr Mohammad<br> Faizal  |   |   |   |
-| Mrs Tan Yin Lai  |   |   |   |
-| Mdm Lee Szer<br> Yuen  |   |   |   |
-| Ms Carmen Hoo  |   |   |   |
-| Ms Magdalene<br> Suey  |   |   |   |
-| Dr Prama <br>Sundari  |   |   |   |
-| Mrs Eriyanty <br>Mohammad  |   |   |   |
-| Mr Joseph Toh  |   |   |   |
+| Ms Anna Loo  | Head, Aesthetics  |   |   |
+| Miss Foo Ling <br>Ling  | Head, Professional Development  |   |   |
+| Ms Regina Lee  | Head, Character & Citizenship Education  |   |   |
+| Ms Stella Picca  | Head, English Language & Literature  |   |   |
+| Mr Mohammad<br> Faizal  | Head, Humanities  |   |   |
+| Mrs Tan Yin Lai  | Head, Information & Communications Technology  |   |   |
+| Mdm Lee Szer<br> Yuen  | Head, Languages  |   |   |
+| Ms Carmen Hoo  | Head, Mathematics  |   |   |
+| Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |   |   |
+| Dr Prama <br>Sundari  |  Head, Science |   |   |
+| Mrs Eriyanty <br>Mohammad  |  Head, Student Management |   |   |
+| Mr Joseph Toh  | Head, Talent Development  |   |   |
 |   |   |   |   |

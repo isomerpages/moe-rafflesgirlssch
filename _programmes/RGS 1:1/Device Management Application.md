@@ -34,3 +34,22 @@ Schools will determine DMA settings for in-school use. As a default, these setti
 No data will be collected during use of PLD after school hours
 
 <img src="/images/dma1.jpg" style="width:100%">
+
+**\*** Screen time limits set by the school will override parents’/guardians’ settings during school hours.
+
+**Deciding on the Choice of After-School DMA Option**<br>
+Parents/guardians may wish to consider the following questions before deciding on the choice of after-school DMA option which is best for your child’s/ward’s learning.
+
+**Child’s/ward’s current device usage habits**
+
+*   How much time does my child/ward spend on their device?
+*   How well is my child/ward able to regula​​te their device usage on their own?
+*   Does my child/ward get easily distracted while doing online learning?
+
+**Parents’/Guardians’ involvement**
+
+*   How confident and familiar am I with managing my child’s/ward’s cyber wellness?
+*   Are there existing routines and open conversations on the use of the Internet at home?
+*   Am I aware of how to prevent different types of cyber threats that my child/ward might face?
+
+<img src="/images/dma2.png" style="width:85%">

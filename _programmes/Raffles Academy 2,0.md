@@ -100,3 +100,27 @@ Duration & Prerequisite:
 ·         Y4s without other RA commitments and who have not taken CM007 can take CM007 in Semester 3
 
 ·         A strong grasp of historical concepts and a strong background in History
+
+Overview:
+
+Students will embark on an individualised comparative case study of at least two Southeast Asian nations, to understand the nature of colonialism, the people’s struggles against colonialism and their journeys towards nationhood. Students may use this module to assess interest and readiness for A Level H2 History: Southeast Asia (in Years 5 and 6).
+
+Note:
+
+This module complements Area Studies (AS) and the Regional Studies Programme (RSP). While there will be minor content overlap with “Area Studies: Southeast Asia”, this module will focus on the historical aspects of Southeast Asia. 
+
+Learner Outcomes - Students will be able to:
+
+·         Explain how cultural, intellectual, emotional contexts shape thoughts, values, decisions and actions
+
+·         Construct narratives of change and continuity in Southeast Asian nations, through the lens of the Southeast Asian people
+
+·         Demonstrate resilience and fair mindedness in understanding our immediate Southeast Asian region
+
+ Assessment:
+
+·         Present findings as a group
+
+·         Write a comparative study report
+
+Further Requirement: Intrinsic interest in learning about Southeast Asia.

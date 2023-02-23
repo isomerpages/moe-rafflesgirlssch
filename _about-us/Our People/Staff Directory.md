@@ -190,3 +190,21 @@ third_nav_title: Our People
 | Joseph Toh  | Head, Talent Development  |
 | Shaun De Souza  | Assistant Head, Talent Development  |
 |   |   |
+
+**<u>Department - Student Management</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Eriyanty Mohammad  | Head, Student Management  |
+| Nora Kamsir  | Head of Year, Year 1  |
+| Lee Hwee Ling  | Head of Year, Year 2  |
+| Sulastiri Anis  | Head of Year, Year 3  |
+| Hasanah Alfie  | Head of Year, Year 4  |
+|   |   |
+
+**<u>Department - Information & Communications Technology</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Tan Yin Lai  | Head, Information & Communications Technology  |
+|   |   |

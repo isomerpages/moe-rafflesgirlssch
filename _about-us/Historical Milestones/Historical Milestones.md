@@ -97,24 +97,24 @@ RGS’ humble beginnings can be traced to a group of eight ladies who were deter
 
 ##### 2010-Current
 
-<img src="/images/hist27.jpg" style="width:49%" align=left>
-<img src="/images/hist28.jpg" style="width:49%" align=right>
+<img src="/images/cu1.jpg" style="width:49%" align=left>
+<img src="/images/cu2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/hist29.jpg" style="width:49%" align=left>
-<img src="/images/hist30.jpg" style="width:49%" align=right>
+<img src="/images/cu3.jpg" style="width:49%" align=left>
+<img src="/images/cu4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/hist31.jpg" style="width:49%" align=left>
-<img src="/images/hist32.jpg" style="width:49%" align=right>
+<img src="/images/cu5.jpg" style="width:49%" align=left>
+<img src="/images/cu6.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/hist33.jpg" style="width:49%" align=left>
-<img src="/images/hist34.jpg" style="width:49%" align=right>
+<img src="/images/cu7.jpg" style="width:49%" align=left>
+<img src="/images/cu8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/hist27.jpg" style="width:49%" align=left>
-<img src="/images/hist28.jpg" style="width:49%" align=right>
+<img src="/images/cu9.jpg" style="width:49%" align=left>
+<img src="/images/cu10.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
 <img src="/images/hist29.jpg" style="width:49%" align=left>

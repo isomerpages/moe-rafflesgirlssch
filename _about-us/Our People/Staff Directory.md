@@ -208,3 +208,22 @@ third_nav_title: Our People
 |:-:|---|
 | Tan Yin Lai  | Head, Information & Communications Technology  |
 |   |   |
+
+**<u>Department - Administration Office</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Adeline Quek  | Executive, Administration  |
+| Chua Moi Leng  | Senior School Attendant, Administration  |
+| Eunice Tay  | Officer, Administration  |
+| Zuraini Bte Mohammad Said  | Assistant, Administration  |
+|   |   |
+
+**<u>Department - Aesthetics (EAS)</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Asman Bin Yusof  | Higher Technician, Design & Technology  |
+| Sheila Loh  | Attendant, Home Economics  |
+|   |   |
+

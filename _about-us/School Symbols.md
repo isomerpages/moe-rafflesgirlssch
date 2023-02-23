@@ -22,3 +22,16 @@ The Raffles Tree is a bronze sculpture by local sculptor Brother Joseph McNally.
 The four main spirals represent the school's four corporate values, People-Centred, Principled, Passionate and Professional, which provide a firm foundation for the school community.  
   
 The birds in a playful mood reflect the true spirit of learning, which is one of exploration, freedom and enjoyment. The roots of the tree signify how RGS remains firmly planted in the nation's rich multi-cultural heritage and the school's tradition.
+
+#### The Rafflesian Creed
+
+We, the pupils of RGS, pledge to <br>
+uphold integrity in our actions, <br>
+to face all challenges with passion and endurance, to serve our <br>
+community with compassion and to the best of our ability and in <br>
+doing so, honour the school history and motto, Filiae Melioris Aevi.
+
+#### The School Song
+
+**REQUIRE JACKSON INPUT AUDIO**
+

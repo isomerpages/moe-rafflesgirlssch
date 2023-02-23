@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Financial Information.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -14,3 +13,4 @@ collections:
       - Historical Milestones/.keep
       - Historical Milestones/Historical Milestones.md
       - Historical Milestones/RGS Digital Heritage Trail.md
+      - Financial Information.md

@@ -22,3 +22,13 @@ third_nav_title: Our People
 |   |   |
 
 **<u>Department - Aesthetics</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Anna Loo  | Head, Aesthetics  |
+| Denise Tan  | Teacher  |
+| Lai Siew Yong  | Teacher  |
+| Noorshidah Ibrahim  | Teacher  |
+| Vivien Willamme  | Teacher  |
+| Yeo Puay Hong  | Teacher  |
+|   |   |

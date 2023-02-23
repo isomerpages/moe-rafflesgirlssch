@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Careers at RGS/Job Openings.md
-      - Careers at RGS/Careers at RGS.md
       - Careers at RGS/.keep
+      - Careers at RGS/Careers at RGS.md
+      - Careers at RGS/Job Openings.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

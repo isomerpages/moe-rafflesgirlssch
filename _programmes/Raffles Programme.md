@@ -50,3 +50,13 @@ Assessment modes are varied and emphasise content mastery and process skills. Co
 *   Portfolios
 *   Oral presentations
 *   Individual and group projects
+
+#### Curriculum and Instructional Design Tools
+
+The Integrated Curriculum Model (ICM) is an integrative approach of organising and differentiating the curriculum for gifted learners through three different dimensions:
+
+*   Advanced content
+*   Interdisciplinary concepts/themes/issues
+*   High level process-product development
+
+It is designed to respond to the precocity, intensity and complexity that characterise highly able learners.

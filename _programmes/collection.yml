@@ -2,5 +2,5 @@ collections:
   programmes:
     output: true
     order:
-      - Teaching & Learning.md
       - Raffles Programme.md
+      - Teaching & Learning.md

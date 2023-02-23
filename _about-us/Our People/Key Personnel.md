@@ -8,15 +8,15 @@ third_nav_title: Our People
 
 | Name  | Designation  | Department  | Email  |
 |:-:|---|---|---|
-| Ms Haslinda<br> Zamani  |   |   |   |
+| Ms Haslinda<br> Zamani  | Principal  | Senior Management  |   |
 | Ms Chin Jen Fu  |   |   |   |
-| Mrs Mary<br> George <br>Cheriyan  |   |   |   |
-| Ms May Tan  |   |   |   |
-| Mr Michael <br>Jalleh  |   |   |   |
-| Ms Lee Su Yin  |   |   |   |
-| Ms Juliana Chia  |   |   |   |
-| Ms Goh Lee Kian  |   |   |   |
-| Miss Yeo Soo<br> Ling  |   |   |   |
+| Mrs Mary<br> George <br>Cheriyan  |   | Senior Management  |   |
+| Ms May Tan  |   | Senior Management  |   |
+| Mr Michael <br>Jalleh  |   | Senior Management  |   |
+| Ms Lee Su Yin  |   | Senior Management  |   |
+| Ms Juliana Chia  |   | Senior Management  |   |
+| Ms Goh Lee Kian  |   | Senior Management  |   |
+| Miss Yeo Soo<br> Ling  |   | Senior Management  |   |
 | Ms Anna Loo  |   |   |   |
 | Miss Foo Ling <br>Ling  |   |   |   |
 | Ms Regina Lee  |   |   |   |

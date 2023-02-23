@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Careers at RGS/Careers at RGS.md
       - Careers at RGS/.keep
       - Vision Mission Values.md
       - Principal's Message.md

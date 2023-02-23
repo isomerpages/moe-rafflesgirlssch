@@ -15,3 +15,9 @@ third_nav_title: Our People
 |   |   |   |
 
 **<center>Members</center>**
+
+|   |   |   |   |
+|:-:|---|---|---|
+| <img src="/images/gover4.jpg" style="width:70%">  | <img src="/images/gover5.jpg" style="width:73%">  | <img src="/images/gover6.jpg" style="width:85%">  | <img src="/images/gover7.jpg" style="width:85%">  |
+| Ms Chong Lo Lan Pearlyn<br>Managing Director, <br>Oaktree Capital<br>Management Pte Ltd  | Mr Christopher Gee Kok Aun <br>Senior Research Fellow, Institute of Policy Studies  | Dr Elaine Lim Hsuen <br>Doctor,<br>National Cancer Centre  | Prof Jackie Yi-Ru Ying <br>A\*STAR Senior Fellow,<br>NanoBio Lab  |
+|   |   |   |   |

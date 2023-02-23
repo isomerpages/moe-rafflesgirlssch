@@ -24,9 +24,9 @@ third_nav_title: Our People
 | Mr Mohammad<br> Faizal  | Head, Humanities  | Humanities  | [mohammad\_faizal\_abdul\_az@schools.gov.sg](mailto:mohammad\_faizal\_abdul\_az@schools.gov.sg)  |
 | Mrs Tan Yin Lai  | Head, Information & Communications Technology  | Information & Communications Technology  | [tan\_yin\_lai@schools.gov.sg](mailto:tan\_yin\_lai@schools.gov.sg)  |
 | Mdm Lee Szer<br> Yuen  | Head, Languages  | Languages  | [lee\_szer\_yuen@schools.gov.sg](mailto:lee\_szer\_yuen@schools.gov.sg)  |
-| Ms Carmen Hoo  | Head, Mathematics  | Mathematics  |   |
-| Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |  Physical Education & Co-curricular Activities |   |
-| Dr Prama <br>Sundari  |  Head, Science | Science  |   |
-| Mrs Eriyanty <br>Mohammad  |  Head, Student Management | Student Management  |   |
-| Mr Joseph Toh  | Head, Talent Development  | Talent Development  |   |
+| Ms Carmen Hoo  | Head, Mathematics  | Mathematics  | [hoo\_ka\_mun\_carmen@schools.gov.sg](mailto:hoo\_ka\_mun\_carmen@schools.gov.sg)  |
+| Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |  Physical Education & Co-curricular Activities | [suey\_lea\_hong@schools.gov.sg](mailto:suey\_lea\_hong@schools.gov.sg)  |
+| Dr Prama <br>Sundari  |  Head, Science | Science  | [g\_sundari@schools.gov.sg](mailto:g\_sundari@schools.gov.sg)  |
+| Mrs Eriyanty <br>Mohammad  |  Head, Student Management | Student Management  | [eriyanty\_tugi@schools.gov.sg](mailto:eriyanty\_tugi@schools.gov.sg)  |
+| Mr Joseph Toh  | Head, Talent Development  | Talent Development  | [joseph\_toh\_kim\_leng@schools.gov.sg](mailto:joseph\_toh\_kim\_leng@schools.gov.sg)  |
 |   |   |   |   |

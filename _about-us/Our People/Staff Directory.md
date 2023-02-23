@@ -155,3 +155,20 @@ third_nav_title: Our People
 | Tan Ying Yang  | Teacher  |
 | Yang Kian Hong  | Teacher |
 |   |   |
+
+**<u>Department - Centre for Pedagogical Research & Learning</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Lucille Yap  | Head, Consultancy  |
+| Foo Ling Ling  | Head, Professional Development  |
+| Tan Kum Chee  | Lead Teacher  |
+| Chew Meek Lin  | Lead Teacher  |
+| Leung Hui Leng  | Senior Teacher  |
+| Jassie Teo  | Senior Teacher  |
+| Sandi Kum  | Senior Teacher (Special Educational Needs)  |
+| Lim Er Yang  | Senior Teacher  |
+| Chan Sau Siong  | Senior Teacher  |
+| Azahar Bin Mohamed Noor  | Specialist  |
+| Tan Yen Chuan  | Specialist  |
+|   |   |

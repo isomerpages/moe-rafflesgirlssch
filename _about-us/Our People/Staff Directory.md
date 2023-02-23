@@ -32,3 +32,23 @@ third_nav_title: Our People
 | Vivien Willamme  | Teacher  |
 | Yeo Puay Hong  | Teacher  |
 |   |   |
+
+**<u>Department - English Language & Literature</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Stella Picca  |   |
+| Malyanah Binte Mawar  |   |
+| Nicholas Tan  |   |
+| Adeline Tang  |   |
+| Alwin Ho  |   |
+| Alfieana Alphonso  |   |
+| Choo Li Lin  |   |
+| Chang Jia Yin  |   |
+| June Tan  |   |
+| Ling Shuang Ning  |   |
+| Michelle Liu  |   |
+| Sharon Ong  |   |
+| Yap Hsin Yan  |   |
+|   |   |
+

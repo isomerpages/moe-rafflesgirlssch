@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/.keep
       - Vision Mission Values.md
       - Principal's Message.md

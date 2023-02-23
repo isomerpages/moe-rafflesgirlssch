@@ -19,10 +19,8 @@ For more information on RA 2.0, click [here](/files/2019%20RA%20Handbook.pdf).
 
 <u><b>Examples of RA 2.0 modules</u></b>
 
-**Subject:  Computer Sciences (Mathematics)**
-
-**Title:   Coding** 
-
+**Subject:  Computer Sciences (Mathematics)**<br>
+**Title:   Coding** <br>
 **Code:   CM015**
 
 Duration: Y3s can take CM015 in Semesters 1 and 2; it is a two semester-long module
@@ -43,10 +41,8 @@ Learner Outcomes:
 
 Assessment: Create a digital product in an end-of-module project.
 
-**Subject: Biology**
-
-**Title: Evolution and Molecular Cell Biology (with Research)**
-
+**Subject: Biology**<br>
+**Title: Evolution and Molecular Cell Biology (with Research)**<br>
 **Code: CM018-E (Y3, Semesters 1,2 & 3)**
 
 Duration & Prerequisites:
@@ -70,3 +66,37 @@ Learner Outcomes - Students will be able to:
 \-           Apply critical and creative thinking to solve problems and communicate the ideas effectively
 
 \-           Demonstrate passion to learn more advanced content in a self-driven manner and attributes relevant for scientific inquiry
+
+Outline:
+
+\-           Cell Biology
+
+\-           Genetic Inheritance
+
+\-           Molecular Genetics
+
+\-           Gene Regulation
+
+\-           Cancer Biology
+
+\-            Biological Evolution
+
+Assessment:
+
+\-             Participate and present in class
+
+\-             Take a class quiz
+
+Further Requirement: Be prepared to stay beyond 3:30pm on some Wednesdays for this coursework module.
+
+**Subject:  History**<br>
+**Title:   Advanced Historical Case Studies (1870-1970) Overcoming Colonialism in Southeast Asia**<br>
+**Code:   CM007 (Y3, Semesters 1 & 2) (Y4, Semester 3)**
+
+Duration & Prerequisite:
+
+·         Y3s can take CM007 in Semesters 1 and 2; it is a two semester-long module
+
+·         Y4s without other RA commitments and who have not taken CM007 can take CM007 in Semester 3
+
+·         A strong grasp of historical concepts and a strong background in History

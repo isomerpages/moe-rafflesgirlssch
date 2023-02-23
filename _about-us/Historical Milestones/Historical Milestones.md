@@ -44,3 +44,15 @@ RGS’ humble beginnings can be traced to a group of eight ladies who were deter
 <br clear="left"><br>
 
 ##### 1950-1969
+
+<img src="/images/hist14.jpg" style="width:49%" align=left>
+<img src="/images/hist15.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist16.jpg" style="width:49%" align=left>
+<img src="/images/hist17.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist18.jpg" style="width:49%" align=left>
+<img src="/images/hist19.jpg" style="width:49%" align=right>
+<br clear="left"><br>

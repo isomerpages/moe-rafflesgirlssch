@@ -35,3 +35,4 @@ doing so, honour the school history and motto, Filiae Melioris Aevi.
 
 **REQUIRE JACKSON INPUT AUDIO**
 
+<img src="/images/schsong.png" style="width:100%">

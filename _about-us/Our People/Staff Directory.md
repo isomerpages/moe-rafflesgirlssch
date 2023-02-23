@@ -132,17 +132,26 @@ third_nav_title: Our People
 
 **<u>Department - Science</u>**
 
-|   |   |
+| Staff Name  | Position  |
 |:-:|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|  Prama Sundari | Head, Science  |
+| Lee Tien  | Assistant Head, Biology  |
+| Cheong Szu Chuang  | Assistant Head, Physics  |
+|  Norazlin Binte Normin | Acting Assistant Head, Chemistry  |
+| Angel Lim  | Teacher  |
+| Angela Teo  | Teacher  |
+| Chia Wei Ling  | Teacher  |
+| Cindy Tiong  | Teacher  |
+| Jeffrey Lee  | Teacher  |
+| Joseph Lim  | Teacher  |
+| Lim Ai Khim  | Teacher  |
+| Lim Seow Yi  |  Teacher |
+| Neo Yining  |Teacher   |
+| Norazlin Binte Normin  | Teacher  |
+| Sharifah Alkaff  | Teacher  |
+| Synth-Di Tan  | Teacher  |
+| Tan Hup Yew  | Teacher  |
+| Tan Wei Lun  | Teacher  |
+| Tan Ying Yang  | Teacher  |
+| Yang Kian Hong  | Teacher |
 |   |   |

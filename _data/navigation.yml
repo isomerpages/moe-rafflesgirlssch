@@ -2,3 +2,5 @@ logo: /images/logo.jpg
 links:
   - title: Programmes
     collection: programmes
+  - title: About Us
+    collection: about-us

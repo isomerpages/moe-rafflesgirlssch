@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Historical Milestones/.keep
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

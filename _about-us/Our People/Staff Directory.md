@@ -172,3 +172,21 @@ third_nav_title: Our People
 | Azahar Bin Mohamed Noor  | Specialist  |
 | Tan Yen Chuan  | Specialist  |
 |   |   |
+
+**<u>Department - Character & Citizenship Education</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Rachel Pang  | Acting Head, Character & Citizenship Education  |
+| Audrey Chen  | Assistant Head, Student Leadership Development  |
+| Tiffany Cheong  | Assistant Head, Citizenship Education  |
+| Lim Shi Zhi  | Assistant Head, Service Learning  |
+|   |   |
+
+**<u>Department - Talent Development</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Joseph Toh  | Head, Talent Development  |
+| Shaun De Souza  | Assistant Head, Talent Development  |
+|   |   |

@@ -24,8 +24,6 @@ third_nav_title: Our People
 
 |   |   |   |   |
 |:-:|---|---|---|
-| <img src="/images/eng1.jpg" style="width:85%">  | <img src="/images/eng1.jpg" style="width:85%">  | <img src="/images/eng1.jpg" style="width:85%">  | <img src="/images/eng1.jpg" style="width:85%">  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| <img src="/images/gover8.jpg" style="width:85%">  | <img src="/images/gover9.jpg" style="width:85%">  | <img src="/images/gover10.jpg" style="width:85%">  | <img src="/images/gover11.jpg" style="width:85%">  |
+| Dr Kong Hwai Loong<br>Specialist in Medical Oncology, <br>Icon Cancer Centre<br>Adjunct Associate Professor, NUHS/NUS  | Mr Lim Soon Hock<br>Managing Director,<br>Plan-B ICAG Pte Ltd  | Dr Lee Jong Jian <br>Ophthalmologist and Medical Director,<br>Raffles Hospital  | Ms Ong Yeng Fang<br>Head,<br>UOB Private Bank  |
 |   |   |   |   |

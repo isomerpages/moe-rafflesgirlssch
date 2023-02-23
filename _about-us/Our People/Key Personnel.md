@@ -9,14 +9,14 @@ third_nav_title: Our People
 | Name  | Designation  | Department  | Email  |
 |:-:|---|---|---|
 | Ms Haslinda<br> Zamani  | Principal  | Senior Management  |   |
-| Ms Chin Jen Fu  |   |   |   |
-| Mrs Mary<br> George <br>Cheriyan  |   | Senior Management  |   |
-| Ms May Tan  |   | Senior Management  |   |
-| Mr Michael <br>Jalleh  |   | Senior Management  |   |
-| Ms Lee Su Yin  |   | Senior Management  |   |
-| Ms Juliana Chia  |   | Senior Management  |   |
-| Ms Goh Lee Kian  |   | Senior Management  |   |
-| Miss Yeo Soo<br> Ling  |   | Senior Management  |   |
+| Ms Chin Jen Fu  | Deputy Principal, <br>Academic Studies  | Senior Management  |   |
+| Mrs Mary<br> George <br>Cheriyan  | Deputy Principal, Centre for Pedagogical Research & Learning and Community Engagement  | Senior Management  |   |
+| Ms May Tan  | Deputy Principal, Student <br>Development  | Senior Management  |   |
+| Mr Michael <br>Jalleh  | Director, Academic Studies  | Senior Management  |   |
+| Ms Lee Su Yin  | Director, Communications & Partnerships  | Senior Management  |   |
+| Ms Juliana Chia  | Bursar  | Senior Management  |   |
+| Ms Goh Lee Kian  | Director, Planning and Infrastructure  | Senior Management  |   |
+| Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  |   |
 | Ms Anna Loo  |   |   |   |
 | Miss Foo Ling <br>Ling  |   |   |   |
 | Ms Regina Lee  |   |   |   |

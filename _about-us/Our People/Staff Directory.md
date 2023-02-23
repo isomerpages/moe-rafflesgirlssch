@@ -72,7 +72,7 @@ third_nav_title: Our People
 
 **<u>Department - Languages</u>**
 
-|   |   |
+| Staff Name  | Position  |
 |:-:|---|
 | Lee Szer Yuen  | Head, Languages  |
 | Tan Lee Khim  | Assistant Head, Languages  |
@@ -93,4 +93,25 @@ third_nav_title: Our People
 | Safiah Binte Ani  | Teacher  |
 | Shi Hai Yan  | Teacher  |
 | Wee Xiumei  |  Teacher |
+|   |   |
+
+**<u>Department - Mathematics</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Carmen Hoo  | Head, Mathematics  |
+| Koh King Koon  | Assistant Head, Mathematics  |
+| Tan Jia Xiu  | Assistant Head, Mathematics  |
+| Chang Chiou Yen  | Teacher  |
+| Goh Li Meng  | Teacher  |
+| Lim Huey Miin  | Teacher  |
+| Lim Young Hui  |Teacher  |
+| Maggie Phua  |Teacher   |
+| Navinesh S/O Thanabalasingam  | Teacher  |
+| Ng Peck Wee  | Teacher  |
+| Norhuda Binte Mohamed Sadekan  | Teacher  |
+| Sharon Tan  | Teacher  |
+| Toh Teck Wei  | Teacher  |
+| Wang Siao Hua  | Teacher  |
+| Yang Kai  | Teacher  |
 |   |   |

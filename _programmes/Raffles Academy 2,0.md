@@ -17,7 +17,7 @@ In the provision of RA 2.0, we had gathered and addressed feedback from parents 
 
 For more information on RA 2.0, click [here](/files/2019%20RA%20Handbook.pdf).
 
-<u><b>Examples of RA 2.0 modules</u></b>
+**<u>Examples of RA 2.0 modules</u>**
 
 **Subject:  Computer Sciences (Mathematics)**<br>
 **Title:   Coding** <br>
@@ -125,7 +125,7 @@ Learner Outcomes - Students will be able to:
 
 Further Requirement: Intrinsic interest in learning about Southeast Asia.
 
-<u><b>Feedback on RA 2.0 by students and teachers</u></b>
+**<b>Feedback on RA 2.0 by students and teachers</u>**
 
 “I think the **_wide variety_** of RA modules, especially those not heavily related to academics makes the idea of RA more interesting and appealing to students.”
 

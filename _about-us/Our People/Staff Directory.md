@@ -69,3 +69,28 @@ third_nav_title: Our People
 | Sia Bee Leng  | Teacher  |
 | Syazwani Binte Amrun  | Teacher  |
 |   |   |
+
+**<u>Department - Languages</u>**
+
+|   |   |
+|:-:|---|
+| Lee Szer Yuen  | Head, Languages  |
+| Tan Lee Khim  | Assistant Head, Languages  |
+| Wong Chee Yeh  |  Acting Assistant Head, Languages |
+| Cao Jia Wei  | Teacher  |
+| Chua Han Hui  | Teacher  |
+| Hing Siew Bee  |  Teacher |
+| Ivy Toh  | Teacher  |
+| Kumbalingam Uthaman  | Teacher  |
+| Kwok Zhen Yuan  | Teacher  |
+| Lin Yao  | Teacher  |
+| Mu Jun  | Teacher  |
+| Nadiah Rusydina Binte Roslan  | Teacher  |
+| Neo Jia Hui  | Teacher  |
+| Ngiew Tian Hui  | Teacher  |
+| Nuraini Bt Abdul Gapor  | Teacher  |
+| Poon Han Wei  | Teacher  |
+| Safiah Binte Ani  | Teacher  |
+| Shi Hai Yan  | Teacher  |
+| Wee Xiumei  |  Teacher |
+|   |   |

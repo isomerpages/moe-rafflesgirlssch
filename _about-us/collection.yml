@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Staff Directory.md
       - Our People/.keep
       - Our People/Board of Governors.md
       - Our People/Organisation Chart.md

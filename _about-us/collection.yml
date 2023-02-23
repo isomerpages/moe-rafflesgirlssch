@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Symbols.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -10,3 +9,4 @@ collections:
       - Our People/Organisation Chart.md
       - Our People/Key Personnel.md
       - Our People/Staff Directory.md
+      - School Symbols.md

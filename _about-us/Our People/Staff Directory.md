@@ -284,11 +284,19 @@ third_nav_title: Our People
 
 **<u>Department - Principal's Office</u>**
 
-|   |   |
+| Staff Name  | Position  |
 |:-:|---|
+| Adelene Ng  | Executive ,Student Services/Personal Assistant  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
+**<u>Department - Science (EAS)</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Wong Su Zhen  | Senior Supervisor, Laboratory  |
+| Lin Yan  | Higher Technician, Laboratory  |
+| Mohamed Ali  | Higher Technician, Laboratory  |
+| Sandy Huang  | Higher Technician, Laboratory  |
+| Chan Siong Weng  | Attendant, Laboratory  |
+| Ng Hui Juan  | Technician, Laboratory  |
 |   |   |

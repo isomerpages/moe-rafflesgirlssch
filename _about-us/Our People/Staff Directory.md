@@ -300,3 +300,22 @@ third_nav_title: Our People
 | Chan Siong Weng  | Attendant, Laboratory  |
 | Ng Hui Juan  | Technician, Laboratory  |
 |   |   |
+
+**<u>Department - Strategic Communications</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Jamaluddin Bin Johan  | Senior Executive, Corporate Communications  |
+| Leonard Louis  |Executive Strategic Communications   |
+| Clorisa Loh Hui Lun  | Executive Partnerships & Community Relations  |
+|   |   |
+
+**<u>Department - Counselling & Student Services</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Karen Lau  | School Counsellor  |
+| Amalina Binte Yahya | School Counsellor  |
+| Laura Tan  |  School Counsellor |
+| Chua Hai Lee  | Senior Executive, Admissions  |
+|   |   |

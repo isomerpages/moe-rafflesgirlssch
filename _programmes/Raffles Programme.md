@@ -60,3 +60,12 @@ The Integrated Curriculum Model (ICM) is an integrative approach of organising a
 *   High level process-product development
 
 It is designed to respond to the precocity, intensity and complexity that characterise highly able learners.
+
+#### Understanding by Design (UBD) Framework by Grant Wiggins and Jay McTighe  
+
+Assessments are based on the desired learner outcomes (what we want students to know, understand and be able to do); they drive our instructional practices. This is consistent with the backward design process of the UBD framework that the school uses for the development of its lesson units in each discipline area. The framework helps focus curriculum and teaching on the development and deepening of student understanding using a three-stage design process: _identifying desired results_, determining evidence, _planning learning experiences_ and _instruction_.
+
+#### Curriculum Differentiation  
+
+Teachers harness multiple instructional strategies to facilitate higher order thinking and research skills. These include Richard Paul's Elements of Reasoning in the Humanities, Problem Posing in Mathematics and Team-Based learning in Science. Teachers also use Learning Centres, Concept Development approaches and Collaborative Learning to enrich the learning experience. At all times, the teacher facilitates, steers and deepens learning through questioning, explanation, and clear feedback. Responding to the needs of all learners, we differentiate the way we learn and teach so that students learn based on their readiness, interest and learning profile.<br>
+_\[Carol Ann Tomlinson\]_

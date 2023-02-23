@@ -260,3 +260,35 @@ third_nav_title: Our People
 | Connie Kong  | Senior Executive, Human Resources  |
 | John Loo  | Executive, Human Resources  |
 |   |   |
+
+**<u>Department - Information Technology</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Morris Gabriel  | Assistant Manager, Information Technology  |
+| Zhang Runsheng  | Senior Executive, Information Technology  |
+| Teo Yen Li  | Officer, Information Technology  |
+| Mohamed Yazid  | Officer, Information Technology  |
+| Hein Thant Thu Shein  |  Officer, Information Technology |
+| Muhammad Ameen  | Assistant, Information Technology  |
+| Muhammad Shahid Bin Hussin  | Assistant, Information Technology  |
+|   |   |
+
+**<u>Department - Library</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Masturah Aziz  | Manager, Library  |
+| Ooi Poh Im  | Senior Officer, Library  |
+|   |   |
+
+**<u>Department - Principal's Office</u>**
+
+|   |   |
+|:-:|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |

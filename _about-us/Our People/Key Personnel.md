@@ -16,14 +16,14 @@ third_nav_title: Our People
 | Ms Lee Su Yin  | Director, Communications & Partnerships  | Senior Management  | [lee\_su\_yin\_a@schools.gov.sg](mailto:lee\_su\_yin\_a@schools.gov.sg)  |
 | Ms Juliana Chia  | Bursar  | Senior Management  | [juliana\_chia@schools.gov.sg](mailto:juliana\_chia@schools.gov.sg)  |
 | Ms Goh Lee Kian  | Director, Planning and Infrastructure  | Senior Management  | [goh\_lee\_kian@schools.gov.sg](mailto:goh\_lee\_kian@schools.gov.sg)  |
-| Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  |   |
-| Ms Anna Loo  | Head, Aesthetics  | Aesthetics  |   |
-| Miss Foo Ling <br>Ling  | Head, Professional Development  | Centre for Pedagogical Research & Learning  |   |
-| Ms Regina Lee  | Head, Character & Citizenship Education  |  Character & Citizenship Education |   |
-| Ms Stella Picca  | Head, English Language & Literature  | English Language & Literature  |   |
-| Mr Mohammad<br> Faizal  | Head, Humanities  | Humanities  |   |
-| Mrs Tan Yin Lai  | Head, Information & Communications Technology  | Information & Communications Technology  |   |
-| Mdm Lee Szer<br> Yuen  | Head, Languages  | Languages  |   |
+| Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  | [yeo\_soo\_ling@schools.gov.sg](mailto:yeo\_soo\_ling@schools.gov.sg)  |
+| Ms Anna Loo  | Head, Aesthetics  | Aesthetics  | [loo\_anna@schools.gov.sg](mailto:loo\_anna@schools.gov.sg)  |
+| Miss Foo Ling <br>Ling  | Head, Professional Development  | Centre for Pedagogical Research & Learning  | [foo\_ling\_ling@schools.gov.sg](mailto:foo\_ling\_ling@schools.gov.sg)  |
+| Ms Regina Lee  | Head, Character & Citizenship Education  |  Character & Citizenship Education | [regina\_lee\_a@schools.gov.sg](mailto:regina\_lee\_a@schools.gov.sg)  |
+| Ms Stella Picca  | Head, English Language & Literature  | English Language & Literature  | [picca\_stella\_hong\_sin@schools.gov.sg](mailto:picca\_stella\_hong\_sin@schools.gov.sg)  |
+| Mr Mohammad<br> Faizal  | Head, Humanities  | Humanities  | [mohammad\_faizal\_abdul\_az@schools.gov.sg](mailto:mohammad\_faizal\_abdul\_az@schools.gov.sg)  |
+| Mrs Tan Yin Lai  | Head, Information & Communications Technology  | Information & Communications Technology  | [tan\_yin\_lai@schools.gov.sg](mailto:tan\_yin\_lai@schools.gov.sg)  |
+| Mdm Lee Szer<br> Yuen  | Head, Languages  | Languages  | [lee\_szer\_yuen@schools.gov.sg](mailto:lee\_szer\_yuen@schools.gov.sg)  |
 | Ms Carmen Hoo  | Head, Mathematics  | Mathematics  |   |
 | Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |  Physical Education & Co-curricular Activities |   |
 | Dr Prama <br>Sundari  |  Head, Science | Science  |   |

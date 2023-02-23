@@ -27,3 +27,9 @@ Schools will determine DMA settings for in-school use. As a default, these setti
 | In-school DMA settings will continue after school hours  |  Parents/Guardians can modify the DMA settings after school hours | Parents/Guardians can choose to disable DMA after school hours  |
 | For parents/guardians who want their child’s/ward’s use of the devices to be restricted only to teaching and learning, and prefer to leave it to the school to decide on DMA settings after school hours.  | For parents/guardians who want more leeway over the use of the device, and prefer to take charge of the level of restrictions for their child’s/ward’s use of the device after school hours  | For parents/guardians who do not want their child's/ward's use of the device to be regulated by DMA after school.  |
 |   |   |   |
+
+*   Having default school settings continue after school hours is the best option for parents/guardians who prefer not to, or do not feel ready to manage their child’s/ward’s device use on their own.  
+*   Parents/guardians can request to change their choice of DMA settings at any time
+
+No data will be collected during use of PLD after school hours
+

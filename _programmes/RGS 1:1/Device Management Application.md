@@ -33,3 +33,4 @@ Schools will determine DMA settings for in-school use. As a default, these setti
 
 No data will be collected during use of PLD after school hours
 
+<img src="/images/dma1.jpg" style="width:100%">

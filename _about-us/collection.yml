@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Organisation Chart.md
-      - Our People/Board of Governors.md
       - Our People/.keep
+      - Our People/Board of Governors.md
+      - Our People/Organisation Chart.md
       - Vision Mission Values.md
       - Principal's Message.md

@@ -53,3 +53,12 @@ Parents/guardians may wish to consider the following questions before deciding o
 *   Am I aware of how to prevent different types of cyber threats that my child/ward might face?
 
 <img src="/images/dma2.png" style="width:85%">
+
+**Data Collected by the DMA**  <br>
+The DMA does NOT collect any of the following data:
+
+*   Login IDs and passwords entered into websites or into any applications    
+*   Actions performed (e.g. posts, online comments, items added to a shopping cart, etc.) when visiting websites and using apps   
+*   Documents and photos stored in the PLDs    
+*   PLD location     
+*   Webcam videos and microphone recordings

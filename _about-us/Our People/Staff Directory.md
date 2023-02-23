@@ -54,17 +54,18 @@ third_nav_title: Our People
 
 **<u>Department - Humanities</u>**
 
-|   |   |
+| Staff Name  | Position  |
 |:-:|---|
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Mohammad Faizal  | Head, Humanities  |
+| Yeo Jun Han  | Assistant Head, Geography  |
+| Ong Shu Juin  | Assistant Head, Inquiry & Advocacy  |
+| Aliah Binte Mohamed Shariff  | Teacher  |
+| Asmizar Bin Abu  | Teacher  |
+| Kevin Ng  | Teacher  |
+| Low Mei Ling  | Teacher  |
+| Mak Wai Ling  | Teacher  |
+| Mohamad Fadhly  |  Teacher |
+| Roslinda Chan  | Teacher  |
+| Sia Bee Leng  | Teacher  |
+| Syazwani Binte Amrun  | Teacher  |
 |   |   |

@@ -17,16 +17,16 @@ third_nav_title: Our People
 | Ms Juliana Chia  | Bursar  | Senior Management  |   |
 | Ms Goh Lee Kian  | Director, Planning and Infrastructure  | Senior Management  |   |
 | Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  |   |
-| Ms Anna Loo  | Head, Aesthetics  |   |   |
-| Miss Foo Ling <br>Ling  | Head, Professional Development  |   |   |
-| Ms Regina Lee  | Head, Character & Citizenship Education  |   |   |
-| Ms Stella Picca  | Head, English Language & Literature  |   |   |
-| Mr Mohammad<br> Faizal  | Head, Humanities  |   |   |
-| Mrs Tan Yin Lai  | Head, Information & Communications Technology  |   |   |
-| Mdm Lee Szer<br> Yuen  | Head, Languages  |   |   |
-| Ms Carmen Hoo  | Head, Mathematics  |   |   |
-| Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |   |   |
-| Dr Prama <br>Sundari  |  Head, Science |   |   |
-| Mrs Eriyanty <br>Mohammad  |  Head, Student Management |   |   |
-| Mr Joseph Toh  | Head, Talent Development  |   |   |
+| Ms Anna Loo  | Head, Aesthetics  | Aesthetics  |   |
+| Miss Foo Ling <br>Ling  | Head, Professional Development  | Centre for Pedagogical Research & Learning  |   |
+| Ms Regina Lee  | Head, Character & Citizenship Education  |  Character & Citizenship Education |   |
+| Ms Stella Picca  | Head, English Language & Literature  | English Language & Literature  |   |
+| Mr Mohammad<br> Faizal  | Head, Humanities  | Humanities  |   |
+| Mrs Tan Yin Lai  | Head, Information & Communications Technology  | Information & Communications Technology  |   |
+| Mdm Lee Szer<br> Yuen  | Head, Languages  | Languages  |   |
+| Ms Carmen Hoo  | Head, Mathematics  | Mathematics  |   |
+| Ms Magdalene<br> Suey  | Head, Physical Education & Co-curricular Activities  |  Physical Education & Co-curricular Activities |   |
+| Dr Prama <br>Sundari  |  Head, Science | Science  |   |
+| Mrs Eriyanty <br>Mohammad  |  Head, Student Management | Student Management  |   |
+| Mr Joseph Toh  | Head, Talent Development  | Talent Development  |   |
 |   |   |   |   |

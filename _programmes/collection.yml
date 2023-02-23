@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - RGS 1:1/How ICT Will Be Used in RGS.md
-      - RGS 1:1/RGS 1:1.md
       - RGS 1:1/.keep
+      - RGS 1:1/RGS 1:1.md
+      - RGS 1:1/How ICT Will Be Used in RGS.md
       - Raffles Programme.md
       - Teaching & Learning.md

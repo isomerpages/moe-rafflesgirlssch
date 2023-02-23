@@ -37,18 +37,17 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Stella Picca  |   |
-| Malyanah Binte Mawar  |   |
-| Nicholas Tan  |   |
-| Adeline Tang  |   |
-| Alwin Ho  |   |
-| Alfieana Alphonso  |   |
-| Choo Li Lin  |   |
-| Chang Jia Yin  |   |
-| June Tan  |   |
-| Ling Shuang Ning  |   |
-| Michelle Liu  |   |
-| Sharon Ong  |   |
-| Yap Hsin Yan  |   |
+| Stella Picca  | Head, English Language & Literature  |
+| Malyanah Binte Mawar  | Assistant Head, English Literature  |
+| Nicholas Tan  | Assistant Head, English Language  |
+| Adeline Tang  | Teacher  |
+| Alwin Ho  | Teacher  |
+| Alfieana Alphonso  | Teacher  |
+| Choo Li Lin  | Teacher  |
+| Chang Jia Yin  | Teacher  |
+| June Tan  | Teacher  |
+| Ling Shuang Ning  | Teacher  |
+| Michelle Liu  |Teacher   |
+| Sharon Ong  |  Teacher |
+| Yap Hsin Yan  | Teacher  |
 |   |   |
-

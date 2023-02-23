@@ -8,7 +8,7 @@ third_nav_title: Our People
 
 | Name  | Designation  | Department  | Email  |
 |:-:|---|---|---|
-| Ms Haslinda<br> Zamani  | Principal  | Senior Management  |   |
+| Ms Haslinda<br> Zamani  | Principal  | Senior Management  | [haslinda\_zamani@schools.gov.sg](mailto:haslinda\_zamani@schools.gov.sg)  |
 | Ms Chin Jen Fu  | Deputy Principal, <br>Academic Studies  | Senior Management  |   |
 | Mrs Mary<br> George <br>Cheriyan  | Deputy Principal, Centre for Pedagogical Research & Learning and Community Engagement  | Senior Management  |   |
 | Ms May Tan  | Deputy Principal, Student <br>Development  | Senior Management  |   |

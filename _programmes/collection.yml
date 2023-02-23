@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Raffles Academy 2,0.md
       - Raffles Programme.md
       - Teaching & Learning.md
       - RGS 1:1/.keep

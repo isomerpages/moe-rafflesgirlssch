@@ -124,3 +124,15 @@ Learner Outcomes - Students will be able to:
 ·         Write a comparative study report
 
 Further Requirement: Intrinsic interest in learning about Southeast Asia.
+
+**Feedback on RA 2.0 by students and teachers**
+
+“I think the **_wide variety_** of RA modules, especially those not heavily related to academics makes the idea of RA more interesting and appealing to students.”
+
+“I took Social Advocacy Through Entrepreneurship and it gave me new opportunities to develop and **_challenge myself_** as well as **_let me work with different types of people_**. I got to learn something challenging that is not in the RP curriculum and this **_helped me to do better in RP.”_**
+
+**“**Making RA 2.0 not compulsory makes sure that students who are not interested or unable to commit do not view RA as a burden and **_only students who are genuinely interested_** and have the means to do so takes up RA modules. Delinking RA 2.0 from the RP curriculum is good because it **_takes away the pressure of doing it just to keep up with peers_**.“
+
+**“**During the module, we were given time to **_work together in groups_** to figure out concepts and try to teach it to the class, before our teacher went through the concepts, which allowed us to **_challenge ourselves to understand concepts through self-learning_**.”
+
+**“**RA 2.0 **_takes the emphasis away from grades and places it more so on one's interest_**. Also, for students who are not interested in any module or wish to focus on other aspects of school life (e.g. leadership, academic studies) also have the flexibility of not taking up RA, which **_really allows us to customize our learning and RGS experience.”_**

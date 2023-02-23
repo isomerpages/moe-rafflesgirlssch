@@ -18,3 +18,55 @@ In the provision of RA 2.0, we had gathered and addressed feedback from parents 
 For more information on RA 2.0, click [here](/files/2019%20RA%20Handbook.pdf).
 
 <u><b>Examples of RA 2.0 modules</u></b>
+
+**Subject:  Computer Sciences (Mathematics)**
+
+**Title:   Coding** 
+
+**Code:   CM015**
+
+Duration: Y3s can take CM015 in Semesters 1 and 2; it is a two semester-long module
+
+Overview:
+
+There are many broad benefits in learning coding, especially in this digital age. It can enhance one’s computational thinking skills and ability to solve a highly complex problem, breaking it into a collection of smaller but connected problems. Through this module, students will gain a better understanding of the modern digital world while learning to code. Students will also learn the basics of coding using Python Programming and its applications before embarking on a self-designed project.
+
+Learner Outcomes:
+
+·         Develop a computational thinking mindset
+
+·         Learn basic to intermediate level of coding
+
+·         Apply the knowledge of coding to solve problems
+
+·         Understand and show how such skills can be applied in a multi-curricular context
+
+Assessment: Create a digital product in an end-of-module project.
+
+**Subject: Biology**
+
+**Title: Evolution and Molecular Cell Biology (with Research)**
+
+**Code: CM018-E (Y3, Semesters 1,2 & 3)**
+
+Duration & Prerequisites:
+
+\-          Y3 can take CM018-E in semesters 1 and 2, it is a three semester-long module
+
+\-          Y3s who apply will be contacted to sit for a selection test on the topics of Cell and Molecular Biology, Pant and Animal Physiology, Ecology, Genetics and Evolution
+
+\-          Strong conceptual understanding in Biology
+
+Overview:
+
+This module examines key topics of Biology for students to gain a broader perspective on Biology than offered in the RP Biology syllabus. This module is also designed to equip students with self-directed learning skills to study and understand these key topics. Practical sessions are incorporated into this module to teach experimental skills particular to Biology.
+
+Learner Outcomes - Students will be able to:
+
+\-           Adopt a scientific approach in analysing and critically reflecting the world in which they live
+
+\-           Internalise, articulate, and evaluate understanding and knowlege of Biology
+
+\-           Apply critical and creative thinking to solve problems and communicate the ideas effectively
+
+\-           Demonstrate passion to learn more advanced content in a self-driven manner and attributes relevant for scientific inquiry

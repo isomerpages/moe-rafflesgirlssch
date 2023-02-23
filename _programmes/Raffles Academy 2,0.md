@@ -16,3 +16,5 @@ In the provision of RA 2.0, we had gathered and addressed feedback from parents 
 5 \.  Reduces competition for places on programmes with minimal entry requirements
 
 For more information on RA 2.0, click [here](/files/2019%20RA%20Handbook.pdf).
+
+<u><b>Examples of RA 2.0 modules</u></b>

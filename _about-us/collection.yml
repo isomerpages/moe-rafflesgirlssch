@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Historical Milestones/RGS Digital Heritage Trail.md
-      - Historical Milestones/Historical Milestones.md
       - Historical Milestones/.keep
+      - Historical Milestones/Historical Milestones.md
+      - Historical Milestones/RGS Digital Heritage Trail.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

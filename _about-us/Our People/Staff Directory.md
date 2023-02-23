@@ -243,3 +243,20 @@ third_nav_title: Our People
 | Christina Lee  | Executive, Procurement  |
 |   |   |
 
+**<u>Department - Finance</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Gina Soh  | Manager, Finance  |
+| Azreena Mohd  | Senior Executive, Finance  |
+| Cindy Liu  | Officer, Finance  |
+|   |   |
+
+**<u>Department - Human Resource</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Evelyn Suah  |Manager, Human Resources|
+| Connie Kong  | Senior Executive, Human Resources  |
+| John Loo  | Executive, Human Resources  |
+|   |   |

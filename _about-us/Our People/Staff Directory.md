@@ -51,3 +51,20 @@ third_nav_title: Our People
 | Sharon Ong  |  Teacher |
 | Yap Hsin Yan  | Teacher  |
 |   |   |
+
+**<u>Department - Humanities</u>**
+
+|   |   |
+|:-:|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |

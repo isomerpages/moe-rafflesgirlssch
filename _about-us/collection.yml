@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Careers at RGS/.keep
-      - Careers at RGS.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

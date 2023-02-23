@@ -115,3 +115,34 @@ third_nav_title: Our People
 | Wang Siao Hua  | Teacher  |
 | Yang Kai  | Teacher  |
 |   |   |
+
+**<u>Department - Physical Education</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Magdalene Suey  | Head, Physical Education & Co-Curricular Activities  |
+| Alina Wee  | Assistant Head, Physical Education  |
+| Chrislin Lee  | Assistant Head, Co-Curricular Activities  |
+| Michelle Quek  | Teacher  |
+| Raihan Bin Mohd Yassin  | Teacher  |
+| Sandy Mo  | Teacher  |
+| Sophia Sim  | Teacher  |
+| Tan Hai Nee  | Teacher  |
+|   |   |
+
+**<u>Department - Science</u>**
+
+|   |   |
+|:-:|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |

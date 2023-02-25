@@ -33,4 +33,10 @@ _Food & Design (Year 2)_
 
 Students in action during a class where they learnt how to cook one of Singapore’s iconic dishes, the curry chicken.
 
-**IMAGE NOT FOUND**
+<img src="/images/Food Design group cooking.jpg" style="width:49%" align=left>
+<img src="/images/Food Design Learning together.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Food Design working together.jpg" style="width:49%" align=left>
+<img src="/images/Food Design.jpg" style="width:49%" align=right>
+<br clear="left"><br>

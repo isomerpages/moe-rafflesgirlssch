@@ -25,3 +25,9 @@ Our Visual Art curriculum is designed to develop our students’ aesthetic sensi
 | Art Critique  | Art Critique  |
 |   |   |
 
+#### Gallery
+
+<img src="/images/Year 1 Art  Design.jpg" align=left style="width:60%">
+<br clear=left>
+
+(Year 1 Art & Design) Capturing images for stop-motion animation.

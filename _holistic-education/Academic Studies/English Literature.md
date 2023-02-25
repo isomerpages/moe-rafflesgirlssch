@@ -58,3 +58,8 @@ Our students share their love for Literature at the annual National Schools Lite
 
 Making connections across disciplines through the comparison of Art with the craft of the short story, in collaboration with peers from Raffles Institution.
 <br clear=right>
+
+<img src="/images/literature talk.jpg" style="width:40%" align=right>
+
+Learning about the art and purpose of poetic expression with one of our poets, Jennifer Anner Champion.
+<br clear=right>

@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 360° Virtual Campus Tour.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

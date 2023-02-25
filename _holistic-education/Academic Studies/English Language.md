@@ -18,3 +18,10 @@ The study of the English Language recognises that language is a communicative to
 
 ###### <center>Programmes</center>
 
+|   |   |   |   |
+|:-:|---|---|---|
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+| An Introduction to Narratives  | Information and Media Literacy  | Critical Literacy  | Argumentative Essay  |
+| Decoding Narratives  | Biographies: A Writing Apprenticeship  | Journalism  | Personal Essay  |
+| Encoding Spoken and Written Narratives  | Oral Presentation  | Persuasive Speech  | Dialogic Discourse  |
+|   |   |   |   |

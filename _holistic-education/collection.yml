@@ -2,8 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/Food & Design.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
       - Academic Studies/General Music Programme.md
+      - Academic Studies/Food & Design.md

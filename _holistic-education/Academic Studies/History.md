@@ -23,3 +23,45 @@ The Humanities disciplines in RGS nurture students to be advocates and reflectiv
 | Unit 3 – Establishing Singapore as a British Colony, 19 th Century<br><br>Unit 4 – Life in Colonial Singapore: Development of Singapore, Early 20 th Century to Pre-World War II  | Unit 3 – Towards Independence: The Road to Merger (1955-1963)<br><br>Unit 4 – Towards Independence: The Realisation of a Nation-State )1963-1970s)  | Unit 3 – Authoritarian Regimes in Europe and Asia: Nazism in Germany under Hitler (1918-1939)  | Unit 3 – Change and Conflict in Asia: The Cold War Expands into Asia (1945-1969)  |
 | *   Fort Canning Learning Journey: Pre-Colonial and Colonial Singapore<br>*   RGS Museum and History<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Enrichment field trip: Parliament House visit<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Year 3 and 4 Humanities Overseas Field Trip<br>*   MOE CPDD History Talent Development Programme<br>*   Raffles Academy 2.0 Southeast Asian History<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Year 3 and 4 Humanities Overseas Field Trip<br>*   Work Experience Programme @ Yusof Ishak-Institute of Southeast Asian Studies Library<br>*   MOE CPDD History Talent Development Programme<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Senior Division<br>*   Humanities Showcase-STEM Week  |
 |   |   |   |   |
+
+#### Gallery
+
+<img src="/images/Y1_geog_farm (1).jpeg" style="width:49%" align=right>
+
+(Year 1 Geography Learning Journey) Students visiting a local farm to learn about efforts contributing to food sustainability in Singapore.
+<br clear=right>
+
+<img src="/images/Y3_Geog_Slopeprofiling (1).jpg" style="width:49%" align=right>
+
+(Year 3 Geography field trip) Students investigating slope profile in school during Geography lesson.
+<br clear=right>
+
+<img src="/images/2019ACRES (1).jpg" style="width:40%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) Students having group discussions on wildlife advocacy during a Learning Journey to ACRES.
+<br clear=right>
+
+<img src="/images/2019ACRES group (1).jpg" style="width:49%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) ACRES workshop facilitator sharing about wildlife advocacy with our students.
+<br clear=right>
+
+<img src="/images/2019NatureSocietyLJ (1).jpg" style="width:40%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) Nature Society (Singapore) guide sharing with a group of students about environmental advocacy and the biodiversity in Singapore at the Lower Peirce Reservoir Park.
+<br clear=right>
+
+<img src="/images/2019GeylangLJ (1).jpg" style="width:49%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) A sharing by an owner of a traditional Chinese musical instruments shop in Geylang with our students.
+<br clear=right>
+
+<img src="/images/cu chi tunnels (1).jpeg" style="width:40%" align=right>
+
+(Humanities trip) Students learning about the history of the cu chi tunnels in Vietnam, before attempting to crawl through the tunnel.
+<br clear=right>
+
+<img src="/images/2019ISPD (1).jpg" style="width:49%" align=right>
+
+(Inter-School Philosophy Dialogue) A group of students from different schools engaged in a dialogue on issues related to philosophy, history, ethics and governance.
+<br clear=right>

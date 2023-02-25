@@ -16,3 +16,12 @@ The Humanities disciplines in RGS nurture students to be advocates and reflectiv
 
 ###### <center>Programmes</center>
 
+|   |   |   |   |
+|:-:|---|---|---|
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+| Theme: Understanding Self and Others<br><br>Unit 1: Thinking and Questioning Frameworks<br><br>Unit 2: Logic and Argumentation<br><br>Unit 3: Ethical Reasoning  | Theme: Understanding Self and Others<br><br>Unit 1: Ethical Reasoning II – Moral Principles and Virtue Ethics<br><br>Unit 2: Logic and Argumentation – Introduction to Argument Forms and Argument Evaluation  | Theme: Understanding Singapore<br><br>Unit 1: Logic and Argumentation – Evaluating Arguments<br><br>Unit 2: Governance and Diversity<br><br>Unit 3: Governance and Justice<br><br>Unit 4: Governance and Liberty<br><br>Unit 5: Governance and Ethics  | Theme: Understanding the World<br><br>Unit 1: Economy and Globalisation<br><br>Unit 2: Society and Globalisation<br><br>Unit 3: Advocacy<br><br>Unit 4: Politics and Globalisation  |
+| *   Regional Studies Programme<br>*   Humanities Showcase-STEM Week  | *   Model United Nations<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Humanities Advocacy Learning Journey<br>*   Raffles Academy 2.0 –Technology and Society<br>*   Model United Nations<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Model United Nations<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Senior Division<br>*   Humanities Showcase-STEM Week  |
+|   |   |   |   |
+
+#### Gallery
+

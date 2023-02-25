@@ -25,3 +25,22 @@ The Humanities disciplines in RGS nurture students to be advocates and reflectiv
 
 #### Gallery
 
+<img src="/images/Y1_geog_farm (1).jpeg" style="width:49%" align=right>
+
+(Year 1 Geography Learning Journey) Students visiting a local farm to learn about efforts contributing to food sustainability in Singapore.
+<br clear=right>
+
+<img src="/images/Y3_Geog_Slopeprofiling (1).jpg" style="width:49%" align=right>
+
+(Year 3 Geography field trip) Students investigating slope profile in school during Geography lesson.
+<br clear=right>
+
+<img src="/images/2019ACRES (1).jpg" style="width:40%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) Students having group discussions on wildlife advocacy during a Learning Journey to ACRES.
+<br clear=right>
+
+<img src="/images/2019ACRES group (1).jpg" style="width:49%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) ACRES workshop facilitator sharing about wildlife advocacy with our students.
+<br clear=right>

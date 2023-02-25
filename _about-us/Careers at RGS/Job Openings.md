@@ -44,3 +44,47 @@ Teachers-in-charge of co-curricular activities (CCA) play an important role in m
 
 **Contract duration**<br>
 You are required to commit 3 days a week from 3.00pm to 6.15pm for at least 24 sessions during 10 weeks contract appointment.
+
+#### Relief Teachers for the following subjects
+
+1 \.  English Language & Literature<br>
+2 \.  History
+
+The Relief Teacher will assist the respective Head of Department/Assistant Head to carry out the following duties:  
+
+*   Prepare lessons according to the department's requirements
+*   Apply pedagogy which is aligned with that of the school/department
+*   Set and mark assignments/tests of your classes
+*   Track and monitor pupils' performance and if necessary conduct remedial lessons 
+*   Communicate with parents of the pupil with regard to behaviour in school, academic  performance or any intervention that is necessary for the well-being of the pupil
+
+**Job Requirements**
+
+*   A good Bachelor Degree in the relevant discipline with a Post-Graduate Diploma in Education (PGDE)
+*   Enjoy teaching the age group of students from 13 to 18 years old
+*   Strong content mastery
+*   Excellent communication and interpersonal skills
+
+#### Non-Teaching Position
+
+#### Executive, Research
+  
+You will work closely with the teachers in the Centre for Pedagogical Research & Learning team; be responsible for quality research output in the school and provide administrative support to the Centre as a hub for research, consultancy and professional development.  
+  
+Your job responsibilities are to:  
+
+*   Be abreast with educational issues and maintain up-to-date knowledge of educational trends
+*   Conduct skills-build up sessions for students and provide support to research studies projects
+*   Present and/or publish findings at conferences, workshops and publications
+*   Steer Practitioner Inquiry through call for proposals, monitoring of project progress as well as provide research advice for teachers
+*   Co-ordinate research activities e.g. protocol submission and logistics
+*   Engage in research such as research design and data collection, including classroom observations, recording and interviews
+*   Assist in data transcription and analysis using appropriate software
+*   Undertake administrative tasks like minutes-taking, proof-reading and copy-editing of in-house publication, Insights, administrative support for events and updating content on the PeRL website
+
+**Requirements**  
+
+*   Minimum Bachelor's Degree
+*   Strong analytical skill and familiarity with research methodologies
+*   Excellent command of the English language, with strong writing and editing skills
+*   Good interpersonal skills, independent worker and team player

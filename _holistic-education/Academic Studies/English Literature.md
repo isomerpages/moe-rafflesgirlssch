@@ -29,3 +29,17 @@ Literature, rooted in life and centuries of human experience, is a mode of creat
 
 #### Gallery
 
+<img src="/images/teacher explaining.jpg" style="width:49%" align=right>
+
+Our Literature students engage with local publishers to learn more about writing local stories and the local publishing scene. This is our Year 4 students with our local independent publisher, Edmund Wee of Epigram Books.
+<br clear=right>
+
+<img src="/images/Learning together.jpg" style="width:49%" align=right>
+
+Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
+<br clear=right>
+
+<img src="/images/literature competition.jpg" style="width:49%" align=right>
+
+Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
+<br clear=right>

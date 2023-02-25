@@ -25,3 +25,30 @@ The study of the English Language recognises that language is a communicative to
 | Decoding Narratives  | Biographies: A Writing Apprenticeship  | Journalism  | Personal Essay  |
 | Encoding Spoken and Written Narratives  | Oral Presentation  | Persuasive Speech  | Dialogic Discourse  |
 |   |   |   |   |
+
+#### Gallery
+
+<img src="/images/EL competition.jpg" style="width:49%" align=right>
+
+Our students are avid participants at various competition platforms to challenge themselves – such as at the National Digital Storytelling Competition in 2019.
+<br clear=right>
+
+<img src="/images/EL outdoor lesson.jpg" style="width:49%" align=right>
+
+Learning is not restricted to the classroom – through visits to different spaces, learning becomes more experiential and authentic.
+<br clear=right>
+
+<img src="/images/English Language Class.jpg" style="width:49%" align=right>
+
+‘Blind Date with a Book’ during EL Week. This activity is the school’s favourite activity during EL Week. Just one hour of quiet reading and discovering a new genre of books!
+<br clear=right>
+
+<img src="/images/EL Lesson.jpg" style="width:49%" align=right>
+
+At RGS, our students have the opportunity to engage with writers and thought leaders to nurture their talents in creative writing.
+<br clear=right>
+
+<img src="/images/EL Department.jpg" style="width:49%" align=right>
+
+Both staff and students participate enthusiastically in English/Literature-related activities, showing a school-wide approach to nurturing a love for the subject.
+<br clear=right>

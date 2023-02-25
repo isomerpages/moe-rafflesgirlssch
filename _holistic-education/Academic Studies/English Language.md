@@ -28,7 +28,7 @@ The study of the English Language recognises that language is a communicative to
 
 #### Gallery
 
-<img src="/images/EL competition.jpg" style="width:49%" align=right>
+<img src="/images/EL competition.jpg" style="width:40%" align=right>
 
 Our students are avid participants at various competition platforms to challenge themselves – such as at the National Digital Storytelling Competition in 2019.
 <br clear=right>

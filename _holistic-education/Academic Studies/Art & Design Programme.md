@@ -16,3 +16,12 @@ Our Visual Art curriculum is designed to develop our students’ aesthetic sensi
 *   Articulate and critique about artworks using art terms
 
 ###### <center>Programmes</center>
+
+|   |   |
+|:-:|---|
+| **Year 1**  | **Year 2**  |
+| Painting and Drawing  | Painting and Drawing  |
+| Animation  | Sculpture  |
+| Art Critique  | Art Critique  |
+|   |   |
+

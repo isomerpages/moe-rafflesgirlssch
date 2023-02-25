@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Careers at RGS/Professional Development.md
       - Careers at RGS/.keep
       - Careers at RGS/Careers at RGS.md
       - Careers at RGS/Job Openings.md

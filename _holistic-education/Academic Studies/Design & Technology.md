@@ -62,3 +62,11 @@ _Technology_
 (Post-Exam Activity) A collaboration between the D&T unit and the New Campus Committee for the ReWood Project to repurpose fallen timbre from our Braddell campus into planters, which were made and decorated by our Year 4 students.
 <br clear=right>
 
+<img src="/images/D_T - MOX_Visit.jpeg" style="width:49%" align=right>
+
+(Learning Journey) During a visit to co-workspaces to experience a diverse community of creatives in MOX, our students got to meet entrepreneurs and understand how they collaborate across a variety of creative disciplines.
+<br clear=right>
+
+<img src="/images/D_T - Microbit Lamp Project.jpeg" style="width:49%" align=right>
+
+The Digital Maker workshop for Year 1 students nurtures a passion to create with technology through fun coding and making sessions.

@@ -43,3 +43,18 @@ Our students share their love for Literature at the annual National Schools Lite
 
 Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
 <br clear=right>
+
+<img src="/images/Literature show.jpg" style="width:49%" align=right>
+
+Students present literary critical thought and research at the annual Literature Seminar, organised by MOE Gifted Education Branch.
+<br clear=right>
+
+<img src="/images/Lesson.jpg" style="width:49%" align=right>
+
+Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
+<br clear=right>
+
+<img src="/images/Group activity.jpg" style="width:49%" align=right>
+
+Making connections across disciplines through the comparison of Art with the craft of the short story, in collaboration with peers from Raffles Institution.
+<br clear=right>

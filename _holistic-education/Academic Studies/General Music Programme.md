@@ -14,3 +14,11 @@ To aspire, strive and dare to be insightful young ladies whose creative energies
 *   Experience musical expressions through active listening, collaborative performance and creative composition
 
 ###### <center>Programmes</center>
+
+|   |   |
+|:-:|---|
+| **Year 1**  | **Year 2**  |
+| Podcast Recording/Video Editing  | Electronic Dance Music  |
+| Percussion Module  | Music Appreciation  |
+|   |   |
+

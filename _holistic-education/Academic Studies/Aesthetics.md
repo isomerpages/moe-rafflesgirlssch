@@ -6,20 +6,20 @@ third_nav_title: Academic Studies
 ---
 ## Aesthetics
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/adp/">
 <img style="width:30%" align=left src="/images/aes1.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/gmp/">
 <img style="width:30%" align=left src="/images/aes2.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/fnd/">
 <img style="width:30%" align=left src="/images/aes3.jpg">
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/dnt/">
 <img style="width:30%" align=left src="/images/aes3.jpg">
 </a></p>
 <br clear=left>

@@ -106,3 +106,10 @@ The incumbent will be responsible in supporting the IT team on the following and
 *   Minimum Nitec in any IT related discipline or equivalent
 *   IT support and troubleshooting experience will be advantageous
 *   Able to start immediately
+
+<center><b>Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us. We offer a competitive and attractive salary package and benefits commensurate with experience.</b></center>
+
+Interested candidates, please send a detailed resume to: <br>
+The Human Resource Department <br>
+Email: [rgs\_hr@schools.gov.sg](mailto:rgs_hr@schools.gov.sg) <br>
+_(Only shortlisted candidates will be notified)_

@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Visitor Information.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -21,3 +20,4 @@ collections:
       - Careers at RGS/Professional Development.md
       - Careers at RGS/Career Advancement.md
       - Careers at RGS/Benefits.md
+      - Visitor Information.md

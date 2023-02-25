@@ -2,10 +2,10 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/English Language & Literature.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
       - Academic Studies/General Music Programme.md
       - Academic Studies/Food & Design.md
       - Academic Studies/Design & Technology.md
+      - Academic Studies/English Language & Literature.md

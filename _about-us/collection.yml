@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Careers at RGS/Benefits.md
       - Careers at RGS/.keep
       - Careers at RGS/Careers at RGS.md
       - Careers at RGS/Job Openings.md
       - Careers at RGS/Professional Development.md
       - Careers at RGS/Career Advancement.md
+      - Careers at RGS/Benefits.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

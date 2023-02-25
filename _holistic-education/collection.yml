@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Academic Studies/.keep
+      - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
       - Academic Studies/General Music Programme.md
       - Academic Studies/Food & Design.md
       - Academic Studies/Design & Technology.md
-      - Academic Studies/Aesthetics.md

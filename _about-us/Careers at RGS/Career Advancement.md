@@ -16,7 +16,8 @@ Teachers may advance their career into three paths such as the Leadership Track,
 
 #### 3 Career Advancement Tracks - Bridges & Ladders
 
-<img src="/images/carrer-track-image.png" style="width:85%">
+<img src="/images/carrer-track-image.png" align=left style="width:85%">
+<br clear=left>
 
 ##### <center>Academic</center>
 
@@ -43,3 +44,15 @@ All Education Officers start their career with the teaching track and as they ob
 The Senior Teacher will serve as a mentor to all teachers in their professional development, developing effective teaching strategies for the subject and being the role model for the use of effective pedagogy for teachers, and guiding students both academically and in character development.
 
 As a Lead Teacher, you will build the professional capability within the school team in the areas of subject content, pedagogy and assessment. Being a subject matter expert, you will guide Senior Teachers in the area of pedagogical expertise and mentor other teachers.
+
+##### <center>Executive / Professional</center>
+
+Executives and professionals form about 20% of the workforce in RGS. They have a near endless career route during their stay here. Opportunities and leeway will always be paved for the individual to grow personally and professionally. Advancement of competence and dexterity comes with each achieved level. You may join the scheme under the administrative or technical track. Technical and administrative staff may progress into the leadership track once they have established leading virtues.
+
+Suitable candidates may be selected or groomed to take up senior leadership positions in the school. Fine-tuning of talent to perfection is emphasised in this track for RGS to triumph. Paving the way for fresher blood is essential for if there is no direction, there will not be success.
+
+Under the administrative track, you may be deployed to various departments such as Finance, Human Resource, Strategic Communications, Student Services and School Administration, among others. Regardless of where you may be deployed, you will be working with teams on projects, analysing, reviewing, planning, innovating and executing policies and processes.
+
+If you possess a specialised skillset or professional qualifications, you may join us under the technical track in departments such as IT or Science Laboratories.
+
+<img src="/images/Picture 1.png" align=left style="width:85%">

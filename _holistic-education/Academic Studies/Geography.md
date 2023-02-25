@@ -24,3 +24,20 @@ The Humanities disciplines in RGS nurture our students to be advocates and refle
 | The World in Spatial Terms<br><br>Geographic Representations, Tools and Techniques  |   |   | The World as Interacting Systems<br><br>Human System: Service Industry (Tourism) in a Globalised World<br><br>Management of Change and Conflict in Systems<br><br>Development and Sustainability in a Globalised World (II)<br>*   The Price of Development<br>*   Sustainable Development  |
 | *   Learning Journey: Visit to local high-tech farm<br>*   Enrichment field trip: Bishan-AMK Park river studies<br>*   Field studies: Microclimate in school<br>*   Regional Studies Programme<br>*   Humanities Showcase-STEM Week  | *   Field studies: Inclusive housing in Braddell<br>*   Enrichment field trip: Macritchie Reservoir naterual vegetation studies<br>*   Enrichment field trip: Active Aging exhibition at Science Centre<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Learning Journey: Changi Coast fieldwork<br>*   Enrichment workshop: URA urban planning workshop<br>*   Raffles Academy 2.0 Urban Development in Singapore<br>*   Year 3 and 4 Humanities Overseas Field Trip<br>*   Model United Nations<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Enrichment field trip: Visit to factory for manufacturing industry studies<br>*   Field study: Tourism studies at Singapore’s places of interest<br>*   Model United Nations<br>*   Year 3 and 4 Humanities Overseas Field Trip<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Senior Division<br>*   Humanities Showcase-STEM Week  |
 |   |   |   |   |
+
+#### Gallery
+
+<img src="/images/Y1_geog_farm.jpeg" style="width:49%" align=right>
+
+(Year 1 Geography Learning Journey) Students visiting a local farm to learn about efforts contributing to food sustainability in Singapore.
+<br clear=right>
+
+<img src="/images/Y3_Geog_Slopeprofiling.jpg" style="width:49%" align=right>
+
+(Year 3 Geography field trip) Students investigating slope profile in school during Geography lesson.
+<br clear=right>
+
+<img src="/images/2019ACRES.jpeg" style="width:40%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) Students having group discussions on wildlife advocacy during a Learning Journey to ACRES.
+<br clear=right>

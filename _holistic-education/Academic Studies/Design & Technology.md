@@ -45,3 +45,20 @@ _Technology_
 | _Technology_<br>*   Electronics, Mechanisms and Structures  |
 |   |
 
+#### Gallery
+
+<img src="/images/Post-Exam Activity.jpg" style="width:49%" align=right>
+
+(Post-Exam Activity) A collaboration between the D&T unit and Robotics Club CCA for a level-wide introduction to machine learning conducted for Year 1 to 3.
+<br clear=right>
+
+<img src="/images/HUSH-STEM Week.jpg" style="width:49%" align=right>
+
+(HUSH-STEM Week) A collaboration between the D&T unit, Robotics Club and Infocomm Club CCAs to create an AI Chatboard using Lego EV3 and Scratch.
+<br clear=right>
+
+<img src="/images/D_T - REWOOD Programme.jpeg" style="width:49%" align=right>
+
+(Post-Exam Activity) A collaboration between the D&T unit and the New Campus Committee for the ReWood Project to repurpose fallen timbre from our Braddell campus into planters, which were made and decorated by our Year 4 students.
+<br clear=right>
+

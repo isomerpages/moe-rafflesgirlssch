@@ -88,3 +88,21 @@ Your job responsibilities are to:
 *   Strong analytical skill and familiarity with research methodologies
 *   Excellent command of the English language, with strong writing and editing skills
 *   Good interpersonal skills, independent worker and team player
+
+#### IT Support Assistant (Temp Contract)
+
+The incumbent will be responsible in supporting the IT team on the following and not limited to:
+
+*   Daily Check of Backup job (monitoring)
+*   Weekly Physical check of Server Rooms
+*   Timely renewal on Teaching & Learning application Licenses
+*   Daily support on staff and students devices
+*   Creating case ticket to escalate to vendors
+*   Assist IT team members on Windows server updates and timely renewal of server certificates
+*   AV support as and when required
+
+**Requirements**
+
+*   Minimum Nitec in any IT related discipline or equivalent
+*   IT support and troubleshooting experience will be advantageous
+*   Able to start immediately

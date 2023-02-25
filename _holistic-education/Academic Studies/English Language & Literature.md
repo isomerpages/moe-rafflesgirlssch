@@ -6,11 +6,11 @@ third_nav_title: Academic Studies
 ---
 ## English Language & Literature
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/english/">
 <img style="width:30%" align=left src="/images/english.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/holistic-education/Academic-Studies/english-lit/">
 <img style="width:30%" align=left src="/images/englishlit.jpg">
 </a></p>
 <br clear=left>

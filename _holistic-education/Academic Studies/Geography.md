@@ -56,3 +56,13 @@ The Humanities disciplines in RGS nurture our students to be advocates and refle
 
 (Year 3 Inquiry & Advocacy Learning Journey) A sharing by an owner of a traditional Chinese musical instruments shop in Geylang with our students.
 <br clear=right>
+
+<img src="/images/cu chi tunnels.jpeg" style="width:40%" align=right>
+
+(Humanities trip) Students learning about the history of the cu chi tunnels in Vietnam, before attempting to crawl through the tunnel.
+<br clear=right>
+
+<img src="/images/2019ISPD.jpg" style="width:49%" align=right>
+
+(Inter-School Philosophy Dialogue) A group of students from different schools engaged in a dialogue on issues related to philosophy, history, ethics and governance.
+<br clear=right>

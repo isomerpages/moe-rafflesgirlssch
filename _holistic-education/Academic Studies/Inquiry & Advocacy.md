@@ -44,3 +44,13 @@ The Humanities disciplines in RGS nurture students to be advocates and reflectiv
 
 (Year 3 Inquiry & Advocacy Learning Journey) ACRES workshop facilitator sharing about wildlife advocacy with our students.
 <br clear=right>
+
+<img src="/images/2019NatureSocietyLJ (1).jpg" style="width:40%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) Nature Society (Singapore) guide sharing with a group of students about environmental advocacy and the biodiversity in Singapore at the Lower Peirce Reservoir Park.
+<br clear=right>
+
+<img src="/images/2019GeylangLJ (1).jpg" style="width:49%" align=right>
+
+(Year 3 Inquiry & Advocacy Learning Journey) A sharing by an owner of a traditional Chinese musical instruments shop in Geylang with our students.
+<br clear=right>

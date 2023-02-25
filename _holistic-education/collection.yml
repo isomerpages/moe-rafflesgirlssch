@@ -2,5 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
+      - Academic Studies/Art & Design Programme.md
       - Academic Studies/Aesthetics.md
       - Academic Studies/.keep

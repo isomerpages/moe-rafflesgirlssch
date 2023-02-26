@@ -27,3 +27,67 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 
 #### Gallery
 
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Teacher explanation on the concept of forces in everyday life.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Teacher demonstrating the effects of forces.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Inquiry-based lessons in the science laboratory.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+A historical moment: Singapore Young Physicists’ Tournament Category B Champions!
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Enrichment programme: Top Gun Aviator.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Investigative work on energy.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Design your own motor!
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Defining moments: A show of great balance.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Electricians at work all wired-up.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Handling pressure well.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Do Physics lessons ever remain static?!
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Inquiry lesson to electric circuits.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Practical work: You Light Up My Life!
+<br clear=right>

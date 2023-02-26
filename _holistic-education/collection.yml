@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/Chinese Language.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
@@ -17,3 +16,4 @@ collections:
       - Academic Studies/Inquiry & Advocacy.md
       - Academic Studies/History.md
       - Academic Studies/Languages.md
+      - Academic Studies/Chinese Language.md

@@ -52,3 +52,8 @@ third_nav_title: Academic Studies
 
 新年期间，全校大动员参与礼包活动，为弱势家庭带来温暖与快乐
 <br clear=right>
+
+<img src="/images/chi5.jpeg" style="width:49%" align=right>
+
+母语双周，学生猜灯谜。
+<br clear=right>

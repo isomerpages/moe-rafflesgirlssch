@@ -52,27 +52,27 @@ A historical moment: Singapore Young Physicists’ Tournament Category B Champio
 Enrichment programme: Top Gun Aviator.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy6.jpg" style="width:49%" align=right>
 
 Investigative work on energy.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy7.jpg" style="width:49%" align=right>
 
 Design your own motor!
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy8.jpg" style="width:49%" align=right>
 
 Defining moments: A show of great balance.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy9.jpg" style="width:49%" align=right>
 
 Electricians at work all wired-up.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy10.jpg" style="width:49%" align=right>
 
 Handling pressure well.
 <br clear=right>

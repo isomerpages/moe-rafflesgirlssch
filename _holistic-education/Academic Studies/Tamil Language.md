@@ -28,3 +28,39 @@ third_nav_title: Academic Studies
 | 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  |
 |   |   |   |   |
 
+#### Gallery
+
+<img src="/images/tam1.jpeg" align=right style="width:49%" align=right>
+
+Group discussion to do a poster presentation as part of a classroom activity.
+<br clear=right>
+
+<img src="/images/tam2.jpeg" align=right style="width:49%" align=right>
+
+Dialogue session with a local author after reading his book.
+<br clear=right>
+
+<img src="/images/tam3.jpeg" align=right style="width:49%" align=right>
+
+Music and rhythmic intelligence activity after learning a poem.
+<br clear=right>
+
+<img src="/images/tam4.jpeg" align=right style="width:49%" align=right>
+
+Show and Tell as part of an experiential learning activity.
+<br clear=right>
+
+<img src="/images/tam5.jpeg" align=right style="width:49%" align=right>
+
+As part of our Mother Tongue Fortnight programme for our lower secondary students, we organised a local artist’s sharing on the Tamil Media’s Development in Singapore.
+<br clear=right>
+
+<img src="/images/tam6.jpeg" align=right style="width:49%" align=right>
+
+ICT Integration and Interaction in-person learning.
+<br clear=right>
+
+<img src="/images/tam7.jpeg" align=right style="width:49%" align=right>
+
+As part of our Mother Tongue Fortnight programme for our upper secondary students, we organised a poetry recital and singing competition.
+<br clear=right>

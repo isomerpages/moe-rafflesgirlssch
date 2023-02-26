@@ -26,3 +26,11 @@ Our Physical Education programme seeks to develop Healthy Daughters for a Health
 *   Physical Health
 
 ###### <center>Programmes</center>
+
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+|:-:|---|---|---|
+| Community First-Aid and CPR/AED  | Sports Festival  | Outward Bound Singapore  | Sports Excellence: Through our Lens at Sports Hub (Learning Journey)  |
+| Sports Festival  | Netball Carnival  | Sports Festival  | Sports Festival  |
+| Netball Carnival  | -  | Netball Carnival  | Netball Carnival  |
+|   |   |   |   |
+

@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/Biology.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
@@ -23,3 +22,4 @@ collections:
       - Academic Studies/Mathematics.md
       - Academic Studies/Physical Education.md
       - Academic Studies/Science.md
+      - Academic Studies/Biology.md

@@ -15,3 +15,5 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 *   Understand the skills, ethics and attitudes relevant to the Practices of Science, including the following: <br>-Understand the nature of scientific knowledge <br>-Demonstrate science inquiry skills <br>-Relate science and society 
 
 *   Understand that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world
+
+###### <center>Programmes</center>

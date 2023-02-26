@@ -22,12 +22,9 @@ third_nav_title: Academic Studies
 |:-:|---|---|---|
 | 1 \. Short stories reading, acting, and assignments<br><br>1.2. Silent reading and reflection  | 1 \. Novelet reading and assignment <br><br>1.2. Silent reading and reflection  | 1.1. Novel reading and open book test <br><br>1.2. Reading and listening to online resources such as articles and podcasts,  then presenting their reflections/ perspectives  | 1.1. Read short stories, watch short films, and then present their perspectives<br><br>1.2. Reading and listening to online resources such as articles and podcasts,  then presenting their reflections/ perspectives  |
 | 2 \. Narration creating for different scenarios  | 2 \. Poetry reading, analysing poetic devices, and poetry writing  | 2 \. Poetry reading  and writing  | 2 \. Poetry reading and writing  |
-| 3 \.Incident-based narrative writing genre essays  | 3. Comment writing genre essays  |   |   |
+| 3 \.Incident-based narrative writing genre essays  | 3. Comment writing genre essays  | 3 \. Argumentative and oratorical speech writing genre essays  | 3 \. Revisit all genres of essay writing  |
+| 4 \. Email writing  |4 \. Forum writing   | 4 \. Forum writing  | 4 \. Revisit email and forum writing  |
+| 5 \. Morphological matrix-based creative writing  | 5 \. Scamper-based creative writing  | 5 \. Comprehension summary writing  | 5 \. Comprehension summary writing  |
+| 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  | 6 \. MTL Fortnight activities  |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+

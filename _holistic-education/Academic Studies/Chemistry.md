@@ -16,3 +16,11 @@ Chemistry is the study of matter and its changes. Our students are given opportu
 *   Become confident citizens in a technological world
 
 ###### <center>Programmes</center>
+
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+|:-:|---|---|---|
+| The Scientific Endeavour<br><br>Macroconcept: Diversity<br>*   Chemical Composition of Matter<br>*   Sepration Techniques of Matter <br><br>Macroconcept: Model<br>*   The Particulate Nature of Matter<br>*   Atoms and Molecules | Macroconcept: Interactions<br>*   Chemical Changes  | Macroconcept: Change<br>*   Acids, Bases, Salts <br><br>Macroconcept: Scale<br>*   Mole Concept<br>*   Stoichiometry<br><br>Macroconcept: Models<br>*   Atomic Structure<br>*   Chemical Bonding and Structure<br><br>Macroconcept: Systems<br>*   The Periodic Table | Macroconcept: Change<br>*   Qualitative Analysis<br>*   Redox and Metals<br>*   Electrochemistry<br>*   Energy<br>*   Speed of Reaction<br>*   Chemical Equilibrium <br><br>Macroconcept: Systems<br>*   Experimental Chemistry<br>*   Organic Chemistry |
+|   |   |   |   |
+
+#### Gallery
+

@@ -24,27 +24,27 @@ Chemistry is the study of matter and its changes. Our students are given opportu
 
 #### Gallery
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/chem1.jpg" style="width:49%" align=right>
 
 Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/chem2.jpg" style="width:49%" align=right>
 
-Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+AI and machine learning workshop by DSTA.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/chem3.jpg" style="width:40%" align=right>
 
-Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+Students are self-directed in their learning with the guidance of their teacher.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/chem4.jpg" style="width:40%" align=right>
 
-Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+Students investigating in the science laboratory.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/chem5.jpg" style="width:49%" align=right>
 
-Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+AI chatbot programming.
 <br clear=right>

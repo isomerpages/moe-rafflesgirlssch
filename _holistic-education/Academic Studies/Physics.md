@@ -17,3 +17,17 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 *   Understand that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world
 
 ###### <center>Programmes</center>
+
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

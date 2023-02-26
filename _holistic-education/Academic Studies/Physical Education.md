@@ -85,3 +85,18 @@ PE Programme.
 
 Sports Festival.
 <br clear=right>
+
+<img src="/images/pe11.jpg" style="width:40%" align=right>
+
+Sports Festival.
+<br clear=right>
+
+<img src="/images/pe12.jpg" style="width:40%" align=right>
+
+Swimming Carnival.
+<br clear=right>
+
+<img src="/images/pe13.jpeg" style="width:49%" align=right>
+
+Swimming Carnival.
+<br clear=right>

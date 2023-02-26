@@ -27,27 +27,27 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 
 #### Gallery
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy1.jpg" style="width:49%" align=right>
 
 Teacher explanation on the concept of forces in everyday life.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy2.jpg" style="width:49%" align=right>
 
 Teacher demonstrating the effects of forces.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy3.jpg" style="width:49%" align=right>
 
 Inquiry-based lessons in the science laboratory.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy4.jpg" style="width:49%" align=right>
 
 A historical moment: Singapore Young Physicists’ Tournament Category B Champions!
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy5.jpg" style="width:49%" align=right>
 
 Enrichment programme: Top Gun Aviator.
 <br clear=right>

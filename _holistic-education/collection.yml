@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/Mathematics.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
@@ -20,3 +19,4 @@ collections:
       - Academic Studies/Chinese Language.md
       - Academic Studies/Malay Language.md
       - Academic Studies/Tamil Language.md
+      - Academic Studies/Mathematics.md

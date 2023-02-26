@@ -29,3 +29,48 @@ Di akhir kursus pelajar akan,
 |   | Program bacaan  | Pelbagai pertandingan  | Pelbagai pertandingan  |
 |   |   | Program bacaan  | Program bacaan  |
 |   |   |   |   |
+
+<img src="/images/mal1.jpg" style="width:49%" align=right>
+
+Kembara Ilmu (Learning Journey): Lawatan ke Taman Warisan Melayu.
+<br clear=right>
+
+<img src="/images/mal2.jpeg" style="width:49%" align=right>
+
+Activiti Pengayaan dan Pertandingan (Enrichment and Competition): Pertandingan Sahibba antara Sekolah-Sekolah.
+<br clear=right>
+
+<img src="/images/mal3.jpeg" style="width:49%" align=right>
+
+Open House.
+<br clear=right>
+
+<img src="/images/mal4.jpeg" style="width:49%" align=right>
+
+Activiti Dwiminggu Bahasa Ibunda (MT fortnight).
+<br clear=right>
+
+<img src="/images/mal5.jpeg" style="width:49%" align=right>
+
+Activiti Dwiminggu Bahasa Ibunda (MT Fortnight).
+<br clear=right>
+
+<img src="/images/mal6.jpg" style="width:49%" align=right>
+
+Activiti Dwiminggu Bahasa Ibunda (MT Fortnight).
+<br clear=right>
+
+<img src="/images/mal7.jpg" style="width:49%" align=right>
+
+Activiti Pengayaan dan Pertandingan (Enrichment and Competition): Sesi Forum Bersama Alumnae RGS.
+<br clear=right>
+
+<img src="/images/mal8.jpeg" style="width:49%" align=right>
+
+Activiti kelas.
+<br clear=right>
+
+<img src="/images/mal9.jpeg" style="width:49%" align=right>
+
+Kembara Ilmu (Learning Journey): Lawatan ke Geylang Serai.
+<br clear=right>

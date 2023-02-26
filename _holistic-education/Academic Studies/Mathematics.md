@@ -18,3 +18,9 @@ Our Mathematics curriculum is designed for our students to understand and apply 
 *   Acquire an appreciation of the beauty of Math, and the traits and dispositions of mathematicians
 
 ###### <center>Programmes</center>
+
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+|:-:|---|---|---|
+| *   Arithmetic<br>*   Algebra and Functions<br>*   Statistics<br>*   Geometry  |*   Algebra and Functions<br>*   Statistics<br>*   Geometry and Trigonometry  | *   Algebra and Functions<br>*   Statistics<br>*   Geometry and Trigonometry  |  *   Algebra and Functions<br>*   Probability<br>*   Trigonometry<br>*   Calculus |
+|   |   |   |   |
+

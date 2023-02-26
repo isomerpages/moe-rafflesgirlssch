@@ -27,7 +27,7 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 
 #### Gallery
 
-<img src="/images/phy1.jpg" style="width:49%" align=right>
+<img src="/images/phy1.jpg" style="width:40%" align=right>
 
 Teacher explanation on the concept of forces in everyday life.
 <br clear=right>
@@ -37,7 +37,7 @@ Teacher explanation on the concept of forces in everyday life.
 Teacher demonstrating the effects of forces.
 <br clear=right>
 
-<img src="/images/phy3.jpg" style="width:49%" align=right>
+<img src="/images/phy3.jpg" style="width:40%" align=right>
 
 Inquiry-based lessons in the science laboratory.
 <br clear=right>
@@ -62,7 +62,7 @@ Investigative work on energy.
 Design your own motor!
 <br clear=right>
 
-<img src="/images/phy8.jpg" style="width:49%" align=right>
+<img src="/images/phy8.jpg" style="width:40%" align=right>
 
 Defining moments: A show of great balance.
 <br clear=right>
@@ -77,17 +77,17 @@ Electricians at work all wired-up.
 Handling pressure well.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy11.jpg" style="width:40%" align=right>
 
 Do Physics lessons ever remain static?!
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy12.jpg" style="width:49%" align=right>
 
 Inquiry lesson to electric circuits.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/phy13.jpg" style="width:49%" align=right>
 
 Practical work: You Light Up My Life!
 <br clear=right>

@@ -24,3 +24,27 @@ Chemistry is the study of matter and its changes. Our students are given opportu
 
 #### Gallery
 
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+<br clear=right>
+
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+
+Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
+<br clear=right>

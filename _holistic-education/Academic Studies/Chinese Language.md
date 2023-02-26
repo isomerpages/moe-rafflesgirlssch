@@ -33,3 +33,22 @@ third_nav_title: Academic Studies
 
 #### Gallery
 
+<img src="/images/chi1.jpg" style="width:49%" align=right>
+
+莱佛士女中和新加坡文艺协会联合主办《全国中学生诗歌创作比赛》。
+<br clear=right>
+
+<img src="/images/chi2.jpg" style="width:49%" align=right>
+
+新年庆祝会后的大合照。
+<br clear=right>
+
+<img src="/images/chi3.jpg" style="width:49%" align=right>
+
+我们的华文特别课程的非华族学生在新年期间逛牛车水完成作业。
+<br clear=right>
+
+<img src="/images/chi4.jpg" style="width:49%" align=right>
+
+新年期间，全校大动员参与礼包活动，为弱势家庭带来温暖与快乐
+<br clear=right>

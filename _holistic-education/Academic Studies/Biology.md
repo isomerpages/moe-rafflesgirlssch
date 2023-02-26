@@ -26,32 +26,32 @@ Biology is the understanding of the diversity and complexity of life and the int
 
 #### Gallery
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio1.jpg" style="width:49%" align=right>
 
 Promoting collaboration amongst our students.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio2.jpg" style="width:49%" align=right>
 
 Student responding to a question.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio3.jpg" style="width:49%" align=right>
 
 Teacher conducting outdoor field studies.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio4.jpg" style="width:49%" align=right>
 
 Students participating in the International STEP (Singapore Technologies Endowment Programme) Brain Camp.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio5.jpg" style="width:49%" align=right>
 
 Teacher coaching students.
 <br clear=right>
 
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/bio6.jpg" style="width:49%" align=right>
 
 Students attending the Evolution in the Living World Workshop.
 <br clear=right>

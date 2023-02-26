@@ -26,6 +26,27 @@ Our Mathematics curriculum is designed for our students to understand and apply 
 
 #### Gallery
 
+<img src="/images/math1.jpg" style="width:49%" align=right>
 
+Our Year 1 students taking on Real Numbers in class.
+<br clear=right>
 
+<img src="/images/math2.jpg" style="width:49%" align=right>
 
+(Math Modelling) Data collection with data loggers at Bedok Reservoir.
+<br clear=right>
+
+<img src="/images/math3.jpg" style="width:40%" align=right>
+
+(Math Modelling) Studying the relationship between a girl’s height and the size of her hand.
+<br clear=right>
+
+<img src="/images/math4.jpg" style="width:49%" align=right>
+
+Presentation of Math Projects at International Conferences.
+<br clear=right>
+
+<img src="/images/math5.jpg" style="width:49%" align=right>
+
+(HUSH-STEM Week): Introduction to Coding – Parking Problem.
+<br clear=right>

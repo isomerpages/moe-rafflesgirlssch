@@ -24,3 +24,8 @@ Our Mathematics curriculum is designed for our students to understand and apply 
 | *   Arithmetic<br>*   Algebra and Functions<br>*   Statistics<br>*   Geometry  |*   Algebra and Functions<br>*   Statistics<br>*   Geometry and Trigonometry  | *   Algebra and Functions<br>*   Statistics<br>*   Geometry and Trigonometry  |  *   Algebra and Functions<br>*   Probability<br>*   Trigonometry<br>*   Calculus |
 |   |   |   |   |
 
+#### Gallery
+
+
+
+

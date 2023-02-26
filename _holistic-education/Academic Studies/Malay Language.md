@@ -18,3 +18,17 @@ Di akhir kursus pelajar akan,
 *   meluaskan mandala pemikiran
 *   menjana pemikiran kritis dan kreatif
 *   menghargai bahasa dan budaya Melayu
+
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+|:-:|---|---|---|
+| Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  |
+| Kembara Ilmu  | Kembara Ilmu  | Kembara Ilmu  | Kembara Ilmu  |
+| Perkhemahan budaya  | Creative Arts Programme  | Creative Arts Programme  | Bingkisan Srikandi  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

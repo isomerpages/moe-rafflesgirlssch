@@ -20,9 +20,9 @@ third_nav_title: Academic Studies
 
 | **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
 |:-:|---|---|---|
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| 1 \. Short stories reading, acting, and assignments<br><br>1.2. Silent reading and reflection  | 1 \. Novelet reading and assignment <br><br>1.2. Silent reading and reflection  | 1.1. Novel reading and open book test <br><br>1.2. Reading and listening to online resources such as articles and podcasts,  then presenting their reflections/ perspectives  | 1.1. Read short stories, watch short films, and then present their perspectives<br><br>1.2. Reading and listening to online resources such as articles and podcasts,  then presenting their reflections/ perspectives  |
+| 2 \. Narration creating for different scenarios  | 2 \. Poetry reading, analysing poetic devices, and poetry writing  | 2 \. Poetry reading  and writing  | 2 \. Poetry reading and writing  |
+| 3 \.Incident-based narrative writing genre essays  | 3. Comment writing genre essays  |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

@@ -24,11 +24,8 @@ Di akhir kursus pelajar akan,
 | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  | Dwiminggu Bahasa Ibunda: program pendedahan dan pengayaan kepada bahasa dan budaya Melayu. Antaranya:<br><br>*   bengkel <br>*   ceramah<br>*   kuiz  |
 | Kembara Ilmu  | Kembara Ilmu  | Kembara Ilmu  | Kembara Ilmu  |
 | Perkhemahan budaya  | Creative Arts Programme  | Creative Arts Programme  | Bingkisan Srikandi  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Pelbagai pertandingan  | Rakan Bahasa  | Bingkisan Srikandi  | Forum Belia  |
+| Program bacaan  | Pelbagai pertandingan  | Sayembara Sastera  | Sayembara Sastera  |
+|   | Program bacaan  | Pelbagai pertandingan  | Pelbagai pertandingan  |
+|   |   | Program bacaan  | Program bacaan  |
 |   |   |   |   |

@@ -17,3 +17,5 @@ Our school’s enrichment programmes empower our students as they are provided w
 <img src="/images/citi2.jpg" style="width:75%"><br>
 <img src="/images/citi3.jpg" style="width:75%"><br>
 <img src="/images/citi4.jpg" style="width:75%">
+
+_<center>Our students during a learning journey trip to Kok Fah Technology Farm to learn more about why Singapore needs to be less dependent on food imports and understand the choice of high-tech farming for our local farms.</center>_

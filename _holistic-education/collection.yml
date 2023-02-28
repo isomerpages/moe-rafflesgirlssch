@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Student Leadership & Development.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
@@ -30,3 +29,4 @@ collections:
       - Citizenship Education.md
       - Co Curricular Activities.md
       - Service Learning.md
+      - Student Leadership & Development.md

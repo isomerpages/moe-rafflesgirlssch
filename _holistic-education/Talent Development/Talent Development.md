@@ -18,7 +18,7 @@ Our talent development programme follows Dr Treffinger’s Levels of Service (Lo
 |:-:|---|---|
 | Level 1<br><br>"Discovering & Building"  | A variety of services are provided to expose students to different experiences, along with the provision of instruction in foundation-building skills and tools. Services constitute of content and processes that are appropriate and challenging for all students.  | *   Raffles Programme academic curriculum<br>*   Research Studies<br>*   Speech and Drama<br>*   Level-wide Service Learning<br>*   Learning Journeys  |
 | Level 2<br><br>“Curious & Exploring”  | Services provide opportunities for students to verify their motivation, competence and commitment to their areas of strengths, interest and curiosity. Services are either voluntary or invitational in nature.  | *   Music Elective Programme<br>*   Special Art Programme<br>*   Regional Studies Programme<br>*   Competitions  |
-|   |   |   |
+| Level 3<br><br>“Enthusiastic & Performing”  | Services respond to needs based on individual strengths, talents and sustained interests. Focus is on strengthening competence, confidence and commitment in the identified talent area. Services are more differentiated and responsive to students’ unique strengths and readiness in talent areas.  | *   Raffles Academy 2.0<br>*   Mentorships<br>*   Internships<br>*   Conferences  |
 |   |   |   |
 |   |   |   |
 |   |   |   |

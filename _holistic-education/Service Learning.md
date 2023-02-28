@@ -15,7 +15,7 @@ Based on \*Treffinger’s Levels of Service (LoS), service learning in RGS is de
 
 | Year  | Main Activity  | Type of Service Learning  | Levels of Service  | Criteria  |
 |:-:|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|1  | International Coastal Clean-up  | Community Service  | 1  | Basic volunteerism  |
+| 2  | Level-wide service-learning project (class-level)  <br>Some CmPS groups  | Community Exploration  | 2  | Some sustainability, some impact on community  |
+| 3-4  |   |   |   |   |
 |   |   |   |   |   |

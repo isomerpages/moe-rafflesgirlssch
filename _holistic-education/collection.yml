@@ -2,9 +2,9 @@ collections:
   holistic-education:
     output: true
     order:
-      - Talent Development/Music Elective Programme.md
-      - Talent Development/Talent Development.md
       - Talent Development/.keep
+      - Talent Development/Talent Development.md
+      - Talent Development/Music Elective Programme.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md

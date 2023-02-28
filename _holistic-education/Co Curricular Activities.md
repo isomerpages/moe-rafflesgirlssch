@@ -49,3 +49,14 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 |:-:|---|
 | 1\. Girl Guides<br>2\. Girls’ Brigade<br>3\. National Cadet Corps  | 4\. National Police Cadet Corps (Sea)<br>5\. Red Cross Youth  |
 |   |   |
+
+#### Clubs & Societies
+
+<img src="/images/cs1.jpg" style="width:49%" align=left>
+<img src="/images/cs2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| 1\. Debate & Oratorical Society<br>2\. Cogitare Club<br>3\. Infocomm Club  | 4\. Raffles Mind Sports<br>5\. Robotics Club  |
+|   |   |

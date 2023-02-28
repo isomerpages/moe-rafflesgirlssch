@@ -19,3 +19,6 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 
 #### Physical Sports
 
+<img src="/images/ps1.jpg" style="width:49%" align=left>
+<img src="/images/ps2.jpg" style="width:49%" align=right>
+<br clear="left"><br>

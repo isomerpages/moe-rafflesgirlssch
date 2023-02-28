@@ -22,3 +22,8 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 <img src="/images/ps1.jpg" style="width:49%" align=left>
 <img src="/images/ps2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| 1\. Badminton<br>2\. Basketball<br>3\. Fencing<br>4\. Netball  <br>5\. Rhythmic Gymnastics<br>6\. Sailing<br>7\. Shooting  | 8. Softball<br>9. Squash<br>10. Swimming<br>11.Table Tennis<br>12\. Tennis<br>13\. Track & Cross-Country<br>14\. Trampoline Gymnastics  |
+|   |   |

@@ -19,3 +19,11 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 |:-:|
 | *   Apply musical skills, knowledge and understanding to make connections between listening, creating and performing<br>*   Develop skills to communicate, collaborate and express musical ideas and understanding<br>*   Develop critical and creative thinking in music<br>*   Develop an enduring understanding and appreciation of the diverse local and global musical cultures<br>*   Become independent learners with inquiring and innovative minds through reflective practices in music<br>*   Cultivate an informed and life-long appreciation for music and be actively involved in the arts  |
 |   |
+
+| **Programmes**  |   |   |   |
+|:-:|---|---|---|
+| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
+| History<br><br>*   Elements of Music<br>*   Instruments of the Orchestra<br>*   Baroque Period<br>*   Ethnic Music (I)  | History<br><br>*   Classical Period<br>*   Ethnic Music (II)  | History<br><br>*   Romantic Period<br>*   Jazz  | History<br><br>*   20th Century Music<br>*   Pop Music  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

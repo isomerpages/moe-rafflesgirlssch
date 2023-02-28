@@ -38,3 +38,9 @@ We have a total of 36 CCAs in RGS under four categories: Physical Sports, Visual
 |:-:|---|
 | 1\. Art Club<br>2\. Angklung Ensemble<br>3\. Band Symphonic<br>4\. Chinese Orchestra<br>5\. Choir<br>6\. Dance International  | 7\. Ethnic Dance<br>8\. Guitar Ensemble<br>9\. Handbell Ensemble<br>10\. Photographic Society<br>11\. Raffles Drama<br>12\. String Ensemble  |
 |   |   |
+
+#### Uniformed Groups
+
+<img src="/images/ug1.jpg" style="width:49%" align=left>
+<img src="/images/ug2.jpg" style="width:49%" align=right>
+<br clear="left"><br>

@@ -17,5 +17,5 @@ Based on \*Treffinger’s Levels of Service (LoS), service learning in RGS is de
 |:-:|---|---|---|---|
 |1  | International Coastal Clean-up  | Community Service  | 1  | Basic volunteerism  |
 | 2  | Level-wide service-learning project (class-level)  <br>Some CmPS groups  | Community Exploration  | 2  | Some sustainability, some impact on community  |
-| 3-4  |   |   |   |   |
+| 3-4  | Self-initiated service-learning projects. For example, Advocacy projects with limited outreach, CCA service-learning projects<br><br>Overseas service-learning, Community Problem Solving Programme (CmPS), special programmes (Congress, In-Conversation)  | Community Exploration<br><br><br><br><br>Community Action  | 2-4<br><br><br><br><br><br>3-4  | Some sustainability, some impact on community<br><br><br>Significant impact to school or community;  |
 |   |   |   |   |   |

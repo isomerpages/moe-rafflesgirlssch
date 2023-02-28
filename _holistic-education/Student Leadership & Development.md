@@ -28,3 +28,9 @@ Student Congress strives to be a representative voice for the students, with the
 <img src="/images/psb.jpg" style="width:49%" align=right>
 
 The Peer Support Board (PSB) aims to cultivate a loving and supportive school community – a second family to each and every RGS girl. Peer Support Leaders (PSLs) in relation to PSB's mascot, the dolphin, live out their motto of 'Riding the waves with you' by offering support to their peers. PSB develops passionate and purposeful leaders who are driven to enable others with the spirit of non-discriminatory, continuous peer support, which can be sustained within and beyond the school community. The role of a PSL is not only to help our Year 1s adapt and learn skills to thrive in a new school environment, but also to stand by their fellow schoolmates through challenges, and actively encourage and foster close ties between all members of the school. PSLs also plan and execute initiatives that promote a genuine, heartfelt peer-support spirit, thereby fulfilling their goal of 'Riding the waves with you'.
+
+#### Prefectorial Board
+
+<img src="/images/pb.jpg" style="width:49%" align=right>
+
+Established in 1950, the RGS Prefectorial Board (PB) is the school's first leadership board. As custodians of school culture, RGSPB strives to inculcate a strong sense of identity and responsibility within the school, forging strong partnerships with teachers and other student leaders in order to do so. In working towards this goal, prefects are committed to upholding discipline in the school as an integral part of school culture. RGSPB also strives to cultivate a sense of belonging to the school community through activities and initiatives that celebrate the Rafflesian identity in various aspects. By engaging the school population in creating a shared identity, RGSPB strives to forge a strong and close-knit community that works towards creating a better age for all.

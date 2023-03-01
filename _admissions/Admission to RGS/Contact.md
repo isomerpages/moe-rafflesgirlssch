@@ -18,4 +18,4 @@ Email: [rgs\_studentservices@schools.gov.sg](mailto:rgs_studentservices@schools
 
 #### How to get to Raffles Girls' School?
 
-Please refer to directions [here](https://www.rgs.edu.sg/about-us/visitor-information).
+Please refer to directions [here](/about-us/visitor-info/).

@@ -56,7 +56,7 @@ Returning Singaporean students who wish to study in Singapore are encouraged to 
 
 Returning Singaporean students are allowed to participate in RGS’ Year 1 Direct Schools Admission Exercise and Year 3 Entrance Examinations.
 
-Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/returning-singaporeans) for further details.
+Click [here](/admissions/Admission-to-RGS/returning-sg/) for further details.
 
 #### For International Students
 

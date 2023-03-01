@@ -30,3 +30,6 @@ Please visit the PRGS [Facebook](https://www.facebook.com/PRGSAssociation) and
 | 27 Oct 2023  | Y4 Farewell Alma Mater  |
 | 18 Nov 2023  | Open House 2  |
 |   |   |
+
+\*Dates are subject to change. <br>
+\*\* Additional events and talks will be organised in consultation with the school after the 21st PRGS Exco takes office. Updates will be provided through Parents' Gateway.

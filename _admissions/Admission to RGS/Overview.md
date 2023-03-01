@@ -46,7 +46,7 @@ Application for admission to RGS at Year 3 opens annually in August and is open 
 
 NOTE: Students who were previously admitted into secondary schools via DSA or AEIS are not allowed to seek a school transfer.
 
-Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/year-3-via-admission-tests) for further details.
+Click [here](/admissions/Admission-to-RGS/via-admission-tests/) for further details.
 
 #### For Returning Singaporeans
 

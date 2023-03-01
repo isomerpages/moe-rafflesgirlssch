@@ -61,3 +61,7 @@ For further enquiries on submission of additional documents/videos and the selec
 | **Selection tests/Auditions/Interviews for all 19 talent areas**  | July to August 2022  <br>Only **shortlisted applicants** will be notified.  |
 | <br>**Notification of Selection Outcome**  | By mid-September 2022  <br>Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  |
 |   |   |
+
+**There will NOT be an online mode for the selection process. All applicants who are shortlisted will have to undergo the selection tests/auditions/interviews physically in-person at RGS.**
+
+For further enquiries on Admissions & DSA, please contact us [here](https://forms.cwp.gov.sg/rgs/FormFSNDY) or call 6737 1845 / 6970 6474 / 6970 6442.

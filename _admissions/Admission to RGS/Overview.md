@@ -62,4 +62,4 @@ Click [here](/admissions/Admission-to-RGS/returning-sg/) for further details.
 
 In alignment with MOE policy, International Students who wish to study in Singapore are to participate in the Ministry of Education’s Admissions Exercise for International Students (AEIS), conducted around September or October each year for new International Students seeking to join mainstream Singapore primary and secondary schools in January of the following year.
 
-Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/international-students) for further details.
+Click [here](/admissions/Admission-to-RGS/international/) for further details.

@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Support.md
       - Welcome.md
       - Committee.md
       - Events.md
+      - Support.md

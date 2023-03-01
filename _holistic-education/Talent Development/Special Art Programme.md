@@ -22,8 +22,5 @@ The Special Art Programme is designed to provide an enriched Art curriculum that
 | **Programmes**  |   |
 |:-:|---|
 | **Year 1** <br><br>Fine Arts<br>*   Principles and Elements of Art<br>*   Drawing and Painting I<br><br>Design<br>*   Introduction to Design Process<br>*   Exploration of Materials and Processes<br>*   Introduction to Technology<br>*   Visual Communication<br><br>Electronic/Lens Based<br>*   Digital Media I<br><br>SOVA<br>*   Art Appreciation<br>*   Pioneer Artists of Singapore<br>*   Western Art History  | **Year 2**<br><br>Fine Arts<br>*   Drawing and Painting II<br>*   Ceramics and Sculpture I<br><br>Design<br>*   Graphics Design<br>*   Fashion Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art Appreciation<br>*   Western Art History<br>*   Second Generation Artists of Singapore  |
-| **Year 3**<br><br>Fine Arts<br>*   Drawing and Painting III<br>*   Ceramics and Sculpture II<br>*   Print Making<br><br>Design<br>*   Graphics Design<br>*   3D Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art as Narrative and Inspiration<br>*   Art as Expression and Identity<br>*   Art as Communication and Design  |   |
-|   |   |
-|   |   |
-|   |   |
+| **Year 3**<br><br>Fine Arts<br>*   Drawing and Painting III<br>*   Ceramics and Sculpture II<br>*   Print Making<br><br>Design<br>*   Graphics Design<br>*   3D Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art as Narrative and Inspiration<br>*   Art as Expression and Identity<br>*   Art as Communication and Design  | **Year 4**<br><br>Open Coursework<br>*   Ceramics<br>*   Drawing and Painting<br>*   Sculpture and Installation<br>*   Print Making<br>*   Design<br>*   Animation<br>*   Digital Media<br><br>Visual Arts Task<br><br>SOVA<br>*   Art as Narrative and Inspiration<br>*   Art as Expression and Identity<br>*   Art as Communication and Design  |
 |   |   |

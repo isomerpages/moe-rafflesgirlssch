@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - Admission to RGS/Contact.md
       - Admission to RGS/.keep
       - Admission to RGS/Overview.md
       - Admission to RGS/Year 1 (Via DSA).md

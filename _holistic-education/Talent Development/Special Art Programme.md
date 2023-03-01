@@ -18,3 +18,12 @@ The Special Art Programme is designed to provide an enriched Art curriculum that
 |:-:|
 | *   Develop an understanding and appreciation of the role played by Art in society<br>*   Think independently and contribute proactively to their peers, the school and society through art-making<br>*   Construct meaning and reflect a better understanding of the world, based on what they see and experience<br>*   Attain a deeper awareness and appreciation of Art across different contexts and perspectives<br>*   Reflect on and refine their work using problem-solving and critical thinking skills<br>*   Develop a systematic approach to investigate formal and conceptual issues through experimentation with materials, techniques and technologies<br>*   Develop the ability to competently form, compose and communicate in 2 and 3D using a variety of materials, processes and art vocabulary  |
 |   |
+
+| **Programmes**  |   |
+|:-:|---|
+| **Year 1** <br><br>Fine Arts<br>*   Principles and Elements of Art<br>*   Drawing and Painting I<br><br>Design<br>*   Introduction to Design Process<br>*   Exploration of Materials and Processes<br>*   Introduction to Technology<br>*   Visual Communication<br><br>Electronic/Lens Based<br>*   Digital Media I<br><br>SOVA<br>*   Art Appreciation<br>*   Pioneer Artists of Singapore<br>*   Western Art History  | **Year 2**<br><br>Fine Arts<br>*   Drawing and Painting II<br>*   Ceramics and Sculpture I<br><br>Design<br>*   Graphics Design<br>*   Fashion Design<br><br>Electronic/Lens Based<br>*   Digital Media II<br><br>SOVA<br>*   Art Appreciation<br>*   Western Art History<br>*   Second Generation Artists of Singapore  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |

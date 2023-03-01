@@ -30,3 +30,5 @@ description: ""
 | Honorary Auditor  | Dr Tan Wei Ching  |
 | Honorary Auditor  | Mr Gerald Ng Khim Teck  |
 |   |   |
+
+<img src="/images/PRGS 20th Executive Commitee.jpg" style="width:85%">

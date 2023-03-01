@@ -20,7 +20,7 @@ Please visit [MOE's website](https://www.moe.gov.sg/returning-singaporeans/seco
 
 Applicants, who wish to apply for DSA-Sec Exercise into Year 1 and are currently not studying in MOE schools, are required to obtain a registration number from MOE Customer Service Centre (CSC).  
   
-For further details, please click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/year-1-via-dsa).
+For further details, please click [here](/admissions/Admission-to-RGS/via-DSA/).
 
 #### 3 \. Entrance Test into Year 3
 

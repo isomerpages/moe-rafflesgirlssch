@@ -36,3 +36,30 @@ NOTE: Students who have already gained admission into a secondary school via DSA
 
 Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/appeal-for-school-transfer-after-secondary-one-posting) for further details.
 
+#### Admission to Year 3
+
+This direct admission to RGS is for Year 3 only and is subjected to available vacancies.
+
+Application for admission to RGS at Year 3 opens annually in August and is open to
+*   female Singaporean, Singapore PR and International Students who are currently enrolled in Secondary 2 in mainstream secondary schools and are seeking a transfer; OR  
+*   Returning Singaporeans or Singapore PRs.
+
+NOTE: Students who were previously admitted into secondary schools via DSA or AEIS are not allowed to seek a school transfer.
+
+Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/year-3-via-admission-tests) for further details.
+
+#### For Returning Singaporeans
+
+'Returning Singaporean children’ refers to children who are Singapore Citizens (SC) or Singapore Permanent Residents (SPR) who are living and studying overseas and who are currently not attending local schools.
+
+Returning Singaporean students who wish to study in Singapore are encouraged to participate in the Ministry of Education’s School Placement Exercise for Returning Singaporeans – Secondary (SPERS-Sec). This is applicable for all government, government-aided and independent schools in Singapore, including RGS.
+
+Returning Singaporean students are allowed to participate in RGS’ Year 1 Direct Schools Admission Exercise and Year 3 Entrance Examinations.
+
+Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/returning-singaporeans) for further details.
+
+#### For International Students
+
+In alignment with MOE policy, International Students who wish to study in Singapore are to participate in the Ministry of Education’s Admissions Exercise for International Students (AEIS), conducted around September or October each year for new International Students seeking to join mainstream Singapore primary and secondary schools in January of the following year.
+
+Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/international-students) for further details.

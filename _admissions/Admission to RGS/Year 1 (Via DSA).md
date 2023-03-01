@@ -44,3 +44,13 @@ The Applicant must:
 |:-:|---|---|---|---|
 | <br>*   English Language<br>*   Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br><br><br>* Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
 |   |   |   |   |   |
+
+#### Important Note
+
+**Required Submission of Additional Documents**<br>
+Applicants may need to submit additional documents/videos via e-form directly to RGS before 1 June 2022. All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+
+For further enquiries on submission of additional documents/videos and the selection process/criteria of each talent area, please click [here](/files/RGS-DSA_TalentInformation_2022.pdf).
+
+#### Process Overview
+

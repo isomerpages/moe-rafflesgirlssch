@@ -17,3 +17,11 @@ Applicant must have: 
 *   Excellent achievement in academic and co-curricular activities. 
 
 Shortlisted applicants must sit for Admission Tests administered by RGS for the following three subjects: English Language, Mathematics and Science.
+
+| **SCHEDULE**  |   |
+|:-:|---|
+| Application Period  | **11 August 2022 (Thu) 2 pm to 24 August 2022 (Wed) 2 pm**  |
+| Admission Tests<br><br>_(for shortlisted applicants)_  | **5 September 2022 (Mon), from 8.00 am to 1.00 pm at RGS**<br><br>**(Subjected to prevailing Covid-19 Safe Management Measures at that time)**  |
+| Interview<br><br>_(for shortlisted applicants)_  | **October 2022**  |
+| Notification of Result of Application  | **November 2022**  |
+|   |   |

@@ -25,3 +25,11 @@ Shortlisted applicants must sit for Admission Tests administered by RGS for the 
 | Interview<br><br>_(for shortlisted applicants)_  | **October 2022**  |
 | Notification of Result of Application  | **November 2022**  |
 |   |   |
+
+**SUBMISSION OF APPLICATION**
+
+Applicants must **complete and submit an online application before 2 pm on 24 August 2022 (Wed).**
+
+DO NOT submit any documents, original or otherwise, as all documents submitted will not be returned. Applicants must be prepared to produce the original documents for verification purposes upon request, if necessary.
+
+Please click **[here](https://form.gov.sg/6284628a5fba0100117a3891)** **FORM NOT FOUND** to apply. This e-application form will only be accessible during the application period.

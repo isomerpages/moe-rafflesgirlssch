@@ -16,7 +16,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Female Singaporean, Singapore PR and International Students who possess talents and achievements in a specific academic subject, a sport, music, visual art or demonstrate leadership in serving the school/community  are encouraged to apply for admission to RGS from May to June annually.
 
-Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/year-1-via-dsa) for further details.
+Click [here](/admissions/Admission-to-RGS/via-DSA/) for further details.
 
 #### Admission to Year 1 – Secondary 1 (S1) Posting Exercise & appeal for school transfer after secondary 1 (s1) posting
 

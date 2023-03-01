@@ -24,3 +24,7 @@ Successful applicants will be notified via phone call or e-mail. Hence, applican
 The application will be deemed incomplete and will not be considered if applicant cannot be contacted or are unable to produce the original documents for verification purposes upon request.  
 
 To apply, please click [here](https://go.gov.sg/rgs-2023y1-appeal) **PAGE NOT FOUND** to complete the online application. Application opens from 9am on 21 December 2022 to 9am, 23 December 2022.
+
+#### Secondary One Registration Day
+
+Pending the outcome of appeal, all applicants are required to complete the S1 Registration of the secondary school that they are posted to by the Ministry of Education. RGS will assist with the transfer process if the applicant is eventually successful in her application for transfer.

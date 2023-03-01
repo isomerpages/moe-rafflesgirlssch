@@ -2,6 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Events.md
       - Welcome.md
       - Committee.md
+      - Events.md

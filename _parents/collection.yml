@@ -2,5 +2,5 @@ collections:
   parents:
     output: true
     order:
-      - Committee.md
       - Welcome.md
+      - Committee.md

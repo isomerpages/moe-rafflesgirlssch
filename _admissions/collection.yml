@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Admission to RGS/Overview.md
       - Admission to RGS/.keep

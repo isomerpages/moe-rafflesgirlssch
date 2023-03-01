@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Membership.md
       - Welcome.md
       - Committee.md
       - Events.md
       - Support.md
+      - Membership.md

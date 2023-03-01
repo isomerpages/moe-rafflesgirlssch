@@ -25,6 +25,6 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 | **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
 | History<br><br>*   Elements of Music<br>*   Instruments of the Orchestra<br>*   Baroque Period<br>*   Ethnic Music (I)  | History<br><br>*   Classical Period<br>*   Ethnic Music (II)  | History<br><br>*   Romantic Period<br>*   Jazz  | History<br><br>*   20th Century Music<br>*   Pop Music  |
 | Harmony<br><br>*   Harmony Principles (I)<br>*   Composition (I)  | Harmony<br><br>*   Harmony Principles (II)<br>*   Composition (II)  | Harmony<br><br>*   Harmony Principles (III)<br>*   Composition (III)  | Harmony<br><br>*   Harmony Principles (IV)<br>*   Composition (IV)  |
-| Aural Skills<br><br>*   Pitch (I)<br>*   Rhythm (I)  |   |   |   |
+| Aural Skills<br><br>*   Pitch (I)<br>*   Rhythm (I)  | Aural Skills<br><br>*   Pitch (II)<br>*   Rhythm (II)  | Aural Skills<br><br>*   Pitch (II)<br>*   Rhythm (III)  | Aural Skills<br><br>*   Pitch (IV)<br>*   Rhythm (IV)  |
 | Performance<br><br>*   Individual (I)<br>*   Ensemble (I)  | Performance<br><br>*   Individual (II)<br>*   Ensemble (II)  | Performance<br><br>*   Individual (III)<br>*   Ensemble (III)  | Performance<br><br>*   Individual (IV)<br>*   Ensemble (IV)  |
 |   |   |   |   |

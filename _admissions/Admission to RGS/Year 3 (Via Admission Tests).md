@@ -33,3 +33,9 @@ Applicants must **complete and submit an online application before 2 pm on 24 A
 DO NOT submit any documents, original or otherwise, as all documents submitted will not be returned. Applicants must be prepared to produce the original documents for verification purposes upon request, if necessary.
 
 Please click **[here](https://form.gov.sg/6284628a5fba0100117a3891)** **FORM NOT FOUND** to apply. This e-application form will only be accessible during the application period.
+
+**IMPORTANT INFORMATION**
+
+For further details about the Admissions Tests, please click [here](/files/2022%20Webpages%20RGS-Y3-Admissions%20Info_ENT%20030322.pdf).
+
+Detailed results of the tests and interview, if any, will not be released and RGS reserves the right not to release the results or the reasons for non-selection.

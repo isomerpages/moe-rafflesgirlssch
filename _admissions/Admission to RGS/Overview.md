@@ -34,7 +34,7 @@ Primary 6 female students in the local mainstream schools who have participated 
 
 NOTE: Students who have already gained admission into a secondary school via DSA or AEIS are not allowed to participate in the S1 Posting Exercise and Appeal for School Transfer after Secondary 1 (S1) Posting.  
 
-Click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/appeal-for-school-transfer-after-secondary-one-posting) for further details.
+Click [here](/admissions/Admission-to-RGS/appeal/) for further details.
 
 #### Admission to Year 3
 

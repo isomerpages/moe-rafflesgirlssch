@@ -206,14 +206,30 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
-| November  | 12-13  | Thurs & Fri  |   |
-| September  | 19  | Saturday  |   |
-| August  | 22  | Saturday  |   |
-|   | 15  | Saturday  |   |
-| July  | 25  | Saturday  |   |
-| May  | 1  | Saturday  |   |
-| April  | 27  | Monday  |   |
-|   | 18  | Saturday  |   |
-| March  | 7  | Saturday  |   |
+| November  | 12-13  | Thurs & Fri  | Arts Festival  |
+| September  | 19  | Saturday  | Class of 1999 – 10th Anniversary Reunion  |
+| August  | 22  | Saturday  | ORA 86th Anniversary Dinner (Regent Hotel)  |
+|   | 15  | Saturday  | Connect Dinner (by RGS Chapter)  |
+| July  | 25  | Saturday  | Class of 1979 – 30th Anniversary Reunion  |
+| May  | 1  | Saturday  | Evergreen Lunch @ RELC  |
+| April  | 27  | Monday  |  RGS130: (Lee Chin & Friends - A Strings Extravaganza), Esplanade Concert Hall |
+|   | 18  | Saturday  | ORA Jogathon / Family Day RI (JC)  |
+| March  | 7  | Saturday  | Homecoming I, RGS  |
 |   |   |   |   |
 
+###### <center>2008</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

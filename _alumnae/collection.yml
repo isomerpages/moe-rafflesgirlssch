@@ -2,6 +2,7 @@ collections:
   alumnae:
     output: true
     order:
+      - Alumnae Relations Office/Alumnae Stories.md
       - Alumnae Relations Office/.keep
       - Alumnae Relations Office/Alumnae Relations Office.md
       - Alumnae Relations Office/Calendar n Gallery.md

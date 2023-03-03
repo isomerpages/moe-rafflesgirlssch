@@ -23,3 +23,19 @@ third_nav_title: Alumnae Relations Office
 | November  | 6  | Saturday  | Rafflesian Women's Conference 2021: _Igniting the Power Within_  |
 |   |   |   |   |
 
+###### <center>2020</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| February  | 15  | Saturday  | RGS Alumnae 6th AGM  |
+| May  | 1  | Friday  | Evergreen Lunch (postponed to 1 August)  |
+|   | 23  | Saturday  | Webinar organised by RGS ALUMNAE  <br>I - COVID Check-in  |
+| June  | 13  | Saturday  | Webinar organised by RGS ALUMNAE  <br>II - Singapore GaGa: Movie Funraiser  |
+|   | 20  | Saturday  | Webinar organised by RGS ALUMNAE  <br>III - Medical & Social Impact of Covid-19  |
+|   | 24  | Wednesday  | Webinar organised by RGS ALUMNAE  <br>IV - Wonderful Wednesday  |
+| August  | 1  | Saturday  | Webinar organised by RGS ALUMNAE  <br>V - Financial Empowerment  |
+|   | 1  | Saturday  | Evergreen Lunch (cancelled, see all on 1 May 2021)  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

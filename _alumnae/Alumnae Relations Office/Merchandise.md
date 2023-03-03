@@ -16,6 +16,6 @@ third_nav_title: Alumnae Relations Office
 **CookBook - CONSUMING PASSION Memories From The Rafflesian Table**
 
 <p><a href="https://shop.rgs.edu.sg/">
-<img style="width:40%" align=left src="/images/Cookbook.png">
+<img style="width:30%" align=left src="/images/Cookbook.png">
 </a></p>
 <br clear=left>

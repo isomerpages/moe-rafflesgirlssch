@@ -78,3 +78,5 @@ third_nav_title: Alumnae Relations Office
 <img style="width:20%" align=left src="/images/story16.jpg">
 </a></p>
 <br clear=left>
+
+**ATTIYA PDF exceeds 5MB**

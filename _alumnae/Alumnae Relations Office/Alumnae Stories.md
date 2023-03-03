@@ -6,7 +6,9 @@ third_nav_title: Alumnae Relations Office
 ---
 ## Alumnae Stories
 
-
+[story13](/files/Alyssa%20Marie%20Loo%20Li%20Ann_October%202018.pdf)<br>
+[story14](/files/Team%20Feroxidus_November%202018.pdf)<br>
+[story16](/files/Portrait%20of%20a%20Rafflesian%20-%20Growing%20Through%20the%20RGS%20Experience.pdf)
 
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Grace%20Tern_November%202014.pdf">

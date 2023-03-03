@@ -164,15 +164,56 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
-| November  | 24  | Saturday  |   |
-|  November | 17  | Saturday  |   |
-| September  | 8  |  Saturday |   |
-| July  | 14  | Saturday  |   |
-| July  | 7  | Saturday  |   |
-| May  | 12  | Saturday  |   |
-| May  |  1 | Tuesday  |   |
-| March  | 3  | Saturday  |   |
+| November  | 24  | Saturday  | Class of 2002 – 10th Anniversary Reunion  |
+|  November | 17  | Saturday  | RGS Connect Tea 2012  |
+| September  | 8  |  Saturday | Class of 1992 – 20th Anniversary Reunion  |
+| July  | 14  | Saturday  | Class of 1982 - 30th Anniversary Reunion  |
+| July  | 7  | Saturday  | Class of 1962 - Golden Jubilee Lunch  |
+| May  | 12  | Saturday  | ORA Family Day @ RI  |
+| May  |  1 | Tuesday  | Evergreen Lunch @ RGS  |
+| March  | 3  | Saturday  | RGS Chapter AGM, AVA Room  |
 |   |   |   |   |
 
+###### <center>2011</center>
 
+|   |   |   |   |
+|:-:|---|---|---|
+| December  |  3 | Saturday  | Class of 2001 – 10th Anniversary Reunion  |
+| October  | 8  | Saturday  | RGS Chapter – Cooking Class  |
+| July  | 30  | Saturday  | Class of 1981 – 30th Anniversary Reunion  |
+|   | 16  | Saturday  | RGS Chapter - Tea & Talk, CLC “A Fresh Approach to a Beautiful & Natural Smile – Orthodontics and Dentofacial”  |
+| May  | 1  | Saturday  | Evergreen Lunch @ Raffles Town Club  |
+| April  | 16  | Saturday  | Homecoming II, RGS  |
+| March  | 19  |  Saturday | RGS Chapter AGM, AVA Room  |
+|   |   |   |   |
+
+###### <center>2010</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| December  | 4  | Saturday  | Class of 2000 – 10th Anniversary Reunion  |
+| October  | 23  |  Saturday | Connect Dinner (by RGS Chapter)  |
+| October  | 15  | Friday  | PRGS Golf Tournament 2010, SICC  |
+| August  | 21  | Saturday  | ORA 87th Anniversary Dinner @ Orchard Hotel  |
+|   | 14  | Saturday  | Class of 1980 – 30th Anniversary Reunion  |
+| May  | 1  | Saturday  | Evergreen Lunch @ Tessensohn Clubhouse, Civil Service Club  |
+| April  | 17  |  Saturday | ORA Family Day @ RGS  |
+| March  | 6  | Saturday  | RGS Chapter AGM, AVA Room  |
+| January  | 23  | Saturday  | RGS Chapter Health Talk – Common Sports Injuries, CLC  |
+|   |   |   |   |
+
+###### <center>2009</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| November  | 12-13  | Thurs & Fri  |   |
+| September  | 19  | Saturday  |   |
+| August  | 22  | Saturday  |   |
+|   | 15  | Saturday  |   |
+| July  | 25  | Saturday  |   |
+| May  | 1  | Saturday  |   |
+| April  | 27  | Monday  |   |
+|   | 18  | Saturday  |   |
+| March  | 7  | Saturday  |   |
+|   |   |   |   |
 

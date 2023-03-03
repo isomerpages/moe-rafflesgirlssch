@@ -30,18 +30,18 @@ third_nav_title: Alumnae Relations Office
 <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:20%" align=left src="/images/story1.jpg">
+<img style="width:20%" align=left src="/images/story5.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:20%" align=left src="/images/story2.jpg">
+<img style="width:20%" align=left src="/images/story6.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:20%" align=left src="/images/story3.jpg">
+<img style="width:20%" align=left src="/images/story7.jpg">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:20%" align=left src="/images/story4.jpg">
+<img style="width:20%" align=left src="/images/story8.jpg">
 </a></p>
 <br clear=left>

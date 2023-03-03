@@ -31,3 +31,10 @@ Students of all nationalities who are admitted into the MEP within an Independen
 **MOE UPLIFT Scholarship** <br>
 With effect from 1 January 2023, MOE has introduced the UPLIFT Scholarship to recognize the achievements of students in Independent Schools who have performed well academically or in specific talents areas, and are from lower-income families.
 
+The UPLIFT Scholarship is awarded to students who are:  
+
+1 \.  Singapore Citizens attending Independent Schools;<br>
+2 \.  Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and<br>
+3 \.  From families with gross monthly household income (GHI) ≤$3,000, or gross monthly household per capita income (PCI) ≤$750 (PCI = GHI divided by number of household members). (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
+
+ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.

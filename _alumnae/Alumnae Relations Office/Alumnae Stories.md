@@ -10,3 +10,20 @@ third_nav_title: Alumnae Relations Office
 [story2](/files/Chew%20Chia%20Shao%20Wei_August%202015.pdf)<br>
 [story3](/files/Samantha%20Yom%20Jingyi_August%202015.pdf)<br>
 [story4](/files/Prof%20Jackie%20Ying_February%202016.pdf)
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/story1.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/story2.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/story3.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/story4.jpg">
+</a></p>
+<br clear=left>

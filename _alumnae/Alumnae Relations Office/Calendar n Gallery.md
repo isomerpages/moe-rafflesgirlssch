@@ -151,15 +151,28 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
+| December  | 14  | Saturday  | Class of 2003 – 10th Anniversary Reunion @ RGS  |
+| November  | 2  | Saturday  | Class of 1986 - Class Gathering @ Kent Ridge Guild House  |
+|  September | 26  | Thursday  | RGS Fund Raising Banquet  |
+| July  | 7  | Sunday  | Malay Society – 25th Anniversary Gathering @ RGS  |
+| May  |  1 | Wednesday  | Evergreen Lunch @ Peach Garden Restaurant  |
+| March  | 9  | Saturday  | Afternoon of Passion: Official Launch of the RGS Cookbook for the RGS Performing Arts Centre @ RGS, Evelyn Norris Hall  |
+| March  | 2  | Saturday  | RGS Chapter AGM, AVA Room  |
 |   |   |   |   |
+
+###### <center>2012</center>
+
 |   |   |   |   |
+|:-:|---|---|---|
+| November  | 24  | Saturday  |   |
+|  November | 17  | Saturday  |   |
+| September  | 8  |  Saturday |   |
+| July  | 14  | Saturday  |   |
+| July  | 7  | Saturday  |   |
+| May  | 12  | Saturday  |   |
+| May  |  1 | Tuesday  |   |
+| March  | 3  | Saturday  |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+
+

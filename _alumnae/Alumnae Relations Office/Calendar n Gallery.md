@@ -221,15 +221,34 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
+| December  | 20  | Saturday  | Ms Norris' Birthday Celebration  |
+| October  | 30  | Saturday  | Career Talk "How to ace THAT interview" (by RGS Chapter)  |
+| August  | 16  | Saturday  | Health Talk "For your eyes only" / "To Be or Not To Be Protected" (by RGS Chapter)  |
+| July  | 26  | Saturday  | Connect Dinner 2008 (by RGS Chapter)  |
+| May  | 1  | Thursday  | Evergreen Lunch, Peach Garden Restaurant  |
+| April  | 12  |  Saturday |  ORA Jogathon / Family Day, RJC |
 |   |   |   |   |
+
+###### <center>2007</center>
+
 |   |   |   |   |
+|:-:|---|---|---|
+| November  | 10  | Saturday  |  Farewell Dinner for Mrs Deborah Tan (Principal 2000-2007) |
+| September  | 22  | Saturday  | Connect Dinner 2007 (by RGS Chapter)  |
+| August  | 25  | Saturday  | Health Talk "Forever Young"  |
+| July  | 21  | Saturday  | Organic Vegetarian Cooking Class  |
+| May  | 12  | Saturday  | ORA jogathon / Family Day, RGS  |
+|   | 1  | Tuesday  | Evergreen Lunch @ Mandarin Hotel  |
+| February  | 9  |  Saturday | Health Talk  |
 |   |   |   |   |
+
+###### <center>2006</center>
+
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|:-:|---|---|---|
+| October  | 20  | Friday  | French "Cook & Dine" Class (by RGS Chapter)  |
+| September  | 23  | Saturday  | Health Talk "Women Heart Health and Sexuality in the Older Women" (by RGS Chapter)  |
+| July  | 22  | Saturday  |Connect Dinner 2006 (by RGS Chapter)   |
+| May  | 1  | Wednesday  | Evergreen Lunch @ The Pines  |
+| April  | 8  | Saturday  | ORA Jogathon / Family Day RJC  |
 |   |   |   |   |

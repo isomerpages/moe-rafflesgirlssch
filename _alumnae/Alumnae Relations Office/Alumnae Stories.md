@@ -33,19 +33,19 @@ third_nav_title: Alumnae Relations Office
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Shermaine%20Ng%20Xue%20Min_June%202016.pdf">
 <img style="width:20%" align=left src="/images/story5.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Fatima%20Siddiqui_September%202016.pdf">
 <img style="width:20%" align=left src="/images/story6.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Leong%20Choi%20Fun_November%202016.pdf">
 <img style="width:20%" align=left src="/images/story7.jpg">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Deanna%20See%20Xuhui_February%202017.pdf">
 <img style="width:20%" align=left src="/images/story8.jpg">
 </a></p>
 <br clear=left>

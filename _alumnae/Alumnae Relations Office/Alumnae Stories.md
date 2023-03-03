@@ -12,19 +12,19 @@ third_nav_title: Alumnae Relations Office
 [story12](/files/Mrs%20Alice%20John_June%202018.pdf)
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Grace%20Tern_November%202014.pdf">
-<img style="width:15%" align=left src="/images/story1.jpg">
+<img style="width:20%" align=left src="/images/story1.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Chew%20Chia%20Shao%20Wei_August%202015.pdf">
-<img style="width:15%" align=left src="/images/story2.jpg">
+<img style="width:20%" align=left src="/images/story2.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Samantha%20Yom%20Jingyi_August%202015.pdf">
-<img style="width:15%" align=left src="/images/story3.jpg">
+<img style="width:20%" align=left src="/images/story3.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Prof%20Jackie%20Ying_February%202016.pdf">
-<img style="width:15%" align=left src="/images/story4.jpg">
+<img style="width:20%" align=left src="/images/story4.jpg">
 </a></p>
 <br clear=left>
 

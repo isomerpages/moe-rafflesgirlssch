@@ -73,3 +73,30 @@ _Note: Dates and events may be subject to change._
 | March  | 31  | Saturday  | RGS Alumnae 4th AGM, RGS, KS Chee Theatre  |
 |   |  3 | Saturday  |  RGS Carnival Memorias |
 |   |   |   |   |
+
+###### <center>2017</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| November  | 18  |   |   |
+|   | 11  |   |   |
+|   | 2  |   |   |
+| September  | 27  |   |   |
+|   | 9  |   |   |
+|   | 2  |   |   |
+| August  | 12  |   |   |
+|   | 5  |   |   |
+| July  | 13  |   |   |
+|   | 7  |   |   |
+| May  | 6  |   |   |
+|   | 1  |   |   |
+| April  | 29  |   |   |
+|   |   |   |   |
+|   | 1  |   |   |
+| March  | 11  |   |   |
+|  February | 25  |   |   |
+|   |  18 |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

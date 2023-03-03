@@ -89,3 +89,7 @@ Filiae Melioris Aevi
 
 _“is a popular song in educational institutions, mostly at university graduations. I believe that it was sung in RGS before the School Song was written. My most vivid memory of the song is when it was sung in the film "Student Prince" set at the University of Heidelberg.” - Mrs Carmee Lim (Principal 1988-1999)_
 
+|   |   |
+|:-:|---|
+|   |   |
+|   |   |

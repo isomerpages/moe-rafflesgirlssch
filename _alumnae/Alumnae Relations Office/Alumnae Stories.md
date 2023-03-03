@@ -79,4 +79,13 @@ third_nav_title: Alumnae Relations Office
 </a></p>
 <br clear=left>
 
+<p><a href="https://www.rgs.edu.sg/qql/slot/u1290/Alumnae%20Stories/Portrait%20of%20a%20Rafflesian_Attiya%20and%20Amelina.pdf">
+<img style="width:20%" align=left src="/images/story17.jpg">
+</a></p>
+
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Portrait%20of%20a%20Rafflesian%20-%20Growing%20Through%20the%20RGS%20Experience.pdf">
+<img style="width:20%" align=left src="/images/story18.jpg">
+</a></p>
+<br clear=left>
+
 **ATTIYA PDF exceeds 5MB**

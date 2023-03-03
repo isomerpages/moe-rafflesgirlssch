@@ -98,3 +98,28 @@ _Note: Dates and events may be subject to change._
 |   |  18 |   | Y6 Career Tea - At The Crossroads by RGS Alumnae, RGS, KS Chee Theatre  |
 |   |   |   |   |
 
+###### <center>2016</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| November  | 26  | Saturday  | Müesli & Muses 4 by RGS Alumnae - Breakfast with Sarah Pang @ SPRMKT  |
+| September  | 17  | Saturday  | Müesli & Muses 3 by RGS Alumnae \- Breakfast with Dr Wee Hong Ling @ RGS, Oehlers Room  |
+| August  | 27  | Saturday  |Müesli & Muses 2 by RGS Alumnae - Kopi with Bernise Ang @ Chong Wen Ge Café, 168 Telok Ayer Street   |
+|   | 25  | Thursday  | Chic Chats 5, A Networking Event for RGS alumnae @ Sum Yi Tai, 25 Boon Tat Street  |
+|   | 20  | Saturday  | RGS Founder's Day - Launch of RGS Girls Around The World by RGS Alumnae  |
+|   | 12  | Friday  | Wine Appreciation Night by RGS Alumnae  |
+| July  | 16  | Saturday  | Class of 1996, 20th Anniversary Reunion, RGS, E Norris Hall  |
+| June  | 11  | Saturday  | Straight Talk by RGS Alumnae - Panel Discussion on Tech Entrepreneurship @ RGS, KS Chee Theatre  |
+| May  | 26  | Thursday  | Chic Chats 4, A Networking Event for RGS alumnae @ Kite, 53 Craig Road  |
+|   |  1 | Sunday  | RGS Evergreen Lunch, Happy Joy Restaurant, Hotel Royal  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

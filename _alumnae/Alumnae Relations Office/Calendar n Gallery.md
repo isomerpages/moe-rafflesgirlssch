@@ -83,20 +83,18 @@ _Note: Dates and events may be subject to change._
 |   | 2  | Thursday  | Chic Chats 7, A Networking Event for RGS alumnae @ Chikins, 6 Bukit Pasoh Road  |
 | September  | 27  | Wednesday  | PRGS / ORA Fund Raising Golf Tournament 2017, Raffles Country Club  |
 |   | 9  | Saturday  | Class of 1997, 20th Anniversary Reunion, RGS, E Norris Hall  |
-|   | 2  |   |   |
-| August  | 12  |   |   |
-|   | 5  |   |   |
-| July  | 13  |   |   |
-|   | 7  |   |   |
-| May  | 6  |   |   |
-|   | 1  |   |   |
-| April  | 29  |   |   |
+|   | 2  |   | Chic Chefs Series – Inaugural Session @ RGS Kitchen by RGS Alumnae  |
+| August  | 12  | Saturday  | RGS Girls Around the World LEGO project series II by RGS Alumnae  |
+|   | 5  |   | Class of 1994 Reunion, RGS, KS Chee Theatre  |
+| July  | 13  | Thursday  | Chic Chats 6, A Networking Event for RGS alumnae @ My Little Spanish Village, 54 Boat Quay  |
+|   | 7  | Saturday  | Class of 1977, 40th Anniversary Reunion, RGS, E Norris Hall  |
+| May  | 6  | Saturday  |  Class of 2014 Reunion, RGS, E Norris Hall |
+|   | 1  |  Monday | RGS Evergreen Lunch, RGS, E Norris Hall  |
+| April  | 29  | Saturday  | Fund Raising Movie Night - Guardians of the Galaxy II, by RGS Alumnae  |
+|   |   |   | Class of 1964 70th Birthday Gathering @ Tanglin Club  |
+|   | 1  |   | Class of 2001 Reunion, RGS, Canteen  |
+| March  | 11  | Saturday  | Class of 1979 Gathering, RGS, KS Chee Theatre  |
+|  February | 25  | Saturday  | RGS Alumnae 3rd AGM, RGS, KS Chee Theatre  |
+|   |  18 |   | Y6 Career Tea - At The Crossroads by RGS Alumnae, RGS, KS Chee Theatre  |
 |   |   |   |   |
-|   | 1  |   |   |
-| March  | 11  |   |   |
-|  February | 25  |   |   |
-|   |  18 |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+

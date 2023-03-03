@@ -6,10 +6,7 @@ third_nav_title: Alumnae Relations Office
 ---
 ## Alumnae Stories
 
-[story9](/files/Mrs%20Ummu%20Choo_2017.pdf)<br>
-[story10](/files/Chan%20Hsi-Min_April%202017.pdf)<br>
-[story11](/files/Rachel%20Qing%20Pang_July%202017.pdf)<br>
-[story12](/files/Mrs%20Alice%20John_June%202018.pdf)
+
 
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Grace%20Tern_November%202014.pdf">

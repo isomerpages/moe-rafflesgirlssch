@@ -70,7 +70,7 @@ third_nav_title: Alumnae Relations Office
 <img style="width:20%" align=left src="/images/story14.jpg">
 </a></p>
 
-<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Rachel%20Qing%20Pang_July%202017.pdf">
+<p><a href="https://www.rgs.edu.sg/qql/slot/u1290/Alumnae%20Stories/Portrait%20of%20a%20Rafflesian_Attiya%20and%20Amelina.pdf">
 <img style="width:20%" align=left src="/images/story15.jpg">
 </a></p>
 

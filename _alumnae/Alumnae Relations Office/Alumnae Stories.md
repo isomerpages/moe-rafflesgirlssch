@@ -10,7 +10,11 @@ third_nav_title: Alumnae Relations Office
 [story5](/files/Shermaine%20Ng%20Xue%20Min_June%202016.pdf)<br>
 [story6](/files/Fatima%20Siddiqui_September%202016.pdf)<br>
 [story7](/files/Leong%20Choi%20Fun_November%202016.pdf)<br>
-[story8](/files/Deanna%20See%20Xuhui_February%202017.pdf)
+[story8](/files/Deanna%20See%20Xuhui_February%202017.pdf)<br>
+[story9](/files/Mrs%20Ummu%20Choo_2017.pdf)<br>
+[story10](/files/Chan%20Hsi-Min_April%202017.pdf)<br>
+[story11](/files/Rachel%20Qing%20Pang_July%202017.pdf)<br>
+[story12](/files/Mrs%20Alice%20John_June%202018.pdf)
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Grace%20Tern_November%202014.pdf">
 <img style="width:20%" align=left src="/images/story1.jpg">

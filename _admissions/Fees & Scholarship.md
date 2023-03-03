@@ -38,3 +38,5 @@ The UPLIFT Scholarship is awarded to students who are:
 3 \.  From families with gross monthly household income (GHI) ≤$3,000, or gross monthly household per capita income (PCI) ≤$750 (PCI = GHI divided by number of household members). (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
 
 ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.
+
+Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships) for more information.

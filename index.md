@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/homepage.png
       dropdown:
-        title: Highlights
+        title: Click here for Details
         options:
           - title: Highlights
             url: a

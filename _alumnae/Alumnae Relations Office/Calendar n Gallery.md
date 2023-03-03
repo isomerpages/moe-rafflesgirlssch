@@ -78,11 +78,11 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
-| November  | 18  |   |   |
-|   | 11  |   |   |
-|   | 2  |   |   |
-| September  | 27  |   |   |
-|   | 9  |   |   |
+| November  | 18  | Saturday  | Class of 2007, 10th Anniversary Reunion, RGS, E Norris Hall  |
+|   | 11  |   | Class of 1987, 30th Anniversary Reunion, RGS, E Norris Hall  |
+|   | 2  | Thursday  | Chic Chats 7, A Networking Event for RGS alumnae @ Chikins, 6 Bukit Pasoh Road  |
+| September  | 27  | Wednesday  | PRGS / ORA Fund Raising Golf Tournament 2017, Raffles Country Club  |
+|   | 9  | Saturday  | Class of 1997, 20th Anniversary Reunion, RGS, E Norris Hall  |
 |   | 2  |   |   |
 | August  | 12  |   |   |
 |   | 5  |   |   |

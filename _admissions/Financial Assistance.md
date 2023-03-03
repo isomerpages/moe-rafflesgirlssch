@@ -15,3 +15,11 @@ Students who require financial aid at any point of time may approach [Student S
 
 #### MOE Independent School Bursary (ISB) Scheme
 
+**Eligibility Criteria**
+
+*   Student must be a Singapore Citizen
+*   Either the monthly Gross household income must meet one of the income criteria, Gross Household Income (GHI) or the Per Capita Income (PCI) criterion must be satisfied
+    
+**Income Criteria & Benefits**
+
+From 1 Jan 2023, the revised income criteria and benefits are as shown in the table below:

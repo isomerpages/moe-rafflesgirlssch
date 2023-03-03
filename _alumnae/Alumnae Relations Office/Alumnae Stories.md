@@ -63,18 +63,18 @@ third_nav_title: Alumnae Relations Office
 <br clear=left>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Mrs%20Ummu%20Choo_2017.pdf">
-<img style="width:20%" align=left src="/images/story9.jpg">
+<img style="width:20%" align=left src="/images/story13.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Chan%20Hsi-Min_April%202017.pdf">
-<img style="width:20%" align=left src="/images/story10.jpg">
+<img style="width:20%" align=left src="/images/story14.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Rachel%20Qing%20Pang_July%202017.pdf">
-<img style="width:20%" align=left src="/images/story11.jpg">
+<img style="width:20%" align=left src="/images/story15.jpg">
 </a></p>
 
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Mrs%20Alice%20John_June%202018.pdf">
-<img style="width:20%" align=left src="/images/story12.jpg">
+<img style="width:20%" align=left src="/images/story16.jpg">
 </a></p>
 <br clear=left>

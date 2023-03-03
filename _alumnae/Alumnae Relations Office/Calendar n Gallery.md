@@ -56,3 +56,20 @@ _Note: Dates and events may be subject to change._
 |   |   |   |   |
 
 ###### <center>2018</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| November  | 3  |  Saturday | Class of 1984 Reunion, RGS, KS Chee Theatre  |
+| October  | 18  | Friday  | Chic Chats 9, A Networking Event for RGS alumnae @ SPRMRKT, Robertson Quay  |
+| September  | 26  | Wednesday  | PRGS / ORA Fund Raising Golf Tournament 2018, Orchid Country Club  |
+|   | 15  | Saturday  | Chic Chefs – Mid-Autumn Festival with RGS Alumnae @ RGS Kitchen  |
+|   | 8  |   | Class of 1998, 20th Anniversary Reunion, RGS, E Norris Hall  |
+|   | 1  |   | Class of 2008, 10th Anniversary Reunion, RGS, E Norris Hall  |
+| August  | 18  | Saturday  | Class of 1978, 40th Anniversary Reunion, RGS, E Norris Hall  |
+| July  | 28  | Saturday  | Class of 1979 Reunion, RGS, E Norris Hall  |
+|   | 26  |   | Chic Chats 8, A Networking Event for RGS alumnae @ Empress Porridge, Fusionopolis  |
+|   |  7 |   | Class of 1988, 30th Anniversary Reunion, RGS, E Norris Hall  |
+| May  | 1  | Tuesday  | RGS Evergreen Lunch, RGS, E Norris Hall  |
+| March  | 31  | Saturday  | RGS Alumnae 4th AGM, RGS, KS Chee Theatre  |
+|   |  3 | Saturday  |  RGS Carnival Memorias |
+|   |   |   |   |

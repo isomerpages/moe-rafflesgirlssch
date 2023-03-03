@@ -35,6 +35,27 @@ third_nav_title: Alumnae Relations Office
 |   | 24  | Wednesday  | Webinar organised by RGS ALUMNAE  <br>IV - Wonderful Wednesday  |
 | August  | 1  | Saturday  | Webinar organised by RGS ALUMNAE  <br>V - Financial Empowerment  |
 |   | 1  | Saturday  | Evergreen Lunch (cancelled, see all on 1 May 2021)  |
+| September  | 12  | Saturday  | Webinar organised by RGS ALUMNAE  <br>VI - Mental Well-being  |
+| October  | 3  | Saturday  | Webinar organised by RGS ALUMNAE  <br>VII - Medical Series - 1  |
+|   | 24  | Saturday  | ORA-RGSA Dinner (cancelled)  |
+|   | 24  | Saturday  | Webinar organised by RGS ALUMNAE  <br>VIII - Medical Series - 2  |
+| November  | 28  | Saturday  | Rafflesian Women’s Conference 2020  |
+|   |   |   |   |
+
+_Note: Dates and events may be subject to change._
+
+###### <center>2019</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

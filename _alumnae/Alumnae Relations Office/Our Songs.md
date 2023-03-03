@@ -93,3 +93,53 @@ _“is a popular song in educational institutions, mostly at university graduati
 |:-:|---|
 | Gaudeamus igitur  <br>Juvenes dum sumus.  <br>Post jucundum juventutem  <br>Post molestam senectutem  <br>Nos habebit humus. <br><br>Ubi sunt qui ante nos  <br>In mundo fuere?  <br>Vadite ad superos  <br>Transite in inferos  <br>Hos si vis videre.<br><br>Vita nostra brevis est  Brevi finietur.  <br>Venit mors velociter  <br>Rapit nos atrociter  <br>Nemini parcetur.<br><br>Vivat academia  <br>Vivant professores  <br>Vivat membrum quodlibet  <br>Vivat membra quaelibet  <br>Semper sint in flore.<br><br>Vivant omnes virgines <br>Faciles, formosae.  <br>Vivant et mulieres  <br>Tenerae amabiles  <br>Bonae laboriosae.<br><br>Vivant et republica  <br>et qui illam regit.  <br>Vivat nostra civitas,  <br>Maecenatum caritas  <br>Quae nos hic protegit.<br><br>Pereat tristitia,  <br>Pereant osores.  <br>Pereat diabolus,  <br>Quivis antiburschius  <br>Atque irrisores. | Let us rejoice therefore  <br>While we are young.  <br>After a pleasant youth  <br>After a troublesome old age <br> The earth will have us.<br><br>Where are they  <br>Who were in the world before us?  <br>You may cross over to heaven  <br>You may go to hell  <br>If you wish to see them<br><br>Our life is brief  <br>It will be finished shortly.  <br>Death comes quickly  <br>Atrociously, it snatches us away.  <br>No one is spared.<br><br>Long live the academy!  <br>Long live the teachers!  <br>Long live each male student!  <br>Long live each female student!  <br>May they always flourish!<br><br>Long live all maidens  <br>Easy and beautiful!  <br>Long live mature women also,  <br>Tender and loveable  <br>And full of good labor.<br><br>Long live the State  <br>And the One who rules it!  <br>Long live our City  <br>And the charity of benefactors  <br>Which protects us here! <br><br>Let sadness perish!  <br>Let haters perish!  <br>Let the devil perish!  <br>Let whoever is against our school  <br>Who laughs at it, perish! |
 |   |   |
+
+#### 5) If we hold on together \[Music and words by James Harner and Will Jenning\]
+
+_“In 1993 RGS became independent. This is my special song! Reason: the staff & I share a vision! We believe passionately that RGS would lead the way to transform education to prepare our girls for the changing world. We want our girls not only to do well in examinations but also to thrive in the 21st century. However, the re-culturing process was difficult, so the song was to inspire the RGS family to hold on to our dream together. Hence, we articulate our vision and sing the song at every function.” - Mrs Carmee Lim (Principal 1988-1999)_
+
+Don't lose your way <br>
+With each passing day <br>
+You've come so far <br>
+Don't throw it away <br>
+Live believing <br>
+Dreams are for weaving <br>
+Wonders are waiting to start <br>
+Live your story <br>
+Faith, hope & glory <br>
+Hold to the truth in your heart
+
+If we hold on together <br>
+I know our dreams will never die <br>
+Dreams see us through to forever <br>
+Where clouds roll by <br>
+For you and I
+
+Souls in the wind <br>
+Must learn how to bend <br>
+Seek out a star <br>
+Hold on to the end <br>
+Valley, mountain <br>
+There is a fountain <br>
+Washes our tears all away <br>
+Words are swaying <br>
+Someone is praying <br>
+Please let us come home to stay
+
+If we hold on together <br>
+I know our dreams will never die <br>
+Dreams see us through to forever <br>
+Where clouds roll by <br>
+For you and I
+
+When we are out there in the dark <br>
+We'll dream about the sun <br>
+In the dark we'll feel the light <br>
+Warm our hearts, everyone
+
+If we hold on together <br>
+I know our dreams will never die <br>
+Dreams see us through to forever <br>
+As high as souls can fly <br>
+The clouds roll by <br>
+For you and I

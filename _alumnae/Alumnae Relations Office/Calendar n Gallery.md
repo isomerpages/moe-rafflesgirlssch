@@ -135,3 +135,31 @@ _Note: Dates and events may be subject to change._
 |   |   |   |   |
 
 ###### <center>2014</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| October  | 11  | Tuesday  | ORA-RGS Chapter Health Talk, RGS, Cyber Learning Centre  |
+| September  | 23  | Tuesday  | PRGS / ORA Fund Raising Golf Tournament 2014  |
+| August  | 30  | Saturday  | Class of 1979 – 35th Anniversary Reunion, RGS  |
+| August  | 2  | Saturday  | Homecoming III, RGS  |
+| May  | 10  | Saturday  | ORA Walk-A-Jogathon/ORA Family Fest 2014, RGS  |
+| May  | 1  |Thursday   | Evergreen Lunch @ Diamond Ballroom, Level 3, at Tessensohn Civil Service Club  |
+|  March |  8 |  Saturday |  RGS Chapter AGM, Cyber Learning Centre |
+|   |   |   |   |
+
+###### <center>2013</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |

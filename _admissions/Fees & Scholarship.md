@@ -17,3 +17,17 @@ These scholarships are offered to academically strong students attending indepen
 *   ESIS (Y1)
 *   ESIS (Y3)
 *   ESIS (Yearly Award)
+
+Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent) for more information.
+
+**Regional Studies Programme (RSP)** <br>
+This scholarship is awarded in Secondary 1 and Secondary 3 to students admitted to a Regional Studies Programme. The award covers an allowance of $1,000 and school fee subsidies of up to $2,400 per year, as long as the student meets the renewal criteria and remains enrolled in a Regional Studies Programme. Only Singapore citizens are eligible.  
+  
+Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships) for more information.
+
+**Music Elective Programme (MEP)** <br>
+Students of all nationalities who are admitted into the MEP within an Independent School are eligible for a fee subsidy up to a cap of $2400 per student per year.  
+  
+**MOE UPLIFT Scholarship** <br>
+With effect from 1 January 2023, MOE has introduced the UPLIFT Scholarship to recognize the achievements of students in Independent Schools who have performed well academically or in specific talents areas, and are from lower-income families.
+

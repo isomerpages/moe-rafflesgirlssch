@@ -6,11 +6,6 @@ third_nav_title: Alumnae Relations Office
 ---
 ## Alumnae Stories
 
-[story13](/files/Alyssa%20Marie%20Loo%20Li%20Ann_October%202018.pdf)<br>
-[story14](/files/Team%20Feroxidus_November%202018.pdf)<br>
-[story16](/files/Portrait%20of%20a%20Rafflesian%20-%20Growing%20Through%20the%20RGS%20Experience.pdf)
-
-
 <p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Grace%20Tern_November%202014.pdf">
 <img style="width:20%" align=left src="/images/story1.jpg">
 </a></p>
@@ -79,13 +74,15 @@ third_nav_title: Alumnae Relations Office
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.rgs.edu.sg/qql/slot/u1290/Alumnae%20Stories/Portrait%20of%20a%20Rafflesian_Attiya%20and%20Amelina.pdf">
+<p><a href="https://www.rgs.edu.sg/qql/slot/u1290/Alumnae%20Stories/Portrait%20of%20a%20Rafflesian%20-%20A%20Soul-Searching%20Journey%20of%20Self-Discovery.pdf">
 <img style="width:20%" align=left src="/images/story17.jpg">
 </a></p>
 
-<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Portrait%20of%20a%20Rafflesian%20-%20Growing%20Through%20the%20RGS%20Experience.pdf">
+<p><a href="https://www.rgs.edu.sg/qql/slot/u1290/Alumnae%20Stories/Portrait%20of%20a%20Rafflesian%20-%20Crowning%20Glory.pdf">
 <img style="width:20%" align=left src="/images/story18.jpg">
 </a></p>
 <br clear=left>
 
-**ATTIYA PDF exceeds 5MB**
+**ATTIYA PDF exceeds 5MB**<br>
+**GOH XIN RU PDF exceeds 5MB**<br>
+**NANDITA BANNA PDF exceeds 5MB**

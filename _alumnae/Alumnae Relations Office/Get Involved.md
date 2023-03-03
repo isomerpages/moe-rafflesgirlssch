@@ -30,5 +30,14 @@ Below are links of the students’ project:
 
 *   [An overview of the students’ project](https://drive.google.com/file/d/1KJUwhgS90LreVoEd99sM1HhOFZtFq4WI/view?usp=sharing) **LINK NOT FOUND**
 *   [Presentation on chatbot development](https://docs.google.com/presentation/d/1VfEbDObdkxUqZ0Guvuyg48glwVn5Uwj_0j06vafBmmE/edit?usp=sharing)  
- 
+
 If you have relevant expertise in the field of software development and are keen to support their project, do contact us at [aro@rafflesgirlssch.edu.sg](mailto:aro@rafflesgirlssch.edu.sg)/6970-6459.
+
+**3 \. Psychiatrists**<br>
+RGS has a long-standing culture of inquiry and advocacy. Recently, there has been an uptake on student teams within RGS who are passionate advocates of Mental Health. 
+
+We are seeking alumnae who are practising psychiatrists who can help advise and provide feedback on these students’ information products (e.g emailers). 
+
+If you have the relevant expertise and are keen to support this initiative, do contact us at [aro@rafflesgirlssch.edu.sg](mailto:aro@rafflesgirlssch.edu.sg)
+
+Keen to volunteer or collaborate with us in other ways? Contact us today at [aro@rafflesgirlssch.edu.sg](mailto:aro@rafflesgirlssch.edu.sg)/ 6790-6459

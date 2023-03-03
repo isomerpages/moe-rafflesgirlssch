@@ -118,3 +118,20 @@ _Note: Dates and events may be subject to change._
 |   | 3  | Thursday | Chic Chats 3, A Networking Event for RGS alumnae @ Sum Yi Tai, 25 Boon Tat Street  |
 |   |   |   |   |
 
+###### <center>2015</center>
+
+|   |   |   |   |
+|:-:|---|---|---|
+| November  | 26  | Thursday  | Chic Chats 2, A Networking Event for RGS alumnae, My Little Spanish Place, 54 Boat Quay  |
+| October  | 24  | Saturday  | SG50 Tea Party, by RGS Alumnae and ORA-RGS Chapter, Evelyn Norris Hall  |
+| August  | 27  | Thursday  | Chic Chats 1, A Networking Event for RGS alumnae, My Little Spanish Place, 54 Boat Quay  |
+| August  | 1  | Saturday  | Class of 1985, 30th Anniversary Reunion, Evelyn Norris Hall  |
+|   |   |   | Class of 1995, 20th Anniversary Reunion, RGS, KS Chee Theatre  |
+| July  | 25  | Saturday  | Class of 2005, 10th Anniversary Reunion, RGS, E Norris Hall  |
+| July  | 1  | Wednesday  | Wine Appreciation Night, Inaugural Fund Raiser, by RGS Alumnae  |
+| May  | 1  | Friday  | RGS Evergreen Lunch, Ban Heng Pavilion Restaurant, Harbourfront Centre #04-02  |
+| March  | 28  | Saturday  | ORA-RGS Chapter AGM, RGS, Cyber Learning Centre  |
+| January  | 31  | Saturday  | First Annual General Meeting of RGS Alumnae, RGS, K S Chee Theatre  |
+|   |   |   |   |
+
+###### <center>2014</center>

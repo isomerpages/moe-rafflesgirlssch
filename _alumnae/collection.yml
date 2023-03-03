@@ -2,4 +2,5 @@ collections:
   alumnae:
     output: true
     order:
+      - Alumnae Relations Office/Alumnae Relations Office.md
       - Alumnae Relations Office/.keep

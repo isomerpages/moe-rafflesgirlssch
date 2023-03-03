@@ -32,3 +32,13 @@ From 1 Jan 2023, the revised income criteria and benefits are as shown in the ta
 | $7,501 - $10,000  | $1,876 - $2,500  | 33% school and miscellaneous fees subsidy  |
 |   |   |   |
 
+---
+
+1Applicable for students enrolled in the International Baccalaureate Diploma Programme in Government-funded schools. Examination fees for GCE ‘O’ and ‘A’ levels have been waived for all Singapore Citizen students in Government-funded schools from 2015.  <br>
+^ GGAS fee comprises school fee, standard miscellaneous fee and maximum 2nd tier miscellaneous fee payable by Singapore Citizen students studying in GGAS.
+
+**Application Procedure**
+
+Singapore Citizen students who wish to apply for financial assistance are to complete the [Online Application for Financial Assistance](https://inet.rgs.edu.sg/parents/Pages/FAS.aspx) via the Parents Portal. Please ensure that the ISB application is accompanied by all relevant documents required by MOE.  
+  
+Applications may be made throughout the year as exigencies of each family’s financial situation demand. The bursary granted will take effect from the month the application is approved and <u>will not</u> be back-dated to January. All MOE ISB approved will be valid till December of the year. Fresh applications will have to be submitted for each school year.

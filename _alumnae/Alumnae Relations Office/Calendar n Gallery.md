@@ -112,14 +112,9 @@ _Note: Dates and events may be subject to change._
 | June  | 11  | Saturday  | Straight Talk by RGS Alumnae - Panel Discussion on Tech Entrepreneurship @ RGS, KS Chee Theatre  |
 | May  | 26  | Thursday  | Chic Chats 4, A Networking Event for RGS alumnae @ Kite, 53 Craig Road  |
 |   |  1 | Sunday  | RGS Evergreen Lunch, Happy Joy Restaurant, Hotel Royal  |
+| April  | 9  | Saturday  | Muesli & Muses 1 by RGS Alumnae - Breakfast with Chan Li Han @ Baker & Cook, 80 Middle Road  |
+| March  | 12  | Saturday |  RGS Alumnae 2nd AGM, RGS, KS Chee Theatre |
+|   | 5  |   | An Afternoon of Nostalgia by ORA-RGS Chapter  |
+|   | 3  | Thursday | Chic Chats 3, A Networking Event for RGS alumnae @ Sum Yi Tai, 25 Boon Tat Street  |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+

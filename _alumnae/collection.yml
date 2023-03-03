@@ -1,0 +1,4 @@
+collections:
+  alumnae:
+    output: true
+    order: []

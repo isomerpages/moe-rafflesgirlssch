@@ -18,13 +18,8 @@ third_nav_title: Alumnae Relations Office
 | April  | 18  | Sunday  | RGS-RGSA Project Well-Being in Support of CDE  |
 | July  | 3  | Saturday  | RGS Alumnae Financial Empowerment Webinar: _Rafflesian Start-Up Trailblazers_  |
 |   | 24  | Saturday  | RGS Alumnae Medical & Financial Planning Webinar: _Add Life to Your Years_  |
+| September  |   |   | _Grin & Bear It_ Photography Competition  |
+| October  | 17  | Sunday  | _What to know about Breast Cancer?_ Webinar  |
+| November  | 6  | Saturday  | Rafflesian Women's Conference 2021: _Igniting the Power Within_  |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+

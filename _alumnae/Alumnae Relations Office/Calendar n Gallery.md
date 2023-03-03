@@ -48,15 +48,11 @@ _Note: Dates and events may be subject to change._
 
 |   |   |   |   |
 |:-:|---|---|---|
+| August  | 17  | Saturday  |  Grand Homecoming, Anderson Road Campus |
+| May  | 1  | Wednesday  | Evergreen Lunch, Furama River Front Hotel  |
+| April  | 4  | Thursday  | Chic Chats 10, A Networking Event for RGS alumnae @ Empress Porridge, 1 Fusionopolis Place  |
+| March  | 30  | Saturday  | Class of 2009, 10th Anniversary Reunion, RGS, E Norris Hall  |
+| February  | 9  | Saturday  | Class of 1999, 20th Anniversary Reunion, RGS, E Norris Hall  |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+###### <center>2018</center>

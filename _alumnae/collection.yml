@@ -2,7 +2,6 @@ collections:
   alumnae:
     output: true
     order:
-      - RGS Alumnae.md
       - Alumnae Relations Office/.keep
       - Alumnae Relations Office/Alumnae Relations Office.md
       - Alumnae Relations Office/Calendar n Gallery.md
@@ -12,3 +11,4 @@ collections:
       - Alumnae Relations Office/Merchandise.md
       - Alumnae Relations Office/Contact Us & Reconnect.md
       - Alumnae Relations Office/Get Involved.md
+      - RGS Alumnae.md

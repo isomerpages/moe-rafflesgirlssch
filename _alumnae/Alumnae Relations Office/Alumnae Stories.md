@@ -62,11 +62,11 @@ third_nav_title: Alumnae Relations Office
 </a></p>
 <br clear=left>
 
-<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Mrs%20Ummu%20Choo_2017.pdf">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Alyssa%20Marie%20Loo%20Li%20Ann_October%202018.pdf">
 <img style="width:20%" align=left src="/images/story13.jpg">
 </a></p>
 
-<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Chan%20Hsi-Min_April%202017.pdf">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Team%20Feroxidus_November%202018.pdf">
 <img style="width:20%" align=left src="/images/story14.jpg">
 </a></p>
 
@@ -74,7 +74,7 @@ third_nav_title: Alumnae Relations Office
 <img style="width:20%" align=left src="/images/story15.jpg">
 </a></p>
 
-<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Mrs%20Alice%20John_June%202018.pdf">
+<p><a href="https://staging.d26afbzf7c2hhe.amplifyapp.com/files/Portrait%20of%20a%20Rafflesian%20-%20Growing%20Through%20the%20RGS%20Experience.pdf">
 <img style="width:20%" align=left src="/images/story16.jpg">
 </a></p>
 <br clear=left>

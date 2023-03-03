@@ -71,3 +71,21 @@ For the best things in life.
 
 #### 3) Filiae Melioris Aevi (composed by Caroline Sung, a choir pianist in the 1980s)
 
+Click [Here](/files/Score_Filiae.pdf) for Music Score to this song
+
+_“Mrs Chee Keng Soon (principal 1980-1988) fondly remembers this to be the favourite of the long-serving teacher in-charge of the choir, Mrs. Rathie Singam.” – RGS History Book – Daughters of a Better Age 1844-2006_
+
+Now as we remember <br>
+Strains of our school song <br>
+Call to mind our motto <br>
+Filiae Melioris Aevi
+
+Filiae Melioris Aevi <br>
+Daughters of a better age <br>
+United by a common goal <br>
+Filiae Melioris Aevi
+
+#### 4) Gaudeamus igitur \[Lyrics by C.W. Kindeleben\]
+
+_“is a popular song in educational institutions, mostly at university graduations. I believe that it was sung in RGS before the School Song was written. My most vivid memory of the song is when it was sung in the film "Student Prince" set at the University of Heidelberg.” - Mrs Carmee Lim (Principal 1988-1999)_
+

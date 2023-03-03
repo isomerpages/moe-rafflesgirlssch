@@ -23,3 +23,12 @@ Students who require financial aid at any point of time may approach [Student S
 **Income Criteria & Benefits**
 
 From 1 Jan 2023, the revised income criteria and benefits are as shown in the table below:
+
+| Monthly Gross Household Income  | Per Capita Income  | Benefits  |
+|:-:|---|---|
+| <br><br><br>Not exceeding $3,000  | <br><br><br>Not exceeding $750  | *   100% school and miscellaneous fees subsidy<br>*   Free textbooks and school attire (secondary); Annual bursary of $1,200 (pre-university)<br>*   Full subsidy for exam fees1<br>*   School meal subsidies at $3.50 per meal for 10 meals per school week (secondary)<br>*   Transport subsidy: $17 per month or up to $204 per annum  |
+| $3,001 - $4,400  | $751 - $1,100  | Receive fee subsidy such that students pay the equivalent of government and government-aided school (GGAS) fee^  |
+| $4,401 - $7,500  | $1,101 - $1,875  | Receive fee subsidy such that students pay the equivalent of 1.5x GGAS fee^  |
+| $7,501 - $10,000  | $1,876 - $2,500  | 33% school and miscellaneous fees subsidy  |
+|   |   |   |
+

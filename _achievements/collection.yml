@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2022/Regeneron International Science & Engineering Fair.md
       - 2022/.keep
       - 2022/Singapore Amazing Flying Machine Competition 2022.md
       - 2022/12th Regional Congress Search for SEAMEO Young Scientists.md

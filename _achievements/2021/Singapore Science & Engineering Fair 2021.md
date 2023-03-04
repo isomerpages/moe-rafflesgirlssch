@@ -16,10 +16,10 @@ Just as in 2020, SSEF 2021 took place virtually in lieu of safe distancing measu
 | Glenda Tan Hui En  <br>Goh Xin Ru Karin  <br>(Class of 2020)  | _Stool Recognition for Colorectal Cancer Detection through Deep Learning_  | Gold  <br>SUTD R&I Award: Healthcare  | Mr Shaun De Souza  |
 | Maggie Yao Chai Yinzhi  <br>Aw Si Yu  <br>(Class of 2020)  | _Supplementary DHA ameliorates motor and cognitive dysfunction in Drosophila melanogaster model of Alzheimer’s Disease_  | Silver  | Dr Lim Ai Khim  |
 | Tham Yun Xin  <br>(Class of 2020)  | _Quantification of Kinetic Friction Coefficient with Timoshenko_  | Silver  |  Ms Cheong Szu Chuang |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Alysa Lee Mynn  <br>(Year 4)  | _Cross-lingual Information Retrieval_  | Silver  | Mr Shaun De Souza  |
+| Hong Wan Jing  <br>Bay Kai Fen, Kylie  <br>Yvette Teo Jin Yin  <br>(Class of 2020)  | _Investigation of Lactobacillus casei in the Treatment of Parkinson’s Disease in the Nematode Model Caenorhabditis elegans_  | Bronze  <br>SUTD R&I Award: Healthcare  | Ms Carmen Hoo  |
+|  Lu Shiyi Rachel  <br>Sheryl Tay Ke Ying  <br>(Year 4) | _Elucidating the role of MAMDC2 in head and neck squamous cancer_  | Bronze  <br>SUTD R&I Award: Healthcare  | Ms Carmen Hoo  |
+| Wee Jie Minn Phoebe  <br>Sarah Wong Ee Min  <br>(Class of 2020)  | _Where Does the Signal Come From?_  | Merit  | Mr Shaun De Souza  |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |

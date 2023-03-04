@@ -18,3 +18,24 @@ As host of the SYPT this year, on top of mentoring their students, our team of P
   
 Congratulations to the teams, the teachers and student helpers for a job well done!
 
+<figure>
+<img src="/images/Category B.jpg" style="width:90%">
+<figcaption>  RGS Year 4 students (from left) Tan Min Min, Goh Rei En, Aislinn and Chen Xinwei Jessie clinched the Silver (4th) award in Category B of the Singapore Young Physicists' Tournament 2022.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/20220305_131838.jpg" style="width:90%">
+<figcaption> Our student helpers hard at work running the breakout sessions of the tournament, which was held over Zoom.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/SYPT 2022_Logo.png" style="width:90%">
+<figcaption>  The SYPT logo was designed by RGS alumna Chen Guo, who is currently in RI Year 5.
+ </figcaption>
+</figure>
+
+SYPT seeks to bring students through a process of what physicists do, from research to modelling, experimentation and finally to an oral defence before peers and experts. It provides authentic learning experiences in the learning of physics. Participants of the SYPT stand to represent Singapore in the International Young Physicists' Tournament. Traditionally held as a face-to-face competition, changes to the format of the tournament was made to adhere to prevailing safe management measures, where teams have to go through a full day of challenges held via Zoom.
+
+For more information on the Tournament, visit [https://syptiypt.wixsite.com/sypt](https://syptiypt.wixsite.com/sypt)

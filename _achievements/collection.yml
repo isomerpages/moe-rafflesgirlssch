@@ -1,5 +1,5 @@
 collections:
-  "2022":
+  achievements:
     output: true
     order:
       - Odyssey of the Mind 2022 Virtual World Finals.md

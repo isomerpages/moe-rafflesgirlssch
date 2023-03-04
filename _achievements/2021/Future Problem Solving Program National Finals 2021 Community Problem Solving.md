@@ -17,3 +17,4 @@ Congratulations to the following RGS Year 2 teams for their achievements at the 
 | **Project GenTECH**<br>  Hazel Tan Xuan Ting  <br>Chow Wing Hyun Gracelyn  <br>Chui Wing-Hsuen Chloe  <br>Lee Ze Pin Aretha  <br>Tian Yuhan  <br>Wang Siang Ning, Shannon  <br>Yu Jia Yun  <br>Zhong Ruoxi  | <br><br><br><br>Mr Yeo Puay Hong  |<br><br><br><br>Finalist   |
 |   |   |   |
 
+Future Problem Solving Program National Finals 2021 - CmPS bridges the gap between school and the real world. Students involved in CmPS learn powerful lessons about creating change, dealing with local authorities and organisations, and about making a positive impact.

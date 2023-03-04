@@ -26,6 +26,10 @@ Congratulations to our students-athletes, teachers and coaches for their followi
 | [Fencing](https://www.straitstimes.com/sport/schools/school-sports-ssp-fencers-on-point-in-b-division-fencing-competition)  | B<br>C  | 2nd<br>--  |
 | Netball  | B<br>C  | 1st (South Zone)  |
 | Rhythmic Gymnastics  | B<br>C  | 1st<br>1st  |
+| Sailing  | B<br>C  | No divisional championship<br>No divisional championship  |
+| Shooting - Air Rifle  | B<br>C  | 3rd<br>3rd  |
+| [Shooting - Air Pistol](https://www.straitstimes.com/sport/schools/school-sports-rgs-shooter-zhang-aiyan-rediscovers-her-form-to-win-air-pistol-gold)  | B<br>C  | 2nd<br>2nd  |
+| [Softball](https://www.straitstimes.com/sport/schools/school-sports-not-knowing-the-score-helps-methodist-girls-school-win-4th-straight-title)  | B<br>C  | 2nd<br>2nd  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -34,4 +38,6 @@ Congratulations to our students-athletes, teachers and coaches for their followi
 |   |   |   |
 |   |   |   |
 |   |   |   |
-
+|   |   |   |
+|   |   |   |
+|   |   |   |

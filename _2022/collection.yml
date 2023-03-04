@@ -1,4 +1,5 @@
 collections:
   "2022":
     output: true
-    order: []
+    order:
+      - Odyssey of the Mind 2022 Virtual World Finals.md

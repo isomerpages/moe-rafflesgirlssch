@@ -24,3 +24,15 @@ Find out more about each team's project from the write-ups below.
 **Project Mindflayer** advocates against cyberbullying against youths aged 13 to 17 in Singapore. Cyberbullying is an issue that is becoming increasingly prevalent in Singapore, with three in four youths being affected by it. In recent times, the global pandemic has forced structural changes in their learning environment and our youths have become more vulnerable to cyberbullying with increased curriculum and studying time spent online. This project aims to empower youths, both victims and bystanders, to take a stand against cyberbullying and deal with it appropriately and safely. Through its initiatives, the team hopes to increase the number of youths who are proactive and confident in deterring cyberbullying, so as to promote and establish a safer online environment for students in Singapore schools in the year 2020 and beyond.
 
 _Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%202021/Project%20Mindflayer/Project%20Mindflayer.pdf) for a closer look at the images below._ **PDF EXCEEDS 5MB**
+
+<img src="/images/future1.jpg" style="width:49%" align=left>
+<img src="/images/future2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/future3.jpg" style="width:49%" align=left>
+<img src="/images/future4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/future5.jpg" style="width:49%" align=left>
+<img src="/images/future6.jpg" style="width:49%" align=right>
+<br clear="left"><br>

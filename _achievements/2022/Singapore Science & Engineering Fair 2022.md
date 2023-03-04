@@ -35,3 +35,18 @@ In addition, two projects by RGS alumnae were awarded Gold Awards and selected t
 
 In the Junior Scientist category, there were a total of 42 projects, of which four were from RGS. The four teams performed very well, with two of the teams achieving Merit Awards.
 
+| Team Members  | Project Title  | Award  | Teacher-Mentor  |
+|:-:|---|---|---|
+|Tessa Yap, Nainika Gupta and Clarisse Chee Qian Ying  <br>(Year 3)   | Investigating the effect of adding antioxidants to kiwi juice under different temperatures on reducing the degradation of Vitamin C  | Final Judging: Certificate of Participation  <br><br>Video Presentation Category: Merit  | Ms Neo Yining and Mr Shaun De Souza  |
+|Maeve Teo Yuumi, Balireddy Hiranya Sai Priya and Rachel Goh Rui En  <br>(Year 3)   | Factors affecting the mode of nutrition of chlorella and the ability of chlorella to switch between its modes of nutrition  | Final Judging: Merit  <br><br>Video Presentation Category: Certificate of Participation  | Mr Chan Sau Siong  |
+|   |   |   |   |
+
+<figure>
+<img src="/images/Junior Sci Cat_2.png" style="width:90%">
+<figcaption> Our Year 3 students Tessa, Nainika and Clarisse presenting their project during the final judging.
+ </figcaption>
+</figure>
+
+SSEF is a national competition organised by the Ministry of Education, A\*STAR and Science Centre Singapore, and is affiliated to the prestigious Regeneron ISEF, which is regarded as the Olympics of science research competitions.  
+  
+Just as in 2021, SSEF 2022 took place virtually in lieu of safe distancing measures.

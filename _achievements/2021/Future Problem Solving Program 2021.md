@@ -59,5 +59,18 @@ _Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%20202
 
 **Project ImPETus** aims to cultivate a responsible mindset towards animal welfare in the community on the significance of responsible pet ownership and to see people actively cultivate responsible pet ownership habits in order to lower pet abandonment. The team plans to target the general population because there should not be a demographic bias for cultivating habits for pet ownership, but more efforts will be targeted at young and impressionable youths who are mature enough to understand, cultivate and practice responsible pet ownership.
 
-_Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%202021/Project%20ImPETus/Project%20ImPETus.pdf) for a closer look at the images below._ **PDF EXCEEDS 5MB**
+_Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%202021/Project%20ImPETus/Project%20ImPETus.pdf) for a closer look at the images below._ **PDF EXCEEDS 5MB** 
 
+<img src="/images/pet1.jpg" style="width:49%" align=left>
+<img src="/images/pet2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/pet3.jpg" style="width:49%" align=left>
+<img src="/images/pet4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/pet5.jpg" style="width:49%" align=left>
+<img src="/images/pet6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M6RSok1vLXg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

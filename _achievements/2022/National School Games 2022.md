@@ -30,14 +30,10 @@ Congratulations to our students-athletes, teachers and coaches for their followi
 | Shooting - Air Rifle  | B<br>C  | 3rd<br>3rd  |
 | [Shooting - Air Pistol](https://www.straitstimes.com/sport/schools/school-sports-rgs-shooter-zhang-aiyan-rediscovers-her-form-to-win-air-pistol-gold)  | B<br>C  | 2nd<br>2nd  |
 | [Softball](https://www.straitstimes.com/sport/schools/school-sports-not-knowing-the-score-helps-methodist-girls-school-win-4th-straight-title)  | B<br>C  | 2nd<br>2nd  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| [Squash](https://www.straitstimes.com/sport/schools/school-sports-raffles-girls-win-first-b-division-squash-title-since-2017)  <br>_(Watch the Squash 'B' Division Finals [here](https://circle.myactivesg.com/watch/national-school-games-squash-b-division-girls-final?hsLang=en)!)_  | B<br>C  | 1st<br>1st  |
+| [Swimming](https://www.straitstimes.com/sport/schools/school-sports-ri-dethrone-11-time-boys-b-division-swimming-champions-acsi?fbclid=IwAR3DjrBlPnfiAHja5Q61KYgE43CMRGzOXbJbGW8vCZM1bboy3TSiw8CQZuY)  | B<br>C  | 1st<br>2nd  |
+| Table Tennis  | B<br>C  | 1st (South Zone)<br>1st (South Zone)  |
+| [Tennis](https://www.straitstimes.com/sport/schools/school-sports-acsi-retain-b-division-tennis-title-rgs-win-first-trophy-since-2017)  <br>_(Watch the Tennis 'B' Division Finals [here](https://circle.myactivesg.com/watch/national-school-games-tennis-national-b-div-girls-finals?hsLang=en)!)_  | B<br>C  |  1st<br>2nd |
+| Track  | B<br>C  | 4th<br>--  |
+| Trampoline Gymnastics  | B<br>C  |  5th<br>3rd |
 |   |   |   |

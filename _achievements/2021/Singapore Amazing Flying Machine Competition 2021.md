@@ -21,3 +21,15 @@ Eventually, two RGS teams were shortlisted for the final round and Team The Soar
 <figcaption>  Team Era is made up of RGS Year 4 students (from left) Kong Kei-Lyn, Liu Jiajia, Kwee Kayli, Avanie Joshi and Tan Jingyu Axil. Here they are presenting their glider prototypes. The team was mentored by teacher Mr Tan Wei Lun.
  </figcaption>
 </figure>
+
+Watch the videos below to find out more about their gliders!
+
+**Team The Soaring Kiddos**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16_yy8ouWe8" title="SAFMC CAT-B-RGS-The Soaring Kiddos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Team Era**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jj85uDPNfUE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The SAFMC is an exciting and unique event organised by DSO National Laboratories and Science Centre Singapore, and supported by the Ministry of Defence.

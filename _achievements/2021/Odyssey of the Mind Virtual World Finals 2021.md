@@ -31,10 +31,10 @@ Watch this team's performance video [here](https://youtu.be/tDevhHj_tPg)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|
+| Year 2 Student:  <br>Dana Tan Kai Li  <br><br>Year 3 Students:  <br>Singh Janika Ajit Pal  <br>Maira Budiputri  <br>Dang Tran Minh Phuong  <br><br>Year 4 Students:  <br>Lai Hui Xin Seraphine Caitlin  <br>Lezann Lee  <br>Ng Hui Jun, Regina  | <br><br><br><br><br><br>Ms Regina Lee  | <br><br><br><br><br><br>Problem 3 - Classics... OMER and the Beanstalk  | <br><br><br><br><br><br>3  | <br><br><br><br><br><br>18th out of 56 teams  |
 |   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+Watch this team's performance video [here](https://youtu.be/iG7rx04NdfQ)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|

@@ -24,7 +24,7 @@ Watch this team's performance video [here](https://youtu.be/DZRSD1RNlvE)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|
-|   | Mr Samuel Chan  | Problem 2 - Virtual Odyssey  | 3  | 10th out of 51 teams  |
+|  Year 2 Student:  <br>Sara Yu-Lin Johnstone  <br><br>Year 3 Students:   <br>Siti Zahra Binte Fahrudin  <br>Tan En  <br>Liu Yiming  <br><br>Year 4 Students:  <br>Julia Amaryllis Joy Wang  <br>Trisha Walia  <br>Jin Xiaohan |<br><br><br><br><br> Mr Samuel Chan  |<br><br><br><br><br> Problem 2 - Virtual Odyssey  | <br><br><br><br><br>3  | <br><br><br><br><br>10th out of 51 teams  |
 |   |   |   |   |   |
 
 Watch this team's performance video [here](https://youtu.be/tDevhHj_tPg)!

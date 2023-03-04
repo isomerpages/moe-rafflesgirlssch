@@ -27,3 +27,6 @@ The annual International Elementz Fair, organised by Anderson Serangoon Junior C
 <img src="/images/inter2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
+<img src="/images/inter3.jpg" style="width:49%" align=left>
+
+_(From top left, clockwise) The teams of Bridgette, Siqi and Joie, and Clarice, Xinning and Veronica achieved a Gold award for their projects, while Jade, Sofia and Faith achieved the Silver award._

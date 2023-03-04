@@ -15,4 +15,10 @@ sections:
             url: a
           - title: Achievements
             url: a
+          - title: News & Events
+            url: a
+          - title: Alumnae News
+            url: a
+          - title: Svc Learning & Comm Outreach
+            url: a
 ---

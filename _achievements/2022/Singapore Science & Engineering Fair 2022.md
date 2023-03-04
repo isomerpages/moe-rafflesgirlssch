@@ -19,3 +19,19 @@ A total of 480 projects were entered for the main category of the Singapore Scie
 | Celeste Tan, Lim Kae Sophie and Ng Hui Jun Regina  <br>(Class of 2021)  | Communication antenna design on a portable device  | Participation  <br><br>SUTD Research and Innovation Award: Aviation  | Mr Shaun De Souza  |
 |   |   |   |   |
 
+<figure>
+<img src="/images/sci1.png" style="width:90%">
+<figcaption> Congratulations to our Year 4 students (from left) Tan Min Min, Gan Kah Shuen and Cheok Yin Jia for receiving the Silver Award as well as the SUTD Research and Innovation Award: Multi-Disciplinary for their project 'Information Gathering by Passive SONAR'.
+ </figcaption>
+</figure>
+
+In addition, two projects by RGS alumnae were awarded Gold Awards and selected to represent Singapore at the prestigious Regeneron International Science & Engineering Fair (ISEF) scheduled to be held from 7-13 May 2022.
+
+| Team Members  | Project Title  | Award  |
+|:-:|---|---|
+| Glenda Tan Hui En and Koay Tze Erhn  <br>(Class of 2020)  |  Anti-virus autobots: predicting deadlier virus variants for pandemic prevention through deep learning |  Gold |
+| Annika Liu Xinan  <br>(Class of 2020)  | Fabrication and evaluation of solid-state ion-selective electrodes for pH measurement  | Gold  |
+|   |   |   |
+
+In the Junior Scientist category, there were a total of 42 projects, of which four were from RGS. The four teams performed very well, with two of the teams achieving Merit Awards.
+

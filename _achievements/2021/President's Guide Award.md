@@ -12,6 +12,6 @@ The PGA is the highest level of achievement for a Guide and is given out by the 
 
 <figure>
 <img src="/images/president.jpeg" style="width:90%">
-<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+<figcaption> RGS recipients of the President's Guide Award 2021 with President Halimah Yacob (from left)  Long Shi-Min, Isabel, Nandhini Elangovan and Alisha Insyirah Binte Jasni.
  </figcaption>
 </figure>

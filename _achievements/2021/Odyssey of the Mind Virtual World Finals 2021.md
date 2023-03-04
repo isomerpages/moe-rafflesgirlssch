@@ -24,10 +24,10 @@ Watch this team's performance video [here](https://youtu.be/DZRSD1RNlvE)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|
+|   | Mr Samuel Chan  | Problem 2 - Virtual Odyssey  | 3  | 10th out of 51 teams  |
 |   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+Watch this team's performance video [here](https://youtu.be/tDevhHj_tPg)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|

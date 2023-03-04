@@ -38,10 +38,10 @@ Watch this team's performance video [here](https://youtu.be/iG7rx04NdfQ)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|
+| Year 3 Students:  <br>Archisha Jain  <br>Charlene Mak Xiu Ning  <br>Sharifah Romana Binte Wan Raihan  <br>Toh Rui Jun Rachel  <br><br>Year 4 Students:  <br>Huang Yuan-Ching  <br>Huang Xinrui  <br>Goh Sephine  | <br><br><br><br>Ms Magdalene Suey  | <br><br><br><br>Problem 4 - It's a Trap!  | <br><br><br><br>3  | <br><br><br><br>4th out of 23 teams  |
 |   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+Watch this team's performance video [here](https://youtu.be/enWEXpMVRvo)!
 
 OM 2021 Virtual World Finals took place between 30 April to 29 May, and similar to previous years, participating teams had to construct their solutions from scratch - write their script, build their sets, make their costumes and props, and perform. As the competition was held virtually, teams also had to film their performance instead of performing it live, come up with an explanation video and take part in the Spontaneous challenge virtually as well.
 

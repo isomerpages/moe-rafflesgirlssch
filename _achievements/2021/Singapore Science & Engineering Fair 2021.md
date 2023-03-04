@@ -32,3 +32,14 @@ Congratulations to all the teams and teacher-mentors for their excellent work in
   
 _Our RGS teams hard at work during the final online judging._
 
+<img src="/images/inno1.jpeg" style="width:49%" align=left>
+<img src="/images/inno2.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/inno3.jpeg" style="width:49%" align=left>
+<img src="/images/inno4.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/inno5.jpeg" style="width:49%" align=left>
+<img src="/images/inno6.jpeg" style="width:49%" align=right>
+<br clear="left"><br>

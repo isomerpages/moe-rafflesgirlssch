@@ -21,3 +21,5 @@ Two Year 4 school-based research project teams from RGS took part in the fair.
 <figcaption> From Left to Right: Sabrina Tong Ning En Sanjuana Jensine Dharmaraj, Selee Wele D/O Sanjay Wele
  </figcaption>
 </figure>
+
+Congratulations to all the teams and teacher-mentors for their good work!

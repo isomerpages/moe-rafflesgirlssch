@@ -36,3 +36,21 @@ _Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%20202
 <img src="/images/future5.jpg" style="width:49%" align=left>
 <img src="/images/future6.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dZyEsHvUiEo" title="MT-2118 Project Mindflayer Media Presentation IC2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**Project deVICE** advocates for the cultivation of healthy device usage habits in children aged 5-9. In normal times, the risk of addiction to electronic devices is high. The unprecedented onset of COVID-19 that resulted in quarantine measures has increased the likelihood of children growing increasingly reliant on their devices especially with the implementation of Home-Based Learning (HBL). Parents also heavily rely on devices to entertain their restless children at home. Hence, Project deVICE has found it imperative to continue with their project so that the team would be able to alert parents and caregivers to the danger of device addiction.
+
+_Click [here](http://www.rgs.edu.sg/qql/slot/u1290/Achievements/2021/FPSP%202021/Project%20deVICE/Project%20deVICE.pdf) for a closer look at the images below._ **PDF EXCEEDS 5MB**
+
+<img src="/images/pro1.jpg" style="width:49%" align=left>
+<img src="/images/pro2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/pro3.jpg" style="width:49%" align=left>
+<img src="/images/pro4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/pro5.jpg" style="width:49%" align=left>
+<img src="/images/pro6.jpg" style="width:49%" align=right>
+<br clear="left"><br>

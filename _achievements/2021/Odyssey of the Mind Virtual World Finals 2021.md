@@ -17,10 +17,10 @@ Watch this team's performance video [here](https://youtu.be/sRndopXQXHw)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|
+| Year 2 Students:  <br>Nabila Assyifa Najwa Rolan  <br>Peh Zhi Ning  <br>Lim Rae-En  <br>Lucia Znidaric  <br>Chee Rui Lin, Victoria  <br>Madupu Sanjana Reddy  <br>Pan Wan Ting Christina  | <br><br><br><br>Mrs Sulastiri Anis  |  <br><br><br><br>Problem 5 - Superhero Socks: A Cliffhanger Beginning |  <br><br><br><br>2 | <br><br><br><br>8th out of 84 teams  |
 |   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+Watch this team's performance video [here](https://youtu.be/DZRSD1RNlvE)!
 
 | Group Members  | Coach  | Problem  | Division  | Achievement  |
 |:-:|---|---|---|---|

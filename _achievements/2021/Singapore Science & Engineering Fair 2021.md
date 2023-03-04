@@ -10,6 +10,23 @@ The Singapore Science & Engineering Fair (SSEF) is a national competition organi
   
 Just as in 2020, SSEF 2021 took place virtually in lieu of safe distancing measures. A total of 470 projects were entered for the competition, of which 320 were shortlisted for the final judging on 31 March. RGS registered 24 projects for the competition, of which 19 were shortlisted for the final judging. Under the guidance of RGS teacher-mentors, the RGS projects achieved 2 Gold Awards, 3 Silver Awards, 2 Bronze Awards and 3 Merit Awards. 4 teams also received special awards for their projects:
 
+| Names of Students  |  Project Title | Award  | Teacher-Mentor  |
+|:-:|---|---|---|
+| Celyn Chng<br>Tay Li Ann<br>Low Iing<br>(Class of 2020)  | _Supplementation of Lactobacillus casei reduces 𝛃\-amyloid accumulation in Alzheimer Drosophila melanogaster_  | Gold  | Dr Lim Ai Khim  |
+| Glenda Tan Hui En  <br>Goh Xin Ru Karin  <br>(Class of 2020)  | _Stool Recognition for Colorectal Cancer Detection through Deep Learning_  | Gold  <br>SUTD R&I Award: Healthcare  | Mr Shaun De Souza  |
+| Maggie Yao Chai Yinzhi  <br>Aw Si Yu  <br>(Class of 2020)  | _Supplementary DHA ameliorates motor and cognitive dysfunction in Drosophila melanogaster model of Alzheimer’s Disease_  | Silver  | Dr Lim Ai Khim  |
+| Tham Yun Xin  <br>(Class of 2020)  | _Quantification of Kinetic Friction Coefficient with Timoshenko_  | Silver  |  Ms Cheong Szu Chuang |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 The school-based project ‘Supplementation of Lactobacillus casei reduces 𝛃-amyloid accumulation in Alzheimer Drosophila melanogaster’ has been selected to be one of six projects to represent Singapore at the Regeneron ISEF scheduled for the first week of May! SSEF judges were impressed with the passion of the team members and the extent of ownership they demonstrated during the final judging.  
   
 Spot the team members in the promotional video below:

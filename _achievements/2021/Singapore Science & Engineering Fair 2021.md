@@ -20,11 +20,10 @@ Just as in 2020, SSEF 2021 took place virtually in lieu of safe distancing measu
 | Hong Wan Jing  <br>Bay Kai Fen, Kylie  <br>Yvette Teo Jin Yin  <br>(Class of 2020)  | _Investigation of Lactobacillus casei in the Treatment of Parkinson’s Disease in the Nematode Model Caenorhabditis elegans_  | Bronze  <br>SUTD R&I Award: Healthcare  | Ms Carmen Hoo  |
 |  Lu Shiyi Rachel  <br>Sheryl Tay Ke Ying  <br>(Year 4) | _Elucidating the role of MAMDC2 in head and neck squamous cancer_  | Bronze  <br>SUTD R&I Award: Healthcare  | Ms Carmen Hoo  |
 | Wee Jie Minn Phoebe  <br>Sarah Wong Ee Min  <br>(Class of 2020)  | _Where Does the Signal Come From?_  | Merit  | Mr Shaun De Souza  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Sun Xiaoqing  <br>(Class of 2020)  | _Viscous flow around a bottle_  | Merit  | Ms Cheong Szu Chuang  |
+| Komati Reddy Nikhita  <br>(Year 4)  | _Determining feasibility of mixed integer linear programming problem by machine learning_  | Merit  | Mr Shaun De Souza  |
+| Bernice Chong Boon Yen  <br>(Class of 2020)  |  _Reliability Design and the In-Orbit Lifetime of Satellites_ |  Participation  <br>SUTD R&I Award: Aviation | Mr Shaun De Souza  |
+| Eddula Jyotsna Reddy  <br>Aina Afrina Binte Mohd Faizal  <br>Adeena Ansari  <br>(Year 4)  | _Investigating Methods of Producing Bioplastics and its Physical Properties with Different Amounts of HCI_  | Participation  <br>SAAS Special Award  | Ms Carmen Hoo  |
 |   |   |   |   |
 
 The school-based project ‘Supplementation of Lactobacillus casei reduces 𝛃-amyloid accumulation in Alzheimer Drosophila melanogaster’ has been selected to be one of six projects to represent Singapore at the Regeneron ISEF scheduled for the first week of May! SSEF judges were impressed with the passion of the team members and the extent of ownership they demonstrated during the final judging.  

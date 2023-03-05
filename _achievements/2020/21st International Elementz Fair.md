@@ -16,3 +16,7 @@ Despite the challenges faced due to COVID-19, five RGS Year 4 teams presented th
 | Joey Hoe Si-En  <br>Olivia Li Yingyue  |  A study of the effects of _Astragalus membranaceus_ root extracts on cell division in garlic roots |  Silver |
 | Celyn Chng  <br>Low Iing  <br>Tay Li Ann  | Lactobacillus casei improve locomotive functions of _Drosophila_  | Bronze  |
 |   |   |   |
+
+<img src="/images/21st International Elementz Fair.png" style="width:85%">
+
+The 21st International Elementz Fair is an annual event that is organised by Anderson Serangoon Junior College to promote Science, Technology, Engineering and Mathematics (STEM) for local and overseas students at the upper secondary and junior college levels. This event provides opportunities for budding young scientists to exchange views and experiences with local and overseas peers on their research projects.

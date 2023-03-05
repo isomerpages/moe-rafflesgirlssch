@@ -1,5 +1,4 @@
 collections:
   achievement:
     output: true
-    order:
-      - Achievement.md
+    order: []

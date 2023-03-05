@@ -2,12 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - 2020/.keep
-      - 2020/21st International Elementz Fair.md
-      - 2020/Future Problem Solving Program Virtual International Conference
-        2020.md
-      - 2020/International Mathematical Olympiad 2020.md
-      - 2020/Singapore Young Physicists' Tournament 2020.md
       - 2022/.keep
       - 2022/Singapore Amazing Flying Machine Competition 2022.md
       - 2022/12th Regional Congress Search for SEAMEO Young Scientists.md
@@ -47,3 +41,9 @@ collections:
       - 2021/Bahas 4PM 2021.md
       - 2021/Singapore Science & Engineering Fair 2021.md
       - 2021/Singapore Young Physicists’ Tournament 2021.md
+      - 2020/.keep
+      - 2020/21st International Elementz Fair.md
+      - 2020/Future Problem Solving Program Virtual International Conference
+        2020.md
+      - 2020/International Mathematical Olympiad 2020.md
+      - 2020/Singapore Young Physicists' Tournament 2020.md

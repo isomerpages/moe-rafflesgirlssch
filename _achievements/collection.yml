@@ -2,6 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - 2020/Future Problem Solving Program Virtual International Conference
+        2020.md
       - 2020/21st International Elementz Fair.md
       - 2020/.keep
       - 2022/.keep

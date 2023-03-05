@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2019/F1 in Schools World Finals 2019.md
       - 2019/International STEP Brain Camp 2019.md
       - 2019/.keep
       - 2022/.keep

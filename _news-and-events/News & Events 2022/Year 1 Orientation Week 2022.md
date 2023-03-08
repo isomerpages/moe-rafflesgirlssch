@@ -28,10 +28,10 @@ To the newest members of the RGS family, we hope that through the Orientation We
 <img src="/images/orien6.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/orien7.jpg" style="width:49%" align=left>
+<img src="/images/orien8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/orien9.jpg" style="width:49%" align=left>
+<img src="/images/orien10.jpg" style="width:49%" align=right>
 <br clear="left"><br>

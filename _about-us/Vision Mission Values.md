@@ -29,3 +29,8 @@ To develop fine character and well-being, nurture the intellect and fire the ima
 [aug](/files/rafflesaugust2012.pdf)<br>
 [june](/files/rafflesjune2012.pdf)<br>
 [feb](/files/rafflesfeb2012.pdf)
+
+2011<br>
+[oct](/files/rafflesoct2011.pdf)<br>
+[aug](/files/rafflesaugust2011.pdf)<br>
+[june](/files/rafflesjune2011.pdf)

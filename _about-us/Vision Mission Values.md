@@ -24,9 +24,4 @@ To develop fine character and well-being, nurture the intellect and fire the ima
 *   Pioneer who seeks opportunities and embraces challenges with courage to innovate for the common good.
 
 
-2013<br>
-[nov](/files/rafflesnovember2013.pdf)<br>
-[sep](/files/raffleseptember2013.pdf)<br>
-[july](/files/rafflesjul2013.pdf)<br>
-[may](/files/rafflesmay2013.pdf)<br>
-[feb](/files/rafflesfeb2013.pdf)
+2012<br>

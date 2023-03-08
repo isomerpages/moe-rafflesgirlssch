@@ -25,3 +25,11 @@ Ushering in the Year of the Tiger thanks to our amazing performers and the RGS L
 <img src="/images/lunar7.jpeg" style="width:49%" align=left>
 <img src="/images/lunar8.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
+
+We hope that everyone will have a roaring start to the Year of the Tiger. Hip hip '虎' (Hoo)-ray!
+
+<figure>
+<img src="/images/lunargif.jpg" style="width:90%">
+<figcaption> Designed by RGS Year 2 student Teng Zi Xi Therese from the Art & Craft Club.
+ </figcaption>
+</figure>

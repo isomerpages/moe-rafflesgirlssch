@@ -42,3 +42,8 @@ We do appeal to you to log into the webinar you wish to attend by using only **
 | <br><br><br><br><br><br>1045H-1130H  | **1B Meet our Students**  <br><br>_Find out from the students themselves about what they love about their school and how RGS has helped them grow as a person, thinker, leader and pioneer. They will share their personal RGS journeys in the curriculum and co-curriculum and much more._  | **2C Leadership & Service**  <br><br>_Meet the staff and find out more about how we develop leadership in our students and nurture in them a heart for advocacy and service. Find out more about Community Youth Leadership here._  | **3C Languages**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for the Mother Tongue languages, and how we develop students with a talent for these languages. Also, find out more about how we support students with learning a Third Language like French, German, Japanese, Arabic and so on._  |
 |   |   |   |   |
 
+| Timeslot  | Webinar Series 1  | Webinar Series 2  |  Webinar Series 3 |
+|:-:|---|---|---|
+| <br><br><br><br>1145H-1230H  | <br><br><br><br>-  | **2D Humanities**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for History, Geography and Inquiry & Advocacy, and how we develop students with a talent for the Humanities. Find out more about the Regional Studies Programme too._  | **3D  Co-Curricular Activities**  <br><br>_Meet the staff and find out more about how Co-Curricular Activities (CCA) develop in our students the knowledge and skills in and passion for their talent areas. All students grow their leadership skills, school spirit and firm friendships through their CCA experiences._  |
+|   |   |   |   |
+

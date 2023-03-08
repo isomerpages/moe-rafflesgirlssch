@@ -180,3 +180,13 @@ _Army Days (Year 3) - During the trip to the Singapore Discovery Centre, student
 <img src="/images/learning67.jpg" style="width:49%" align=left>
 <img src="/images/learning68.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Career Day (Year 4) - As part of the Education and Career Guidance programme in RGS, our Year 4s attended the virtual Career Day. Held over Zoom, the session offered our girls the opportunity to have conversations with professionals from different industries. The speakers shared on the importance of becoming active citizens and how they contribute to the social, regional and global development, through the respective careers they have chosen to pursue. Through the event, our students can make a more informed choice about their future academic and career journeys._
+
+<img src="/images/learning69.jpg" style="width:49%" align=left>
+<img src="/images/learning70.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning71.jpg" style="width:49%" align=left>
+<img src="/images/learning72.jpg" style="width:49%" align=right>
+<br clear="left"><br>

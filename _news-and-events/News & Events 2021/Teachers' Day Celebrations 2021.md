@@ -33,3 +33,14 @@ _<center>Our dear support staff!</center>_
 
 We would also like to give a special shoutout to Parents for RGS Association (PRGS) Exco for preparing a sumptuous Staff Appreciation Day Lunch for the school staff, complete with customised cupcakes and an eco-friendly door gift, as well as RGS Alumnae (RGSA) Exco for sending over an exquisite flower arrangement accompanied by a lovely Thank You note for the RGS Staff.
 
+<img src="/images/s4.jpeg" style="width:49%" align=left>
+<img src="/images/s5.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/s61.jpeg" style="width:49%" align=left>
+
+_(Clockwise from top left) Our PRGS Exco members who came down to help out with the event, Surprise door gifts and mouthwatering cupcakes on standby, A lovely flower arrangement courtesy of RGSA_
+
+<br clear=left>
+
+Once again, Happy Teachers’ Day to all teaching staff! Your dedication towards nurturing Daughters of a Better Age is truly unparalleled.

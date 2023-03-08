@@ -169,14 +169,14 @@ _Building Singapore (Year 3) - Students embarked on a guided tour at Gardens by 
 
 _Army Days (Year 3) - During the trip to the Singapore Discovery Centre, students learned more about the importance of national defence and even got to sample some of the latest SAF combat rations. They also went on a SAFTI MI bus tour and were introduced to some of the key landmarks within the compound. Through these various activities, students were able to better appreciate the need for a strong SAF to protect the country._
 
-<img src="/images/learning55.jpg" style="width:49%" align=left>
-<img src="/images/learning56.jpg" style="width:49%" align=right>
+<img src="/images/learning63.jpg" style="width:49%" align=left>
+<img src="/images/learning64.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/learning57.jpg" style="width:49%" align=left>
-<img src="/images/learning58.jpg" style="width:49%" align=right>
+<img src="/images/learning65.jpg" style="width:49%" align=left>
+<img src="/images/learning66.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/learning59.jpg" style="width:49%" align=left>
-<img src="/images/learning60.jpg" style="width:49%" align=right>
+<img src="/images/learning67.jpg" style="width:49%" align=left>
+<img src="/images/learning68.jpg" style="width:49%" align=right>
 <br clear="left"><br>

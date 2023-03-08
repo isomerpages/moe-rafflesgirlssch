@@ -26,3 +26,7 @@ No registration is needed and admission is on a **'first-come-first-served'** 
   
 We do appeal to you to log into the webinar you wish to attend by using only **one device** so that more visitors can join us for each webinar.
 
+| Timeslot  | Webinar Series 1  | Webinar Series 2  |  Webinar Series 3 |
+|:-:|---|---|---|
+| <br><br><br><br>0830H-0915H  | <br><br><br><br>-  | <br>**2A  Mathematics**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for Mathematics, and how we develop students with a talent for the subject._  |  **3A  English Language & Literature** <br><br> _Meet the staff and find out more about the teaching and learning approaches for English Language & Literature, and how we develop students with a talent for the subjects._ |
+|   |   |   |   |

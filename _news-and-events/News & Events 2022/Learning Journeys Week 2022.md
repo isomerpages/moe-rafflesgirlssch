@@ -51,3 +51,17 @@ _Heritage Trails at Fort Canning (Year 1) - Fort Canning (Bukit Larangan) is a s
 <img src="/images/learning15.jpg" style="width:49%" align=left>
 <img src="/images/learning16.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Farm in the City (Year 1) - Our Year 1s visited the Kok Fah Technology Farm, where they got a closer look at how the urban farm incorporates advanced agricultural systems and technologies into its operations. They also had a chance to tour the Greenhouse and the Farmer's Market, where freshly harvested local produce were sold._
+
+<img src="/images/learning17.jpg" style="width:49%" align=left>
+<img src="/images/learning18.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning19.jpg" style="width:49%" align=left>
+<img src="/images/learning20.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning21.jpg" style="width:49%" align=left>
+<img src="/images/learning22.jpg" style="width:49%" align=right>
+<br clear="left"><br>

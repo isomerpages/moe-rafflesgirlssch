@@ -35,3 +35,9 @@ A registered association since 2003, the Parents for RGS (PRGS) Association prov
 | 19  | Hon Auditor  | Dr Tan Wei Ching  |
 | 20  | Hon Auditor  |  Mr Gerald Ng Khim Teck |
 |   |   |   |
+
+Congratulations and a warm welcome to all the appointees including new Exco Members Ms Cara Chan, Ms Ong Ee-Sze, Mr A Rajadurai, Mr Tay Jia Sheng, Ms Winny Yap, Ms Cindy Goh, Mr Tan Boon Siong and Auditor Mr Gerald Ng, as well as heartfelt thanks to all members of the 19th Exco led by Chairperson Ms Sharon Lim Hui Mien and Vice-chairperson Mr Marcus Chan Yew Choe for the close collaboration forged with the school in improving the learning and development of our RGS girls.  
+  
+Congratulations, too, to Mr Daniel Tan Tze Hui and Mrs Koh Su San on being elected Chairperson and Vice-chairperson of the 20th Exco.
+
+<img src="/images/PRGS 20th Executive Commitee1.jpg" style="width:85%">

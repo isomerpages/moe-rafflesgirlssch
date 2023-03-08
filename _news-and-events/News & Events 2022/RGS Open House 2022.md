@@ -19,3 +19,10 @@ View our [e-brochure](https://drive.google.com/file/d/1aoCMvmNAdwlPBMwDusjz5dmE
 <p><a href="https://drive.google.com/drive/folders/1NmNYpZBoKWRrlMJh9pF0Ysj7VWWj6gbX">
 <img style="width:25%" src="/images/open-hse.png">
 </a></p>
+
+**OPEN HOUSE MICROSITE**  
+Visit our Open House [Microsite](http://www.rgs.edu.sg/rgsoh2022) from **12 November 2022** to find out more about the RGS Experience and explore the campus through a 360 degree virtual tour.
+
+For more details on the Open House, do follow our RGS Instagram @raffles\_girls\_school and @RGSOH'22. For enquiries, please email [rgss@moe.edu.sg](mailto:rgss@moe.edu.sg)  
+
+We look forward to seeing you at our upcoming Open House!

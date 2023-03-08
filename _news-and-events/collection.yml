@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - The Raffles Wave/.keep
-      - The Raffles Wave/2011.md
       - The Raffles Wave/2022.md
       - The Raffles Wave/2021.md
       - The Raffles Wave/2020  Term 3n4.md
@@ -16,5 +15,6 @@ collections:
       - The Raffles Wave/2014.md
       - The Raffles Wave/2013.md
       - The Raffles Wave/2012.md
+      - The Raffles Wave/2011.md
       - News & Events 2022/.keep
       - News & Events 2022/RGS Open House 2022.md

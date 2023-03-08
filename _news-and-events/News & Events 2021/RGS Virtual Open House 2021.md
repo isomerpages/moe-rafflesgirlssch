@@ -47,3 +47,10 @@ We do appeal to you to log into the webinar you wish to attend by using only **
 | <br><br><br><br>1145H-1230H  | <br><br><br><br>-  | **2D Humanities**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for History, Geography and Inquiry & Advocacy, and how we develop students with a talent for the Humanities. Find out more about the Regional Studies Programme too._  | **3D  Co-Curricular Activities**  <br><br>_Meet the staff and find out more about how Co-Curricular Activities (CCA) develop in our students the knowledge and skills in and passion for their talent areas. All students grow their leadership skills, school spirit and firm friendships through their CCA experiences._  |
 |   |   |   |   |
 
+We hope you will find the information that will be shared useful in finding out more about RGS, and in helping you make RGS your secondary school of choice.
+
+**Past webinar from Open House 1**
+
+<center>Watch the video below for a sharing by RGS alumna Ms Freda Mah (RGS Class of 2014) during the webinar as she talks about how her RGS experience has empowered her to live out the school's motto, Filiae Melioris Aevi or Daughters of a Better Age - Young women who are thinkers, leaders and pioneers, committed to living meaningful lives and serving communities.</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNANtkqV73U" title="Sharing by Ms Freda Mah (RGS Class of 2014) on her RGS Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

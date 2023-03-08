@@ -4,3 +4,25 @@ permalink: /news-and-events/News-and-Events-2021/vop/
 description: ""
 third_nav_title: News & Events 2021
 ---
+## RGS Virtual Open House 2021
+
+<img src="/images/RGS Open House 2021 - ePoster Updated Oct 26 2021.jpg" style="width:85%">
+
+Visit our Virtual Open House Microsite ([www.rgs.edu.sg/rgsoh2021](http://www.rgs.edu.sg/rgsoh2021)) from **19 Nov to 6 Dec 2021**!
+
+You don't have to register for this virtual visit. All are welcome!  
+  
+Besides learning more about RGS and the Raffles Programme, you can watch videos to get a 'glimpse' of school activities and events, and 'feel' the school culture and hear what the staff and students have to say about their experiences in RGS. Also, go on a virtual 360 school tour of our Braddell Campus!
+
+#### Participate in our Webinars!
+
+###### <center>Thank you for your participation in our webinars!<br><br>Watch the video below for an overview of the RGS Experience that was presented by our Principal during the webinar.</center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ztOzDBmv-88" title="RGS Virtual Open House 2021 - Principal&#39;s Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+On **20 November (Saturday)**, from **8.30am-12.30pm**, participate in any of our 10 webinars with our Principal, Deputy Principals, staff and students.  
+  
+No registration is needed and admission is on a **'first-come-first-served'** basis that will close once all places are taken up. Do take note of the correct webinar code for the webinar you wish to attend and log in **10 minutes before the start time** for each webinar.  
+  
+We do appeal to you to log into the webinar you wish to attend by using only **one device** so that more visitors can join us for each webinar.
+

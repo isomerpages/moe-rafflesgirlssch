@@ -119,3 +119,13 @@ _International Costal Cleanup Singapore (Year 2) - Students spent the morning at
 <img src="/images/learning43.jpg" style="width:49%" align=left>
 <img src="/images/learning44.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Civic District (Year 2) - Students visited the Civic District (including the National Gallery). Despite the wet weather faced by some of the classes, they were still able to visit the Raffles Statue, which allowed them to explore different perspectives of the Singaporean Identity and what it means to be Singaporean._
+
+<img src="/images/learning45.jpg" style="width:49%" align=left>
+<img src="/images/learning46.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning47.jpg" style="width:49%" align=left>
+<img src="/images/learning48.jpg" style="width:49%" align=right>
+<br clear="left"><br>

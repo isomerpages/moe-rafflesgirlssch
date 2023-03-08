@@ -41,3 +41,13 @@ _Singapore's Water Story (Year 1) - At Bishan-AMK Park, our Year 1 students spen
 <img src="/images/learning11.jpg" style="width:49%" align=left>
 <img src="/images/learning12.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Heritage Trails at Fort Canning (Year 1) - Fort Canning (Bukit Larangan) is a significant site in Singapore's history. Along the trail, our girls conducted a mini historical investigation to uncover more about Singapore's past and over 700 years of heritage._
+
+<img src="/images/learning13.jpg" style="width:49%" align=left>
+<img src="/images/learning14.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning15.jpg" style="width:49%" align=left>
+<img src="/images/learning16.jpg" style="width:49%" align=right>
+<br clear="left"><br>

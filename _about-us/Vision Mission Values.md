@@ -23,11 +23,6 @@ To develop fine character and well-being, nurture the intellect and fire the ima
 *   Thinker who demonstrates a disposition for reflective and flexible thinking, and is willing to take intellectual risks, especially in the face of complex and ambiguous situations.
 *   Pioneer who seeks opportunities and embraces challenges with courage to innovate for the common good.
 
-[nov](/files/Raffles%20Wave_November%202016.pdf)<br>
-[feb](/files/Raffles%20Wave_February%202016.pdf)<br>
-[april](/files/Raffles%20Wave_April%202016.pdf)<br>
-[june](/files/Raffles%20Wave_June%202016.pdf)<br>
-[sep](/files/Raffles%20Wave_September%202016.pdf)
 
 2015<br>
 [feb](/files/Raffles%20Wave_February%202015.pdf)<br>

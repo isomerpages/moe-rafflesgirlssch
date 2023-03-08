@@ -16,22 +16,22 @@ To find out more about what went on during HUSH-STEM Week 2022, follow [@rgshus
   
 Held annually, HUSH-STEM Week at RGS aims to enable students to understand the multidisciplinary and interdisciplinary nature of STEM disciplines in the real world, as well as to develop greater civic-consciousness in the local and global context.
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/hush1.jpg" style="width:49%" align=left>
+<img src="/images/hush2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/hush3.jpg" style="width:49%" align=left>
+<img src="/images/hush4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/hush5.jpg" style="width:49%" align=left>
+<img src="/images/hush6.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/hush7.jpg" style="width:49%" align=left>
+<img src="/images/hush8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/hush9.jpg" style="width:49%" align=left>
+<img src="/images/hush10.jpg" style="width:49%" align=right>
 <br clear="left"><br>

@@ -105,3 +105,17 @@ _Malaysian Traditions and Culture (Year 2) - Our students learned more about Mal
 <img src="/images/learning37.jpg" style="width:49%" align=left>
 <img src="/images/learning38.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_International Costal Cleanup Singapore (Year 2) - Students spent the morning at East Coast Park collecting, analysing and disposing beach litter as part of the International Coastal Cleanup Singapore. Through this exercise, they contributed to a larger goal in environmental conservation and played a part in keeping our beaches litter free._
+
+<img src="/images/learning39.jpg" style="width:49%" align=left>
+<img src="/images/learning40.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning41.jpg" style="width:49%" align=left>
+<img src="/images/learning42.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning43.jpg" style="width:49%" align=left>
+<img src="/images/learning44.jpg" style="width:49%" align=right>
+<br clear="left"><br>

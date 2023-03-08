@@ -160,3 +160,23 @@ _At Insectta, our Year 3s were exposed to an urban insect farm and the push for 
 <img src="/images/learning59.jpg" style="width:49%" align=left>
 <img src="/images/learning60.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Building Singapore (Year 3) - Students embarked on a guided tour at Gardens by the Bay, in appreciation of the plan to evolve Singapore into a City in a Garden. Through this, they were introduced to the creative use of design in long-term environmental conservation and sustainability._
+
+<img src="/images/learning61.jpg" style="width:49%" align=left>
+<img src="/images/learning62.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_Army Days (Year 3) - During the trip to the Singapore Discovery Centre, students learned more about the importance of national defence and even got to sample some of the latest SAF combat rations. They also went on a SAFTI MI bus tour and were introduced to some of the key landmarks within the compound. Through these various activities, students were able to better appreciate the need for a strong SAF to protect the country._
+
+<img src="/images/learning55.jpg" style="width:49%" align=left>
+<img src="/images/learning56.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning57.jpg" style="width:49%" align=left>
+<img src="/images/learning58.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning59.jpg" style="width:49%" align=left>
+<img src="/images/learning60.jpg" style="width:49%" align=right>
+<br clear="left"><br>

@@ -200,3 +200,23 @@ _IDE(A)s for Good (Year 4) - Students got to explore the IDE(A)S Lab, which is S
 <img src="/images/learning75.jpg" style="width:49%" align=left>
 <img src="/images/learning76.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Discovering Singapore's Sports Scene (Year 4) - Students embarked on a guided walking tour around the Singapore Sports Hub to discover its world-class facilities. Unique experiences included sitting inside an empty National Stadium, as well as gaining backstage access into some of the exclusive rooms inside. A sharing by the National Youth Sports Institute also got our students to better appreciate the nation's efforts in building a sporting culture to meet the aspirations of our people and into making Singapore a sporting nation._
+
+<img src="/images/learning77.jpg" style="width:49%" align=left>
+<img src="/images/learning78.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning79.jpg" style="width:49%" align=left>
+<img src="/images/learning80.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning81.jpg" style="width:49%" align=left>
+<img src="/images/learning82.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_Raffles Policy Dialogue (Year 4) - We welcomed over 170 students from more than 40 different schools to take part in discussions on the topic of gender equality as part of the Raffles Policy Dialogue this year. The invited speakers, Professor Jessica Pan, Associate Professor and Dean's Chair, Department of Economics, National University of Singapore, Ms Patricia Liu, Chief of Staff, Razer Inc. and Mr Alvin Goh , Director, Ministry of Social and Family Development, shared their opinions and experiences. Students were also able to engage with the speakers directly, and important questions were addressed and subsequently discussed during the student breakout sessions. Despite the dialogue being held virtually, participants were eager to contribute, allowing for a variety of perspectives on the topic on hand._
+
+<img src="/images/learning83.jpg" style="width:49%" align=left>
+<img src="/images/learning84.jpg" style="width:49%" align=right>
+<br clear="left"><br>

@@ -16,3 +16,22 @@ The week-long programme culminated in the Year 1 Orientation Concert, with each 
   
 To the newest members of the RGS family, we hope that through the Orientation Week programme, you have had the opportunity to make new friends, forge bonds with the people you have interacted with, and have started feeling more at home, and most importantly, we hope that you are excited to embark on your very own RGS experience!
 
+<img src="/images/orien1.jpg" style="width:49%" align=left>
+<img src="/images/orien2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/orien3.jpg" style="width:49%" align=left>
+<img src="/images/orien4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/orien5.jpg" style="width:49%" align=left>
+<img src="/images/orien6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>

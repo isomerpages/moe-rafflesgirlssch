@@ -136,3 +136,27 @@ Our students visited East Coast Park and carried out a geographical data collect
 <img src="/images/learning49.jpg" style="width:49%" align=left>
 <img src="/images/learning50.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_They also got up-close and personal with various rescued animals at ACRES. Through the sharing from the staff, they were able to understand first-hand and emphathise with efforts to rescue animals from poachers and the likes._
+
+<img src="/images/learning51.jpg" style="width:49%" align=left>
+<img src="/images/learning52.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning53.jpg" style="width:49%" align=left>
+<img src="/images/learning54.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_At Insectta, our Year 3s were exposed to an urban insect farm and the push for a more sustainable management of food waste in Singapore. They were introduced to the Black Soldier Fly (Hermetia illucens) and learnt how this tiny creature is currently making waves in the food waste industry._
+
+<img src="/images/learning55.jpg" style="width:49%" align=left>
+<img src="/images/learning56.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning57.jpg" style="width:49%" align=left>
+<img src="/images/learning58.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning59.jpg" style="width:49%" align=left>
+<img src="/images/learning60.jpg" style="width:49%" align=right>
+<br clear="left"><br>

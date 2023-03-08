@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - News & Events 2022/.keep
       - The Raffles Wave/2011.md
       - The Raffles Wave/.keep
       - The Raffles Wave/2022.md

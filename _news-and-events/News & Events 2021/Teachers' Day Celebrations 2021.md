@@ -23,3 +23,13 @@ The theme for this year’s Teacher Day Celebrations was Colour My World, which 
 <br clear="left"><br>
 
 Numerous awards were given out as well, including appreciation notes to respective groups of non-teaching staff, [RGS Staff Awards](/files/RGS%20Staff%20Awards%202020%20webver.pdf) as well as the National Day Awards 2021.
+
+<img src="/images/s1.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/s2.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/s3.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
+
+_<center>Our dear support staff!</center>_
+
+We would also like to give a special shoutout to Parents for RGS Association (PRGS) Exco for preparing a sumptuous Staff Appreciation Day Lunch for the school staff, complete with customised cupcakes and an eco-friendly door gift, as well as RGS Alumnae (RGSA) Exco for sending over an exquisite flower arrangement accompanied by a lovely Thank You note for the RGS Staff.
+

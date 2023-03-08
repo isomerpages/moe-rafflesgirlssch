@@ -190,3 +190,13 @@ _Career Day (Year 4) - As part of the Education and Career Guidance programme in
 <img src="/images/learning71.jpg" style="width:49%" align=left>
 <img src="/images/learning72.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_IDE(A)s for Good (Year 4) - Students got to explore the IDE(A)S Lab, which is Singapore's first purpose-driven start-up incubator to fight against climate change. Students got to develop empathy in considering the needs of others and the steps they can take in addressing social and environmental needs through various innovations._
+
+<img src="/images/learning73.jpg" style="width:49%" align=left>
+<img src="/images/learning74.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning75.jpg" style="width:49%" align=left>
+<img src="/images/learning76.jpg" style="width:49%" align=right>
+<br clear="left"><br>

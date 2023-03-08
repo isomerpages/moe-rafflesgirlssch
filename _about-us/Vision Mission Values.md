@@ -28,3 +28,9 @@ To develop fine character and well-being, nurture the intellect and fire the ima
 [april](/files/Raffles%20Wave_April%202016.pdf)<br>
 [june](/files/Raffles%20Wave_June%202016.pdf)<br>
 [sep](/files/Raffles%20Wave_September%202016.pdf)
+
+2015<br>
+[feb](/files/Raffles%20Wave_February%202015.pdf)<br>
+[apr](/files/Raffles%20Wave_April%202015.pdf)<br>
+[june](/files/Raffles%20Wave_June%202015.pdf)<br>
+[aug](/files/Chew%20Chia%20Shao%20Wei_August%202015.pdf)

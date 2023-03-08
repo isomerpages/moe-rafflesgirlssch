@@ -30,3 +30,9 @@ We do appeal to you to log into the webinar you wish to attend by using only **
 |:-:|---|---|---|
 | <br><br><br><br>0830H-0915H  | <br><br><br><br>-  | <br>**2A  Mathematics**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for Mathematics, and how we develop students with a talent for the subject._  |  **3A  English Language & Literature** <br><br> _Meet the staff and find out more about the teaching and learning approaches for English Language & Literature, and how we develop students with a talent for the subjects._ |
 |   |   |   |   |
+
+| Timeslot  | Webinar Series 1  | Webinar Series 2  |  Webinar Series 3 |
+|:-:|---|---|---|
+| <br><br><br><br>0930H-1030H  | **1A The RGS Experience**  <br><br>_Meet our Principal and Deputy Principals and find out more about the RGS Experience. Get a good overview of what the school does to achieve its mission._  | <br><br><br><br>-  |<br><br><br><br> -  |
+| <br><br><br><br>0930H-1015H  |<br><br><br><br> -  |  **2B Aesthetics**  <br><br>_Meet the staff and find out more about the teaching and learning approaches to Aesthetics subjects: Music and Art, and how we develop students with a talent for these subjects._ | **3B  Sciences** <br><br>_Meet the staff and find out more about the teaching and learning approaches for Chemistry, Physics and Biology, and how we develop students with a talent for Science._  |
+|   |   |   |   |

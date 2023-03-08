@@ -84,3 +84,24 @@ For the Year 2s, they embarked on the Regional Immersion and Community Explorati
   
 _National Museum (Year 2) - Students visited the National Museum to learn how to make connections between the different groups of people in Singapore's history. They also gained sociocultural intelligence, which will aid them in navigating a highly diverse world in the future._
 
+<img src="/images/learning29.jpg" style="width:49%" align=left>
+<img src="/images/learning30.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning31.jpg" style="width:49%" align=left>
+<img src="/images/learning32.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning33.jpg" style="width:49%" align=left>
+<img src="/images/learning34.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_Malaysian Traditions and Culture (Year 2) - Our students learned more about Malaysian traditions and kampung life by conversing with Malaysian tour guides. They also learned a Malaysian traditional craft! It was a fun-filled session where Malaysian traditions and kampung life were brought to life._
+
+<img src="/images/learning35.jpg" style="width:49%" align=left>
+<img src="/images/learning36.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning37.jpg" style="width:49%" align=left>
+<img src="/images/learning38.jpg" style="width:49%" align=right>
+<br clear="left"><br>

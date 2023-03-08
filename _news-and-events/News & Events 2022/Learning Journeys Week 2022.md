@@ -129,3 +129,10 @@ _Civic District (Year 2) - Students visited the Civic District (including the Na
 <img src="/images/learning47.jpg" style="width:49%" align=left>
 <img src="/images/learning48.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Advocacy in Singapore (Year 3)  
+Our students visited East Coast Park and carried out a geographical data collection exercise, helping them better understand the interactions between humans and the natural environment._
+
+<img src="/images/learning49.jpg" style="width:49%" align=left>
+<img src="/images/learning50.jpg" style="width:49%" align=right>
+<br clear="left"><br>

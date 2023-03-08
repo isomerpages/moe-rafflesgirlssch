@@ -30,14 +30,14 @@ _Walking Tour (all levels) - Students embarked on a walking tour around Braddell
 
 _Singapore's Water Story (Year 1) - At Bishan-AMK Park, our Year 1 students spent their morning exploring different parts of the park to learn how it contributes to Singapore's efforts to achieve self-sufficiency in her water resources. Nestled in the heartlands, the park also serves as an important community space for social bonding and is a picturesque space for many to jog or play sports at!_
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/learning7.jpg" style="width:49%" align=left>
+<img src="/images/learning8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/learning9.jpg" style="width:49%" align=left>
+<img src="/images/learning10.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/learning11.jpg" style="width:49%" align=left>
+<img src="/images/learning12.jpg" style="width:49%" align=right>
 <br clear="left"><br>

@@ -36,3 +36,9 @@ We do appeal to you to log into the webinar you wish to attend by using only **
 | <br><br><br><br>0930H-1030H  | **1A The RGS Experience**  <br><br>_Meet our Principal and Deputy Principals and find out more about the RGS Experience. Get a good overview of what the school does to achieve its mission._  | <br><br><br><br>-  |<br><br><br><br> -  |
 | <br><br><br><br>0930H-1015H  |<br><br><br><br> -  |  **2B Aesthetics**  <br><br>_Meet the staff and find out more about the teaching and learning approaches to Aesthetics subjects: Music and Art, and how we develop students with a talent for these subjects._ | **3B  Sciences** <br><br>_Meet the staff and find out more about the teaching and learning approaches for Chemistry, Physics and Biology, and how we develop students with a talent for Science._  |
 |   |   |   |   |
+
+| Timeslot  | Webinar Series 1  | Webinar Series 2  |  Webinar Series 3 |
+|:-:|---|---|---|
+| <br><br><br><br><br><br>1045H-1130H  | **1B Meet our Students**  <br><br>_Find out from the students themselves about what they love about their school and how RGS has helped them grow as a person, thinker, leader and pioneer. They will share their personal RGS journeys in the curriculum and co-curriculum and much more._  | **2C Leadership & Service**  <br><br>_Meet the staff and find out more about how we develop leadership in our students and nurture in them a heart for advocacy and service. Find out more about Community Youth Leadership here._  | **3C Languages**  <br><br>_Meet the staff and find out more about the teaching and learning approaches for the Mother Tongue languages, and how we develop students with a talent for these languages. Also, find out more about how we support students with learning a Third Language like French, German, Japanese, Arabic and so on._  |
+|   |   |   |   |
+

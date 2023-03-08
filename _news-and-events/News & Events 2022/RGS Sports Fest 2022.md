@@ -34,6 +34,18 @@ Held on campus, the event, meticulously planned by the PE Department, saw both s
 <img src="/images/sport12.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/sport7.jpg" style="width:49%" align=left>
-<img src="/images/sport8.jpg" style="width:49%" align=right>
+<img src="/images/sport13.jpg" style="width:49%" align=left>
+<img src="/images/sport14.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/sport15.jpg" style="width:49%" align=left>
+<img src="/images/sport16.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/sport17.jpg" style="width:49%" align=left>
+<img src="/images/sport18.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/sport19.jpg" style="width:49%" align=left>
+<img src="/images/sport20.jpg" style="width:49%" align=right>
 <br clear="left"><br>

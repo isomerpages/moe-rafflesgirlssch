@@ -26,3 +26,13 @@ Sounds familiar? If so, you have been singing along to this year's National Day 
 The highlight of the concert segment was the "LoveSG"and Fashion Parade items. The "LoveSG" item requires the Y4 classes to plan and execute creative and humorous skits that highlighted their iteration of the Singapore Spirit. Similarly, the meticulously designed Singapore themed outfits by the Y4 classes during the Fashion Parade had everyone in awe too! The celebrations culminated in a Prize Presentation and a formal Recognition of Staff Recipients of the National Day Commendation and Long Service Awards.
 
 Overall, the celebrations ended with a flourish and we could not have done it without everyone chipping in together, our RGS and Singapore spirit!
+
+<img src="/images/ndc2.jpeg" style="width:49%" align=left>
+<img src="/images/ndc3.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ndc4.jpeg" style="width:49%" align=left>
+<img src="/images/ndc5.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+Happy National Day, Singapore!

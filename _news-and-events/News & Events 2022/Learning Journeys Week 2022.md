@@ -65,3 +65,22 @@ _Farm in the City (Year 1) - Our Year 1s visited the Kok Fah Technology Farm, wh
 <img src="/images/learning21.jpg" style="width:49%" align=left>
 <img src="/images/learning22.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+_Exploring Values-in-Action (Year 1) - Students got to serve various beneficiaries and gain a better understanding of other vulnerable groups through this Service Learning/Values-in-Action experience, where they were hard at work cleaning homes of elderly residents and care centres, while interacting with the beneficiaries. They also participated in a school clean-up activity to better support our elderly cleaners and estate crew's work. This was an opportunity for students to put into practice social responsibility in maintaining a conducive school environment, while taking ownership of their respective classrooms._
+
+<img src="/images/learning23.jpg" style="width:49%" align=left>
+<img src="/images/learning24.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning25.jpg" style="width:49%" align=left>
+<img src="/images/learning26.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/learning27.jpg" style="width:49%" align=left>
+<img src="/images/learning28.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+For the Year 2s, they embarked on the Regional Immersion and Community Exploration (RICE) Programme, a signature programme for the level that takes place during LJ Week. In its original form, RICE involved an overnight immersion experience in Johor, Malaysia, where students participate in interactive and cultural activities with the locals. Since 2021, due to the COVID-19 situation, RICE activities were conducted in Singapore. Whether it is held overseas or locally, RICE is carefully and meaningfully designed for students to have rich and interactive learning experiences, and they record and reflect on their shared experiences in a journal.  
+  
+_National Museum (Year 2) - Students visited the National Museum to learn how to make connections between the different groups of people in Singapore's history. They also gained sociocultural intelligence, which will aid them in navigating a highly diverse world in the future._
+

@@ -16,8 +16,8 @@ Held from 7-11 February, the theme and tagline for EL Week this year is 'Games'/
 <img src="/images/ew2.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/ew.jpg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/ew3.jpg" style="width:49%" align=left>
+<img src="/images/ew4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
 <img src="/images/ew5.jpg" style="width:49%" align=left>

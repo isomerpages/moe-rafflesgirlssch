@@ -22,3 +22,6 @@ To develop fine character and well-being, nurture the intellect and fire the ima
 *   Leader who values diversity, cohesiveness, and inclusiveness in exerting positive influence and impact on the community.
 *   Thinker who demonstrates a disposition for reflective and flexible thinking, and is willing to take intellectual risks, especially in the face of complex and ambiguous situations.
 *   Pioneer who seeks opportunities and embraces challenges with courage to innovate for the common good.
+
+[20181](/files/Raffles%20Wave_November%202018.pdf)<br>
+[20182](/files/Raffles%20Wave_October%202018.pdf)<br>

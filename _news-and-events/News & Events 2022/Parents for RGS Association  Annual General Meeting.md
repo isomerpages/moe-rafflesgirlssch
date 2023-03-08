@@ -14,24 +14,24 @@ A registered association since 2003, the Parents for RGS (PRGS) Association prov
 
 | No.  | Designation  | Name  |
 |:-:|---|---|
-| 1  |   |   |
-| 2  |   |   |
-| 3  |   |   |
-| 4  |   |   |
-| 5  |   |   |
-| 6  |   |   |
-| 7  |   |   |
-| 8  |   |   |
-| 9  |   |   |
-| 10  |   |   |
-| 11  |   |   |
-| 12  |   |   |
-| 13  |   |   |
-| 14  |   |   |
-| 15  |   |   |
-|  16 |   |   |
-| 17  |   |   |
-| 18  |   |   |
-| 19  |   |   |
-| 20  |   |   |
+| 1  | Chairman  | Mr Daniel Tan Tze Hui  |
+| 2  | Vice Chairman  | Mrs Koh Su San  |
+| 3  | Secretary  | Ms Jeanni Eng Jee Nee  |
+| 4  | Assistant Secretary  | Ms Cara Chan Tuan Li  |
+| 5  | Treasurer  | Ms Lim Sze Wei (Nicole)  |
+| 6  | Assistant Treasurer  | Mrs Sharon Chung  |
+| 7  | Ordinary Member  | Ms Sharon Lim Hui Mien  |
+| 8  | Ordinary Member  | Mr Marcus Chan Yew Choe  |
+| 9  | Ordinary Member  |  Mrs Mazlita Abdul Jabbar |
+| 10  | Ordinary Member  | Ms Petrina Tan Yew Lee  |
+| 11  | Ordinary Member  |  Ms Pemme Wee Fen Fen |
+| 12  | Ordinary Member  | Ms Kavitha Valliappan  |
+| 13  | Co-opted Member  | Ms Ong Ee-Sze  |
+| 14  | Co-opted Member  | Mr A Rajadurai  |
+| 15  | Co-opted Member  | Mr Tay Jia Sheng  |
+|  16 | Co-opted Member  |  Ms Winny Yap |
+| 17  | Co-opted Member  | Ms Cindy Goh  |
+| 18  | Co-opted Member  |  Mr Tan Boon Siong |
+| 19  | Hon Auditor  | Dr Tan Wei Ching  |
+| 20  | Hon Auditor  |  Mr Gerald Ng Khim Teck |
 |   |   |   |

@@ -20,3 +20,11 @@ description: ""
 <img src="/images/high7.jpg" style="width:85%"><br>
 
 <img src="/images/high8.jpg" style="width:85%">
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/mothertongue.jpg">
+</a></p>

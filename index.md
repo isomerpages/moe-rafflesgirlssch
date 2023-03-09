@@ -12,7 +12,7 @@ sections:
         title: Click here for Details
         options:
           - title: Highlights
-            url: a
+            url: /homepage-highlights/
           - title: Achievements
             url: /achievement/highlight-achievement/
           - title: News & Events

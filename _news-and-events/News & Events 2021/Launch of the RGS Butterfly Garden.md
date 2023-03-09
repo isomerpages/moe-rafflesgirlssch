@@ -35,3 +35,26 @@ To mark the launch of the Butterfly Garden, a photo-taking challenge is also on 
 
 _Some of the flora and species of butterflies that can be seen at the RGS Butterfly Garden:_
 
+<img src="/images/but1.jpg" style="width:49%" align=left>
+<img src="/images/but2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/but3.jpg" style="width:49%" align=left>
+<img src="/images/but4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/but5.jpg" style="width:49%" align=left>
+<img src="/images/but6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/but7.jpg" style="width:49%" align=left>
+<img src="/images/but8.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/but9.jpg" style="width:49%" align=left>
+<img src="/images/but10.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_Video of a Tawny Coster (a species of butterfly that can be commonly found in Singapore) in action at our Butterfly Garden as captured by the RGS Cogitare Club. Did you know? That the Tawny Coster was first discovered in Singapore in 2006?_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exnZc0onXvQ" title="Tawny Coster in action at the RGS Butterfly Garden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ sections:
           - title: Achievements
             url: /achievement/highlight-achievement/
           - title: News & Events
-            url: a
+            url: /homepage-news-n-events/
           - title: Alumnae News
             url: a
           - title: Svc Learning & Comm Outreach

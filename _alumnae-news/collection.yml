@@ -2,13 +2,13 @@ collections:
   alumnae-news:
     output: true
     order:
-      - 2020/.keep
-      - 2020/President's Scholar 2020.md
-      - 2020/RGS Alumnae  6th Annual General Meeting.md
-      - 2020/National Creative Story Writing Competition.md
       - 2021/.keep
       - 2021/RGS Perbayu  Pursuing Passions Webinar 2021.md
       - 2021/RGS RGSA Project WellBeing in Support of CDE.md
       - 2021/RGS Alumnae  7th Annual General Meeting.md
       - "2021/SNOC Women in Sport Committee Webinar Series: What Women Want.md"
       - 2021/RGS Alumnae Medical Webinar.md
+      - 2020/.keep
+      - 2020/President's Scholar 2020.md
+      - 2020/RGS Alumnae  6th Annual General Meeting.md
+      - 2020/National Creative Story Writing Competition.md

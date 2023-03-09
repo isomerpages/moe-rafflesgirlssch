@@ -14,7 +14,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/news-and-events/News-and-Events-2022/smrt/">
+<p><a href="/news-and-events/News-and-Events-2022/xinyao/">
 <img style="width:49%" align=left src="/images/news1.jpg">
 </a></p>
 

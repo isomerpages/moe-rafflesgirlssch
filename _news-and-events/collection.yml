@@ -2,7 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
-      - News & Events 2021/RGS Environment Hub Website.md
       - News & Events 2021/.keep
       - News & Events 2021/Farewell Alma Mater (FAM) 2021.md
       - News & Events 2021/RGS Sports Fest 2021.md
@@ -18,6 +17,7 @@ collections:
       - News & Events 2021/Launch of the RGS Butterfly Garden.md
       - News & Events 2021/Parents for RGS Association  19th Annual General
         Meeting.md
+      - News & Events 2021/RGS Environment Hub Website.md
       - The Raffles Wave/.keep
       - The Raffles Wave/2022.md
       - The Raffles Wave/2021.md

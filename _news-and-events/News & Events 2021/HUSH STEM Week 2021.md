@@ -27,3 +27,9 @@ As part of HUSH-STEM Week 2021, the Indoor Farm Learning Journey was held in RGS
 <img src="/images/h29.jpg" style="width:49%" align=left>
 <img src="/images/h30.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+HUSH-STEM Week is an annual event jointly organised by the RGS Science and Humanities departments. This year, it took place from 16-23 February. Through the series of activities that our students took part in during the week, we hope that they come to understand the importance of STEM for Humanity, and more specifically, how the issue of food security and food sustainability is a shared endeavour for survival in Singapore and around the world.  
+  
+Watch the video montage put together by the HUSH-STEM OT for more highlights from HUSH-STEM Week 2021!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xkJg9ILqADk" title="Highlights of HUSH STEM Week 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -2,7 +2,7 @@ collections:
   alumnae-news:
     output: true
     order:
-      - 2021/RGS Alumnae  7th Annual General Meeting.md
       - 2021/.keep
       - 2021/RGS Perbayu  Pursuing Passions Webinar 2021.md
       - 2021/RGS RGSA Project WellBeing in Support of CDE.md
+      - 2021/RGS Alumnae  7th Annual General Meeting.md

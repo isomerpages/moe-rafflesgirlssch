@@ -31,5 +31,18 @@ Panelists:
 *   Nursheila Muez _(Research Analyst, S. Rajaratnam School of International Studies)_
 
 <img src="/images/DSC_0068-27.jpg" align=left style="width:85%">
-<br clear=left>
+<br clear=left><br>
 
+<img src="/images/ms1.jpg" style="width:49%" align=left>
+<img src="/images/ms2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ms3.jpg" style="width:49%" align=left>
+<img src="/images/ms4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ms5.jpg" style="width:49%" align=left>
+<img src="/images/ms6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_\[Event by RGS Alumnae Relations Office\]_

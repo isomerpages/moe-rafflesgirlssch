@@ -23,7 +23,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/news-and-events/News-and-Events-2022/xinyao/">
+<p><a href="/news-and-events/News-and-Events-2022/hush/">
 <img style="width:49%" align=left src="/images/news3.jpg">
 </a></p>
 

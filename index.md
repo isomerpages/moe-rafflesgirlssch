@@ -18,7 +18,7 @@ sections:
           - title: News & Events
             url: /homepage-news-n-events/
           - title: Alumnae News
-            url: a
+            url: /homepage-alumnae-news/
           - title: Svc Learning & Comm Outreach
             url: a
 ---

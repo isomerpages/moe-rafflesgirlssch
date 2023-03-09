@@ -12,20 +12,20 @@ It has been an exciting and fulfilling week for our students who embarked on Lea
   
 LJ Week is an important component of RGS' Character & Citizenship Education programme. It provides out-of-classroom and hands-on experiential learning opportunities for developing our students' civic beliefs, their ties to localities through an awareness of the nation's past, present and future, as well as their capacity for social and community action. Through engagement with local stakeholders, the various activities planned aim to deepen our students' awareness and sensitivity to other social-cultural contexts, and link their experiences with theory by enhancing the application of classroom-based concepts.
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/lj1.jpeg" style="width:49%" align=left>
+<img src="/images/lj2.jpeg" style="width:30%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/lj3.jpeg" style="width:49%" align=left>
+<img src="/images/lj4.jpeg" style="width:30%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/lj5.jpeg" style="width:49%" align=left>
+<img src="/images/lj6.jpeg" style="width:30%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/lj7.jpeg" style="width:49%" align=left>
+<img src="/images/lj8.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/lj9.jpeg" style="width:49%" align=left>

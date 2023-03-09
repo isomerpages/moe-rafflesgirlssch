@@ -2,6 +2,7 @@ collections:
   alumnae-news:
     output: true
     order:
+      - 2018/RGS Alumnae  Annual General Meeting.md
       - 2018/.keep
       - 2021/.keep
       - 2021/RGS Perbayu  Pursuing Passions Webinar 2021.md

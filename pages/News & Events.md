@@ -31,3 +31,11 @@ description: ""
 <img style="width:49%" align=left src="/images/news4.jpg">
 </a></p>
 <br clear=left>
+
+<p><a href="/achievements/2022/regeneron/">
+<img style="width:70%" src="/images/news5.jpg">
+</a></p>
+
+<p><a href="/news-and-events/News-and-Events-2022/sport/">
+<img style="width:70%" src="/images/high8.jpg">
+</a></p>

@@ -2,8 +2,6 @@ collections:
   alumnae-news:
     output: true
     order:
-      - 2018/RGS Alumnae  Annual General Meeting.md
-      - 2018/.keep
       - 2021/.keep
       - 2021/RGS Perbayu  Pursuing Passions Webinar 2021.md
       - 2021/RGS RGSA Project WellBeing in Support of CDE.md
@@ -19,3 +17,5 @@ collections:
       - 2019/SWHF Honours Former RGS Principal, the Late Miss Norris and RGS
         Alumna, Ms Gan Siow Huang.md
       - 2019/Alumnae Sharing with RGS Malay Students.md
+      - 2018/.keep
+      - 2018/RGS Alumnae  Annual General Meeting.md

@@ -22,3 +22,12 @@ description: ""
 <img style="width:49%" align=left src="/images/news2.jpg">
 </a></p>
 <br clear=left>
+
+<p><a href="/news-and-events/News-and-Events-2022/xinyao/">
+<img style="width:49%" align=left src="/images/news3.jpg">
+</a></p>
+
+<p><a href="/news-and-events/News-and-Events-2022/ramadan/">
+<img style="width:49%" align=left src="/images/news4.jpg">
+</a></p>
+<br clear=left>

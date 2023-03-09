@@ -18,7 +18,7 @@ description: ""
 <img style="width:49%" align=left src="/images/news1.jpg">
 </a></p>
 
-<p><a href="/news-and-events/News-and-Events-2022/npcc/">
+<p><a href="/news-and-events/News-and-Events-2022/ramadan/">
 <img style="width:49%" align=left src="/images/news2.jpg">
 </a></p>
 <br clear=left>

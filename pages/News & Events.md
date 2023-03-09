@@ -32,7 +32,7 @@ description: ""
 </a></p>
 <br clear=left>
 
-<p><a href="/achievements/2022/regeneron/">
+<p><a href="/news-and-events/News-and-Events-2022/earth-week/">
 <img style="width:70%" src="/images/news5.jpg">
 </a></p>
 

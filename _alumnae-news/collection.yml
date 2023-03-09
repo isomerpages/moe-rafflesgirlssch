@@ -2,6 +2,7 @@ collections:
   alumnae-news:
     output: true
     order:
+      - 2020/RGS Alumnae  6th Annual General Meeting.md
       - 2020/President's Scholar 2020.md
       - 2020/.keep
       - 2021/.keep

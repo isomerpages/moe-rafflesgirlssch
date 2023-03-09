@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - News & Events 2021/RGS Environment Hub Website.md
       - News & Events 2021/.keep
       - News & Events 2021/Farewell Alma Mater (FAM) 2021.md
       - News & Events 2021/RGS Sports Fest 2021.md

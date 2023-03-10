@@ -21,5 +21,5 @@ The move to our new campus would not have been possible without the support of t
 
 __Filiae Melioris Aevi__
 
-_**Ms Haslinda Zamani**  <br>
-_Principal__
+_**Ms Haslinda Zamani**_  <br>
+_Principal_

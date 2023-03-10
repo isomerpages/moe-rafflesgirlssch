@@ -30,3 +30,14 @@ As part of an in-house Values-in-Action activity organised by our Community Yout
 <img src="/images/via9.jpg" style="width:49%" align=left>
 <img src="/images/via10.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<img src="/images/DSC_0201.jpg" style="width:49%" align=left>
+<br clear=left>
+
+Our students share some of their thoughts on the activity _(from left)_:
+
+_"I think it's interesting that we get to experience the work that our cleaners and estate crew do everyday. We're only doing a small part of the work that they do, so I can only imagine how tough it must be having to do so much more on a daily basis."_ \- Ng Jay En
+
+_"It's very meaningful because we get to lighten their load (for today) and they don't have to do as much work."_ \- Tan Jingya Jiselle
+
+_"It feels good knowing that we're doing something that makes someone else's job easier, and that they appreciate what we're doing."_ \- M.B.Dharshni

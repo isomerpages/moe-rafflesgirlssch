@@ -2,5 +2,6 @@ collections:
   service-learning-n-outreach:
     output: true
     order:
+      - 2021/.keep
       - 2022/Lunar New Year Goodie Bag Initiative 2022.md
       - 2022/.keep

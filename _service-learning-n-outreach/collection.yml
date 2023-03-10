@@ -2,9 +2,9 @@ collections:
   service-learning-n-outreach:
     output: true
     order:
-      - 2021/Launch of Love Movement Initiative by Xin Yuan Community Care.md
       - 2021/.keep
       - 2021/Triple C Programme.md
       - 2021/Lunar New Year Goodie Bag Initiative.md
+      - 2021/Launch of Love Movement Initiative by Xin Yuan Community Care.md
       - 2022/Lunar New Year Goodie Bag Initiative 2022.md
       - 2022/.keep

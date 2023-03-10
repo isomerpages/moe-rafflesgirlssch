@@ -42,3 +42,13 @@ Due to COVID-19 measures, we are unable to execute some of the plans we had for
 <figcaption>  Project Faye members (from left): Divyasree Sekhar, Lee Wen Xin, Yeo Xiu Hui, Jamie and Vera Lee Jia Qi.
  </figcaption>
 </figure>
+
+**Project Faye**: "Two to three days prior, we would come together to discuss the lesson plan and the desired outcomes of the session. We would select a book, and an overarching theme for reflection. During the session itself, we would start off with a conversation about the theme to help our student warm up to us. Then, we would start reading the book together, and clarify words that he did not understand or pronounce correctly. Subsequently, we would also go through some basic grammar to help him better understand the story. Sometimes, if the student required extra help, we would also have to be adaptable and slow down so that we can communicate more effectively with him. We found this to be extremely helpful in helping him retain the information that we taught. After each session, we would then discuss the student’s progress and where necessary, adjust subsequent lesson plans.
+
+Initially, it was difficult to get the student to warm up to us as he was nervous. The team then spent some time getting to know him by asking questions in relation to the book that we were reading that day, and at the same time, enabling him to practise communicating effectively in the language. While this took some time, our efforts did pay off because by the end of the programme, he was noticeably more at ease with us.
+
+This was a refreshing experience for us as it was the first time we used technology to conduct a virtual reading session. It was also fun and fulfilling because we got to see our plans come into fruition and have the student thoroughly enjoying the sessions and interacting more with us as he got more comfortable. Growing and learning through our interactions with him, we can be more confident when planning future initiatives with children as well.
+
+We are currently planning a book drive for the donation of textbooks and storybooks to children from lower-income families, and are also volunteering at Happy Children Happy Future, where we are each paired with a tutee. We hope to be able to help them with any queries they may have and at the same time, form stronger bonds and make a positive impact in their lives, no matter how big or small.”
+
+Another group of students was interviewed by the media on their participation in the initiative as well. Click [here](https://www.zaobao.com.sg/news/singapore/story20200602-1057927) to read more.

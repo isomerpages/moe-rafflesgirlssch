@@ -23,3 +23,22 @@ We didn’t have an established relationship with the student prior to this in
 This experience has been very meaningful for us because it provided an opportunity for us to serve the community despite the physical restrictions imposed by circuit breaker. We were also able to explore various digital platforms to execute the sessions, which proved invaluable in expanding our horizons on the available resources out there. It was indeed satisfying to see the student being engaged by the stories, and to see her willingness to learn more.
 
 While the pandemic has impeded the progress of some of our other planned community projects, we remain optimistic and hope that it will be possible for us to carry out some, if not the full scope of our initiatives.”
+
+<img src="/images/project casa_team photo.jpeg" style="width:49%" align=left>
+<br clear=left>
+
+_Project Casa members (clockwise from top left): Lee Tze Tong, Jamielyn Low Ching Hui, Kriti Raja, Krysten Wong Rui Min and Nithila Ravindran._
+
+**Project Casa**: "One week before every session, we would meet up virtually to create lesson plans according to our student’s reading capabilities. This also ensures that every team member is on the same page as to what will be taking place during each session. 15 minutes prior to the start, we would also do a run-through of our lesson plan to make sure that all materials required are set up so that we don’t waste any time during the session. Once the student joins us, we would start off with some ice breakers such as sharing some jokes with him. Thereafter, we would guide him through reading the storybook and then end off with another round of joke exchanges.
+
+One of the challenges that we faced was sometimes not being able to completely carry out our lesson plan due to the lack of proper time management. As a result, during the very last session, we were unable to close it off properly. To overcome that, we decided to send his parents a video containing our well wishes as a means of rounding off the initiative.
+
+This has been a very fulfilling experience for the team as we were able to see our student grow to become more confident of his reading skills. As he got more comfortable with us, he also became more outspoken and was more forthcoming in sharing his views during the sessions. We have definitely learnt to be more patient as we understand that he might not have been very comfortable with us guiding him initially, and have also learnt to be adaptable in order to deal with unexpected situations.
+
+Due to COVID-19 measures, we are unable to execute some of the plans we had for other values-in-action projects, but learning from this experience to be adaptable, we are constantly searching for other ways that we can continue to contribute back to the community!”
+
+<figure>
+<img src="/images/project faye_team photo.jpg" style="width:90%">
+<figcaption>  Project Faye members (from left): Divyasree Sekhar, Lee Wen Xin, Yeo Xiu Hui, Jamie and Vera Lee Jia Qi.
+ </figcaption>
+</figure>

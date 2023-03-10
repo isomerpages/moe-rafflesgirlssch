@@ -13,3 +13,12 @@ As part of a class-initiated Values-in-Action (VIA) activity, RGS students from 
 _"Our participation in this VIA activity taught us the spirit of never giving up when the going gets tough. We also had a good lesson in resilience and responsibility over the past few months, with some of our classmates stepping up to help and teach those who don't know how to sew the masks so that everyone can play a part in this initiative. Thank you too to the Singapore Red Cross Society for the opportunity for us to give back to the community!"  
 \- Reflection by Class 112_
 
+<img src="/images/mask2.jpg" style="width:49%" align=left>
+<img src="/images/mask3.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/mask4.jpg" style="width:49%" align=left>
+<img src="/images/mask5.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/mask6.jpg" style="width:49%" align=left>

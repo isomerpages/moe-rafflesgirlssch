@@ -29,5 +29,5 @@ sections:
   - resources:
       title: RGS in the News
       subtitle: Highlights
-      button: RGSnews
+      button: Read more
 ---

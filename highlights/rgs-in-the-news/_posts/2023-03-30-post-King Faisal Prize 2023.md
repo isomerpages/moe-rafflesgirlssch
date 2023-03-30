@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/JackieYing2023.jpeg
 ---
-The King Faisal Prize laureates for 2023 where announced earlier in Jan and this year, the award recognised two female scientists namely, Professor Sarah Gilbert for her work on the Oxford–AstraZeneca COVID-19 vaccine.
+![](/images/JackieYing2023.jpeg)The King Faisal Prize laureates for 2023 where announced earlier in Jan and this year, the award recognised two female scientists namely, Professor Sarah Gilbert for her work on the Oxford–AstraZeneca COVID-19 vaccine.
 
 We’re proud to share that the other scientist that was selected to receive the King Faisal Prize for Science (Chemistry) is our very own Professor Jackie Yi-Ru Ying. Prof Jackie Ying is our RGS Alumnae and a current Board Member.
 

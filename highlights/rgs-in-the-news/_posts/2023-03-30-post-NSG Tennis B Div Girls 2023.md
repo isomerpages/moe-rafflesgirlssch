@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: /images/tennis23.jpg
 ---
+Congratulations to our RGS Tennis 'B' Div Girls who emerged as the National Champions against Methodist Girls' School (MGS).
+
+Thank you to the RGS teachers, coaches and students who came down to show their support!

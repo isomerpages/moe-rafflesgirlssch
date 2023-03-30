@@ -1,18 +1,18 @@
 logo: /images/RGS-logo_horizontal-2022-update.jpg
 links:
-  - title: Programmes
-    collection: programmes
   - title: About Us
     collection: about-us
+  - title: Programmes
+    collection: programmes
   - title: Holistic Education
     collection: holistic-education
-  - title: Parents
-    collection: parents
   - title: Admissions
     collection: admissions
-  - title: Alumnae
-    collection: alumnae
   - title: Filiae Centre
     url: https://staging.d27p4luvfglgus.amplifyapp.com/
   - title: PeRL
     url: https://staging.dfkurcec4b4z0.amplifyapp.com/
+  - title: Parents
+    collection: parents
+  - title: Alumnae
+    collection: alumnae

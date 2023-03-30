@@ -3,18 +3,18 @@ url: https://rgs.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#006747"
-  secondary-color: "#396805"
+  secondary-color: "#006747"
   media-colors:
     - title: media-color-one
-      color: "#396805"
+      color: "#006747"
     - title: media-color-two
-      color: "#396805"
+      color: "#006747"
     - title: media-color-three
-      color: "#396805"
+      color: "#006747"
     - title: media-color-four
-      color: "#396805"
+      color: "#006747"
     - title: media-color-five
-      color: "#396805"
+      color: "#006747"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""

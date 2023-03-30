@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.png
+      background: /images/HomepageBanner1.jpg
       dropdown:
         title: Click here for Details
         options:

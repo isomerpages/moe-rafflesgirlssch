@@ -21,4 +21,13 @@ sections:
             url: /homepage-alumnae-news/
           - title: Svc Learning & Comm Outreach
             url: /homepage-svclearning/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---

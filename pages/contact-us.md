@@ -27,11 +27,6 @@ contacts:
   - content:
       - phone: +65 6737 1845
       - email: rgss@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---

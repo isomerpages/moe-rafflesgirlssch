@@ -9,12 +9,9 @@ sections:
   - hero:
       background: /images/HomepageBanner1.jpg
       key_highlights:
-        - title: Highlights
-          description: ""
-          url: ""
         - title: Achievements
           description: ""
-          url: ""
+          url: /highlights/resourceCategory/achievements
         - title: News & Events
           description: ""
           url: ""

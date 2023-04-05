@@ -18,6 +18,9 @@ sections:
         - title: News & Events
           description: ""
           url: ""
+        - title: Alumnae News
+          description: ""
+          url: ""
   - resources:
       title: RGS in the News
       subtitle: Highlights

@@ -18,6 +18,9 @@ locations:
       - days: Thu
         time: 8.30am - 6.00pm
         description: ""
+      - days: Fri
+        time: 8.30am - 5.00pm
+        description: Closed on Saturday, Sunday and Public Holidays
     maps_link: ""
     title: Raffles Girls' School
   - address:

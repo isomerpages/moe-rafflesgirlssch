@@ -2,7 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - MOE Sexuality Education in Schools.md
       - Academic Studies/.keep
       - Academic Studies/Aesthetics.md
       - Academic Studies/Art & Design Programme.md
@@ -30,6 +29,7 @@ collections:
       - Citizenship Education.md
       - Co Curricular Activities.md
       - Service Learning.md
+      - MOE Sexuality Education in Schools.md
       - Student Leadership & Development.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md

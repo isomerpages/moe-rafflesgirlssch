@@ -23,17 +23,10 @@ locations:
         description: Closed on Saturday, Sunday and Public Holidays
     maps_link: ""
     title: Raffles Girls' School
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
+      - phone: +65 6737 1845
+      - email: rgss@moe.edu.sg
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:

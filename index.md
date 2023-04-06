@@ -11,13 +11,13 @@ sections:
       key_highlights:
         - title: Achievements
           description: ""
-          url: /highlights/resourceCategory/achievements
+          url: /highlights/achievements/
         - title: Events & Announcements
           description: ""
-          url: ""
+          url: /highlights/events-and-announcements/
         - title: RGS In The News
           description: ""
-          url: ""
+          url: /highlights/rgs-in-the-news/
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

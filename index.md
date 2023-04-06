@@ -19,7 +19,7 @@ sections:
           description: ""
           url: ""
   - resources:
-      title: RGS in the News
-      subtitle: Highlights
+      title: Highlights
+      subtitle: Stay updated with RGS
       button: Read more
 ---

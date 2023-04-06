@@ -12,10 +12,10 @@ sections:
         - title: Achievements
           description: ""
           url: /highlights/resourceCategory/achievements
-        - title: News & Events
+        - title: Events & Announcements
           description: ""
           url: ""
-        - title: Alumnae News
+        - title: RGS In The News
           description: ""
           url: ""
   - resources:

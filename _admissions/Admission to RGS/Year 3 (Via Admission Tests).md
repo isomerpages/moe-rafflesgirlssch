@@ -8,15 +8,15 @@ third_nav_title: Admission to RGS
 
 #### Criteria
 
-This application is for admission into **Year 3 only** for the next academic year (2023). 
+This application is for admission into&nbsp;**Year 3 only**&nbsp;for the next academic year (2023).&nbsp;
 
-Any student who was successfully posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) is not allowed to transfer to another school as she is expected to honour her commitment to the school she has been posted to. In other words, she cannot apply for admission to Year 3 via our Admission Tests.
+Any student who was successfully posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) is&nbsp;not&nbsp;allowed to transfer to another school as she is expected to honour her commitment to the school she has been posted to. In other words, she cannot apply for admission to Year 3 via our Admission Tests.
 
-Applicant must have: 
-*   Outstanding academic performance in Secondary 1 and 2 school examinations; and  
-*   Excellent achievement in academic and co-curricular activities. 
+Applicant must have:&nbsp;
+*   Outstanding academic performance in Secondary 1 and 2 school examinations; and&nbsp;&nbsp;
+*   Excellent achievement in academic and co-curricular activities.&nbsp;
 
-Shortlisted applicants must sit for Admission Tests administered by RGS for the following three subjects: English Language, Mathematics and Science.
+Shortlisted applicants must sit for Admission Tests administered by RGS for the following&nbsp;three&nbsp;subjects: English Language, Mathematics and Science.
 
 | **SCHEDULE**  |   |
 |:-:|---|
@@ -28,11 +28,11 @@ Shortlisted applicants must sit for Admission Tests administered by RGS for the 
 
 **SUBMISSION OF APPLICATION**
 
-Applicants must **complete and submit an online application before 2 pm on 24 August 2022 (Wed).**
+Applicants must&nbsp;**complete and submit an online application before 2 pm on 24 August 2022 (Wed).**
 
 DO NOT submit any documents, original or otherwise, as all documents submitted will not be returned. Applicants must be prepared to produce the original documents for verification purposes upon request, if necessary.
 
-Please click **[here](https://form.gov.sg/6284628a5fba0100117a3891)** **FORM NOT FOUND** to apply. This e-application form will only be accessible during the application period.
+Please click [here] &nbsp;to apply. This e-application form will only be accessible during the application period.
 
 **IMPORTANT INFORMATION**
 

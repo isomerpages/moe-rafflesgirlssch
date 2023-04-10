@@ -30,4 +30,6 @@ third_nav_title: Our People
 
 |   |   |   |   |
 |:-:|---|---|---|
-| <img src="/images/gover13.jpg" style="width:50%">  | 
+| <img src="/images/gover13.jpg" style="width:55%">  | <img src="/images/gover14.jpeg" style="width:100%">  | <img src="/images/gover15.jpeg" style="width:100%">  | <img src="/images/gover16.jpeg" style="width:100%">  |
+| Ms Mariam Jaafar<br>Managing Director &amp; Partner, The Boston Consulting Group  | Mr Tan Tze Hui Daniel<br>Director, CMS Holborn Asia  | Ms Shanaz Rauff  | Ms Jeanne Stampe<br>Green Finance Resource Lead, Monetary Authority of Singapore |
+|   |   |   |   |

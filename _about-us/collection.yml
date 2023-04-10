@@ -1,0 +1,24 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Vision Mission Values.md
+      - Principal's Message.md
+      - Our People/.keep
+      - Our People/Board of Governors.md
+      - Our People/Organisation Chart.md
+      - Our People/Key Personnel.md
+      - Our People/Staff Directory.md
+      - School Symbols.md
+      - Historical Milestones/.keep
+      - Historical Milestones/Historical Milestones.md
+      - Historical Milestones/RGS Digital Heritage Trail.md
+      - Financial Information.md
+      - Careers at RGS/.keep
+      - Careers at RGS/Careers at RGS.md
+      - Careers at RGS/Job Openings.md
+      - Careers at RGS/Professional Development.md
+      - Careers at RGS/Career Advancement.md
+      - Careers at RGS/Benefits.md
+      - Visitor Information.md
+      - 360° Virtual Campus Tour.md

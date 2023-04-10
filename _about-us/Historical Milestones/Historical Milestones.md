@@ -1,0 +1,142 @@
+---
+title: Historical Milestones
+permalink: /about-us/Historical-Milestones/historical/
+description: ""
+third_nav_title: Historical Milestones
+---
+## Historical Milestones
+
+Established in 1879, Raffles Girls’ School (RGS) is today a leading girls’ school providing a holistic education via its six-year Raffles Programme.
+
+The growth of RGS is largely attributed to the commitment of individuals who were passionate about the education of girls in an era when the provision of academic education for girls was considered unimportant.
+
+RGS’ humble beginnings can be traced to a group of eight ladies who were determined to rescue orphans and very poor girls from vice and provide them with care and protection through education. Their efforts to set up a girls’ school attached to the Singapore Institution (later renamed Raffles Institution) were supported by Mrs Elizabeth Cavenagh (nee Moriarty), wife of the Straits Settlements Governor, who became the School’s Patron. It was their labour and dedication that enabled RGS to make steady progress in student enrolment, paving the way for its status as a distinguished educational institution in Singapore. The commitment of good people, many of whom remain unsung heroes, continues to shape RGS as an institution for high-ability girls.
+
+##### 1879-1909
+
+<img src="/images/hist1.jpg" style="width:49%" align=left>
+<img src="/images/hist2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist3.jpg" style="width:49%" align=left>
+<img src="/images/hist4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist5.jpg" style="width:49%" align=left>
+<img src="/images/hist6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist7.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+##### 1910-1949
+
+<img src="/images/hist8.jpg" style="width:49%" align=left>
+<img src="/images/hist9.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist10.jpg" style="width:49%" align=left>
+<img src="/images/hist11.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist12.jpg" style="width:49%" align=left>
+<img src="/images/hist13.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+##### 1950-1969
+
+<img src="/images/hist14.jpg" style="width:49%" align=left>
+<img src="/images/hist15.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist16.jpg" style="width:49%" align=left>
+<img src="/images/hist17.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist18.jpg" style="width:49%" align=left>
+<img src="/images/hist19.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+##### 1970-1989
+
+<img src="/images/hist20.jpg" style="width:49%" align=left>
+<img src="/images/hist21.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist22.jpg" style="width:49%" align=left>
+<img src="/images/hist23.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist24.jpg" style="width:49%" align=left>
+<img src="/images/hist25.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist26.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+##### 1990-2009
+
+<img src="/images/hist27.jpg" style="width:49%" align=left>
+<img src="/images/hist28.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist29.jpg" style="width:49%" align=left>
+<img src="/images/hist30.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist31.jpg" style="width:49%" align=left>
+<img src="/images/hist32.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist33.jpg" style="width:49%" align=left>
+<img src="/images/hist34.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/hist35.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+##### 2010-Current
+
+<img src="/images/cu1.jpg" style="width:49%" align=left>
+<img src="/images/cu2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu3.jpg" style="width:49%" align=left>
+<img src="/images/cu4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu5.jpg" style="width:49%" align=left>
+<img src="/images/cu6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu7.jpg" style="width:49%" align=left>
+<img src="/images/cu8.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu9.jpg" style="width:49%" align=left>
+<img src="/images/cu10.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu11.jpg" style="width:49%" align=left>
+<img src="/images/cu12.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu13.jpg" style="width:49%" align=left>
+<img src="/images/cu14.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu15.jpg" style="width:49%" align=left>
+<img src="/images/cu16.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu17.jpg" style="width:49%" align=left>
+<img src="/images/cu18.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu19.jpg" style="width:49%" align=left>
+<img src="/images/cu20.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/cu21.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+

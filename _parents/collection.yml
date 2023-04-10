@@ -1,0 +1,9 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Welcome.md
+      - Committee.md
+      - Events.md
+      - Support.md
+      - Membership.md

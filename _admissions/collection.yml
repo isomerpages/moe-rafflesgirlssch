@@ -1,0 +1,15 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - Admission to RGS/.keep
+      - Admission to RGS/Overview.md
+      - Admission to RGS/Year 1 (Via DSA).md
+      - Admission to RGS/Year 3 (Via Admission Tests).md
+      - Admission to RGS/Returning Singaporeans.md
+      - Admission to RGS/International Students.md
+      - Admission to RGS/Appeal for School Transfer After Secondary One
+        Posting.md
+      - Admission to RGS/Contact.md
+      - Fees & Scholarship.md
+      - Financial Assistance.md

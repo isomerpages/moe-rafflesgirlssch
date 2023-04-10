@@ -1,0 +1,13 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Raffles Programme.md
+      - Teaching & Learning.md
+      - RGS 1:1/.keep
+      - RGS 1:1/RGS 1:1.md
+      - RGS 1:1/How ICT Will Be Used in RGS.md
+      - RGS 1:1/iPad.md
+      - RGS 1:1/Device Management Application.md
+      - RGS 1:1/FAQs.md
+      - Raffles Academy 2,0.md

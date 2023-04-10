@@ -13,11 +13,11 @@ third_nav_title: Our People
 | Haslinda Zamani  | Principal  |
 | Chin Jen Fu  | Deputy Principal, Academic Studies  |
 | May Tan  | Deputy Principal, Student Development  |
-| Mary George Cheriyan  | Deputy Principal, PeRL & Community Engagement  |
+| Mary George Cheriyan  | Deputy Principal, PeRL &amp; Community Engagement  |
 | Juliana Chia  | Bursar  |
 | Michael Jalleh  | Director, Academic Studies  |
-| Goh Lee Kian  | Director, Planning & Infrastructure  |
-| Lee Su Yin  | Director, Communications & Partnerships  |
+| Goh Lee Kian  | Director, Planning &amp; Infrastructure  |
+| Lee Su Yin  | Director, Communications &amp; Partnerships  |
 | Yeo Soo Ling  | Director, Student Development  |
 |   |   |
 
@@ -33,11 +33,11 @@ third_nav_title: Our People
 | Yeo Puay Hong  | Teacher  |
 |   |   |
 
-**<u>Department - English Language & Literature</u>**
+**<u>Department - English Language &amp; Literature</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
-| Stella Picca  | Head, English Language & Literature  |
+| Stella Picca  | Head, English Language &amp; Literature  |
 | Malyanah Binte Mawar  | Assistant Head, English Literature  |
 | Nicholas Tan  | Assistant Head, English Language  |
 | Adeline Tang  | Teacher  |
@@ -58,7 +58,7 @@ third_nav_title: Our People
 |:-:|---|
 | Mohammad Faizal  | Head, Humanities  |
 | Yeo Jun Han  | Assistant Head, Geography  |
-| Ong Shu Juin  | Assistant Head, Inquiry & Advocacy  |
+| Ong Shu Juin  | Assistant Head, Inquiry &amp; Advocacy  |
 | Aliah Binte Mohamed Shariff  | Teacher  |
 | Asmizar Bin Abu  | Teacher  |
 | Kevin Ng  | Teacher  |
@@ -120,7 +120,7 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Magdalene Suey  | Head, Physical Education & Co-Curricular Activities  |
+| Magdalene Suey  | Head, Physical Education &amp; Co-Curricular Activities  |
 | Alina Wee  | Assistant Head, Physical Education  |
 | Chrislin Lee  | Assistant Head, Co-Curricular Activities  |
 | Michelle Quek  | Teacher  |
@@ -156,7 +156,7 @@ third_nav_title: Our People
 | Yang Kian Hong  | Teacher |
 |   |   |
 
-**<u>Department - Centre for Pedagogical Research & Learning</u>**
+**<u>Department - Centre for Pedagogical Research &amp; Learning</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
@@ -173,11 +173,11 @@ third_nav_title: Our People
 | Tan Yen Chuan  | Specialist  |
 |   |   |
 
-**<u>Department - Character & Citizenship Education</u>**
+**<u>Department - Character &amp; Citizenship Education</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
-| Rachel Pang  | Acting Head, Character & Citizenship Education  |
+| Rachel Pang  | Acting Head, Character &amp; Citizenship Education  |
 | Audrey Chen  | Assistant Head, Student Leadership Development  |
 | Tiffany Cheong  | Assistant Head, Citizenship Education  |
 | Lim Shi Zhi  | Assistant Head, Service Learning  |
@@ -196,17 +196,17 @@ third_nav_title: Our People
 | Staff Name  | Position  |
 |:-:|---|
 | Eriyanty Mohammad  | Head, Student Management  |
-| Nora Kamsir  | Head of Year, Year 1  |
-| Lee Hwee Ling  | Head of Year, Year 2  |
-| Sulastiri Anis  | Head of Year, Year 3  |
-| Hasanah Alfie  | Head of Year, Year 4  |
+| Hasanah Alfie  | Head of Year, Year 1  |
+| Nora Kamsir  | Head of Year, Year 2  |
+| Lee Hwee Ling  | Head of Year, Year 3  |
+| Sulastiri Anis  | Head of Year, Year 4  |
 |   |   |
 
-**<u>Department - Information & Communications Technology</u>**
+**<u>Department - Information &amp; Communications Technology</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
-| Tan Yin Lai  | Head, Information & Communications Technology  |
+| Tan Yin Lai  | Head, Information &amp; Communications Technology  |
 |   |   |
 
 **<u>Department - Administration Office</u>**
@@ -223,7 +223,7 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Asman Bin Yusof  | Higher Technician, Design & Technology  |
+| Asman Bin Yusof  | Higher Technician, Design &amp; Technology  |
 | Sheila Loh  | Attendant, Home Economics  |
 |   |   |
 
@@ -270,8 +270,8 @@ third_nav_title: Our People
 | Teo Yen Li  | Officer, Information Technology  |
 | Mohamed Yazid  | Officer, Information Technology  |
 | Hein Thant Thu Shein  |  Officer, Information Technology |
-| Muhammad Ameen  | Assistant, Information Technology  |
-| Muhammad Shahid Bin Hussin  | Assistant, Information Technology  |
+| Muhammad Ameen  | Assistant,&nbsp;Information Technology  |
+| Muhammad Shahid Bin Hussin  | Assistant,&nbsp;Information Technology  |
 |   |   |
 
 **<u>Department - Library</u>**
@@ -279,14 +279,14 @@ third_nav_title: Our People
 | Staff Name  | Position  |
 |:-:|---|
 | Masturah Aziz  | Manager, Library  |
-| Ooi Poh Im  | Senior Officer, Library  |
+| Yogeswari  | Officer, Library  |
 |   |   |
 
-**<u>Department - Principal's Office</u>**
+**<u>Department -&nbsp;Principal's Office</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
-| Adelene Ng  | Executive ,Student Services/Personal Assistant  |
+| Adelene Ng  | Student Services and Personal Assistant  |
 |   |   |
 
 **<u>Department - Science (EAS)</u>**
@@ -294,9 +294,9 @@ third_nav_title: Our People
 | Staff Name  | Position  |
 |:-:|---|
 | Wong Su Zhen  | Senior Supervisor, Laboratory  |
-| Lin Yan  | Higher Technician, Laboratory  |
-| Mohamed Ali  | Higher Technician, Laboratory  |
-| Sandy Huang  | Higher Technician, Laboratory  |
+| Lin Yan  | Higher Technician,&nbsp;Laboratory  |
+| Mohamed Ali  | Higher Technician,&nbsp;Laboratory  |
+| Sandy Huang  | Higher Technician,&nbsp;Laboratory  |
 | Chan Siong Weng  | Attendant, Laboratory  |
 | Ng Hui Juan  | Technician, Laboratory  |
 |   |   |
@@ -307,15 +307,15 @@ third_nav_title: Our People
 |:-:|---|
 | Jamaluddin Bin Johan  | Senior Executive, Corporate Communications  |
 | Leonard Louis  |Executive Strategic Communications   |
-| Clorisa Loh Hui Lun  | Executive Partnerships & Community Relations  |
+| Clorisa Loh Hui Lun  | Executive Partnerships &amp; Community Relations  |
 |   |   |
 
-**<u>Department - Counselling & Student Services</u>**
+**<u>Department - Counselling &amp; Student Services</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
 | Karen Lau  | School Counsellor  |
+| Laura Tan  |  School Counsellor with ECG |
 | Amalina Binte Yahya | School Counsellor  |
-| Laura Tan  |  School Counsellor |
 | Chua Hai Lee  | Senior Executive, Admissions  |
 |   |   |

@@ -11,7 +11,7 @@ third_nav_title: Our People
 |   |   |   |
 |:-:|---|---|
 | <img src="/images/gover1.jpg" style="width:60%">  | <img src="/images/gover2.jpg" style="width:62%">  | <img src="/images/gover3.jpg" style="width:100%">  |
-| **Chairman**<br>Justice Mavis Chionh <br>Judge,&nbsp; &nbsp;Supreme Court  | **Treasurer**<br>Mr Daniel Soh&nbsp;<br>Retired  | **Secretary**<br>Ms Haslinda Zamani&nbsp;&nbsp;<br>Principal,<br>Raffles Girls' School  |
+| **Chairman**<br>Justice Mavis Chionh <br>Judge of the High Court,&nbsp;Supreme Court  | **Treasurer**<br>Mr Daniel Soh&nbsp;<br>Retired  | **Secretary**<br>Ms Haslinda Zamani&nbsp;&nbsp;<br>Principal,<br>Raffles Girls' School  |
 |   |   |   |
 
 **<center>Members</center>**
@@ -25,7 +25,7 @@ third_nav_title: Our People
 |   |   |   |   |
 |:-:|---|---|---|
 | <img src="/images/gover8.jpg" style="width:55%">  | <img src="/images/gover9.jpg" style="width:100%">  | <img src="/images/gover11.jpg" style="width:100%">  | <img src="/images/gover12.jpg" style="width:100%">  |
-| Dr Kong Hwai&nbsp;Loong<br>Specialist in Medical Oncology,&nbsp;<br>Icon Cancer Centre<br>Adjunct Associate Professor,&nbsp;NUHS/NUS  | Mr Lim Soon Hock<br>Managing Director,<br>Plan-B ICAG Pte Ltd  | Ms Ong Yeng Fang<br>Head,<br>UOB Private Bank  | Mr Kwee Chin Wei Kevin<br>Executive Director, Laguna National  |
+| Dr Kong Hwai&nbsp;Loong<br>Specialist in Medical Oncology,&nbsp;<br>Icon Cancer Centre<br>Adjunct Associate Professor,&nbsp;NUHS/NUS  | Mr Lim Soon Hock<br>Managing Director,<br>Plan-B ICAG Pte Ltd  | Ms Ong Yeng Fang<br>Global Market Head Southeast Asia, CA Indosuez (Switzerland) SA  | Mr Kwee Chin Wei Kevin<br>Executive Director, Laguna National  |
 |   |   |   |   |
 
 |   |   |   |   |

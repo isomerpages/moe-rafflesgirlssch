@@ -9,4 +9,4 @@ Welcome to RGS! Explore our campus to experience what life at RGS is like and fi
 
 _\*Click on the flashing square below to view the tour in full-screen mode for the optimal viewing experience._
 
-**REQUIRE JACKSON INPUT VIRTUAL LIVE MAP**
+**COMING SOON**

@@ -11,7 +11,7 @@ third_nav_title: Our People
 |   |   |   |
 |:-:|---|---|
 | <img src="/images/gover1.jpg" style="width:60%">  | <img src="/images/gover2.jpg" style="width:62%">  | <img src="/images/gover3.jpg" style="width:100%">  |
-| **Chairman**<br>Justice Mavis Chionh <br>Judge,   Supreme Court  | **Treasurer**<br>Mr Daniel Soh <br>Retired  | **Secretary**<br>Ms Haslinda Zamani  <br>Principal,<br>Raffles Girls' School  |
+| **Chairman**<br>Justice Mavis Chionh <br>Judge,&nbsp; &nbsp;Supreme Court  | **Treasurer**<br>Mr Daniel Soh&nbsp;<br>Retired  | **Secretary**<br>Ms Haslinda Zamani&nbsp;&nbsp;<br>Principal,<br>Raffles Girls' School  |
 |   |   |   |
 
 **<center>Members</center>**
@@ -19,17 +19,15 @@ third_nav_title: Our People
 |   |   |   |   |
 |:-:|---|---|---|
 | <img src="/images/gover4.jpg" style="width:70%">  | <img src="/images/gover5.jpg" style="width:73%">  | <img src="/images/gover6.jpg" style="width:85%">  | <img src="/images/gover7.jpg" style="width:85%">  |
-| Ms Chong Lo Lan Pearlyn<br>Managing Director, <br>Oaktree Capital<br>Management Pte Ltd  | Mr Christopher Gee Kok Aun <br>Senior Research Fellow, Institute of Policy Studies  | Dr Elaine Lim Hsuen <br>Doctor,<br>National Cancer Centre  | Prof Jackie Yi-Ru Ying <br>A\*STAR Senior Fellow,<br>NanoBio Lab  |
+| Ms Chong Lo Lan Pearlyn<br>Managing Director,&nbsp;<br>Oaktree Capital<br>Management Pte Ltd  | Mr Christopher Gee Kok Aun&nbsp;<br>Senior Research Fellow, Institute of Policy Studies  | Dr Elaine Lim Hsuen&nbsp;<br>Doctor,<br>National Cancer Centre  | Prof Jackie Yi-Ru Ying&nbsp;<br>Director NanoBio Lab &amp; A*STAR Senior Fellow  |
 |   |   |   |   |
 
 |   |   |   |   |
 |:-:|---|---|---|
-| <img src="/images/gover8.jpg" style="width:55%">  | <img src="/images/gover9.jpg" style="width:100%">  | <img src="/images/gover10.jpg" style="width:60%">  | <img src="/images/gover11.jpg" style="width:100%">  |
-| Dr Kong Hwai Loong<br>Specialist in Medical Oncology, <br>Icon Cancer Centre<br>Adjunct Associate Professor, NUHS/NUS  | Mr Lim Soon Hock<br>Managing Director,<br>Plan-B ICAG Pte Ltd  | Dr Lee Jong Jian <br>Ophthalmologist and Medical Director,<br>Raffles Hospital  | Ms Ong Yeng Fang<br>Head,<br>UOB Private Bank  |
+| <img src="/images/gover8.jpg" style="width:55%">  | <img src="/images/gover9.jpg" style="width:100%">  | <img src="/images/gover11.jpg" style="width:100%">  | <img src="/images/gover12.jpg" style="width:100%">  |
+| Dr Kong Hwai&nbsp;Loong<br>Specialist in Medical Oncology,&nbsp;<br>Icon Cancer Centre<br>Adjunct Associate Professor,&nbsp;NUHS/NUS  | Mr Lim Soon Hock<br>Managing Director,<br>Plan-B ICAG Pte Ltd  | Ms Ong Yeng Fang<br>Head,<br>UOB Private Bank  | Mr Kwee Chin Wei Kevin<br>Executive Director, Laguna National  |
 |   |   |   |   |
 
 |   |   |   |   |
 |:-:|---|---|---|
-| <img src="/images/gover12.jpg" style="width:50%">  | <img src="/images/gover13.jpg" style="width:50%">  |   |   |
-| Mr Kwee Chin Wei Kevin<br>Executive Director, Laguna National  | Ms Mariam Jaafar<br>Managing Director & Partner, The Boston Consulting Group  |   |   |
-|   |   |   |   |
+| <img src="/images/gover13.jpg" style="width:50%">  | 

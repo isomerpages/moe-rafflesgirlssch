@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HomepageBanner1.jpg
+      background: /images/rgswebbanner1.png
       key_highlights:
         - title: Achievements
           description: ""

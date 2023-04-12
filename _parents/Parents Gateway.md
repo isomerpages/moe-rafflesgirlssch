@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /parents/permalink/
+permalink: /parents/pg/
 description: ""
 ---
 ![](/images/pg_icon.png)

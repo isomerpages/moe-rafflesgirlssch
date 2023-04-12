@@ -1,6 +1,6 @@
 ---
 title: Parents Portal
-permalink: /parents/permalink/
+permalink: /parents/parentsportal/
 description: RGS Parents Portal
 ---
 Dear RGS Parents,

@@ -3,8 +3,6 @@ title: MOE Sexuality Education in Schools
 permalink: /holistic-education/moesexed/
 description: ""
 ---
-**
-
 Sexuality Education (SEd) in schools is about enabling students to understand  the physiological, social and emotional changes they experience as they mature,  develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality  matters in their growing up years. It is taught in the context of values which our  mainstream society believes in – the importance of the family as the basic unit of society, encouraging healthy, heterosexual marriages, and respect for the values and beliefs of the different ethnic and religious communities on sexuality issues.
 
 Sexuality Education focuses on the development of adolescents' values, and social  and emotional competencies required to make responsible decisions regarding  sexual behaviours and to build rewarding relationships based on love and respect which are the foundation for strong families. 
@@ -18,21 +16,13 @@ Sexuality Education covers the following dimensions of a person's sexuality:
 **Social:**  Sexual norms and behaviour and their legal, cultural and societal implications; and  
 **Ethical:** Values and moral systems related to sexuality.​
 
-**
-**
-
 **The three goals of Sexuality Education are:**
-
-**
 
 1. To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;  
         
 2.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
       
 3.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the heterosexual  married couple forming a nuclear family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
-    
-**
-**
 
 **The four key messages of Sexuality Education are:**
 
@@ -40,9 +30,6 @@ Sexuality Education covers the following dimensions of a person's sexuality:
 * Build positive relationships based on love and respect (which are the foundation for strong families);
 * Make responsible decisions for yourself, your family and society, and
 * Abstinence before marriage is the best protection against STIs/HIV and unwanted pregnancies. Casual sex can harm and hurt you and your loved ones.
-    
-**
-**
 
 **The key guiding principles of Sexuality Education are:**
 
@@ -117,8 +104,3 @@ MOE Sexuality Education programmes, which comprise SEd lessons and eTeens are to
 **Secondary 1 (Year 1) CCE 2023 Theme: Making Choices**
 
 **
-
-
-
-
-    

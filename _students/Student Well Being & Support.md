@@ -43,5 +43,3 @@ The following range of interventions are available to our students:
 * School-wide career guidance activities
 * Learning experiences about work
 * Individual student planning
-
-

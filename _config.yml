@@ -1,5 +1,5 @@
 title: Raffles Girls' School
-url: https://rgs.edu.sg
+url: https://www.rgs.edu.sg
 favicon: /images/logo.jpg
 colors:
   primary-color: "#006747"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d26afbzf7c2hhe.amplifyapp.com
 prod: https://master.d26afbzf7c2hhe.amplifyapp.com
 shareicon: /images/logo.jpg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""

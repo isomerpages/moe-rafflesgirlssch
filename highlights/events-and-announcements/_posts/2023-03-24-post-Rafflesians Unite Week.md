@@ -11,6 +11,3 @@ Rafflesians Unite (RU) Week is a week dedicated to a wide variety of programmes 
 Here are some key highlights from RU Week 2023:
 
 ![](/images/ru%20week.jpg)
-
-
-

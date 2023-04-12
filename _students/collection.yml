@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Student Well Being & Support.md
       - Filiae Meeting Rooms.md

@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Financial Aid.md
       - Student Central.md
       - Student Well Being & Support.md
       - Filiae Meeting Rooms.md

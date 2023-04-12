@@ -36,8 +36,6 @@ Sexuality Education covers the following dimensions of a person's sexuality:
 **Home**
 Parents play the primary role in the sexuality education of their children.  As such, they are responsible for the teaching and transmission of  values on sex and sexuality. Recognising that parents have a key role  in the sexuality education of their children, they can exercise their  choice to opt their children out of the school’s sexuality education programme;
 
-**
-
 **School**
 The teaching of knowledge and skills is integrated with the teaching of  values which reflect that of Singapore’s mainstream society, to help  students make wise, informed and responsible decisions on sexuality  matters.  
   
@@ -45,16 +43,12 @@ In accordance with our national values, Sexuality Education is  premised on the
 
 Only specially-selected teachers are trained to teach Sexuality  Education. These teachers are selected because they:
 
-
 *   believe in the importance of sexuality education for students;
     
 *   possess values that are aligned with MOE values in Sexuality  Education;
 *   are comfortable discussing sexuality issues; and
 *   have healthy rapport with students and possess good facilitation  skills.
   
-**
-**
-
 **Community**
 
 *   In recognition of our multi-racial and multi-religious society, students  and teachers will respect the different attitudes, values and beliefs  regarding sexuality that these different communities may have; and
@@ -65,12 +59,7 @@ More information can be accessed through the MOE website [here](https://www.moe.
 
 # **Overview of Sexuality Education Coverage in CCE Lessons**
 
-**
-
 The MOE Sexuality Education Curriculum adopts a cross curricular approach. It is delivered through the school curriculum viz. Science, CCE Form Teacher Guidance Period (at Primary 1 to 4), and Character and Citizenship Education (at Secondary level).  The Sexuality Education (SEd) lessons and the eTeens Programme, which are complementary, are staple Sexuality Education Programmes conducted under the ambit of Character and Citizenship Education (CCE).
-
-**
-**
 
 Themes in the Sexuality Education Curriculum: 
 
@@ -89,18 +78,6 @@ eTeens: Sexuality Education Programme in Schools 
 
 Complementing the Sexuality Education CCE lessons is the eTeens programme for Sec 3 students. This programme, jointly developed by the Health Promotion Board, in collaboration with MOE, caters to emerging trends and students’ developmental needs. As "an STIs/HIV" prevention programme, it aims to provide students with accurate knowledge about "STIs/HIV", teaches protection from a health perspective and equips students with life skills to say “no” to pre-marital sex. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-**
-**
-
 # Implementation of Sexuality Education (SEd) Lessons and eTeens Programme
 
-**
-
 MOE Sexuality Education programmes, which comprise SEd lessons and eTeens are to be implemented as part of the CCE curriculum. SEd lessons are for Year 1-4 students; e-Teens is for Year 3. eTeens is implemented as a Mass Talk segment is to be conducted by approved external providers. Only specially-selected MOE staff and MOE-SEd trained teachers are  deployed to teach SEd lessons and the class-based lesson of the eTeens programme (Secondary).
-
-**
-**At RAFFLES GIRLS’ SCHOOL (SECONDARY), the following lessons from the Sexuality Education Programme will be  taught in 2023**
-
-**Secondary 1 (Year 1) CCE 2023 Theme: Making Choices**
-
-**

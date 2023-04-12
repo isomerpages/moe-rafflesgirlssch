@@ -31,4 +31,3 @@ The RGSA is a much-valued member of the RGS community, engaging us through their
 We congratulate Ms Ang Peck Ngo May  and Ms Mabel Tay for helming the Association in their role as President and Vice-president respectively.
 
 As before, we look forward to partnering the incoming RGS Alumnae Executive Council to fulfil the School’s and Alumnae’s mission of nurturing daughters of a better age.
-

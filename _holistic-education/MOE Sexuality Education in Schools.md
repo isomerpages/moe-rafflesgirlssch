@@ -80,7 +80,7 @@ Complementing the Sexuality Education CCE lessons is the eTeens programme for Se
 
 MOE Sexuality Education programmes, which comprise SEd lessons and eTeens are to be implemented as part of the CCE curriculum. SEd lessons are for Year 1-4 students; e-Teens is for Year 3. eTeens is implemented as a Mass Talk segment is to be conducted by approved external providers. Only specially-selected MOE staff and MOE-SEd trained teachers are&nbsp; deployed to teach SEd lessons and the class-based lesson of the eTeens programme (Secondary).
 
-**Click HERE to view the lessons from the Sexuality Education Programme that will be  taught in 2023.
+**Click[HERE](/files/moe%20sexuality%20education%20in%20schools%20(rgs).pdf) to view the lessons from the Sexuality Education Programme that will be  taught in 2023.
 
 ## Information for Parents 
 

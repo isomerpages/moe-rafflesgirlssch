@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Useful Links.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -23,3 +22,4 @@ collections:
       - Careers at RGS/Benefits.md
       - Visitor Information.md
       - 360° Virtual Campus Tour.md
+      - Useful Links.md

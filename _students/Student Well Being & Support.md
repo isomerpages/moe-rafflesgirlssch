@@ -24,6 +24,7 @@ We offer one-to-one appointments to address with students a myriad of issues the
 | Individual counselling  | Group counselling     | Academic counselling    |
 | Parent education  |     |     |
 
+----------
 
 | **Issues:** |  ||
 | -------- | -------- | -------- |

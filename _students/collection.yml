@@ -1,5 +1,0 @@
-collections:
-  students:
-    output: true
-    order:
-      - Book Rooms.md

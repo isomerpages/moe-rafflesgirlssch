@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Parents Portal.md
       - Welcome.md
       - Committee.md
       - Events.md
       - Support.md
       - Membership.md
+      - Parents Portal.md

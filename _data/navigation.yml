@@ -12,9 +12,9 @@ links:
     url: https://perl.rgs.edu.sg/
   - title: Parents
     collection: parents
+  - title: Students
+    collection: students
   - title: Alumnae
     collection: alumnae
   - title: Contact Us
     url: https://www.rgs.edu.sg/contact-us/
-  - title: Students
-    collection: students

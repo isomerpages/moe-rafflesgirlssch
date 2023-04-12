@@ -14,7 +14,7 @@ The objectives of student well-being and support are:
 *   To support students with special needs in their educational pursuits and social-emotional development
 *   To extend selected programmes to neighbouring schools to facilitate social mixing of students
 
-# **Counselling Services**
+# Counselling Services
 
 We offer one-to-one appointments to address with students a myriad of issues they may present to the counsellors.
 

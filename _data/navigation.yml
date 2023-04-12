@@ -14,3 +14,5 @@ links:
     collection: parents
   - title: Alumnae
     collection: alumnae
+  - title: Contact Us
+    resource_room: true

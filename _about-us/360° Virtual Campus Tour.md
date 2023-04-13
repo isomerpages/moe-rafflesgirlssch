@@ -9,4 +9,6 @@ Welcome to RGS! Explore our campus to experience what life at RGS is like and fi
 
 _\*Click on the flashing square below to view the tour in full-screen mode for the optimal viewing experience._
 
-**COMING SOON**
+```
+<iframe allowfullscreen="allowfullscreen" allow="vr" frameborder="0" src="[https://tubear.co/3d-model/raffles-girls-school/fullscreen/](https://tubear.co/3d-model/raffles-girls-school/fullscreen/ &quot;https://tubear.co/3d-model/raffles-girls-school/fullscreen/&quot;)" height="480" width="853"></iframe>
+```

@@ -8,9 +8,9 @@ image: ""
 ---
 *(A message from RGS Principal, Ms Haslinda Zamani)*
 
-The RGS Alumnae held its AGM on Saturday, 25 March 2023. I am pleased to announce that these ladies will be serving on the Executive Council of the RGS Alumnae:
+The RGS Alumnae held its AGM on Saturday, 25 March 2023. I am pleased to announce that these ladies will be serving on the 5th Executive Council of the RGS Alumnae:
 
-**RGS Alumnae Executive Council**
+**RGS Alumnae 5th Executive Council**
 
 | Designation | Name | 
 | -------- | -------- | 
@@ -28,6 +28,8 @@ The RGS Alumnae held its AGM on Saturday, 25 March 2023. I am pleased to announc
 
 The RGSA is a much-valued member of the RGS community, engaging us through their public education programmes, philanthropic activities and inspiring seminars; as well as sharing their experiences, providing mentorships and internships and connecting with their younger sisters-in-learning in myriad, meaningful ways.
 
-We congratulate Ms Ang Peck Ngo May  and Ms Mabel Tay for helming the Association in their role as President and Vice-president respectively.
+We wish to express our appreciation to Ms Lee Twe Jeog (Class of 1979) and Ms Mabel Tay (Class of 1996), who respectively hold the positions of President and Vice President of the 4th Executive Council, for their exceptional leadership and unwavering commitment towards fostering the growth and development of the Alumnae.
+
+We congratulate Ms Ang Peck Ngo May  and Ms Mabel Tay for helming the Association in their role as President and Vice-president of the 5th Executive Council. 
 
 As before, we look forward to partnering the incoming RGS Alumnae Executive Council to fulfil the School’s and Alumnae’s mission of nurturing daughters of a better age.

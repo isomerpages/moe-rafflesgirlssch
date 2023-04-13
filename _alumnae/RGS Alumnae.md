@@ -18,24 +18,22 @@ The RGS Alumnae will continue to provide a platform for alumnae to connect with 
 
 Website: [rgsalumnae.com](http://rgsalumnae.com/)
 
-The 4th Executive Council of the RGS Alumnae was voted in on 27 March 2021 during their 8th AGM.
+The 5th Executive Council of the RGS Alumnae was voted in on 25 March 2023 during their 9th AGM.
 
-The office bearers for 2021/2022 are as follow:
+The office bearers for 2023/2024 are as follows:
 
-|   |   |
-|:-:|---|
-| President  | Ms Lee Twe Jeog (Class of 1979)  |
-| Vice-President  | Ms Tay Hong Ling Mabel (Class of 1996)  |
-| Secretary  | Ms Nadia Yeo (Class of 2002)  |
-| Assistant Secretary  | 	Ms Gu Weite (Class of 2008)  |
-| Treasurer  | Ms Sharon Anne Sim Soo Yee (Class of 1993)  |
-| Assistant Treasurer  | Ms Law Shu Li (Class of 1991)  |
-| Member  | Ms Kathryn Harsono (Class of 2009)  |
-| Member  | Ms Jennifer Loh Nee Sian (Class of 1992)  |
-| Member  | Ms Ting Hui Shan (Class of 2000)  |
-| Member  | Dr Goh Su-Yen (Class of 1989)  |
-| Member  | Ms Ang Peck Ngo, May (Class of 1979)  |
-| Co-Opted Member  | 	Ms Ngoh Seiow Lieng, Serene (Class of 1988)  |
-| Co-Opted Member  | Ms Emmeline Lim (Class of 1999)  |
-| Co-Opted Member  | Ms Chua Shi Min (Class of 2008)  |
-|
+**RGS Alumnae 5th Executive Council**
+
+| Designation | Name | 
+| -------- | -------- | 
+| President    | Ms Ang Peck Ngo (Class of 1979) | 
+| Vice President    | Ms Tay Hong Ling Mabel (Class of 1996) | 
+| Secretary    | Ms Nadia Yeo (Class of 2002) | 
+| Assistant Secretary    | Ms Ting Hui Shan (Class of 2000) | 
+| Treasurer    | Ms Bella Chia (Class of 2012) | 
+| Assistant Treasurer    | Ms Law Shu Li (Class of 1991) |
+| Member    | Ms Lee Twe Jeog (Class of 1979) | 
+| Member   | Ms Sharon Anne Sim Soo Yee (Class of 1993) | 
+| Member   | Ms Kathryn Harsono (Class of 2009) | 
+| Member    | Ms Sharon Chong (Class of 1975) | 
+| Member   | Ms Prajwala Prakash (Class of 2008) | 

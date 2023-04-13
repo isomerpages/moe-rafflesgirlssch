@@ -1,6 +1,6 @@
 ---
 title: Useful Links
-permalink: /about-us/permalink/
+permalink: /about-us/links/
 description: ""
 ---
 Links

@@ -23,7 +23,7 @@ sections:
       description: Come and discover the RGS Experience!
       button: Find out more
       url: /highlights/events-and-announcements/oh23/
-      image: /images/rgs illustration.png
+      image: /images/18c34773-b0c3-4e15-a48c-d527c579c8a2.png
       alt: Image alt text
       subtitle: You are invited!
   - resources:

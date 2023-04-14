@@ -15,7 +15,7 @@ Curious to know what the RGS experience is? Find out at our Braddell campus Ope
 
 **Time:** 8.30am to 1.30pm 
 
-**Venue:** Raffles Girls' School (2 Braddell Rise, 
+**Venue:** Raffles Girls' School (2 Braddell Rise, Singapore 318871)
 
 Please note there **NO pre-registration is required**. 
 

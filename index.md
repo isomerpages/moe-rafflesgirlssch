@@ -20,11 +20,12 @@ sections:
           url: /highlights/rgs-in-the-news/
   - infopic:
       title: Open House 2023
-      description: Come and discover the RGS Experience on 20 May 2023 from 8.30am to 1.30pm
+      description: Come and discover the RGS Experience!
       button: Find out more
-      url: /
+      url: /highlights/events-and-announcements/oh23/
       image: /images/rgs illustration.png
       alt: Image alt text
+      subtitle: You are invited!
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

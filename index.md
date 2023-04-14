@@ -24,7 +24,7 @@ sections:
       button: Find out more
       url: /highlights/events-and-announcements/oh23/
       image: /images/18c34773-b0c3-4e15-a48c-d527c579c8a2.png
-      alt: Image alt text
+      alt: RGS Open House 2023
       subtitle: You are invited!
   - resources:
       title: Highlights

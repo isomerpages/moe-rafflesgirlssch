@@ -21,4 +21,6 @@ Please note there **NO pre-registration is required**.
 
 We look forward to sharing with your more information about our Open House and what you can look forward to very soon!
 
-Do follow us on [Instagram] and [Facebook](https://www.facebook.com/rafflesgirlsschool.since1879) for updates!(https://www.instagram.com/raffles_girls_school/)
+Do follow us on [[Instagram
+(https://www.instagram.com/raffles_girls_school/)] 
+and [Facebook](https://www.facebook.com/rafflesgirlsschool.since1879) for updates!

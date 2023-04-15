@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Raffles Girls' School
-description: An Isomer site of the Singapore Government
-image: /images/logo.jpg
+description: "Filiae Melioris Aevi "
+image: /images/for-circle-logo.jpg
 permalink: /
 notification: ""
 sections:

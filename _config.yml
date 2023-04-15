@@ -1,6 +1,6 @@
 title: Raffles Girls' School
 url: https://www.rgs.edu.sg
-favicon: /images/logo.jpg
+favicon: /images/for-circle-logo.jpg
 colors:
   primary-color: "#006747"
   secondary-color: "#006747"
@@ -15,7 +15,7 @@ colors:
       color: "#a89968"
     - title: media-color-five
       color: "#006747"
-description: An Isomer site of the Singapore Government
+description: Filiae Melioris Aevi
 permalink: none
 baseurl: ""
 exclude:
@@ -51,9 +51,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d26afbzf7c2hhe.amplifyapp.com
 prod: https://master.d26afbzf7c2hhe.amplifyapp.com
-shareicon: /images/logo.jpg
+shareicon: /images/for-circle-logo.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: highlights
+google_analytics_ga4: ""

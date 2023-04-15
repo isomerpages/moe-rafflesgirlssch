@@ -1,6 +1,6 @@
 title: Raffles Girls' School
 url: https://www.rgs.edu.sg
-favicon: /images/logo.jpg
+favicon: /images/for-circle-logo.jpg
 colors:
   primary-color: "#006747"
   secondary-color: "#006747"
@@ -15,7 +15,7 @@ colors:
       color: "#a89968"
     - title: media-color-five
       color: "#006747"
-description: "Filiae Melioris Aevi "
+description: Filiae Melioris Aevi
 permalink: none
 baseurl: ""
 exclude:

@@ -26,7 +26,7 @@ It is founded on the 3 key goals to  :
 
 The space may be booked by student leaders and teachers for student leadership related activities only ( e.g. leadership training, meetings, good practice sharing, leadership activity preparation, VIA collection of items etc.)
 
-The Judith Prakash Leadership Development Centre may be booked via this link.
+The Judith Prakash Leadership Development Centre may be booked via this [link](https://inet.rgs.edu.sg/students/MeetingRoomBooking/SitePages/JPLDC.aspx).
 
 # Student Records
 

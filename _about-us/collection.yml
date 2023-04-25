@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Support.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -15,6 +14,7 @@ collections:
       - Historical Milestones/Historical Milestones.md
       - Historical Milestones/RGS Digital Heritage Trail.md
       - Financial Information.md
+      - Support.md
       - Library.md
       - Careers at RGS/.keep
       - Careers at RGS/Careers at RGS.md

@@ -6,13 +6,13 @@ links:
     collection: programmes
   - title: Holistic Education
     collection: holistic-education
+  - title: Students
+    collection: students
   - title: Admissions
     collection: admissions
   - title: PeRL
     url: https://perl.rgs.edu.sg/
   - title: Parents
     collection: parents
-  - title: Students
-    collection: students
   - title: Alumnae
     collection: alumnae

@@ -6,14 +6,27 @@ description: ""
 ## Events
 
 PRGS’s events provide a great opportunity for parents/guardians to network and have a better understanding of the school and their child’s/ward’s student life. Talks and workshops organised by PRGS for parents/guardians provide insights into certain topics which may be relevant to parents/guardians, while the signature “Breakfast Dialogues with Principals” allows parents/guardians to have discussions with the school leadership in a small-group setting.  
+
+Other initiatives include the Year One Parents Orientation,
+Year One School Parent Meeting, Y4 girls’
+transition to RI talk and the PRGS
+Awards presented to deserving students on
+Founder’s Day. 
+
+At practically every major school
+event, where their presence made a difference,
+the PRGS Association members contributed
+wholeheartedly – Sports Fest, Racial Harmony
+Day, Staff Appreciation Day, and Farewell Alma
+Mater, just to name a few.
   
-Please visit the PRGS [Facebook](https://www.facebook.com/PRGSAssociation) and [Instagram](https://www.instagram.com/rgsparents/?hl=en) pages to view updates and photos of past PRGS events.
+Please visit the PRGS&nbsp;[Facebook](https://www.facebook.com/PRGSAssociation)&nbsp;and&nbsp;[Instagram](https://www.instagram.com/rgsparents/?hl=en)&nbsp;pages to view updates and photos of past PRGS events.
 
 #### Calendar of Events (2023)
 
 | **Date\***  | **Event\*\***  |
 |:-:|---|
-| 11 Jan 2023  <br>18 Jan 2023  | Learning Approaches Workshop for Year 1 Parents  |
+| 11 Jan&nbsp;2023  <br>18 Jan 2023  | Learning Approaches Workshop for Year 1 Parents  |
 | 25 Feb 2023  | PRGS Social Event - Tour of Former Ford Factory  |
 | 4 Mar 2023  | 21st PRGS AGM  |
 | May 2023  | Year 4 Breakfast Dialogue with Principals (date TBC)  |

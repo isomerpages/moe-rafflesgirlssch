@@ -26,7 +26,5 @@ At Raffles Girls’ School, Education and Career Guidance counselling helps our 
 *   Monthly ‘Lunch with ECG’ Dialogue Sessions
 *   Workplace Learning Journeys
 
-*   Past Journeys include Google, National University of Singapore
-
 *   Curated ECG Resources and Enrichment Activities for students
 *   Conference for Parents

@@ -4,6 +4,8 @@ permalink: /students/ecg/
 description: Education and Career Guidance Services for RGS students
 ---
 At Raffles Girls’ School, Education and Career Guidance counselling helps our students to explore, understand and learn about their career aspirations as part of their holistic education.
+
+To make an appointment with a counsellor, please click [HERE](https://inet.rgs.edu.sg/students/Lists/Appointment%20with%20School%20Counsellor/AllItems.aspx).
 # Education and Career Guidance Services
 *   Dedicated Full-Time NCDA Certified Career Services Practitioner, Trained ECG Counsellor in School Career Development and School Counselling
 *   Individual and Group Career Guidance, Planning and Counselling Sessions

@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Upcoming Events.md
       - Student Central.md
       - Student Well Being & Support.md
       - Education and Career Guidance.md
+      - Upcoming Events.md
       - Filiae Meeting Rooms.md
       - Financial Aid.md

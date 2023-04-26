@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Education and Career Guidance.md
       - Student Central.md
       - Student Well Being & Support.md
       - Filiae Meeting Rooms.md

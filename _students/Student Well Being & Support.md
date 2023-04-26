@@ -1,5 +1,5 @@
 ---
-title: Student Well Being &amp; Support
+title: Student Well Being & Support
 permalink: /students/wellbeing-support/
 description: ""
 ---
@@ -32,15 +32,5 @@ We offer one-to-one appointments to address with students a myriad of issues the
 |  Depression    |  Eating disorders    |   Grief and loss    |
 |  Learning difficulties/disabilities    |  Relationship – parents, family, peers, teachers  | 
 
-# Education and Career Guidance (ECG)
+To make an appointment with a counsellor, please click [HERE](https://inet.rgs.edu.sg/students/Lists/Appointment%20with%20School%20Counsellor/AllItems.aspx).
 
-Our goal is to see our students being able to:
-* Understand their own career/academic aspirations
-* Develop positive attitudes towards work and learning
-* Integrate their career/academic aspirations with whole-person development and life-long learning
-
-The following range of interventions are available to our students:
-* Linking study opportunities and career choices
-* School-wide career guidance activities
-* Learning experiences about work
-* Individual student planning

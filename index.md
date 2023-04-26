@@ -7,7 +7,7 @@ permalink: /
 notification: RGS Open House on 20 May 2023, 8.30am to 1.30pm @ 2 Braddell Rise
 sections:
   - hero:
-      background: /images/rgs flag.jpg
+      background: /images/rooftop photo1.jpg
       key_highlights:
         - title: Achievements
           description: ""

@@ -22,7 +22,7 @@ We would like to invite you to share your experiences at our future Education an
 If you would like to participate or have any queries, do contact Ms. Laura Tan ([Laura\_Tan\_A@schools.gov.sg](mailto:Laura_Tan_A@schools.gov.sg)&nbsp;, 69706381).
 
 
-**2 \. Psychiatrists**<br>
+**2 \. Mental Wellness Professionals**<br>
 RGS has a long-standing culture of inquiry and advocacy. Recently, there has been an uptake on student teams within RGS who are passionate advocates of Mental Health.&nbsp;
 
 We are seeking alumnae who are practising psychiatrists who can help advise and provide feedback on these students’ information products (e.g emailers).&nbsp;

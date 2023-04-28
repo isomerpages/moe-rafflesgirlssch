@@ -36,67 +36,68 @@ Our Physical Education programme seeks to develop Healthy Daughters for a Health
 
 #### Gallery
 
-<img src="/images/pe1.jpg" style="width:49%" align=right>
+<img src="/images/pe1.jpg" style="width:49%" align="right">
 
 The Health Advocate strives to maintain a balanced and healthy lifestyle. She is a fitness enthusiast who understands the importance of keeping active and having a positive frame of mind towards her body and inner self.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/pe2.jpg" style="width:40%" align=right>
+<img src="/images/pe2.jpg" style="width:40%" align="right">
 
 The Outdoor Explorer reconnects with nature, embraces challenges and self-discovery. She is a rugged adventurer who demonstrates resilience, keeps an open mind and takes calculated risks.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/pe3.jpg" style="width:49%" align=right>
+<img src="/images/pe3.jpg" style="width:49%" align="right">
 
-The Health Advocate strives to maintain a balanced and healthy lifestyle. She is a fitness enthusiast who understands the importance of keeping active and having a positive frame of mind towards her body and inner self.
-<br clear=right>
+The Team Player possesses determination and integrity. She applies critical thinking and helps her team make responsible decisions in game situations. She respects her teammates and competitors, displays sportsmanship and humility in her pursuit of excellence. 
+<br clear="right">
 
-<img src="/images/pe4.jpg" style="width:49%" align=right>
+<img src="/images/pe4.jpg" style="width:49%" align="right">
 
-The Health Advocate strives to maintain a balanced and healthy lifestyle. She is a fitness enthusiast who understands the importance of keeping active and having a positive frame of mind towards her body and inner self.
-<br clear=right>
+Outward Bound Singapore
+<br clear="right">
 
-<img src="/images/pe5.jpg" style="width:49%" align=right>
+Outward Bound Singapore
+<img src="/images/pe5.jpg" style="width:49%" align="right">
 
-Outward Bound Singapore.
-<br clear=right>
 
-<img src="/images/pe6.jpg" style="width:49%" align=right>
+<br clear="right">
 
-Outward Bound Singapore.
-<br clear=right>
+<img src="/images/pe6.jpg" style="width:49%" align="right">
 
-<img src="/images/pe7.jpg" style="width:49%" align=right>
+Outward Bound Singapore
+<br clear="right">
 
-PE Programme.
-<br clear=right>
-
-<img src="/images/pe8.jpg" style="width:40%" align=right>
+<img src="/images/pe7.jpg" style="width:49%" align="right">
 
 PE Programme.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/pe9.png" style="width:49%" align=right>
+<img src="/images/pe8.jpg" style="width:40%" align="right">
 
-PE Programme.
-<br clear=right>
+PE Programme
+<br clear="right">
 
-<img src="/images/pe10.jpg" style="width:49%" align=right>
+<img src="/images/pe9.png" style="width:49%" align="right">
 
-Sports Festival.
-<br clear=right>
+PE Programme
+<br clear="right">
 
-<img src="/images/pe11.jpg" style="width:40%" align=right>
+<img src="/images/pe10.jpg" style="width:49%" align="right">
 
-Sports Festival.
-<br clear=right>
+Sports Festival
+<br clear="right">
 
-<img src="/images/pe12.jpg" style="width:40%" align=right>
+<img src="/images/pe11.jpg" style="width:40%" align="right">
 
-Swimming Carnival.
-<br clear=right>
+Sports Festival
+<br clear="right">
 
-<img src="/images/pe13.jpeg" style="width:49%" align=right>
+<img src="/images/pe12.jpg" style="width:40%" align="right">
 
-Swimming Carnival.
-<br clear=right>
+Swimming Carnival
+<br clear="right">
+
+<img src="/images/pe13.jpeg" style="width:49%" align="right">
+
+Swimming Carnival
+<br clear="right">

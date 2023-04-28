@@ -19,6 +19,7 @@ Curious to know what the RGS experience is? Find out at our Braddell campus Ope
 
 Please note that pre-registration is **NOT required**. 
 
-We look forward to sharing with you more information about our Open House and what you can look forward to very soon.
+![](/images/copy%20of%20rgs%20open%20house%202023%201st%20post%20(a5%20document).png)
 
-Do follow us on [Instagram](https://www.instagram.com/raffles_girls_school/) and [Facebook](https://www.facebook.com/rafflesgirlsschool.since1879) for updates!
+
+Do follow us on [Instagram](https://www.instagram.com/raffles_girls_school/) and [Facebook](https://www.facebook.com/rafflesgirlsschool.since1879) for more updates!

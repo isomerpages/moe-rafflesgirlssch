@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - The RGS Shop.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

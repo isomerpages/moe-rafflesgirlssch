@@ -48,9 +48,9 @@ The Applicant must:
 #### Important Note
 
 **Required Submission of Additional Documents**<br>
-Applicants may need to submit additional documents/videos via an e-form directly to RGS before 31 May 2023. All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+Applicants may need to submit additional documents/videos via an [e-form](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf) directly to RGS before 31 May 2023. All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
 
-For more information on the submission of additional documents/videos and the selection process/criteria of each talent aread, please click here. 
+For more information on the submission of additional documents/videos and the selection process/criteria of each talent area, please click [here.](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
 
 #### Process Overview
 
@@ -58,7 +58,7 @@ For more information on the submission of additional documents/videos and the se
 |:-:|---|
 | **Application for DSA-Sec through MOE's online DSA-Sec Portal**  | 4 May 2023, 11.00am to 31 May 2023, 3.00pm  |
 | **Submission of additional documents to RGS via e-form**  | 4 May 2023 to 20 June 2023  <br>
-Please refer to further details for talent areas here.
+Please refer to further details for talent areas [here](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
 | **Selection tests/Auditions/Interviews for all 19 talent areas**  | July to August 2023 <br>Only&nbsp;**shortlisted applicants**&nbsp;will be notified.  |
 | <br>**Notification of Selection Outcome**  | By mid-September 2023  <br>Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
 

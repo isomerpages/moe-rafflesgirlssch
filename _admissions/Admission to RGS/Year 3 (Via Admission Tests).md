@@ -8,7 +8,7 @@ third_nav_title: Admission to RGS
 
 #### Criteria
 
-This application is for admission into&nbsp;**Year 3 only**&nbsp;for the next academic year (2023).&nbsp;
+This application is for admission into&nbsp;**Year 3 only**&nbsp;for the next academic year (2024).&nbsp;
 
 Any student who was successfully posted to a secondary school under the DSA-Sec Exercise or Admissions Exercise for International Student (AEIS) is&nbsp;not&nbsp;allowed to transfer to another school as she is expected to honour her commitment to the school she has been posted to. In other words, she cannot apply for admission to Year 3 via our Admission Tests.
 
@@ -20,15 +20,15 @@ Shortlisted applicants must sit for Admission Tests administered by RGS for the 
 
 | **SCHEDULE**  |   |
 |:-:|---|
-| Application Period  | **11 August 2022 (Thu) 2 pm to 24 August 2022 (Wed) 2 pm**  |
-| Admission Tests<br><br>_(for shortlisted applicants)_  | **5 September 2022 (Mon), from 8.00 am to 1.00 pm at RGS**<br><br>**(Subjected to prevailing Covid-19 Safe Management Measures at that time)**  |
-| Interview<br><br>_(for shortlisted applicants)_  | **October 2022**  |
-| Notification of Result of Application  | **November 2022**  |
+| Application Period  | **11 August 2023 (Fri) 2 pm to 23 August 2023 (Wed) 2 pm**  |
+| Admission Tests<br><br>_(for shortlisted applicants)_  | **4 September 2023 (Mon), from 8.00 am to 1.00 pm at RGS**<br><br>**(Subjected to prevailing Covid-19 Safe Management Measures at that time)**  |
+| Interview<br><br>_(for shortlisted applicants)_  | **October 2023**  |
+| Notification of Result of Application  | **November 2023**  |
 |   |   |
 
 **SUBMISSION OF APPLICATION**
 
-Applicants must&nbsp;**complete and submit an online application before 2 pm on 24 August 2022 (Wed).**
+Applicants must&nbsp;**complete and submit an online application before 2 pm on 23 August 2023 (Wed).**
 
 DO NOT submit any documents, original or otherwise, as all documents submitted will not be returned. Applicants must be prepared to produce the original documents for verification purposes upon request, if necessary.
 

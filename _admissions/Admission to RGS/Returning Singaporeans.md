@@ -28,4 +28,4 @@ Returning Singaporeans opting to sit for the RGS entrance tests and are shortlis
   
 Candidates who were successfully posted to a secondary school under the DSA-Sec Exercise are not allowed to transfer to another school as they are expected to honour their commitment to their posted school.  
   
-For further details, please click [here](https://www.rgs.edu.sg/admissions/admission-to-rgs/year-3-via-entrance-test). **PAGE NOT FOUND**
+For further details, please click [here](https://www.rgs.edu.sg/admissions/Admission-to-RGS/via-admission-tests/).

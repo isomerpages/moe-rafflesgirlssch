@@ -36,6 +36,6 @@ Please click [here] &nbsp;to apply. This e-application form will only be accessi
 
 **IMPORTANT INFORMATION**
 
-For further details about the Admissions Tests, please click [here](/files/2022%20Webpages%20RGS-Y3-Admissions%20Info_ENT%20030322.pdf).
+For further details about the Admissions Tests, please click [here](/files/2023%20webpages%20rgs-y3-admissions%20info_ent%20020523%20(1).pdf).
 
 Detailed results of the tests and interview, if any, will not be released and RGS reserves the right not to release the results or the reasons for non-selection.

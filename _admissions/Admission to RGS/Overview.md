@@ -18,7 +18,7 @@ Female Singaporean, Singapore PR and International Students who possess talents 
 
 Click [here](/admissions/Admission-to-RGS/via-DSA/) for further details.
 
-#### Admission to Year 1 – Secondary 1 (S1) Posting Exercise & appeal for school transfer after secondary 1 (s1) posting
+#### Admission to Year 1 – Secondary 1 (S1) Posting Exercise & appeal for school transfer after secondary 1 (S1) posting
 
 **Secondary 1 (S1) Posting Exercise**
 

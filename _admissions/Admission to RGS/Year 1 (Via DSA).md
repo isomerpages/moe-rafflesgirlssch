@@ -72,7 +72,7 @@ July to August 2023
 **ONLY shortlisted applicants will be notified.**
 
 **Notification of Selection Outcome**  
-By 11 September 2023  
+By 12 September 2023  
 
 Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
 

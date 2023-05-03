@@ -38,29 +38,45 @@ The Applicant must:
 
 #### 19 Talent Areas for RGS DSA-Sec 2023
 
+![](/images/dsatalentareas.png)
+
 ###### <center>Categories</center>
 
 | Languages  | STEM  | Music &amp; Visual Arts  | Leadership  | Sports &amp; Games  |
 |:-:|---|---|---|---|
-| <br>*   English Language<br>*   Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br><br><br>* Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
+| <br> English Language<br> Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br> Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
 |   |   |   |   |   |
 
 #### Important Note
 
-**Required Submission of Additional Documents**<br>
-Applicants may need to submit additional documents/videos via an [e-form](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf) directly to RGS before 31 May 2023. All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+**Required Submission of Additional Documents**
+<br>
 
-For more information on the submission of additional documents/videos and the selection process/criteria of each talent area, please click [here.](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
+For detailed information on the submission of additional documents/videos and the selection process/criteria of each talent area, please click [here.](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
+
+Applicants may need to submit additional documents/videos via the relevant links that can be found in the document.  Submissions must be made directly to RGS before 31 May 2023. 
+
+All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+
 
 #### Process Overview
 
-|   |   |
-|:-:|---|
-| **Application for DSA-Sec through MOE's online DSA-Sec Portal**  | 4 May 2023, 11.00am to 31 May 2023, 3.00pm  |
-| **Submission of additional documents to RGS via e-form**  | 4 May 2023 to 20 June 2023  <br>
+**Application for DSA-Sec through MOE's online DSA-Sec Portal**  
+4 May 2023, 11.00am to 31 May 2023, 3.00pm  
+
+**Submission of additional documents to RGS via e-form**  
+4 May 2023 to 20 June 2023  <br>
 Please refer to further details for talent areas [here](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
-| **Selection tests/Auditions/Interviews for all 19 talent areas**  | July to August 2023 <br>Only&nbsp;**shortlisted applicants**&nbsp;will be notified.  |
-| <br>**Notification of Selection Outcome**  | By mid-September 2023  <br>Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
+
+**Selection tests/Auditions/Interviews for all 19 talent areas**  
+July to August 2023 
+
+**ONLY shortlisted applicants will be notified.**
+
+**Notification of Selection Outcome**  
+By 12 September 2023  
+
+Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
 
 **All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.** **There will NOT be an online mode for the selection process.**
 

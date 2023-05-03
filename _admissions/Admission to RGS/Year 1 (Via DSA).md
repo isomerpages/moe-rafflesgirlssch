@@ -38,6 +38,8 @@ The Applicant must:
 
 #### 19 Talent Areas for RGS DSA-Sec 2023
 
+![](/images/dsatalentareas.png)
+
 ###### <center>Categories</center>
 
 | Languages  | STEM  | Music &amp; Visual Arts  | Leadership  | Sports &amp; Games  |

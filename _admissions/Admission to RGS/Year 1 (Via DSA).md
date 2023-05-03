@@ -38,19 +38,11 @@ The Applicant must:
 
 #### 19 Talent Areas for RGS DSA-Sec 2023
 
-
-
-| Languages | STEM | Music &amp; Visual Arts  |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-
 ###### <center>Categories</center>
 
 | Languages  | STEM  | Music &amp; Visual Arts  | Leadership  | Sports &amp; Games  |
 |:-:|---|---|---|---|
-| <br>*   English Language<br>*   Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br> Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
+| <br> English Language<br> Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br> Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
 |   |   |   |   |   |
 
 #### Important Note
@@ -80,7 +72,7 @@ July to August 2023
 **ONLY shortlisted applicants will be notified.**
 
 **Notification of Selection Outcome**  
-By mid-September 2023  
+By 11 September 2023  
 
 Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
 

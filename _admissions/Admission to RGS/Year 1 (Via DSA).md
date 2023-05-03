@@ -54,11 +54,13 @@ For more information on the submission of additional documents/videos and the se
 
 #### Process Overview
 
-|   |   |
-|:-:|---|
-| **Application for DSA-Sec through MOE's online DSA-Sec Portal**  | 4 May 2023, 11.00am to 31 May 2023, 3.00pm  |
-| **Submission of additional documents to RGS via e-form**  | 4 May 2023 to 20 June 2023  <br>
+**Application for DSA-Sec through MOE's online DSA-Sec Portal**  
+4 May 2023, 11.00am to 31 May 2023, 3.00pm  
+
+**Submission of additional documents to RGS via e-form**  
+4 May 2023 to 20 June 2023  <br>
 Please refer to further details for talent areas [here](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
+
 | **Selection tests/Auditions/Interviews for all 19 talent areas**  | July to August 2023 <br>Only&nbsp;**shortlisted applicants**&nbsp;will be notified.  |
 | <br>**Notification of Selection Outcome**  | By mid-September 2023  <br>Applicants will be notified via email and RGS reserves the right not to release the details of the outcome or the reasons for non-selection.  
 

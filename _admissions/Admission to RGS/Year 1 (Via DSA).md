@@ -40,13 +40,6 @@ The Applicant must:
 
 ![](/images/dsatalentareas.png)
 
-###### <center>Categories</center>
-
-| Languages  | STEM  | Music &amp; Visual Arts  | Leadership  | Sports &amp; Games  |
-|:-:|---|---|---|---|
-| <br> English Language<br> Chinese Language<br>*   Malay Language<br>*   Tamil Language  | <br> Mathematics<br>*   Science  | <br><br>*   Music Elective Programme<br>*   Visual Arts (Drawing, Painting, Sculpture)  | <br><br><br><br>*   Community Youth Leadership  |*   Badminton<br>*   Basketball<br>*   Netball<br>*   Rhythmic Gymnastics<br>*   Sailing<br>*   Softball<br>*   Squash<br>*   Swimming<br>*   Table Tennis<br>*   Tennis   |
-|   |   |   |   |   |
-
 #### Important Note
 
 **Required Submission of Additional Documents**

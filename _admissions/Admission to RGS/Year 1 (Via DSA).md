@@ -55,10 +55,15 @@ The Applicant must:
 
 #### Important Note
 
-**Required Submission of Additional Documents**<br>
-Applicants may need to submit additional documents/videos via the relevant links listed in the this [document](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf) directly to RGS before 31 May 2023. All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+**Required Submission of Additional Documents**
+<br>
 
-For more information on the submission of additional documents/videos and the selection process/criteria of each talent area, please click [here.](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
+For detailed information on the submission of additional documents/videos and the selection process/criteria of each talent area, please click [here.](/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf)
+
+Applicants may need to submit additional documents/videos via the relevant links that can be found in the document.  Submissions must be made directly to RGS before 31 May 2023. 
+
+All documents/videos submitted will not be returned. Applicants MUST NOT submit original documents. Applicants must be prepared to produce the original documents for verification purposes upon request when necessary.
+
 
 #### Process Overview
 

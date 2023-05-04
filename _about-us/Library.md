@@ -28,7 +28,7 @@ Our library offers a welcoming and supportive 21st century learning environment.
 
 ![RGS Library](/images/connect%20with%20the%20library.png)
 
-** Opening Hours:**
+# Opening Hours
 
 During Term: 
 * Monday to Friday: 7.30AM – 4.30PM
@@ -39,6 +39,3 @@ During Vacation:
 Closed on weekends, public holidays and school-declared holidays.
 
 The library may be closed for school or staff events during vacation. Please check the library page on iNet for updates.
-
-		
-		

@@ -31,7 +31,8 @@ Our library offers a welcoming and supportive 21st century learning environment.
 # Opening Hours
 
 During Term: 
-* Monday to Friday: 7.30AM – 4.30PM
+* Monday to Thursday: 7.30AM – 4.30PM
+* Friday: 7.30AM – 4.00PM
 
 During Vacation: 
 * Monday to Friday: 7.30AM – 4.00PM

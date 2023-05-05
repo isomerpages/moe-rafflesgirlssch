@@ -17,3 +17,6 @@ Parents of Singapore citizen students can apply for financial support [via this 
 DigitalAccess@Home provides subsidised broadband and laptops/tablets to lower-income households to support their lifestyle needs, including work and social activities.
 
 Parents can visit [IMDA website](https://www.imda.gov.sg/dah) for more information. The application form can also downloaded from the site. Students can then submit the completed application form at the Filiae Centre.
+
+# RGS Scholarships
+![](/images/scholarships%20rgs.jpeg)

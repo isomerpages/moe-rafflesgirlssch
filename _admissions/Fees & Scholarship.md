@@ -3,11 +3,11 @@ title: Fees & Scholarship
 permalink: /admissions/feesnscholarship/
 description: ""
 ---
-## Fees & Scholarship
+## Fees &amp; Scholarship
 
 #### RGS School Fees
 
-For information on RGS School Fees, please click [here](/files/2023_Sch_fees.pdf).
+For information on RGS School Fees, please click [here](/files/2024%20school%20fees.pdf).
 
 #### Scholarships
 
@@ -18,12 +18,12 @@ These scholarships are offered to academically strong students attending indepen
 *   ESIS (Y3)
 *   ESIS (Yearly Award)
 
-Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent) for more information.
+Click&nbsp;[here](https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-scholarships-independent)&nbsp;for more information.
 
 **Regional Studies Programme (RSP)** <br>
 This scholarship is awarded in Secondary 1 and Secondary 3 to students admitted to a Regional Studies Programme. The award covers an allowance of $1,000 and school fee subsidies of up to $2,400 per year, as long as the student meets the renewal criteria and remains enrolled in a Regional Studies Programme. Only Singapore citizens are eligible.  
   
-Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships) for more information.
+Click&nbsp;[here](https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships)&nbsp;for more information.
 
 **Music Elective Programme (MEP)** <br>
 Students of all nationalities who are admitted into the MEP within an Independent School are eligible for a fee subsidy up to a cap of $2400 per student per year.  
@@ -39,4 +39,4 @@ The UPLIFT Scholarship is awarded to students who are:
 
 ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship.
 
-Click [here](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships) for more information.
+Click&nbsp;[here](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)&nbsp;for more information.

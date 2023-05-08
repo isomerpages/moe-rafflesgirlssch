@@ -15,10 +15,11 @@ description: ""
 | Assistant Secretary  | Mrs Celia Au |
 | Treasurer  | Ms Winny Yap  |
 | Assistant Treasurer  | Ms Eunice Tay  |
-| Ordinary Member  | Mr Daniel Tan Tze Hui  |
-| Ordinary Member  | Mrs Sharon Chung |
-| Ordinary Member  | Ms Kavitha Valliappan  |
 | Ordinary Member  | Ms Cindy Goh  |
+| Ordinary Member  | Mr Daniel Tan Tze Hui  |
+| Ordinary Member  | Ms Jeanni Eng  |
+| Ordinary Member  | Ms Kavitha Valliappan  |
+| Ordinary Member  | Mrs Sharon Chung |
 | Ordinary Member  | Mr Tan Boon Siong  |
 | Honorary Auditor  | Ms Lim Sze Wei (Nicole)  |
 | Honorary Auditor  | Ms Larissa Liang  |

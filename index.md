@@ -4,7 +4,7 @@ title: Raffles Girls' School
 description: "Filiae Melioris Aevi "
 image: /images/for-circle-logo.jpg
 permalink: /
-notification: RGS Open House on 20 May 2023, 8.30am to 1.30pm @ 2 Braddell Rise
+notification: ""
 sections:
   - hero:
       background: /images/rooftop photo1.jpg
@@ -19,21 +19,13 @@ sections:
           description: ""
           url: /highlights/rgs-in-the-news/
   - infopic:
-      title: E-Brochure
-      subtitle: Open House 2023
-      description: Find out more about our Open House programme and highlights!
+      title: Open House 2023
+      subtitle: 20 May (Sat) | 8.30am - 1.30pm
+      description: Find out all you need to know about our Open House!
       button: View E-Brochure
       url: https://tinyurl.com/rgsoh23
       image: /images/rgs open house - ebrochure 2023 - 12 may_page_01.jpg
       alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      description: Come and discover the RGS Experience!
-      button: Find out more
-      url: /highlights/events-and-announcements/oh23/
-      image: /images/18c34773-b0c3-4e15-a48c-d527c579c8a2.png
-      alt: RGS Open House 2023
-      subtitle: 20 May (Sat) 8.30am - 1.30pm
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

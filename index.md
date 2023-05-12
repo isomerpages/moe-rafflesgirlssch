@@ -19,6 +19,14 @@ sections:
           description: ""
           url: /highlights/rgs-in-the-news/
   - infopic:
+      title: E-Brochure
+      subtitle: Open House 2023
+      description: Find out more about our Open House programme and highlights!
+      button: View E-Brochure
+      url: https://tinyurl.com/rgsoh23
+      image: /images/rgs open house - ebrochure 2023 - 12 may_page_01.jpg
+      alt: Image alt text
+  - infopic:
       title: Open House 2023
       description: Come and discover the RGS Experience!
       button: Find out more

@@ -18,7 +18,7 @@ Curious to know what the RGS experience is? Find out at our Braddell campus Ope
 **Venue:** Raffles Girls' School (2 Braddell Rise, Singapore 318871)
 
 
-For more information about the Open House, view our e-brochure [HERE] (https://drive.google.com/file/d/1D71jUR9oJpxMvDM-Sag24thoFP0SWvVY/view?usp=sharing)
+For more information about the Open House, view our e-brochure [HERE](https://drive.google.com/file/d/1D71jUR9oJpxMvDM-Sag24thoFP0SWvVY/view?usp=sharing)
 
 You may also visit our Open House Microsite [HERE](https://openhouse.rgs.edu.sg/)
 

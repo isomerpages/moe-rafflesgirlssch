@@ -26,23 +26,21 @@ Please visit the PRGS&nbsp;[Facebook](https://www.facebook.com/PRGSAssociation)&
 
 | **Date\***  | **Event\*\***  |
 |:-:|---|
-| 11 Jan&nbsp;2023  <br>18 Jan 2023  | Learning Approaches Workshop for Year 1 Parents  |
+| 11 Jan &amp; 18 Jan 2023    | Learning Approaches Workshop for Year 1 Parents  |
 | 25 Feb 2023  | PRGS Social Event - Tour of Former Ford Factory  |
 | 4 Mar 2023  | 21st PRGS AGM  |
-| May 2023  | Year 4 Breakfast Dialogue with Principals (date TBC)  |
+| 19 May 2023  | Year 4 Breakfast Dialogue with Principals  |
 | 26 May 2023  | Sports Festival  |
-| Jun/Jul 2023  | PRGS Awards Interview  |
-| July 2023  | Year 2 Breakfast Dialogue with Principals (date TBC)  |
+| 24 June 2023  | PRGS Awards Interview  |
+| 14 July 2023  | Year 2 Breakfast Dialogue with Principals   |
 | 18 July 2023  | Racial Harmony Day Commemoration  |
-| Aug 2023  | Year 1 Breakfast Dialogue with Principals (date TBC)  |
+| 28 Jul 2023  | Year 1 Breakfast Dialogue with Principals   |
+| 4 Aug 2023  | Year 3 Breakfast Dialogue with Principals |
 | 8 Aug 2023  | National Day Celebrations  |
 | 25 Aug 2023  | Founder's Day and PRGS Awards Presentation  |
 | 31 Aug 2023  | Teacher's Day Celebrations  |
-| Sep 2023  | Year 3 Breakfast Dialogue with Principals (date TBC)  |
 | 17 Oct 2023  | Swimming Carnival (TBC)  |
 | 27 Oct 2023  | Y4 Farewell Alma Mater  |
-| 18 Nov 2023  | Open House 2  |
-|   |   |
 
 \*Dates are subject to change. <br>
 \*\* Additional events and talks will be organised in consultation with the school after the 21st PRGS Exco takes office. Updates will be provided through Parents' Gateway.

@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/squashb20231.JPG)
+
+Heartiest congratulations to our RGS Squash 'B' division girls for their exceptional performance and emerging as the champions for the Nationals!
+
+![](/images/squash%20refelction.jpg)
+
+
+
+![](/images/squashb20232.jpg)
+

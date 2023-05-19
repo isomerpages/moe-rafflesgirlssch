@@ -14,8 +14,6 @@ In meeting the needs of our high-ability learners, student-initiated platforms w
 Our school’s enrichment programmes empower our students as they are provided with opportunities to co-initiate with teachers and conduct NE-related events such as Racial Harmony Day as well as participate in NE-related seminars and competitions.
 
 <img src="/images/citi1.jpg" style="width:75%"><br>
-<img src="/images/citi2.jpg" style="width:75%"><br>
-<img src="/images/citi3.jpg" style="width:75%"><br>
-<img src="/images/citi4.jpg" style="width:75%">
+<img src="/images/citi3.jpg" style="width:75%">
 
 _<center>Our students during a learning journey trip to Kok Fah Technology Farm to learn more about why Singapore needs to be less dependent on food imports and understand the choice of high-tech farming for our local farms.</center>_

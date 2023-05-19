@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-The Singapore Science & Engineering Fair (SSEF) is a national competition organised by the Ministry of Education, the Agency for Science, Technology and Research (ASTAR)  and the Science Centre Singapore (SCS). This year RGS submitted a total of 16 projects in the SSEF Main category and 3 projects in the SSEF Junior Scientists category. Under the guidance of the RGS teacher-mentors, the RGS projects received 2 Gold Awards, 3 Silver Awards, 1 Bronze Award and 3 Merit Awards. Six teams also received special awards for their projects.
+The Singapore Science & Engineering Fair (SSEF) is a national competition organised by the Ministry of Education, the Agency for Science, Technology and Research (ASTAR)  and the Science Centre Singapore (SCS). This year RGS submitted a total of 16 projects in the SSEF Main category and 3 projects in the SSEF Junior Scientists category. Under the guidance of the RGS teacher-mentors, the RGS projects received 2 Gold Awards, 3 Silver Awards, 1 Bronze Award and 3 Merit Awards. Six teams also received special awards for their projects. Congratulations to all the teams and teacher-mentors for their good work!
 
 **SSEF Main Category **
 
@@ -21,13 +21,13 @@ The Singapore Science & Engineering Fair (SSEF) is a national competition organi
 | 7  | Kiera Nadine Binte Muhammad Nazri (406), Goh Jia Hsiang Vanessa (414) and Kim En Bi (407) | Feasibility of Construction of a PM2.5 Air Filter Using Sugarcase Bagasse   | Merit   | Mr Chan Sau Siong |
 | 8  | Khoo Yu Ying Valerie (411), Chee Rui Lin Victoria (409) and R Rishmitha (412) | Sustainable Hydrogen Generation By Degradation of Biomass   | Merit   | Ms Cheong Szu Chuang |**
 
-
 **Junior Scientist Category **
 
 | No. | Name of Students | Project Title | Award | Teacher-Mentor |
 | -------- | -------- | -------- | -------- | -------- |
 | 1   | Chen Kaixuan Michelle (314), Shannon Chia (313) and Riddhi Pradhan (307)  | The Effect of Vegetable Peels as Filters of Water Contaminated by Face Masks   | Merit - Project | Dr Prama   |**
 
-Congratulations to all the teams and teacher-mentors for their good work!
+![](/images/hilary%20reflection.jpg)
 
 
+![](/images/ssef%20reflection%20.jpg)

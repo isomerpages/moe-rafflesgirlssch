@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Raffles Girls' School
-description: "Filiae Melioris Aevi "
+description: Filiae Melioris Aevi
 image: /images/for-circle-logo.jpg
 permalink: /
 notification: ""
@@ -19,12 +19,12 @@ sections:
           description: ""
           url: /highlights/rgs-in-the-news/
   - infopic:
-      title: Open House 2023
-      subtitle: 20 May (Sat) | 8.30am - 1.30pm
-      description: Find out all you need to know about our Open House!
-      button: View E-Brochure
-      url: https://tinyurl.com/rgsoh23
-      image: /images/rgs open house - ebrochure 2023 - 12 may_page_01.jpg
+      title: 5th PeRL Symposium
+      subtitle: 30 June | 2.00pm - 5.15pm
+      description: Advancing Pedagogies to Steward Educational Change
+      button: Register Here
+      url: https://sites.google.com/rafflesgirlssch.edu.sg/perlsymposium/programme
+      image: /images/perl symposium banner  (1).png
       alt: Image alt text
   - resources:
       title: Highlights

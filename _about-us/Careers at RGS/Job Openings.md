@@ -135,9 +135,9 @@ The incumbent will be responsible for supporting the IT team on the following an
 
 * Able to start immediately
 
-### APPLICATION DETAILS:
+### APPLICATION DETAILS
 
-Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us.&nbsp;We offer a competitive and attractive salary package and benefits commensurate with experience.
+Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us. We offer a competitive and attractive salary package and benefits commensurate with experience.
 
 Interested candidates, please send a detailed resume to: <br>
 The Human Resource Department <br>

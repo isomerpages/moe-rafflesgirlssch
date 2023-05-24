@@ -106,10 +106,38 @@ Contribute to the effective administration of the school by undertaking the admi
 
 * Proficient in Microsoft Office such as Excel and Word.
 
+### **IT Support Assistant (Temporary Position)**
 
-### APPLICATION DETAILS:
+The incumbent will be responsible for supporting the IT team on the following and not limited to:
 
-Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us.&nbsp;We offer a competitive and attractive salary package and benefits commensurate with experience.
+**Responsibilities**
+
+* Daily check of Backup job (monitoring)
+
+* Weekly Physical check of Server Rooms
+
+* Timely renewal on Teaching &amp; Learning application licenses
+
+* Daily support on staff and student devices
+
+* Creating case tickets to escalate to vendors
+
+* Assist IT team members with Windows server updates and timely renewal of server certificates
+
+* AV support as and when required
+
+
+**Requirements**
+
+* Minimum Nitec in any IT-related discipline or equivalent
+
+* IT support and troubleshooting experience will be advantageous
+
+* Able to start immediately
+
+### APPLICATION DETAILS
+
+Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us. We offer a competitive and attractive salary package and benefits commensurate with experience.
 
 Interested candidates, please send a detailed resume to: <br>
 The Human Resource Department <br>

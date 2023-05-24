@@ -46,8 +46,8 @@ Join us, for a unique opportunity to hone the craft of teaching and to be part o
 
 | S/N | Subject Main| 
 | -------- | -------- | 
-| 1   | English Language &amp; Literature     | 
-| 2   | History    | 
+| 1   | Chemistry     | 
+| 2   | Music Elective Programme    | 
 
 The Relief Teacher will assist the respective Head of Department/Assistant Head to carry out the following duties:  
 

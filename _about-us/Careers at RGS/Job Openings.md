@@ -12,7 +12,7 @@ We invite highly passionate individuals who share the dream for our girls to joi
 
 Be part of a team that learns and grows together, designs forward-looking curriculum, and boldly explores approaches for nurturing high-ability learners,  
   
-Join us, for a unique opportunity to hone the craft of teaching and to be part of a school environment that values and promotes professional learning. Our students are creative, self-disciplined and motivated, and we invite you to join us in nurturing them **thinkers**, **leaders** and **pioneers**of the future.
+Join us, for a unique opportunity to hone the craft of teaching and to be part of a school environment that values and promotes professional learning. Our students are creative, self-disciplined and motivated, and we invite you to join us in nurturing them **thinkers**, **leaders** and **pioneers** of the future.
 
 ### **Full-Time Teachers**
 

@@ -106,6 +106,34 @@ Contribute to the effective administration of the school by undertaking the admi
 
 * Proficient in Microsoft Office such as Excel and Word.
 
+### **IT Support Assistant (Temporary Position)**
+
+The incumbent will be responsible for supporting the IT team on the following and not limited to:
+
+**Responsibilities**
+
+* Daily check of Backup job (monitoring)
+
+* Weekly Physical check of Server Rooms
+
+* Timely renewal on Teaching &amp; Learning application licenses
+
+* Daily support on staff and student devices
+
+* Creating case tickets to escalate to vendors
+
+* Assist IT team members with Windows server updates and timely renewal of server certificates
+
+* AV support as and when required
+
+
+**Requirements**
+
+* Minimum Nitec in any IT-related discipline or equivalent
+
+* IT support and troubleshooting experience will be advantageous
+
+* Able to start immediately
 
 ### APPLICATION DETAILS:
 

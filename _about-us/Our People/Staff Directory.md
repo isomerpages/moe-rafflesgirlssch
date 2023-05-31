@@ -41,7 +41,6 @@ third_nav_title: Our People
 | Malyanah Binte Mawar  | Assistant Head, English Literature  |
 | Nicholas Tan  | Assistant Head, English Language  |
 | Adeline Tang  | Teacher  |
-| Alwin Ho  | Teacher  |
 | Alfieana Alphonso  | Teacher  |
 | Choo Li Lin  | Teacher  |
 | Chang Jia Yin  | Teacher  |
@@ -75,8 +74,9 @@ third_nav_title: Our People
 | Staff Name  | Position  |
 |:-:|---|
 | Lee Szer Yuen  | Head, Languages  |
+| Wong Chee Yeh  | Assistant Head, Languages |
 | Tan Lee Khim  | Assistant Head, Languages  |
-| Wong Chee Yeh  |  Acting Assistant Head, Languages |
+| Benedict Ng | Teacher  |
 | Cao Jia Wei  | Teacher  |
 | Chua Han Hui  | Teacher  |
 | Hing Siew Bee  |  Teacher |
@@ -137,15 +137,15 @@ third_nav_title: Our People
 |  Prama Sundari | Head, Science  |
 | Lee Tien  | Assistant Head, Biology  |
 | Cheong Szu Chuang  | Assistant Head, Physics  |
-|  Norazlin Binte Normin | Acting Assistant Head, Chemistry  |
+|  Norazlin Binte Normin | Assistant Head, Chemistry  |
 | Angel Lim  | Teacher  |
 | Angela Teo  | Teacher  |
 | Chia Wei Ling  | Teacher  |
 | Cindy Tiong  | Teacher  |
 | Jeffrey Lee  | Teacher  |
 | Joseph Lim  | Teacher  |
+| Joshua Lee  | Teacher  |
 | Lim Ai Khim  | Teacher  |
-| Lim Seow Yi  |  Teacher |
 | Neo Yining  |Teacher   |
 | Norazlin Binte Normin  | Teacher  |
 | Sharifah Alkaff  | Teacher  |
@@ -177,7 +177,7 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Rachel Pang  | Acting Head, Character &amp; Citizenship Education  |
+| Rachel Pang  | Head, Character &amp; Citizenship Education  |
 | Audrey Chen  | Assistant Head, Student Leadership Development  |
 | Tiffany Cheong  | Assistant Head, Citizenship Education  |
 | Lim Shi Zhi  | Assistant Head, Service Learning  |
@@ -213,7 +213,7 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Adeline Quek  | Executive, Administration  |
+| Adeline Quek  | Assistant Manager, Administration  |
 | Chua Moi Leng  | Senior School Attendant, Administration  |
 | Eunice Tay  | Officer, Administration  |
 | Zuraini Bte Mohammad Said  | Assistant, Administration  |
@@ -265,9 +265,9 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Morris Gabriel  | Assistant Manager, Information Technology  |
+| Morris Gabriel  | Manager, Information Technology  |
 | Zhang Runsheng  | Senior Executive, Information Technology  |
-| Teo Yen Li  | Officer, Information Technology  |
+| Teo Yen Li  | Executive, Information Technology  |
 | Mohamed Yazid  | Officer, Information Technology  |
 | Hein Thant Thu Shein  |  Officer, Information Technology |
 | Muhammad Ameen  | Assistant,&nbsp;Information Technology  |
@@ -282,18 +282,11 @@ third_nav_title: Our People
 | Yogeswari  | Officer, Library  |
 |   |   |
 
-**<u>Department -&nbsp;Principal's Office</u>**
-
-| Staff Name  | Position  |
-|:-:|---|
-| Adelene Ng  | Student Services and Personal Assistant  |
-|   |   |
-
 **<u>Department - Science (EAS)</u>**
 
 | Staff Name  | Position  |
 |:-:|---|
-| Wong Su Zhen  | Senior Supervisor, Laboratory  |
+| Wong Su Zhen  | Assistant Manager, Laboratory  |
 | Lin Yan  | Higher Technician,&nbsp;Laboratory  |
 | Mohamed Ali  | Higher Technician,&nbsp;Laboratory  |
 | Sandy Huang  | Higher Technician,&nbsp;Laboratory  |
@@ -314,8 +307,8 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
+| Amalina Binte Yahya | School Counsellor  |
 | Karen Lau  | School Counsellor  |
 | Laura Tan  |  School Counsellor with ECG |
-| Amalina Binte Yahya | School Counsellor  |
 | Chua Hai Lee  | Senior Executive, Admissions  |
 |   |   |

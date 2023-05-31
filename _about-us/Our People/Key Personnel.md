@@ -19,7 +19,7 @@ third_nav_title: Our People
 | Miss Yeo Soo<br> Ling  | Director, Student Development  | Senior Management  | [yeo\_soo\_ling@schools.gov.sg](mailto:yeo_soo_ling@schools.gov.sg)  |
 | Ms Anna Loo  | Head, Aesthetics  | Aesthetics  | [loo\_anna@schools.gov.sg](mailto:loo_anna@schools.gov.sg)  |
 | Miss Foo Ling <br>Ling  | Head, Professional Development  | Centre for Pedagogical Research &amp; Learning  | [foo\_ling\_ling@schools.gov.sg](mailto:foo_ling_ling@schools.gov.sg)  |
-| Mrs Rachel Pang  | Acting Head, Character &amp; Citizenship Education  |  Character &amp; Citizenship Education | [goh_shiao_en_rachel@schools.gov.sg](mailto:Goh_Shiao_en_rachel@schools.gov.sg)  |
+| Mrs Rachel Pang  | Head, Character &amp; Citizenship Education  |  Character &amp; Citizenship Education | [goh_shiao_en_rachel@schools.gov.sg](mailto:Goh_Shiao_en_rachel@schools.gov.sg)  |
 | Ms Stella Picca  | Head, English Language &amp; Literature  | English Language &amp; Literature  | [picca\_stella\_hong\_sin@schools.gov.sg](mailto:picca_stella_hong_sin@schools.gov.sg)  |
 | Mr Mohammad<br> Faizal  | Head, Humanities  | Humanities  | [mohammad\_faizal\_abdul\_az@schools.gov.sg](mailto:mohammad_faizal_abdul_az@schools.gov.sg)  |
 | Mrs Tan Yin Lai  | Head, Information &amp; Communications Technology  | Information &amp; Communications Technology  | [tan\_yin\_lai@schools.gov.sg](mailto:tan_yin_lai@schools.gov.sg)  |

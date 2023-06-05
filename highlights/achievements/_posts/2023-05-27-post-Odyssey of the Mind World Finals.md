@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-  ![](/images/2023om1.jpeg)
+![](/images/2023om1.jpeg)
 
 Odyssey of the Mind is a programme where students embark on a 6-month journey to create a thrilling, high-energy performance based around a problem set by the competition organisers, Odyssey HQ. Throughout the process our students, guided by their teacher-mentors, were encouraged to find new perspectives to push the limits of their creativity, while adhering to the rules and criteria for each problem.
 
@@ -33,7 +33,7 @@ Our teams demonstrated exceptional performance, securing remarkable results in t
 | -------- | -------- | 
 | Students    | Sophia Liu Yuping <br> Jessyn Oh Jia Xin <br> Giselle Chiam Kai Ting <br>  Subramanian Avyuktha <br>  Chen Jee Min<br> Amelia Tay Juey Oon <br> Lee Yi Ning, Megan
 
-Here are some pictures from the Odyssey of Mind World Finals 2023:
+![](/images/om23%20(2).jpg)
 
 
 
@@ -42,11 +42,6 @@ Here are some pictures from the Odyssey of Mind World Finals 2023:
 
 
 
-
-
-
-
-Well done to all the participants and coaches for their hard work, creativity, and dedication.
 
 
 

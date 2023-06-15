@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/nsg%20sailing%202.png)
 
-![](/images/nsg%20sailing%201.png)
+![](/images/sailing%2023.png)
 
 Congratulations to our RGS Sailing 'C' Div Girls for their Optimist - 1st and to our 'B' Div Girls for Individual ILCA 4 -2nd & 3rd placing!
 

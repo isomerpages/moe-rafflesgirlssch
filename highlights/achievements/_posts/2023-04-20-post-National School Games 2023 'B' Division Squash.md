@@ -1,5 +1,5 @@
 ---
-title: NSG 'B' Division Squash Finals
+title: National School Games 2023 'B' Division Squash
 permalink: /highlights/achievements/nsgbsquash23/
 date: 2023-04-20
 layout: post
@@ -15,4 +15,3 @@ Heartiest congratulations to our RGS Squash 'B' division girls for their excepti
 
 
 ![](/images/squashb20232.jpg)
-

@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Check out the [latest issue]() of The Raffles Wave!
+
+![](/images/the%20raffles%20wave%20(june%202023).jpg)
+

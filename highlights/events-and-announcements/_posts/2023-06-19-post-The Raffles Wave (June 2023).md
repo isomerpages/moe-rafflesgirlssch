@@ -6,6 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-Check out the [latest issue]() of The Raffles Wave!
+Check out the latest issue of [The Raffles Wave!](/files/the%20raffles%20wave%20(june%202023)%20(1).pdf)
 
 ![](/images/the%20raffles%20wave%20(june%202023).jpg)

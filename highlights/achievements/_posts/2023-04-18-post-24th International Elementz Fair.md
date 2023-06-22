@@ -10,8 +10,6 @@ The annual International Elementz Fair, organized by Anderson Serangoon Junior C
 
 Four Year 4 school-based research project teams from RGS took part in the competition.&nbsp; All were shortlisted for the final judging on 18 April 2023.
 
-
-
 | Name of Students | Project Title | Award | Teacher-Mentor |
 | -------- | -------- | -------- | -------- |
 | Khor Mai Shia Glenys <br> Liew Gya Xuan Alyssa <br> Lu Zhiyue    | Investigating the effect of plants in enhancing bioelectricity production of a microbial fuel cell     | Gold     | Dr Jeffrey Lee |
@@ -23,5 +21,11 @@ Through their research journey, the students learnt the value of group work, ten
 
 Congratulations to all the teams and teacher-mentors for their good work!
 
+![](/images/24intelementz1.png)
+![](/images/24intelementz2.png)
 
+![He Zihan, Yeap Ke Hui Ezann, Poon Zi Yi Vera](/images/24thintelementz3.jpg)
+*He Zihan, Yeap Ke Hui Ezann, Poon Zi Yi Vera*
 
+![Chai Hui Min Jocelyn, Teo Yuumi Maeve, Tan Zhi Ying Johannah](/images/24thintelementz4.jpg)
+*Chai Hui Min Jocelyn, Teo Yuumi Maeve, Tan Zhi Ying Johannah*

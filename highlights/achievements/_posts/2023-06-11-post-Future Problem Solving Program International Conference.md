@@ -11,7 +11,7 @@ Congratulations to our students who represented Singapore in the Future Problem 
 The results are as follows:
 
 **Scenario Writing Senior Division**
-<br>First Place
+<br>First Place 
 
 | Coach | Ms Audrey Chen
 | -------- | -------- | 
@@ -20,7 +20,7 @@ The results are as follows:
 ![](/images/fpsp%20(1).jpeg)
 
 **Team Global Issues Problem Solving (Senior Division)**
-<br>Second Place
+<br>2nd place out of 44 teams
 
 | Coaches | Ms Sia Bee Leng <br> Mrs Eriyanty Mohammad
 | -------- | -------- | 
@@ -29,7 +29,7 @@ The results are as follows:
 ![](/images/fpsp%20(2).jpeg)
 
 **Team Global Issues Problem Solving (Middle Division)**
-<br>Fifth Place
+<br>5th place out of 57 teams 
 
 | Coach| Miss Foo Ling Ling
 | -------- | -------- | 

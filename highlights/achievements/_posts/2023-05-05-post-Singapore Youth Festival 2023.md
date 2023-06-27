@@ -14,17 +14,15 @@ Our performing arts CCAs performed exemplarily and made the school proud with th
 
 | Performing Arts CCA | Achievement| 
 | -------- | -------- | 
-| Angklung Ensemble     | Text     | 
-| Band Symphonic     | Text     | 
-| Chinese Orchestra   | Text     | 
-| Choir    | Text     | 
-| Dance International    | Text     | 
-| Ethnic Dance (Indian)    | Text     | 
-| Ethnic Dance (Malay)    | Text     | 
-| Guitar Ensemble    | Text     | 
+| Angklung Ensemble     | Distinction     | 
+| Band Symphonic     | Distinction  | 
+| Chinese Orchestra   | Distinction   | 
+| Choir    | Distinction    | 
+| Dance International    | Distinction     | 
+| Ethnic Dance (Indian)    | Distinction    | 
+| Ethnic Dance (Malay)    | Accomplishment    | 
+| Guitar Ensemble    | Distinction     | 
 | Handbell Ensemble    | Text     | 
-| Raffles Drama (English)   | Text     | 
-| Raffles Drama (Mandarin)     | Text     | 
-| String Ensemble   | Text     | 
-	
-
+| Raffles Drama (English)   | Distinction     | 
+| Raffles Drama (Mandarin)     | Accomplishment      | 
+| String Ensemble   | Text     |

@@ -22,7 +22,7 @@ Our performing arts CCAs performed exemplarily and made the school proud with th
 | Ethnic Dance (Indian)    | Distinction    | 
 | Ethnic Dance (Malay)    | Accomplishment    | 
 | Guitar Ensemble    | Distinction     | 
-| Handbell Ensemble    | Text     | 
+| Handbell Ensemble    | Distinction    | 
 | Raffles Drama (English)   | Distinction     | 
 | Raffles Drama (Mandarin)     | Accomplishment      | 
-| String Ensemble   | Text     |
+| String Ensemble   | Distinction     |

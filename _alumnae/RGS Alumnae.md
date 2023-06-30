@@ -36,4 +36,7 @@ The office bearers for 2023/2024 are as follows:
 | Member   | Ms Sharon Anne Sim Soo Yee (Class of 1993) | 
 | Member   | Ms Kathryn Harsono (Class of 2009) | 
 | Member    | Ms Sharon Chong (Class of 1975) | 
-| Member   | Ms Prajwala Prakash (Class of 2008) | 
+| Member   | Ms Prajwala Prakash (Class of 2008) |
+| Co-opted Member   | Ms Jennifer Loh Nee Sian (Class of 1992) |
+| Co-opted Member   | Ms Emmeline Lim (Class of 1999) |
+| Co-opted Member   | Ms Chua Shi Min (Class of 2008) |

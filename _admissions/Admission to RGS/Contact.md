@@ -12,7 +12,7 @@ Fax : 62353731<br>
 Email:&nbsp;[rgss@moe.edu.sg](mailto:rgss@moe.edu.sg)
 
 For admission enquiry<br>
-Tel : 69706474  <br>
+Tel : 6970 6442  <br>
 Fax : 62353731<br>
 Email: [admissions@rafflesgirlssch.edu.sg ](admissions@rafflesgirlssch.edu.sg )
 

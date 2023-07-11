@@ -73,4 +73,4 @@ Applicants will be notified via email and RGS reserves the right not to release 
 
 **All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.** **There will NOT be an online mode for the selection process.**
 
-For further enquiries on Admissions &amp; DSA, please e-mail us at rgss@moe.edu.sg or call 6737 1845 / 6970 6474 / 6970 6442.
+For further enquiries on Admissions &amp; DSA, please e-mail us at rgss@moe.edu.sg or call 6737 1845 / 6970 6442.

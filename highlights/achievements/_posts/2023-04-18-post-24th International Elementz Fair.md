@@ -13,7 +13,7 @@ Four Year 4 school-based research project teams from RGS took part in the compet
 | Name of Students | Project Title | Award | Teacher-Mentor |
 | -------- | -------- | -------- | -------- |
 | Khor Mai Shia Glenys <br> Liew Gya Xuan Alyssa <br> Lu Zhiyue    | Investigating the effect of plants in enhancing bioelectricity production of a microbial fuel cell     | Gold     | Dr Jeffrey Lee |
-| Yap Tess <br> Yong Qing Ya Ranice <br> Lim Si En Alvena | Simultaneous bioremediation of wastewater and generation of electricity using laccase enzyme     | Gold    | Dr Jeffrey Lee |
+| Yap Tessa <br> Yong Qing Ya Ranice <br> Lim Si En Alvena | Simultaneous bioremediation of wastewater and generation of electricity using laccase enzyme     | Gold    | Dr Jeffrey Lee |
 | He Zihan <br> Poon Zi Yi Vera <br> Yeap Ke Hui Ezann   | Enhancing nirate removal from mud with microbial fuel cells using differing amounts of aquatic weed compost   | Silver   | Dr Jeffrey Lee |
 | Chai Hui Min Jocelyn <br> Tan Zhi Ying Johannah <br> Teo Yuumi Maeve    | Optimising electricity and biofuel production in treating ammonium wastewater using a microbial fuel cell    | Silver   | Dr Jeffrey Lee |
 

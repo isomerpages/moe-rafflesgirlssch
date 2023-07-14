@@ -4,9 +4,7 @@ permalink: /about-us/Careers-at-RGS/jobs-opening/
 description: ""
 third_nav_title: Careers at RGS
 ---
-## Job Openings
-
-We invite highly passionate individuals who share the dream for our girls to join us as:
+**We invite highly passionate individuals who share the dream for our girls to join us as:**
 
 ### TEACHING POSITIONS
 
@@ -67,6 +65,25 @@ The Relief Teacher will assist the respective Head of Department/Assistant Head 
 
 ### NON TEACHING POSITIONS 
 
+### **Officer, Administration**
+
+The Officer, Administration is accountable to the Assistant Manager, Administration by providing administrative support to ensure smooth and effective operations in the school.
+
+**Responsibilities**
+
+*   Provides administration support to School Leaders and teachers.
+*   Manages the frontline counter duty, attending to all students, parents, and walk-in visitors’ queries.
+*   Handles students related administration matters such as updating student particulars and achievements.
+*   Any other duties assigned by School Leaders/AM
+
+**Requirements**
+
+* Diploma with a minimum of 2 years relevant working experience
+* Self-motivated, possessing initiative, tenacity and very good interpersonal skills
+* Have the passion to serve and with positive customer service mindset
+* Good communication skills with ability to work in a team
+* Familiar with MS Office Word &amp; Excel
+
 ### **IT Support Assistant (Temporary Position)**
 
 The incumbent will be responsible for supporting the IT team on the following and not limited to:
@@ -100,7 +117,7 @@ The incumbent will be responsible for supporting the IT team on the following an
 
 Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us. We offer a competitive and attractive salary package and benefits commensurate with experience.
 
-Interested candidates, please send a detailed resume to: <br>
+Interested candidates, please send a **detailed** resume to: <br>
 The Human Resource Department <br>
 Email:&nbsp;[rgs\_hr@schools.gov.sg](mailto:rgs_hr@schools.gov.sg) <br>
 _(Only shortlisted candidates will be notified)_

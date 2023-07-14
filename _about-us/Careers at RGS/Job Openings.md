@@ -4,9 +4,7 @@ permalink: /about-us/Careers-at-RGS/jobs-opening/
 description: ""
 third_nav_title: Careers at RGS
 ---
-## Job Openings
-
-We invite highly passionate individuals who share the dream for our girls to join us as:
+**We invite highly passionate individuals who share the dream for our girls to join us as:**
 
 ### TEACHING POSITIONS
 
@@ -119,7 +117,7 @@ The incumbent will be responsible for supporting the IT team on the following an
 
 Be part of the dynamic, creative and innovative RGS teaching and learning experience. At the same time, build a meaningful and rewarding career with us. We offer a competitive and attractive salary package and benefits commensurate with experience.
 
-Interested candidates, please send a detailed resume to: <br>
+Interested candidates, please send a **detailed** resume to: <br>
 The Human Resource Department <br>
 Email:&nbsp;[rgs\_hr@schools.gov.sg](mailto:rgs_hr@schools.gov.sg) <br>
 _(Only shortlisted candidates will be notified)_

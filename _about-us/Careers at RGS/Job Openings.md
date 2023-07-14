@@ -67,6 +67,25 @@ The Relief Teacher will assist the respective Head of Department/Assistant Head 
 
 ### NON TEACHING POSITIONS 
 
+### **Officer, Administration**
+
+The Officer, Administration is accountable to the Assistant Manager, Administration by providing administrative support to ensure smooth and effective operations in the school.
+
+**Responsibilities**
+
+*   Provides administration support to School Leaders and teachers.
+*   Manages the frontline counter duty, attending to all students, parents, and walk-in visitors’ queries.
+*   Handles students related administration matters such as updating student particulars and achievements.
+*   Any other duties assigned by School Leaders/AM
+
+**Requirements**
+
+* Diploma with a minimum of 2 years relevant working experience
+* Self-motivated, possessing initiative, tenacity and very good interpersonal skills
+* Have the passion to serve and with positive customer service mindset
+* Good communication skills with ability to work in a team
+* Familiar with MS Office Word &amp; Excel
+
 ### **IT Support Assistant (Temporary Position)**
 
 The incumbent will be responsible for supporting the IT team on the following and not limited to:

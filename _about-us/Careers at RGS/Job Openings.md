@@ -18,16 +18,13 @@ Join us, for a unique opportunity to hone the craft of teaching and to be part o
 
 | S/N | Subject Main| 
 | -------- | -------- | 
-| 1   | Music Elective     | 
-| 2   | General Arts     | 
-| 3   | Higher Chinese Language    | 
-| 4  | English Language     | 
-| 5   | Geography     | 
-| 6   | History     | 
-| 7   | Mathematics     | 
-| 8   | Physical Education     | 
-| 9   | Chemistry    | 
-
+| 1   | General Arts     | 
+| 2   | Higher Chinese Language    | 
+| 3  | English Language     | 
+| 4   | Geography     | 
+| 5   | History     | 
+| 6  | Mathematics     | 
+| 7   | Physical Education     | 
 
 **We are looking for candidates with the following attributes:**
 

@@ -46,8 +46,11 @@ Join us, for a unique opportunity to hone the craft of teaching and to be part o
 
 | S/N | Subject Main| 
 | -------- | -------- | 
-| 1   | Chemistry     | 
-| 2   | Music Elective Programme    | 
+| 1   | English Language &amp; Literature     | 
+| 2   | Higher Chinese Language    | 
+| 3   | History    | 
+| 4   | Geography    | 
+| 5  | General Arts   | 
 
 The Relief Teacher will assist the respective Head of Department/Assistant Head to carry out the following duties:  
 
@@ -65,46 +68,7 @@ The Relief Teacher will assist the respective Head of Department/Assistant Head 
 *   Excellent communication and interpersonal skills
 
 
-
 ### NON TEACHING POSITIONS 
-
-### **Officer, Student Services**
-
-The Student Services Officer supports current students.&nbsp; It is a customer-service role that represents the first point of contact for students, staff, and visitors.&nbsp; The officer will be supporting the school in delivering efficient, effective high-quality services to them.
-
-**Responsibilities**
-
-Contribute to the effective administration of the school by undertaking the administrative and clerical activities associated with the efficient operation of the Student Services Office, including:
-
-* providing a Student Services Office reception service and responding to enquiries
-
-* performing the administrative requirements associated with student development, including monitoring and updating student movement in school, preparing documents to be issued to students on early exit, keeping accurate records of VIA, Sports Customization, Raffles Digital Badge
-
-* providing administrative support for smooth application of financial assistance, scholarships, bursaries and awards
-
-* assisting in facilitating surveys and field tests
-
-* identifying, collecting and collating information through accessing databases and liaising with MOE, parents, school staff and RI Boarding for the case of the International/ASEAN Scholars enrolled in the school.
-
-* maintaining secure and confidential manual and automated filing systems, including performing subject allocation and subject weightings
-
-* providing administrative support and facilitate events and activities support.
-
-* providing first aid assistance and care to students attending sick bay and contacting parents, when necessary, regarding students first aid treatment
-
-* managing the booking and usage of all Filiae Centre rooms
-
-**Requirements**
-
-* At least a Diploma with 2 years relevant working experience.
-
-* Self-motivated and able to prioritise and execute tasks effectively.
-
-* Possess good communication and interpersonal skills.
-
-* Have the passion to serve and with positive customer service mindset.
-
-* Proficient in Microsoft Office such as Excel and Word.
 
 ### **IT Support Assistant (Temporary Position)**
 

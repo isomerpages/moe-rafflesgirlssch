@@ -64,7 +64,7 @@ third_nav_title: Our People
 | Low Mei Ling  | Teacher  |
 | Mak Wai Ling  | Teacher  |
 | Mohamad Fadhly  |  Teacher |
-| Roslinda Chan  | Teacher  |
+| Roselind Mathews  | Teacher  |
 | Sia Bee Leng  | Teacher  |
 | Syazwani Binte Amrun  | Teacher  |
 |   |   |
@@ -123,7 +123,6 @@ third_nav_title: Our People
 | Magdalene Suey  | Head, Physical Education &amp; Co-Curricular Activities  |
 | Alina Wee  | Assistant Head, Physical Education  |
 | Chrislin Lee  | Assistant Head, Co-Curricular Activities  |
-| Michelle Quek  | Teacher  |
 | Raihan Bin Mohd Yassin  | Teacher  |
 | Sandy Mo  | Teacher  |
 | Sophia Sim  | Teacher  |
@@ -147,7 +146,6 @@ third_nav_title: Our People
 | Joshua Lee  | Teacher  |
 | Lim Ai Khim  | Teacher  |
 | Neo Yining  |Teacher   |
-| Norazlin Binte Normin  | Teacher  |
 | Sharifah Alkaff  | Teacher  |
 | Synth-Di Tan  | Teacher  |
 | Tan Hup Yew  | Teacher  |
@@ -171,6 +169,7 @@ third_nav_title: Our People
 | Chan Sau Siong  | Senior Teacher  |
 | Azahar Bin Mohamed Noor  | Specialist  |
 | Tan Yen Chuan  | Specialist  |
+| Hafizah Binte Jumat  | Executive, Research  |
 |   |   |
 
 **<u>Department - Character &amp; Citizenship Education</u>**
@@ -233,7 +232,7 @@ third_nav_title: Our People
 |:-:|---|
 | Leong Fook Weng  | Manager, Operations  |
 | Jansen Ng  | Executive, Operations  |
-|  Mohd Nor | Officer, Operations  |
+|  Mohd Nor  | Officer, Operations  |
 |   |   |
 
 **<u>Department - Procurement</u>**
@@ -311,4 +310,5 @@ third_nav_title: Our People
 | Karen Lau  | School Counsellor  |
 | Laura Tan  |  School Counsellor with ECG |
 | Chua Hai Lee  | Senior Executive, Admissions  |
+| Humaira Binte Salleh | Officer, Student Services  |
 |   |   |

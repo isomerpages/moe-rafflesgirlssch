@@ -16,3 +16,14 @@ The Ethnic Enclaves jointly organized by Parents for RGS, staff, and students pr
 
 We extend our heartfelt gratitude to the indefatigable Parents for RGS, enthusiastic students, and everyone else working alongside our tireless staff to make this Racial Harmony Day a memorable celebration of our multicultural mosaic. Together, let's continue to embrace and cherish the richness of diversity in Singapore!
 
+**Ethnic Enclave 1: SG Hawker Fare **
+
+![](/images/rhd23(1).jpg)
+
+**Ethnic Enclave 2: Play & Performances **
+
+![](/images/rhd23(2).jpg)
+
+**Ethnic Enclave 3: Film, Music & Culture**
+
+![](/images/rhd23(3).jpg)

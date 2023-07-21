@@ -15,9 +15,6 @@ sections:
         - title: Events & Announcements
           description: ""
           url: /highlights/events-and-announcements/
-        - title: RGS In The News
-          description: ""
-          url: /highlights/rgs-in-the-news/
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

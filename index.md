@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rooftop photo1.jpg
+      background: /images/homepgbg.jpg
       key_highlights:
         - title: Achievements
           description: ""

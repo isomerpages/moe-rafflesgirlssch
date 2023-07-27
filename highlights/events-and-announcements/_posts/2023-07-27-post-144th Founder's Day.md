@@ -14,7 +14,4 @@ We thank you for your understanding and look forward to welcoming you on 24 Augu
 
 If you have any questions, you may contact rgs.fd@rafflesgirlssch.edu.sg.
 
-Best regards
-RGS’s 144th Founder’s Day Organising Committee
-
 ![](/images/rgs%20fd%20booklet%202023%20cover%20-%2030%20may%202023.jpg)

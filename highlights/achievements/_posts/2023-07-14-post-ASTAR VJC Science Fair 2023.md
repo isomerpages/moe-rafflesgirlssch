@@ -11,4 +11,3 @@ The ASTAR-VJC Science Fair is jointly organised by the Agency for Science, Techn
 This year, four teams from RGS participated in the Science fair and achieved the following results:
 
 ![](/images/astarvjc2023.jpg)
-

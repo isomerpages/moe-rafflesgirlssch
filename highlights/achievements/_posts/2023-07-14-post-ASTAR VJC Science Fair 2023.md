@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+The ASTAR-VJC Science Fair is jointly organised by the Agency for Science, Technology and Research (ASTAR) and Victoria Junior College (VJC). This fair aims to promote science research amongst student body. 
+
+This year, four teams from RGS participated in the Science fair and achieved the following results:
+
+![](/images/astarvjc2023.jpg)
+

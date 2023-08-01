@@ -10,7 +10,7 @@ The ASTAR-VJC Science Fair is jointly organised by the Agency for Science, Techn
 
 This year, four teams from RGS participated in the Science fair. The judging was held on 11 July 2023 followed by the Prize Presentation on 14 July 2023. 
 
-![](/images/astarvjc2023.jpg)
+![](/images/astarvjc%20final.png)
 
 **Reflection by Alvena, Ranice & Tessa**
 

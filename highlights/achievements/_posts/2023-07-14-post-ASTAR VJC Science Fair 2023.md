@@ -12,7 +12,7 @@ This year, four teams from RGS participated in the Science fair. The judging was
 
 ![](/images/astarvjc2023.jpg)
 
-**Reflection by Alvina, Ranice & Tessa**
+**Reflection by Alvena, Ranice & Tessa**
 
 *"This experience was an enriching one, albeit rigorous. We had been preparing for it since the June holidays and it was truly worth it. Through this experience, we have learnt both research and soft skills, and we are very proud to have been able to participate in this prestigious competition.”*
 

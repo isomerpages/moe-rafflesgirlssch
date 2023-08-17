@@ -7,7 +7,7 @@ description: ""
 
 #### School Crest and Motto
 
-<img src="/images/school-crest.jpg" style="width:49%" align=right>
+<img src="/images/school-crest.jpg" style="width:49%" align="right">
 
 The colours of the school crest are the standard colours of the House of Sir Stamford Raffles: Green, White and Black. The open book symbolises knowledge and the burning torch our commitment to forge character and develop life skills.  
   
@@ -15,7 +15,7 @@ The school's motto, Filiae Melioris Aevi, emblazoned across the crest, is Latin 
 
 #### The Raffles Tree
 
-<img src="/images/1-7 Around Campus__EK32482_Web Res.jpg" style="width:49%" align=right>
+<img src="/images/1-7 Around Campus__EK32482_Web Res.jpg" style="width:49%" align="right">
 
 The Raffles Tree is a bronze sculpture by local sculptor Brother Joseph McNally. This symbol of RGS is located at the foyer of the Arrival Plaza of the school. It is a symbolic representation of the fruition of our students' potential.  
   
@@ -33,6 +33,6 @@ doing so, honour the school history and motto, Filiae Melioris Aevi.
 
 #### The School Song
 
-**REQUIRE JACKSON INPUT AUDIO**
-
 <img src="/images/schsong.png" style="width:100%">
+
+Listen to the song [HERE](https://on.soundcloud.com/Qaixq).

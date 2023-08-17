@@ -12,34 +12,34 @@ Click [Here](/files/SchoolSong_MusicScore.pdf) for Music Score to this song
 
 _“The school song is the very first song a new pupil learns when she steps into RGS. It was officially introduced in 1954, after Principal Miss Hinchliffe (principal from 1951 - 1956) commissioned Miss Goodland, the music teacher, to introduce a school song. Miss Goodland selected the song ‘From High Olympus’ from a songbook called ‘Unison’ (a collection of songs sung during the British colonial days). The people responsible for the lyrics and tune were Miss Florence Hoare and Miss H.L. Schnoor.” - From RGS History Book – Daughters of a Better Age 1844-2006_
 
-From High Olympus flows to us the glory, <br>
-On us the sacred fire descends. <br>
-Rise, sisters, rise, the world is all before ye. <br>
+From High Olympus flows to us the glory,&nbsp;<br>
+On us the sacred fire descends.&nbsp;<br>
+Rise, sisters, rise, the world is all before ye.&nbsp;<br>
 Fear not to grasp what fortune sends.
 
-**Chorus**. <br>
-Sisters in learning and sisters at heart, <br>
+**Chorus**.&nbsp;<br>
+Sisters in learning and sisters at heart,&nbsp;<br>
 Life lies before us, here's luck to the start.
 
-A little while the sun shines high above us, <br>
-And youth's elixir fills our veins, <br>
-The magic fire that moves the gods to love us, <br>
+A little while the sun shines high above us,&nbsp;<br>
+And youth's elixir fills our veins,&nbsp;<br>
+The magic fire that moves the gods to love us,&nbsp;<br>
 The fire by which the will attains.
 
-**Chorus.** <br>
-Sisters in learning and sisters at heart, <br>
+**Chorus.**&nbsp;<br>
+Sisters in learning and sisters at heart,&nbsp;<br>
 Life lies before us, here's luck to the start.
 
-So heart to heart, we'll scale the heights of learning, <br>
-No mean desires our days shall shame, <br>
-Whole-hearted, true, with pride and ardour burning <br>
+So heart to heart, we'll scale the heights of learning,&nbsp;<br>
+No mean desires our days shall shame,&nbsp;<br>
+Whole-hearted, true, with pride and ardour burning&nbsp;<br>
 On, sisters, on to life and fame.
 
-**Chorus.** <br>
-Sisters in learning and sisters at heart, <br>
+**Chorus.**&nbsp;<br>
+Sisters in learning and sisters at heart,&nbsp;<br>
 Life lies before us, here's luck to the start.
 
-Recording of RGS School Song
+[Recording of RGS School Song](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
 
 #### 2) Dedication
 
@@ -51,22 +51,22 @@ _“But when they talked about the song "Dedication", WHAM, the melody hit me �
 
 _“A song that now lingers in my head…” – An Alumnus_
 
-We have shared our morning days, <br>
-And gone through all rainy nights, <br>
-Even in the darkest of nights, <br>
+We have shared our morning days,&nbsp;<br>
+And gone through all rainy nights,&nbsp;<br>
+Even in the darkest of nights,&nbsp;<br>
 Stars still light up our way.
 
-Tomorrow is a beautiful dream, <br>
-A dream that will be fulfilled, <br>
-Cross the bridge of rainbow, <br>
+Tomorrow is a beautiful dream,&nbsp;<br>
+A dream that will be fulfilled,&nbsp;<br>
+Cross the bridge of rainbow,&nbsp;<br>
 In search of the gold.
 
-For here we stand (for here we stand) <br>
-Our dearest friend (our dearest friend) <br>
-Sincerely from our hearts we wish, <br>
-May streams of sunlight shine <br>
-like rays of hope, <br>
-Hand in hand, we work and strive <br>
+For here we stand (for here we stand)&nbsp;<br>
+Our dearest friend (our dearest friend)&nbsp;<br>
+Sincerely from our hearts we wish,&nbsp;<br>
+May streams of sunlight shine&nbsp;<br>
+like rays of hope,&nbsp;<br>
+Hand in hand, we work and strive&nbsp;<br>
 For the best things in life.
 
 #### 3) Filiae Melioris Aevi (composed by Caroline Sung, a choir pianist in the 1980s)
@@ -75,14 +75,14 @@ Click [Here](/files/Score_Filiae.pdf) for Music Score to this song
 
 _“Mrs Chee Keng Soon (principal 1980-1988) fondly remembers this to be the favourite of the long-serving teacher in-charge of the choir, Mrs. Rathie Singam.” – RGS History Book – Daughters of a Better Age 1844-2006_
 
-Now as we remember <br>
-Strains of our school song <br>
-Call to mind our motto <br>
+Now as we remember&nbsp;<br>
+Strains of our school song&nbsp;<br>
+Call to mind our motto&nbsp;<br>
 Filiae Melioris Aevi
 
-Filiae Melioris Aevi <br>
-Daughters of a better age <br>
-United by a common goal <br>
+Filiae Melioris Aevi&nbsp;<br>
+Daughters of a better age&nbsp;<br>
+United by a common goal&nbsp;<br>
 Filiae Melioris Aevi
 
 #### 4) Gaudeamus igitur \[Lyrics by C.W. Kindeleben\]
@@ -96,50 +96,50 @@ _“is a popular song in educational institutions, mostly at university graduati
 
 #### 5) If we hold on together \[Music and words by James Harner and Will Jenning\]
 
-_“In 1993 RGS became independent. This is my special song! Reason: the staff & I share a vision! We believe passionately that RGS would lead the way to transform education to prepare our girls for the changing world. We want our girls not only to do well in examinations but also to thrive in the 21st century. However, the re-culturing process was difficult, so the song was to inspire the RGS family to hold on to our dream together. Hence, we articulate our vision and sing the song at every function.” - Mrs Carmee Lim (Principal 1988-1999)_
+_“In 1993 RGS became independent. This is my special song! Reason: the staff &amp; I share a vision! We believe passionately that RGS would lead the way to transform education to prepare our girls for the changing world. We want our girls not only to do well in examinations but also to thrive in the 21st century. However, the re-culturing process was difficult, so the song was to inspire the RGS family to hold on to our dream together. Hence, we articulate our vision and sing the song at every function.” - Mrs Carmee Lim (Principal 1988-1999)_
 
-Don't lose your way <br>
-With each passing day <br>
-You've come so far <br>
-Don't throw it away <br>
-Live believing <br>
-Dreams are for weaving <br>
-Wonders are waiting to start <br>
-Live your story <br>
-Faith, hope & glory <br>
+Don't lose your way&nbsp;<br>
+With each passing day&nbsp;<br>
+You've come so far&nbsp;<br>
+Don't throw it away&nbsp;<br>
+Live believing&nbsp;<br>
+Dreams are for weaving&nbsp;<br>
+Wonders are waiting to start&nbsp;<br>
+Live your story&nbsp;<br>
+Faith, hope &amp; glory&nbsp;<br>
 Hold to the truth in your heart
 
-If we hold on together <br>
-I know our dreams will never die <br>
-Dreams see us through to forever <br>
-Where clouds roll by <br>
+If we hold on together&nbsp;<br>
+I know our dreams will never die&nbsp;<br>
+Dreams see us through to forever&nbsp;<br>
+Where clouds roll by&nbsp;<br>
 For you and I
 
-Souls in the wind <br>
-Must learn how to bend <br>
-Seek out a star <br>
-Hold on to the end <br>
-Valley, mountain <br>
-There is a fountain <br>
-Washes our tears all away <br>
-Words are swaying <br>
-Someone is praying <br>
+Souls in the wind&nbsp;<br>
+Must learn how to bend&nbsp;<br>
+Seek out a star&nbsp;<br>
+Hold on to the end&nbsp;<br>
+Valley, mountain&nbsp;<br>
+There is a fountain&nbsp;<br>
+Washes our tears all away&nbsp;<br>
+Words are swaying&nbsp;<br>
+Someone is praying&nbsp;<br>
 Please let us come home to stay
 
-If we hold on together <br>
-I know our dreams will never die <br>
-Dreams see us through to forever <br>
-Where clouds roll by <br>
+If we hold on together&nbsp;<br>
+I know our dreams will never die&nbsp;<br>
+Dreams see us through to forever&nbsp;<br>
+Where clouds roll by&nbsp;<br>
 For you and I
 
-When we are out there in the dark <br>
-We'll dream about the sun <br>
-In the dark we'll feel the light <br>
+When we are out there in the dark&nbsp;<br>
+We'll dream about the sun&nbsp;<br>
+In the dark we'll feel the light&nbsp;<br>
 Warm our hearts, everyone
 
-If we hold on together <br>
-I know our dreams will never die <br>
-Dreams see us through to forever <br>
-As high as souls can fly <br>
-The clouds roll by <br>
+If we hold on together&nbsp;<br>
+I know our dreams will never die&nbsp;<br>
+Dreams see us through to forever&nbsp;<br>
+As high as souls can fly&nbsp;<br>
+The clouds roll by&nbsp;<br>
 For you and I

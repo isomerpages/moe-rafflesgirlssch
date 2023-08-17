@@ -35,4 +35,4 @@ doing so, honour the school history and motto, Filiae Melioris Aevi.
 
 <img src="/images/schsong.png" style="width:100%">
 
-Listen to the song [HERE](https://on.soundcloud.com/Qaixq).
+Song available [HERE](https://on.soundcloud.com/Qaixq).

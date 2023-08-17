@@ -35,4 +35,8 @@ doing so, honour the school history and motto, Filiae Melioris Aevi.
 
 <img src="/images/schsong.png" style="width:100%">
 
-Song available [HERE](https://on.soundcloud.com/Qaixq).
+Song available below:
+
+* [Student Choir version](https://on.soundcloud.com/Qaixq).
+* [Adult Voice version](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
+* [Music Only](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-f-edit-june-2019-mastered?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)

@@ -37,6 +37,6 @@ doing so, honour the school history and motto, Filiae Melioris Aevi.
 
 Song available below:
 
-* [Student Choir version](https://on.soundcloud.com/Qaixq)
-* [Adult Voice version](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
-* [Music Only](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-f-edit-june-2019-mastered?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
+* [Student choir version](https://on.soundcloud.com/Qaixq)
+* [Adult voice version](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
+* [Music only](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-f-edit-june-2019-mastered?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)

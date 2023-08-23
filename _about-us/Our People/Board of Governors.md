@@ -8,4 +8,4 @@ third_nav_title: Our People
 
 <img src="/images/respect-care-trust.jpg" style="width:85%">
 
-![](/images/bog_2023_final(25jul).png)
+![](/images/bog_2023%20(210%20×%20380%20mm)%20(210%20×%20400%20mm).jpg)

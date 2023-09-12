@@ -24,7 +24,7 @@ description: ""
 *   List of proposed menu and pricing for all items
 *   Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-4.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
+**Submit the completed application form and documents by closing date via email OR to the School's General Office.**
 * Address: 2 Braddell Rise, Singapore 318871
 * Contact Person: Ms Christina Lee 
 * Contact No.: 6970 6423

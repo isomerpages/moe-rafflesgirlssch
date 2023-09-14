@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Vendors.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -26,3 +25,4 @@ collections:
       - Visitor Information.md
       - 360° Virtual Campus Tour.md
       - Useful Links.md
+      - Vendors.md

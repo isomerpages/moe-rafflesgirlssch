@@ -13,8 +13,13 @@ The focus for PX Challenge 2023 was regarding Green Energy and Sustainability �
 RGS registered five teams for the competition, of which one team was shortlisted for the finals. Under the guidance of their RGS teacher-mentors, the RGS team was achieved the Commendation award. Two other teams received a special award for their submissions.
 
 
-
 Team | Name of Students | Award | Teacher-Mentors |
 | -------- | -------- | -------- | -------- |   
 Team 5 |DAISY LIOW HAN YI (409), JOCELYN CHAI HUI MIN (409), JOHANNAH TAN ZHI YING (409)    | Commendation | Ms Foo Ling Ling & Ms Synth-Di Tan |
-Team 3 | KIM JISOO (406), REBECCA SIM ZHI NING (409), TAY WAN LIN, CHLOE (409), GLENDA LIM YU XUAN (410)  | Commendation | Ms Foo Ling Ling & Ms Synth-Di Tan |
+Team 3 | KIM JISOO (406), REBECCA SIM ZHI NING (409), TAY WAN LIN, CHLOE (409), GLENDA LIM YU XUAN (410)  | Special Awards (Video) | Ms Sia Bee Leng & Mr Tan Ying Yang |
+Team 4 | CLARISSE CHEE QIAN YING (413), PHOEBE TAN RAY YEN (CHEN RUIYA) (414), SARAH OH (407), LIU SI YAN (407) | Special Awards (Video) | Ms Foo Ling Ling & Ms Synth-Di Tan |
+Team 1 | RASHEE JHA (405), SANVI GUPTA (405), MAHI ARYA (402), PEARL PURI (401) | Participation | Dr Sundari Prama & Ms Sia Bee Leng |
+Team 2 | NIEVE TOH JIA YI (411), SEET WEN YU (411), HE ZIHAN (411), KHOO YU YING VALERIE (411) | Participation | Mr Yeo Jun Han & Mr Tan Ying Yang |
+
+Congratulations to all the teams and teacher-mentors for their excellent work in the competition!
+

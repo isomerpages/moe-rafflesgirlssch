@@ -14,7 +14,7 @@ RGS registered five teams for the competition, of which one team was shortlisted
 
 
 
-| Name of Students | Award | Teacher-Mentors |
-| -------- | -------- | -------- |   
-**Team 5** DAISY LIOW HAN YI (409), JOCELYN CHAI HUI MIN (409), JOHANNAH TAN ZHI YING (409)    | Text     | Text     |
-
+Team | Name of Students | Award | Teacher-Mentors |
+| -------- | -------- | -------- | -------- |   
+Team 5 |DAISY LIOW HAN YI (409), JOCELYN CHAI HUI MIN (409), JOHANNAH TAN ZHI YING (409)    | Commendation | Ms Foo Ling Ling & Ms Synth-Di Tan |
+Team 3 | KIM JISOO (406), REBECCA SIM ZHI NING (409), TAY WAN LIN, CHLOE (409), GLENDA LIM YU XUAN (410)  | Commendation | Ms Foo Ling Ling & Ms Synth-Di Tan |

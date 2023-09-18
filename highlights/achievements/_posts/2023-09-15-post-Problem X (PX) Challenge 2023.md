@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Problem X (PX) Challenge is a programme jointly organised by the Gifted Education Branch, Ministry of Education (MOE) and Singapore University of Technology and Design (SUTD). Incepted in 2020, the programme targets Year 2 to 4 students who demonstrate strong aptitude, passion and motivation for inquiry in Science and Mathematics.
 
 The focus for PX Challenge 2023 was regarding Green Energy and Sustainability — Hydrogen Gas as an alternative energy source. Students were tasked to produce a technical report to identify knowledge gaps of secondary school students about hydrogen fuel, explain the science of hydrogen production and utilisation, and produce a 15-minute video to educate peers on the viability of hydrogen as an energy source for Singapore.  

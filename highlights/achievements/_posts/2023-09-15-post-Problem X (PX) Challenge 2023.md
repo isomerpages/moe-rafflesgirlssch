@@ -23,3 +23,6 @@ Team 2 | NIEVE TOH JIA YI (411), SEET WEN YU (411), HE ZIHAN (411), KHOO YU YING
 
 Congratulations to all the teams and teacher-mentors for their excellent work in the competition!
 
+![](/images/pxl2023%20(1).jpg)
+
+![](/images/pxl%202023%20(2).jpg)

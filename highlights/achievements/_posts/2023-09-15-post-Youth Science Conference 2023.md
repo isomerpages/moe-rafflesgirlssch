@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/ysc23images.png)
 
 The Youth Science Conference (YSC) is an annual event organised by the Gifted Education Branch, MOE, for students involved in scientific research under either the Science Mentorship Programme (SMP) or the School-Based Science Mentorship Programme (SB-SMP).
@@ -23,4 +22,4 @@ We also celebrate the achievements of our exceptional teacher-mentors, Mr Tan Yi
 
 ![](/images/mrtanyingyang.png)
 
-![](/images/ms%20cheong%20szu%20chuang.png)
+![](/images/mscheongszuchuang.png)

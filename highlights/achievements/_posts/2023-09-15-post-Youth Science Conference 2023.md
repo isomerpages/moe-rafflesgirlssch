@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+The Youth Science Conference (YSC) is an annual event organized by the Gifted Education Branch, MOE, for students involved in scientific research under either the Science Mentorship Programme (SMP) or the School-Based Science Mentorship Programme (SB-SMP).
+
+The 29th YSC was held on Friday, 15 September at Nanyang Polytechnic. The conference showcased 8 SMP and 17 SB-SMP projects from RGS. We extend our heartfelt congratulations to our teams for their outstanding performance!  Click [here](/files/29th%20ysc%20results.pdf) to view the results of our projects. 
+
+We also celebrate the achievements of our exceptional teacher-mentors, Mr Tan Ying Yang and Ms Cheong Szu Chuang, who were honoured with the Outstanding Teacher Advisor Awards by the YSC organizing committee.
+

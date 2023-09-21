@@ -65,24 +65,29 @@ The Relief Teacher will assist the respective Head of Department/Assistant Head 
 
 ### NON TEACHING POSITIONS 
 
-### **Officer, Administration**
+### **Assistant Research Technologist**
 
-The Officer, Administration is accountable to the Assistant Manager, Administration by providing administrative support to ensure smooth and effective operations in the school.
+Your primary responsibility involves supporting the laboratory manager and teachers in the day-to-day oversight and operations of the Research Laboratories.
 
-**Responsibilities**
+**Key Responsibilities**
 
-*   Provides administration support to School Leaders and teachers.
-*   Manages the frontline counter duty, attending to all students, parents, and walk-in visitors’ queries.
-*   Handles students related administration matters such as updating student particulars and achievements.
-*   Any other duties assigned by School Leaders/AM
+* Provide support to students’ Science-related CCA competitions and enrichment programmes.
+* Provide training and guidance to students and teachers mentoring investigations.
+* Assist in supervising student research and help troubleshoot experimental issues and optimize protocols.
+* Supervise the operation, maintenance, allocation and utilisation of space and equipment in the laboratory facilities to ensure proper and optimal usage.
+* Conduct safety inspections to determine whether conditions are safe, or any remedial actions need to be taken. Maintain records of health safety for compliance with government and school regulations.
+* Assist with Practical Assessments for school science curriculum.
+* Support teachers in the laboratory requirements for science research projects.
+* Perform any other adhoc duties assigned.
+
 
 **Requirements**
 
-* Diploma with a minimum of 2 years relevant working experience
-* Self-motivated, possessing initiative, tenacity and very good interpersonal skills
-* Have the passion to serve and with positive customer service mindset
-* Good communication skills with ability to work in a team
-* Familiar with MS Office Word &amp; Excel
+* Minimum Diploma or Degree in a Science discipline (Biology- and/or Chemistry-preferred)
+* At least one year experience in a research laboratory
+* Science Research, knowledge of safety protocols
+* Strong analytical and problem-solving skills, able to work independently and as part of team, positive attitude
+* Proficient in verbal and written English
 
 ### **IT Support Assistant (Temporary Position)**
 

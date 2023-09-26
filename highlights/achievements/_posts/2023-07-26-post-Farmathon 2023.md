@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-Our Year 1 girls participated in the Formation Inter-School Competition 2023 from 12 May to 21 July 2023. Teams from various schools competed for the best business proposals to the challenge statements and RGS achieved the following results:
+Our Year 1 girls participated in the Farmathon Inter-School Competition 2023 from 12 May to 21 July 2023. Teams from various schools competed for the best business proposals to the challenge statements and RGS achieved the following results:
 
 ![](/images/farmathon1.png)
 

@@ -8,6 +8,12 @@ image: ""
 ---
 A total of 10,130 student athletes across 28 sports were recognised for their sporting achievements and display of good sporting character at the 53rd Singapore Schools Sports Council (SSSC) Colours Award on 22 September 2023.
 
+| Award | Recipients | 
+| -------- | -------- | 
+| Colours Award   | 244     |  
+| Colours Award (Distinction)    | 21     |  
+
+
 ![](/images/colours23.jpeg)
 
 55 students from 20 schools also received the SSSC Best Sportsboy/Sportsgirl Awards.

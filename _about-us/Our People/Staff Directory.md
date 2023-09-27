@@ -246,10 +246,9 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Gina Soh  | Manager, Finance  |
-| Azreena Mohd  | Senior Executive, Finance  |
+| Azreena Mohd  | Acting Assistant Manager, Finance  |
 | Cindy Liu  | Officer, Finance  |
-|   |   |
+| Vijaya Govindarajoo  |  Officer, Finance |
 
 **<u>Department - Human Resource</u>**
 
@@ -306,9 +305,9 @@ third_nav_title: Our People
 
 | Staff Name  | Position  |
 |:-:|---|
-| Amalina Binte Yahya | School Counsellor  |
 | Karen Lau  | School Counsellor  |
 | Laura Tan  |  School Counsellor with ECG |
+| Ngeow Mei Yi  |  School Counsellor  |
 | Chua Hai Lee  | Senior Executive, Admissions  |
 | Humaira Binte Salleh | Officer, Student Services  |
 |   |   |

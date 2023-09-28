@@ -20,7 +20,6 @@ The mission of the Hong Leong Foundation Filiae Centre is to create a culture th
 
 # Meet our Staff
 The Hong Leong Foundation Filiae Centre is staffed with four full-time counsellors and a Student Services Officer. They provide help with questions or concerns related to school, home, friends, career and personal matters. They are also familiar with agencies and resources that are available for situations that are beyond the responsibility or capability of the school.
-* Ms Amalina Binte Yahya, School Counsellor  
 * Ms Karen Lau, School Counsellor  
 *  Ms Laura Tan, School Counsellor with ECG
-
+*  Ms Ngeow Mei Yi, School Counsellor 

@@ -26,8 +26,7 @@ The office bearers for 2023/2024 are as follows:
 
 | Designation | Name | 
 | -------- | -------- | 
-| President    | Ms Ang Peck Ngo (Class of 1979) | 
-| Vice President    | Ms Tay Hong Ling Mabel (Class of 1996) | 
+| President    | Ms Tay Hong Ling Mabel (Class of 1996 | 
 | Secretary    | Ms Nadia Yeo (Class of 2002) | 
 | Assistant Secretary    | Ms Ting Hui Shan (Class of 2000) | 
 | Treasurer    | Ms Bella Chia (Class of 2012) | 

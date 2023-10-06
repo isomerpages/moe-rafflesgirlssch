@@ -15,6 +15,7 @@ sections:
         - title: Events & Announcements
           description: ""
           url: /highlights/events-and-announcements/
+      title: Raffles Girls' School
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

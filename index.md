@@ -15,7 +15,12 @@ sections:
         - title: Events & Announcements
           description: ""
           url: /highlights/events-and-announcements/
+        - title: The RGS Experience
+          description: Click here to find out more
+          url: https://openhouse.rgs.edu.sg/
       title: Raffles Girls' School
+      button: Contact us
+      url: https://www.rgs.edu.sg/contact-us/
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

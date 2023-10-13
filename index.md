@@ -21,6 +21,15 @@ sections:
       title: Raffles Girls' School
       button: Contact us
       url: https://www.rgs.edu.sg/contact-us/
+  - infopic:
+      title: The RGS Experience
+      id: infopic
+      description: Visit our virtual Open House site to find out more about the
+        Raffles Experience
+      button: Explore now
+      url: https://openhouse.rgs.edu.sg/
+      image: /images/untitled (800 x 500 px).jpg
+      alt: Image alt text
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

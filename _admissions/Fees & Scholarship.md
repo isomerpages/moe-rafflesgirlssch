@@ -7,7 +7,7 @@ description: ""
 
 #### RGS School Fees
 
-For information on RGS School Fees, please click [here.](/files/2024%20sch%20fees.pdf)
+For information on RGS School Fees, please click [here](/files/2024%20sch%20fees%20info%20existing%20for%20website_revised.pdf)
 
 #### Scholarships
 

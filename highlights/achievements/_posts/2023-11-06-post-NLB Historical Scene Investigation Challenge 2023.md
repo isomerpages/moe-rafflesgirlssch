@@ -9,7 +9,7 @@ variant: markdown
 ---
 As part of their History Talent Development programme in RGS, our Year 2 girls participated in the NLB’s Historical Scene Investigation Challenge 2023.&nbsp;
 
-About 104 teams from various schools participated in this year's contest. One of our teams won the 1st prize and&nbsp;was&nbsp;also&nbsp;presented with&nbsp;the Young Historians’ Award by MOE. The&nbsp;other&nbsp;RGS team also did very well this&nbsp;year, receiving&nbsp;the Gold certificates.
+About 104 teams from various schools participated in this year's contest. One of our teams won the 1st prize and&nbsp;was&nbsp;also&nbsp;presented with&nbsp;the Young Historians’ Award by MOE. The&nbsp;other&nbsp;RGS team also did very well this&nbsp;year, receiving&nbsp;the Gold certificate.
 
 ![](/images/histdp23.jpg)
 

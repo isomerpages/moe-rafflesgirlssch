@@ -7,9 +7,11 @@ description: ""
 image: ""
 variant: markdown
 ---
-In late August, 31 RGS teams submitted videos for the Singapore&nbsp;Energy&nbsp;Grand Challenge (SEGC) a competition organised by the Energy Market Authority (EMA). This year,&nbsp;participants were invited to co-create and build the energy system they envision for Singapore by 2050.&nbsp;
+In late August, 31 RGS teams submitted videos for the Singapore Energy &amp; Grand Challenge (SEGC), a competition organised by the Energy Market Authority (EMA). This year,&nbsp;participants were invited to co-create and build the energy system they envision for Singapore by 2050.&nbsp;
   
-For this year's challenge, teams were required to submit a&nbsp;3-min video,&nbsp;based on the challenge statement. Congratulations to the following teams:
+For this year's challenge, teams were required to submit a&nbsp;3-min video,&nbsp;based on the challenge statement. 
+
+Congratulations to the following teams:
 
 ![](/images/potato.jpeg)
 
@@ -26,4 +28,4 @@ A representative from Team Potato was invited for a Live interview on ‘Singapo
 
 To find out more about the competition, visit the SEGC 2023 website via the link below:
 
-* https://www.poweringlives.gov.sg/events/segc-youth/overview/
+* [https://www.poweringlives.gov.sg/events/segc-youth/overview/](https://www.poweringlives.gov.sg/events/segc-youth/overview/)

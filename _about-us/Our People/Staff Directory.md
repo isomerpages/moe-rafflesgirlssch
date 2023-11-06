@@ -1,0 +1,313 @@
+---
+title: Staff Directory
+permalink: /about-us/Our-People/staff-directory/
+description: ""
+third_nav_title: Our People
+---
+## Staff Directory
+
+**<u>Department - Senior Management</u>**
+
+| Staff Name  | Designation  |
+|:-:|---|
+| Haslinda Zamani  | Principal  |
+| Chin Jen Fu  | Deputy Principal, Academic Studies  |
+| May Tan  | Deputy Principal, Student Development  |
+| Mary George Cheriyan  | Deputy Principal, PeRL &amp; Community Engagement  |
+| Juliana Chia  | Bursar  |
+| Michael Jalleh  | Director, Academic Studies  |
+| Goh Lee Kian  | Director, Planning &amp; Infrastructure  |
+| Lee Su Yin  | Director, Communications &amp; Partnerships  |
+| Yeo Soo Ling  | Director, Student Development  |
+|   |   |
+
+**<u>Department - Aesthetics</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Anna Loo  | Head, Aesthetics  |
+| Denise Tan  | Teacher  |
+| Lai Siew Yong  | Teacher  |
+| Noorshidah Ibrahim  | Teacher  |
+| Vivien Willamme  | Teacher  |
+| Yeo Puay Hong  | Teacher  |
+|   |   |
+
+**<u>Department - English Language &amp; Literature</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Stella Picca  | Head, English Language &amp; Literature  |
+| Malyanah Binte Mawar  | Assistant Head, English Literature  |
+| Nicholas Tan  | Assistant Head, English Language  |
+| Adeline Tang  | Teacher  |
+| Alfieana Alphonso  | Teacher  |
+| Choo Li Lin  | Teacher  |
+| Chang Jia Yin  | Teacher  |
+| June Tan  | Teacher  |
+| Ling Shuang Ning  | Teacher  |
+| Michelle Liu  |Teacher   |
+| Sharon Ong  |  Teacher |
+| Yap Hsin Yan  | Teacher  |
+|   |   |
+
+**<u>Department - Humanities</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Mohammad Faizal  | Head, Humanities  |
+| Yeo Jun Han  | Assistant Head, Geography  |
+| Ong Shu Juin  | Assistant Head, Inquiry &amp; Advocacy  |
+| Aliah Binte Mohamed Shariff  | Teacher  |
+| Asmizar Bin Abu  | Teacher  |
+| Kevin Ng  | Teacher  |
+| Low Mei Ling  | Teacher  |
+| Mak Wai Ling  | Teacher  |
+| Mohamad Fadhly  |  Teacher |
+| Roselind Mathews  | Teacher  |
+| Sia Bee Leng  | Teacher  |
+| Syazwani Binte Amrun  | Teacher  |
+|   |   |
+
+**<u>Department - Languages</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Lee Szer Yuen  | Head, Languages  |
+| Wong Chee Yeh  | Assistant Head, Languages |
+| Tan Lee Khim  | Assistant Head, Languages  |
+| Benedict Ng | Teacher  |
+| Cao Jia Wei  | Teacher  |
+| Chua Han Hui  | Teacher  |
+| Hing Siew Bee  |  Teacher |
+| Ivy Toh  | Teacher  |
+| Kumbalingam Uthaman  | Teacher  |
+| Kwok Zhen Yuan  | Teacher  |
+| Lin Yao  | Teacher  |
+| Mu Jun  | Teacher  |
+| Nadiah Rusydina Binte Roslan  | Teacher  |
+| Neo Jia Hui  | Teacher  |
+| Ngiew Tian Hui  | Teacher  |
+| Nuraini Bt Abdul Gapor  | Teacher  |
+| Poon Han Wei  | Teacher  |
+| Safiah Binte Ani  | Teacher  |
+| Shi Hai Yan  | Teacher  |
+| Wee Xiumei  |  Teacher |
+|   |   |
+
+**<u>Department - Mathematics</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Carmen Hoo  | Head, Mathematics  |
+| Koh King Koon  | Assistant Head, Mathematics  |
+| Tan Jia Xiu  | Assistant Head, Mathematics  |
+| Chang Chiou Yen  | Teacher  |
+| Goh Li Meng  | Teacher  |
+| Lim Huey Miin  | Teacher  |
+| Lim Young Hui  |Teacher  |
+| Maggie Phua  |Teacher   |
+| Navinesh S/O Thanabalasingam  | Teacher  |
+| Ng Peck Wee  | Teacher  |
+| Norhuda Binte Mohamed Sadekan  | Teacher  |
+| Sharon Tan  | Teacher  |
+| Toh Teck Wei  | Teacher  |
+| Wang Siao Hua  | Teacher  |
+| Yang Kai  | Teacher  |
+|   |   |
+
+**<u>Department - Physical Education</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Magdalene Suey  | Head, Physical Education &amp; Co-Curricular Activities  |
+| Alina Wee  | Assistant Head, Physical Education  |
+| Chrislin Lee  | Assistant Head, Co-Curricular Activities  |
+| Raihan Bin Mohd Yassin  | Teacher  |
+| Sandy Mo  | Teacher  |
+| Sophia Sim  | Teacher  |
+| Tan Hai Nee  | Teacher  |
+|   |   |
+
+**<u>Department - Science</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+|  Prama Sundari | Head, Science  |
+| Lee Tien  | Assistant Head, Biology  |
+| Cheong Szu Chuang  | Assistant Head, Physics  |
+|  Norazlin Binte Normin | Assistant Head, Chemistry  |
+| Angel Lim  | Teacher  |
+| Angela Teo  | Teacher  |
+| Chia Wei Ling  | Teacher  |
+| Cindy Tiong  | Teacher  |
+| Jeffrey Lee  | Teacher  |
+| Joseph Lim  | Teacher  |
+| Joshua Lee  | Teacher  |
+| Lim Ai Khim  | Teacher  |
+| Neo Yining  |Teacher   |
+| Sharifah Alkaff  | Teacher  |
+| Synth-Di Tan  | Teacher  |
+| Tan Hup Yew  | Teacher  |
+| Tan Wei Lun  | Teacher  |
+| Tan Ying Yang  | Teacher  |
+| Yang Kian Hong  | Teacher |
+|   |   |
+
+**<u>Department - Centre for Pedagogical Research &amp; Learning</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Lucille Yap  | Head, Consultancy  |
+| Foo Ling Ling  | Head, Professional Development  |
+| Tan Kum Chee  | Lead Teacher  |
+| Chew Meek Lin  | Lead Teacher  |
+| Leung Hui Leng  | Senior Teacher  |
+| Jassie Teo  | Senior Teacher  |
+| Sandi Kum  | Senior Teacher (Special Educational Needs)  |
+| Lim Er Yang  | Senior Teacher  |
+| Chan Sau Siong  | Senior Teacher  |
+| Azahar Bin Mohamed Noor  | Specialist  |
+| Tan Yen Chuan  | Specialist  |
+| Hafizah Binte Jumat  | Executive, Research  |
+|   |   |
+
+**<u>Department - Character &amp; Citizenship Education</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Rachel Pang  | Head, Character &amp; Citizenship Education  |
+| Audrey Chen  | Assistant Head, Student Leadership Development  |
+| Tiffany Cheong  | Assistant Head, Citizenship Education  |
+| Lim Shi Zhi  | Assistant Head, Service Learning  |
+|   |   |
+
+**<u>Department - Talent Development</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Joseph Toh  | Head, Talent Development  |
+| Shaun De Souza  | Assistant Head, Talent Development  |
+|   |   |
+
+**<u>Department - Student Management</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Eriyanty Mohammad  | Head, Student Management  |
+| Hasanah Alfie  | Head of Year, Year 1  |
+| Nora Kamsir  | Head of Year, Year 2  |
+| Lee Hwee Ling  | Head of Year, Year 3  |
+| Sulastiri Anis  | Head of Year, Year 4  |
+|   |   |
+
+**<u>Department - Information &amp; Communications Technology</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Tan Yin Lai  | Head, Information &amp; Communications Technology  |
+|   |   |
+
+**<u>Department - Administration Office</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Adeline Quek  | Assistant Manager, Administration  |
+| Chua Moi Leng  | Senior School Attendant, Administration  |
+| Eunice Tay  | Officer, Administration  |
+| Zuraini Bte Mohammad Said  | Assistant, Administration  |
+|   |   |
+
+**<u>Department - Aesthetics (EAS)</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Asman Bin Yusof  | Higher Technician, Design &amp; Technology  |
+| Sheila Loh  | Attendant, Home Economics  |
+|   |   |
+
+**<u>Department - Estate</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Leong Fook Weng  | Manager, Operations  |
+| Jansen Ng  | Executive, Operations  |
+|  Mohd Nor  | Officer, Operations  |
+|   |   |
+
+**<u>Department - Procurement</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Christina Lee  | Executive, Procurement  |
+|   |   |
+
+**<u>Department - Finance</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Azreena Mohd  | Acting Assistant Manager, Finance  |
+| Cindy Liu  | Officer, Finance  |
+| Vijaya Govindarajoo  |  Officer, Finance |
+
+**<u>Department - Human Resource</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Evelyn Suah  |Manager, Human Resources|
+| Connie Kong  | Senior Executive, Human Resources  |
+| John Loo  | Executive, Human Resources  |
+|   |   |
+
+**<u>Department - Information Technology</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Morris Gabriel  | Manager, Information Technology  |
+| Zhang Runsheng  | Senior Executive, Information Technology  |
+| Teo Yen Li  | Executive, Information Technology  |
+| Mohamed Yazid  | Officer, Information Technology  |
+| Hein Thant Thu Shein  |  Officer, Information Technology |
+| Muhammad Ameen  | Assistant,&nbsp;Information Technology  |
+| Muhammad Shahid Bin Hussin  | Assistant,&nbsp;Information Technology  |
+|   |   |
+
+**<u>Department - Library</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Masturah Aziz  | Manager, Library  |
+| Yogeswari  | Officer, Library  |
+|   |   |
+
+**<u>Department - Science (EAS)</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Wong Su Zhen  | Assistant Manager, Laboratory  |
+| Lin Yan  | Higher Technician,&nbsp;Laboratory  |
+| Mohamed Ali  | Higher Technician,&nbsp;Laboratory  |
+| Sandy Huang  | Higher Technician,&nbsp;Laboratory  |
+| Chan Siong Weng  | Attendant, Laboratory  |
+| Ng Hui Juan  | Technician, Laboratory  |
+|   |   |
+
+**<u>Department - Strategic Communications</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Jamaluddin Bin Johan  | Senior Executive, Corporate Communications  |
+| Leonard Louis  |Executive Strategic Communications   |
+| Clorisa Loh Hui Lun  | Executive Partnerships &amp; Community Relations  |
+|   |   |
+
+**<u>Department - Counselling &amp; Student Services</u>**
+
+| Staff Name  | Position  |
+|:-:|---|
+| Karen Lau  | School Counsellor  |
+| Laura Tan  |  School Counsellor with ECG |
+| Ngeow Mei Yi  |  School Counsellor  |
+| Chua Hai Lee  | Senior Executive, Admissions  |
+| Humaira Binte Salleh | Officer, Student Services  |
+|   |   |

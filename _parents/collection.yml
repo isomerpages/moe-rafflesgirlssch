@@ -1,0 +1,10 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Welcome.md
+      - Committee.md
+      - Events.md
+      - Membership.md
+      - Parents Gateway.md
+      - Parents Portal.md

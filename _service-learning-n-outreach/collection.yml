@@ -1,0 +1,17 @@
+collections:
+  service-learning-n-outreach:
+    output: true
+    order:
+      - 2022/.keep
+      - 2022/Lunar New Year Goodie Bag Initiative 2022.md
+      - 2021/.keep
+      - 2021/Triple C Programme.md
+      - 2021/Lunar New Year Goodie Bag Initiative.md
+      - 2021/Launch of Love Movement Initiative by Xin Yuan Community Care.md
+      - 2021/Handmade Masks for the Singapore Red Cross Society.md
+      - 2020/.keep
+      - 2020/#RGSUnited Appreciation Video.md
+      - 2020/Harnessing the Power of Technology for Good.md
+      - 2020/Project AppEATite.md
+      - "2020/RGS PeRL: Developing and Nurturing a Thinking Classroom.md"
+      - "2020/Values in Action: Year 1 School CleanUp.md"

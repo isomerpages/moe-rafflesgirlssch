@@ -1,0 +1,38 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Academic Studies/.keep
+      - Academic Studies/Aesthetics.md
+      - Academic Studies/Art & Design Programme.md
+      - Academic Studies/General Music Programme.md
+      - Academic Studies/Food & Design.md
+      - Academic Studies/Design & Technology.md
+      - Academic Studies/English Language & Literature.md
+      - Academic Studies/English Language.md
+      - Academic Studies/English Literature.md
+      - Academic Studies/Humanities.md
+      - Academic Studies/Geography.md
+      - Academic Studies/Inquiry & Advocacy.md
+      - Academic Studies/History.md
+      - Academic Studies/Languages.md
+      - Academic Studies/Chinese Language.md
+      - Academic Studies/Malay Language.md
+      - Academic Studies/Tamil Language.md
+      - Academic Studies/Mathematics.md
+      - Academic Studies/Physical Education.md
+      - Academic Studies/Science.md
+      - Academic Studies/Biology.md
+      - Academic Studies/Chemistry.md
+      - Academic Studies/Physics.md
+      - Character & Leadership Education.md
+      - Citizenship Education.md
+      - Co Curricular Activities.md
+      - Service Learning.md
+      - MOE Sexuality Education in Schools.md
+      - Student Leadership Development.md
+      - Talent Development/.keep
+      - Talent Development/Talent Development.md
+      - Talent Development/Music Elective Programme.md
+      - Talent Development/Research Studies.md
+      - Talent Development/Special Art Programme.md

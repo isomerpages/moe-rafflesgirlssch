@@ -1,0 +1,20 @@
+logo: /images/RGS-logo_horizontal-2022-update.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Holistic Education
+    collection: holistic-education
+  - title: Students
+    collection: students
+  - title: Admissions
+    collection: admissions
+  - title: PeRL
+    url: https://perl.rgs.edu.sg/
+  - title: Parents
+    collection: parents
+  - title: Alumnae
+    collection: alumnae
+  - title: RGS Shop
+    url: https://shop.rgs.edu.sg/

@@ -1,0 +1,60 @@
+title: Raffles Girls' School
+url: https://www.rgs.edu.sg
+favicon: /images/for-circle-logo.jpg
+colors:
+  primary-color: "#006747"
+  secondary-color: "#006747"
+  media-colors:
+    - title: media-color-one
+      color: "#919d8d"
+    - title: media-color-two
+      color: "#006747"
+    - title: media-color-three
+      color: "#919d8d"
+    - title: media-color-four
+      color: "#a89968"
+    - title: media-color-five
+      color: "#006747"
+description: Filiae Melioris Aevi
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d26afbzf7c2hhe.amplifyapp.com
+prod: https://master.d26afbzf7c2hhe.amplifyapp.com
+shareicon: /images/for-circle-logo.jpg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: highlights
+google_analytics_ga4: ""

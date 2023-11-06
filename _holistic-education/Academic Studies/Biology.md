@@ -19,39 +19,47 @@ Biology is the understanding of the diversity and complexity of life and the int
 
 ###### <center>Programmes</center>
 
-| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
-|:-:|---|---|---|
-| The Scientific Endeavour <br><br>Macroconcept: Models<br>*   The Basic Units of Life |  Macroconcept: Interactions<br><br>*   Interactions within Ecosystems <br><br>Macroconcept: Systems<br>*   Human Digestive Systems<br>*   Transport Systems in Living Things<br>*   Human Sexual Reproductive System | Macroconcept: Systems<br><br>*   Cell Biology<br>*   Coordination and Response<br>*   Transport in Plants and Energetics  | Macroconcept: Change<br><br>*   Natural Selection and Reproduction<br>*   DNA, Nuclear and Cellular Division<br>*   Genetics and Inheritance  |
-|   |   |   |   |
+
+
+| **Year 1**  | **Year 2**| **Year 3** | **Year 4** |
+| -------- | -------- | -------- | -------- |
+| Macroconcept: **Systems**   | Macroconcept: **Interactions**    | Macroconcept:  **Systems**   | Macroconcept:  **Change**  | 
+| *The Scientific Endeavour | * Interactions within Ecosystems | *Coordination and Response <br><br>*Cells and the Chemistry of Life <br><br>*Transport in Plants and Energetics | * Natural Selection and Reproduction <br><br>*DNA, Nuclear and Cellular Division<br><br>*Inheritance<br><br>*Infectious Diseases and Molecular Genetics |
+| Macroconcept: **Model**    | Macroconcept: **Systems**  |      |      |
+| * Model of Cells  | * Human Digestive System<br><br>* Transport Systems in Living Things<br><br>*Human Sexual Reproductive System
+ |  |  |
+
+
+
 
 #### Gallery
 
-<img src="/images/bio1.jpg" style="width:49%" align=right>
+<img src="/images/bio1.jpg" style="width:49%" align="right">
 
 Promoting collaboration amongst our students.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/bio2.jpg" style="width:49%" align=right>
+<img src="/images/bio2.jpg" style="width:49%" align="right">
 
 Student responding to a question.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/bio3.jpg" style="width:49%" align=right>
+<img src="/images/bio3.jpg" style="width:49%" align="right">
 
 Teacher conducting outdoor field studies.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/bio4.jpg" style="width:49%" align=right>
+<img src="/images/bio4.jpg" style="width:49%" align="right">
 
 Students participating in the International STEP (Singapore Technologies Endowment Programme) Brain Camp.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/bio5.jpg" style="width:49%" align=right>
+<img src="/images/bio5.jpg" style="width:49%" align="right">
 
 Teacher coaching students.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/bio6.jpg" style="width:49%" align=right>
+<img src="/images/bio6.jpg" style="width:49%" align="right">
 
 Students attending the Evolution in the Living World Workshop.
-<br clear=right>
+<br clear="right">

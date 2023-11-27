@@ -3,13 +3,13 @@ title: National STEM Championship (NSTEMC)
 permalink: /highlights/achievements/nstem23/
 date: 2023-11-25
 layout: post
-description: ""
-image: ""
+description: National STEM Championship (NSTEMC) 2023
+image: /images/nstemc23.jpg
 variant: markdown
 ---
 Our Cogitare Club girls participated in the National STEM Championship (NSTEMC) 2023 and came in as 2nd runners-ups. 
 
-![](/images/nstemc23.jpeg)
+![](/images/nstemc23.jpg)
 
 Formerly known as the National Science Challenge, the competition highlights emerging technologies and aims to spark a passion for STEM subjects among students and the wider public.
 

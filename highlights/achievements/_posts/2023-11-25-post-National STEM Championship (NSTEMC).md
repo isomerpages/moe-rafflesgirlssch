@@ -9,7 +9,7 @@ variant: markdown
 ---
 Our Cogitare Club girls participated in the National STEM Championship (NSTEMC) 2023 and came in as 2nd runners-ups. 
 
-![](/images/nstemc23.jpeg)
+![](/images/nstemc23.jpg)
 
 Formerly known as the National Science Challenge, the competition highlights emerging technologies and aims to spark a passion for STEM subjects among students and the wider public.
 

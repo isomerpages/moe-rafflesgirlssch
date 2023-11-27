@@ -9,7 +9,7 @@ variant: markdown
 ---
 Our students recently participated in the STEM Playground 2023 Grand Finale, organised by the Science Centre Singapore. 
 
-![](/images/STEMplayground23.png)
+![](/images/STEMplaygrnd23.png)
 
 Using the materials provided, students were tasked to build catapults to launch self-made projectiles to hit the designated targets. Teams were scored based on their creativity, craftsmanship&nbsp;and design, as well as the accuracy of the shots.
 

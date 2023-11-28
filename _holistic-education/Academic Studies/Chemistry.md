@@ -3,6 +3,7 @@ title: Chemistry
 permalink: /holistic-education/Academic-Studies/chem/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## Chemistry
 
@@ -17,34 +18,39 @@ Chemistry is the study of matter and its changes. Our students are given opportu
 
 ###### <center>Programmes</center>
 
-| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
-|:-:|---|---|---|
-| The Scientific Endeavour<br><br>Macroconcept: Diversity<br>*   Chemical Composition of Matter<br>*   Sepration Techniques of Matter <br><br>Macroconcept: Model<br>*   The Particulate Nature of Matter<br>*   Atoms and Molecules | Macroconcept: Interactions<br>*   Chemical Changes  | Macroconcept: Change<br>*   Acids, Bases, Salts <br><br>Macroconcept: Scale<br>*   Mole Concept<br>*   Stoichiometry<br><br>Macroconcept: Models<br>*   Atomic Structure<br>*   Chemical Bonding and Structure<br><br>Macroconcept: Systems<br>*   The Periodic Table | Macroconcept: Change<br>*   Qualitative Analysis<br>*   Redox and Metals<br>*   Electrochemistry<br>*   Energy<br>*   Speed of Reaction<br>*   Chemical Equilibrium <br><br>Macroconcept: Systems<br>*   Experimental Chemistry<br>*   Organic Chemistry |
-|   |   |   |   |
+| **Year 1**  | **Year 2**| **Year 3** | **Year 4** |
+| -------- | -------- | -------- | -------- |
+| Macroconcept: **Systems**   | Macroconcept: **Interactions**    | Macroconcept:  **Change**   | Macroconcept:  **Change**  | 
+| The Scientific Endeavour | * Chemical Changes| *Acid-Base Chemistry <br><br>*Qualitative Analysis | *Redox Chemistry <br><br>*Chemical Energetics<br><br>*Rate of Reaction<br><br>*Chemical Equilibrium <br><br> *Maintaining Air Quality|
+| Macroconcept: ***Diversity**   | | Macroconcept: **Scale**  |   Macroconcept: **Systems**         |
+| *Chemical Composition of Matter <br><br> *Techniques of Matter | | *Mole Concept<br><br>*Stoichiometry<br><br> | *Patterns in the Periodic Table<br><br>*Experimental Chemistry<br><br>*Organic Chemistry  |
+ | Macroconcept: ***Model** ||Macroconcept: ***Models** | |
+|*The Particulate Nature of Matter <br><br>*Atoms and Molecules  | |*Atomic Structure <br><br>*Chemical Bonding and Structure |
+ |  |  |
 
 #### Gallery
 
-<img src="/images/chem1.jpg" style="width:49%" align=right>
+<img src="/images/chem1.jpg" style="width:49%" align="right">
 
 Labour of Love Initiative by our chemistry teachers, where they made hand sanitisers for the school to use.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chem2.jpg" style="width:49%" align=right>
+<img src="/images/chem2.jpg" style="width:49%" align="right">
 
 AI and machine learning workshop by DSTA.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chem3.jpg" style="width:40%" align=right>
+<img src="/images/chem3.jpg" style="width:40%" align="right">
 
 Students are self-directed in their learning with the guidance of their teacher.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chem4.jpg" style="width:40%" align=right>
+<img src="/images/chem4.jpg" style="width:40%" align="right">
 
 Students investigating in the science laboratory.
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chem5.jpg" style="width:49%" align=right>
+<img src="/images/chem5.jpg" style="width:49%" align="right">
 
 AI chatbot programming.
-<br clear=right>
+<br clear="right">

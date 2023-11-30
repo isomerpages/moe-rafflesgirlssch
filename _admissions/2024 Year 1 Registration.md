@@ -38,7 +38,7 @@ description: ""
 8. For clarification and assistance, please contact 67371845.
 
 
-## **# Frequently Asked Questions Y1 Posting & Results**
+## **Frequently Asked Questions Y1 Posting & Results**
 
 **1) What do I do after receiving the Y1 Posting results?**
 Posting results will be released between Wed, 20 Dec 2023 and Fri, 22 Dec 2023 (tentative), via online, SMS and your daughter’s primary school.

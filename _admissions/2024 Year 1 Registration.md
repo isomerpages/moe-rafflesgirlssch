@@ -17,6 +17,7 @@ description: ""
 5. Parents and Year 1 students will access the Year 1 Registration site to:**
 
 * find all the information needed to help students prepare for Year 1 in 2024.
+
 * complete **compulsory administrative matters** that would need your attention and necessary action before the **deadline of 1700 hours on Saturday, 23 December 2023 (tentative)**.
 
 * look up information on the purchase of books and uniforms. Sale of school books and uniforms will be available online and parents are encouraged to make online purchases, and arrange for home delivery or to collect their purchases at the respective stores. 
@@ -27,9 +28,12 @@ description: ""
 
 * arrange school bus transport to RGS, if needed.
 
+
 6. In RGS, all Year 1 students are required to use an **iPad** for learning. Specifications for the iPad are provided at the same site, along with information on how to purchase a new iPad if the Year 1 student does not have such a device or has one which does not meet the school’s specifications.
 
+
 7. On the first day of school, i.e. Tuesday, 2 January 2024, Year 1 students are to report to RGS by 7.25am, in their RGS PE polo shirts, culottes and school shoes.
+
 
 8. For clarification and assistance, please contact 67371845.
 
@@ -66,9 +70,3 @@ Information on these Elective Programmes can be found on our school’s website 
 In RGS, all students take up **only one CCA**. This is to ensure that all students have a well-balanced RGS experience where they can also make time for other learning opportunities.
 
 On average, every CCA has activities on at least two days of the week and the designated CCA days are Mondays, Tuesdays and Thursdays. Therefore, students are unable to take up more than one CCA as the CCAs occur at the same time.
-
-
-
-
-
-

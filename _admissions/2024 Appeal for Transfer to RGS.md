@@ -32,19 +32,19 @@ To apply, please click [here](https://go.gov.sg/rgs-2023y1-appeal) to complete t
 
 Pending the outcome of appeal, all applicants are required to complete the S1 Registration of the secondary school that they are posted to by the Ministry of Education. RGS will assist with the transfer process if the applicant is eventually successful in her application for transfer.
 
- 
+ # **Appeal for School Transfer After Secondary One Posting**
 
 **1)What is the school’s entry scores (cut-off point or COP)?**
 
 The school’s entry scores (COP) given as total Achievement Levels (AL) will only be made known by MOE after the results of the PSLE posting every year. We have yet to receive information from MOE on the COP for our 2024 Year 1 students. (RGS’s PSLE COP for 2022’s P6 cohort was AL 6.)
 
-**2)**          **I am posted to a school through the DSA exercise (including NUS High School, School of Science and Technology, School of the Arts and Singapore Sports School). I want to transfer to RGS now. How can I do so?**
+**2) I am posted to a school through the DSA exercise (including NUS High School, School of Science and Technology, School of the Arts and Singapore Sports School). I want to transfer to RGS now. How can I do so?**
 
 Students who have already gained admission into a secondary school via DSA or AEIS are NOT allowed to participate in the S1 Posting Exercise and Post-PSLE Supplementary Exercise (Appeal for transfer). Students who have been posted to a school via DSA must remain committed to that choice of secondary school.
 
-**3)**          **In the event that I am not successful in being posted to RGS, how can I appeal?**
+**3) In the event that I am not successful in being posted to RGS, how can I appeal?**
 
-The appeal process starts on the day the PSLE posting results are released. Registration for appeal has to be done through e-application via the RGS Admission site. Please click [here](https://www.rgs.edu.sg/admissions/Admission-to-RGS/appeal/) for details. Application will open **from 9am, Wed** **20** **Dec 202****3** **to 9am, Fri 2****2** **Dec 202****3\. \[tentative\]**
+The appeal process starts on the day the PSLE posting results are released. Registration for appeal has to be done through e-application via the RGS Admissions site. Please click  for details. Application will open **from 9am, Wed** **20** **Dec 202****3** **to 9am, Fri 2****2** **Dec 202****3\. \[tentative\]**
 
 This appeal process is not applicable to students who have already gained admission to a secondary school via DSA or AEIS.
 

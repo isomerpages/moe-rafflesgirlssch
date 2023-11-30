@@ -31,7 +31,7 @@ To apply, please click [here](https://go.gov.sg/rgs-2023y1-appeal) to complete t
 
 Pending the outcome of appeal, all applicants are required to complete the S1 Registration of the secondary school that they are posted to by the Ministry of Education. RGS will assist with the transfer process if the applicant is eventually successful in her application for transfer.
 
- # **Appeal for School Transfer After Secondary One Posting**
+##  Appeal for School Transfer After Secondary One Posting
 
 **1)What is the school’s entry scores (cut-off point or COP)?**
 

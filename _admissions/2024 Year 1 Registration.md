@@ -6,7 +6,7 @@ description: ""
 ---
 ## **RGS 2024 Year 1 Registration**
 
-1. To all students posted to RGS Year 1 in 2024, congratulations and welcome! (In RGS, we refer to Secondary 1 students as ‘Year 1s’ as they are in ‘Year 1’ of the 6-year Raffles Programme).
+1. To all students posted to RGS Year 1 in 2024, congratulations and welcome! *(In RGS, we refer to Secondary 1 students as ‘Year 1s’ as they are in ‘Year 1’ of the 6-year Raffles Programme)*.
 
 2. There will not be a need for you to report to RGS in person prior to 2 Jan 2024. Instead, you are **required to** **complete the Year 1 Registration online**.
 
@@ -14,7 +14,7 @@ description: ""
 
 4. Parents will then receive an SMS from RGS which will include a **unique login ID and password** to access the **RGS Year 1 Registration site** within 2 working days.
 
-Parents and Year 1 students will access the Year 1 Registration site to:
+5. Parents and Year 1 students will access the Year 1 Registration site to:**
 
 * find all the information needed to help students prepare for Year 1 in 2024.
 * complete **compulsory administrative matters** that would need your attention and necessary action before the **deadline of 1700 hours on Saturday, 23 December 2023 (tentative)**.

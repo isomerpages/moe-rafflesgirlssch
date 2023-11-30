@@ -20,7 +20,7 @@ sections:
           url: https://openhouse.rgs.edu.sg/
       title: Raffles Girls' School
       button: 2024 Year 1 Registration
-      url: https://www.rgs.edu.sg/contact-us/
+      url: https://www.rgs.edu.sg/admissions/2024y1/
   - infopic:
       title: The RGS Experience
       id: infopic

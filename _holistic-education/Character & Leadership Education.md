@@ -2,14 +2,13 @@
 title: Character & Leadership Education
 permalink: /holistic-education/character-ldr-edu/
 description: ""
+variant: markdown
 ---
-## Character & Leadership Education
+## Character &amp; Leadership Education
 
-<img src="/images/cle1.jpg" style="width:49%" align=right>
+<img src="/images/cle1.jpg" style="width:49%" align="right">
 
-Character & Leadership Education (CLE) is an integral part of the RGS mission to nurture our students to be leaders who will realise her talents in service of nation and community. The school takes a holistic approach to CLE, seeking to integrate the cognitive, with the affective and social aspects of education.
-
-In line with that, the KNOW, DO, BE principle is adopted so that our students are provided with the necessary knowledge and understanding (KNOW) of what constitutes good character and leadership, given the opportunities to practise the attendant skills (DO) and develop competencies and attitudes (BE) of a person who is:
+Character &amp; Leadership Education (CLE) is an integral part of the RGS mission to nurture the high ability girl to be a leader who will realise her talents in service of nation and community. Through the CLE curriculum, each RGS girl learns what it means to be a person of good character and develops the knowledge and competencies to become a daughter of a better age as:
 
 *   A good steward of her life
 *   An active and socially responsible citizen

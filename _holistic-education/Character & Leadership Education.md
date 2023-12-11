@@ -23,3 +23,4 @@ CLE forms the basis of the Raffles Programme, as it is attended to at four level
 *   Co-curricular programmes
 *   CLE curriculum
 
+![](/images/CLE_Model_2023.png)

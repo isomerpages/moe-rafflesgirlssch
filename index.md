@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/rgsbghome.jpg
+      background: /images/1_3_General_school_life__EK14132_Web_Res.jpg
       key_highlights:
         - title: Achievements
           description: ""

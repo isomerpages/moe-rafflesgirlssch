@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/1_3_General_school_life__EK14132_Web_Res.jpg
+      background: /images/homepgbg.jpg
       key_highlights:
         - title: Achievements
           description: ""
@@ -23,7 +23,7 @@ sections:
       url: https://www.rgs.edu.sg/admissions/2024y1/
       variant: floating
       backgroundColor: gray
-      alignment: left
+      alignment: right
       size: md
   - infopic:
       title: The RGS Experience

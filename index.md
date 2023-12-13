@@ -23,7 +23,7 @@ sections:
       url: https://www.rgs.edu.sg/admissions/2024y1/
       variant: floating
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: md
   - infopic:
       title: The RGS Experience

@@ -25,7 +25,7 @@ Successful applicants will be notified via phone call or email. Hence, applicant
 
 The application will be deemed incomplete and will not be considered if applicant cannot be contacted or are unable to produce the original documents for verification purposes upon request.
 
-To apply, please click [here](https://go.gov.sg/rgs-2023y1-appeal) to complete the online application. Application opens from 9am on 20 December 2023 to 9am, 23 December 2023 (Tentative).
+To apply, please click [here](https://go.gov.sg/rgs-2024y1-appeal) to complete the online application. Application opens from 9am on 20 December 2023 to 9am, 23 December 2023.
 
 **Secondary One Registration Day**
 
@@ -43,7 +43,7 @@ Students who have already gained admission into a secondary school via DSA or AE
 
 **3) In the event that I am not successful in being posted to RGS, how can I appeal?**
 
-The appeal process starts on the day the PSLE posting results are released. Registration for appeal has to be done through e-application via the RGS Admissions site. Please click [here](https://www.rgs.edu.sg/admissions/2024appeal/)  for details. Application will open **from 9am, Wed** **20 Dec 2023** **to 9am, Fri 22 Dec 2023 (Tentative)**
+The appeal process starts on the day the PSLE posting results are released. Registration for appeal has to be done through e-application via the RGS Admissions site. Please click [here](https://www.rgs.edu.sg/admissions/2024appeal/)  for details. Application will open **from 9am, Wed** **20 Dec 2023** **to 9am, Fri 22 Dec 2023.**
 
 This appeal process is not applicable to students who have already gained admission to a secondary school via DSA or AEIS.
 
@@ -67,4 +67,4 @@ The number of applications and number of vacancies available at the appeal stage
 
 **8) Do I have to report to the secondary school that I was posted to while waiting for the result of my appeal, and when will the results be announced?**
 
-Students are to complete their Secondary 1 registration with the secondary school that they have been posted to as per MOE’s instructions. Students need not buy uniforms and books as yet because they have appealed to be considered for admission to other schools. If students are successful in their appeals to RGS, they will be contacted via phone or email by 30 Dec 2023 (tentative). All appeal applicants will receive an email informing them about the results of their applications by 31 Dec 2023.
+Students are to complete their Secondary 1 registration with the secondary school that they have been posted to as per MOE’s instructions. Students need not buy uniforms and books as yet because they have appealed to be considered for admission to other schools. If students are successful in their appeals to RGS, they will be contacted via phone or email by 30 Dec 2023. All appeal applicants will receive an email informing them about the results of their applications by 31 Dec 2023.

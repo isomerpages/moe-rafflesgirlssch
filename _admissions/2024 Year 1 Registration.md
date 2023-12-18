@@ -18,7 +18,7 @@ description: ""
 
 * find all the information needed to help students prepare for Year 1 in 2024.
 
-* complete **compulsory administrative matters** that would need your attention and necessary action before the **deadline of 1700 hours on Saturday, 23 December 2023 (tentative)**.
+* complete **compulsory administrative matters** that would need your attention and necessary action before the **deadline of 1700 hours on Saturday, 23 December 2023**.
 
 * look up information on the purchase of books and uniforms. Sale of school books and uniforms will be available online and parents are encouraged to make online purchases, and arrange for home delivery or to collect their purchases at the respective stores. 
 

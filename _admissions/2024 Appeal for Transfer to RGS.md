@@ -25,7 +25,7 @@ Successful applicants will be notified via phone call or email. Hence, applicant
 
 The application will be deemed incomplete and will not be considered if applicant cannot be contacted or are unable to produce the original documents for verification purposes upon request.
 
-To apply, please click [here](https://go.gov.sg/rgs-2024y1-appeal) to complete the online application. Application opens from 9am on 20 December 2023 to 9am, 23 December 2023.
+To apply, please click [here](https://go.gov.sg/rgs-2024y1-appeal) to complete the online application. Application opens from 9am on 20 December 2023 to 9am, 22 December 2023.
 
 **Secondary One Registration Day**
 

@@ -41,7 +41,7 @@ description: ""
 ## **Frequently Asked Questions Y1 Posting & Results**
 
 **1) What do I do after receiving the Y1 Posting results?**
-Posting results will be released between Wed, 20 Dec 2023 and Fri, 22 Dec 2023 (tentative), via online, SMS and your daughter’s primary school.
+Posting results will be released on Wednesday 20 Dec 2023 via online, SMS and your daughter’s primary school.
 
 Students are to complete Y1 Registration via RGS Y1 Registration online site. The link to RGS Y1 Registration site will to be sent to parents within 2 working days once RGS receives the contact details of parents. Parents are to submit contact details via this online form at this link [https://go.gov.sg/rgs-2024y1-registration](https://go.gov.sg/rgs-2024y1-registration) once they receive notification that their daughters have been posted to RGS.
 

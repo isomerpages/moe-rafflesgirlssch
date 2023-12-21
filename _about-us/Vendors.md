@@ -46,7 +46,7 @@ Raffles Girls’ School (RGS) would like to invite applications to operate a can
 
 4\. Photocopy of certificates of relevant courses attended (e.g. Basic Food Hygiene Course) 
 
-The completed application form with the required documents must be submitted to the General Office at 2 Braddell Rise Singapore 318871 by 15 December 2023, 4.30pm (Friday), or, by post or email to christina.lee@rafflesgirlssch.edu.sg by 15 December 2023, 11.59pm. 
+The completed application form with the required documents must be submitted to the General Office at 2 Braddell Rise Singapore 318871 by 19 January 2024, 4.30pm (Friday), or, by post or email to christina.lee@rafflesgirlssch.edu.sg by 19 January 2023, 11.59pm. 
 
 If you are sending your document via email, please protect your documents i.e. those containing your NRIC number with a password. 
 
@@ -56,4 +56,4 @@ If shortlisted, you may be required to attend an interview and food-tasting sess
 
 **We regret that only shortlisted applicants will be contacted for an interview and food tasting session.** 
 
-Please contact Ms Christina Lee, Executive, Procurement at Tel: 69706423 or email christina.lee@rafflesgirlssch.edu.sg if you require further clarifications. 
+Please contact Ms Christina Lee, Executive, Procurement at Tel: 69706423 or email christina.lee@rafflesgirlssch.edu.sg if you require further clarifications.

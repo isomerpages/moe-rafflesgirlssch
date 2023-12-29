@@ -2,45 +2,6 @@
 title: Events
 permalink: /parents/events/
 description: ""
+variant: tiptap
 ---
-## Events
-
-PRGS’s events provide a great opportunity for parents/guardians to network and have a better understanding of the school and their child’s/ward’s student life. Talks and workshops organised by PRGS for parents/guardians provide insights into certain topics which may be relevant to parents/guardians, while the signature “Breakfast Dialogues with Principals” allows parents/guardians to have discussions with the school leadership in a small-group setting.  
-
-Other initiatives include the Year One Parents Orientation,
-Year One School Parent Meeting, Y4 girls’
-transition to RI talk and the PRGS
-Awards presented to deserving students on
-Founder’s Day. 
-
-At practically every major school
-event, where their presence made a difference,
-the PRGS Association members contributed
-wholeheartedly – Sports Fest, Racial Harmony
-Day, Staff Appreciation Day, and Farewell Alma
-Mater, just to name a few.
-  
-Please visit the PRGS&nbsp;[Facebook](https://www.facebook.com/PRGSAssociation)&nbsp;and&nbsp;[Instagram](https://www.instagram.com/rgsparents/?hl=en)&nbsp;pages to view updates and photos of past PRGS events.
-
-#### Calendar of Events (2023)
-
-| **Date\***  | **Event\*\***  |
-|:-:|---|
-| 11 Jan &amp; 18 Jan 2023    | Learning Approaches Workshop for Year 1 Parents  |
-| 25 Feb 2023  | PRGS Social Event - Tour of Former Ford Factory  |
-| 4 Mar 2023  | 21st PRGS AGM  |
-| 19 May 2023  | Year 4 Breakfast Dialogue with Principals  |
-| 26 May 2023  | Sports Festival  |
-| 24 June 2023  | PRGS Awards Interview  |
-| 14 July 2023  | Year 2 Breakfast Dialogue with Principals   |
-| 18 July 2023  | Racial Harmony Day Commemoration  |
-| 28 Jul 2023  | Year 1 Breakfast Dialogue with Principals   |
-| 4 Aug 2023  | Year 3 Breakfast Dialogue with Principals |
-| 8 Aug 2023  | National Day Celebrations  |
-| 25 Aug 2023  | Founder's Day and PRGS Awards Presentation  |
-| 31 Aug 2023  | Teacher's Day Celebrations  |
-| 17 Oct 2023  | Swimming Carnival (TBC)  |
-| 27 Oct 2023  | Y4 Farewell Alma Mater  |
-
-\*Dates are subject to change. <br>
-\*\* Additional events and talks will be organised in consultation with the school after the 21st PRGS Exco takes office. Updates will be provided through Parents' Gateway.
+<h2><strong>Events </strong></h2><p>The Parents for RGS Association (PRGS) was established in 2003. We work closely with the school to provide a support network for parents/guardians of RGS students, and organise activities to allow our members to develop and maintain links with the school. We also collaborate with the school in running programmes to facilitate our members’ and their daughters’/wards’ journeys through RGS.</p><p><a href="https://drive.google.com/file/d/1S8kwowWibvV9PTlK0VP4aeImDQP_72nd/view" rel="noopener noreferrer nofollow" target="_blank">2023 PRGS Activities Highlight Video</a></p><h3><strong>Sports Fest</strong></h3><p>2023 Sports Fest was held at the end of term 2. PRGS provided snacks and refreshments to sustain the girls through the day’s activities, helped man some of the games stations, and also participated in the Staff Race, where we successfully defended our title for the 5th consecutive year!</p><h3><strong>Racial Harmony Day</strong></h3><p>Racial Harmony Day on 18 July brought lots of fun not just to the students, but for the 54 parent volunteers who helped pack 1,700 individual traditional snacks for the girls. It was an immersive experience where the girls had the chance to learn about traditional games and win $100 worth of prizes sponsored by PRGS, taste popular hawker fare, and try their hand at cooking traditional food items at the huat kueh, burfi and ondeh-ondeh workshops. The girls also enjoyed learning about Peranakan culture and ended their day with delicious potong ice-creams!</p><h3><strong>Founder's Day</strong></h3><p>This year’s Founder’s Day saw PRGS presenting the PRGS Award to two deserving girls who demonstrated good character and values – Megan Koh (412) and Rachael Yeo (408). PRGS was delighted to recognise these outstanding students who have demonstrated good character and values. In addition, PRGS also gifted RGS with a pair of balloon sculptures showcasing two students presenting flowers to the school. The balloons were a hit with everyone!</p><h3><strong>Staff Appreciation Day</strong></h3><p>PRGS organised a Staff Appreciation Day lunch for all RGS members of staff on 30 Aug 2023. With a theme of “When TV Comes Alive”, the school’s Multi-Purpose Hall was transformed with beautiful décor comprising handmade TV boxes, balloons and other decorative items to thank both the academic and non-academic staff of RGS for their hard work in the school community. The RGS staff certainly rose to the occasion with many decked in outfits from the Hospital Playlist, Despicable Me, Powerpuff Girls, Super Mario Bros, Spiderman, MasterChef and other TV shows. The PRGS Exco made a grand entrance dressed up in Squid Game outfits and showcased an opening performance to the delight of everyone. Every staff member was also gifted a personalised cushion to signify the unwavering support of “parents having their back”.&nbsp; Whether the staff are on the office chair in school or watching TV at home on a couch, just as the cushion cradles their back, it embodies parents’ pledge to standby them, complementing their relentless efforts in nurturing our daughters. The staff were also treated to a wide variety of Thai, Italian, Chinese, and Indian cuisine, topped with a scrumptious chocolate and fruits fondue<s> </s>!</p><p><a href="https://drive.google.com/file/d/1H_8Pt2WrQzt9Q62IGgobr76PrpAnIRPH/view" rel="noopener noreferrer nofollow" target="_blank">Staff Appreciation Day summary video</a></p><h3><strong>Social Walk to Passion Wave &amp; Marina Bay </strong></h3><p>Recognising quality time as one of the five love languages, PRGS organised our first Family Walk to Passion Wave @ Marina Bay for families to get together for half a day of fun and bonding. The event not only bonded families but also forged new friendships between PRGS members.</p><h3><strong>Dance Date with your Daughter</strong></h3><p>As a post-exam activity, PRGS organised a "Dance Date with were led by dance instructors from Happi Dance in an hour of joyful dancing and bonding!</p><h4>Calendar of Events (2023)</h4><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Date*</strong></p></th><th rowspan="1" colspan="1"><p><strong>Event**</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>11 Jan &amp; 18 Jan 2023</p></td><td rowspan="1" colspan="1"><p>Learning Approaches Workshop for Year 1 Parents</p></td></tr><tr><td rowspan="1" colspan="1"><p>25 Feb 2023</p></td><td rowspan="1" colspan="1"><p>PRGS Social Event - Tour of Former Ford Factory</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Mar 2023</p></td><td rowspan="1" colspan="1"><p>21st PRGS AGM</p></td></tr><tr><td rowspan="1" colspan="1"><p>19 May 2023</p></td><td rowspan="1" colspan="1"><p>Year 4 Breakfast Dialogue with Principals</p></td></tr><tr><td rowspan="1" colspan="1"><p>26 May 2023</p></td><td rowspan="1" colspan="1"><p>Sports Festival</p></td></tr><tr><td rowspan="1" colspan="1"><p>24 June 2023</p></td><td rowspan="1" colspan="1"><p>PRGS Awards Interview</p></td></tr><tr><td rowspan="1" colspan="1"><p>14 July 2023</p></td><td rowspan="1" colspan="1"><p>Year 2 Breakfast Dialogue with Principals</p></td></tr><tr><td rowspan="1" colspan="1"><p>18 July 2023</p></td><td rowspan="1" colspan="1"><p>Racial Harmony Day Commemoration</p></td></tr><tr><td rowspan="1" colspan="1"><p>28 Jul 2023</p></td><td rowspan="1" colspan="1"><p>Year 1 Breakfast Dialogue with Principals</p></td></tr><tr><td rowspan="1" colspan="1"><p>4 Aug 2023</p></td><td rowspan="1" colspan="1"><p>Year 3 Breakfast Dialogue with Principals</p></td></tr><tr><td rowspan="1" colspan="1"><p>8 Aug 2023</p></td><td rowspan="1" colspan="1"><p>National Day Celebrations</p></td></tr><tr><td rowspan="1" colspan="1"><p>25 Aug 2023</p></td><td rowspan="1" colspan="1"><p>Founder's Day and PRGS Awards Presentation</p></td></tr><tr><td rowspan="1" colspan="1"><p>31 Aug 2023</p></td><td rowspan="1" colspan="1"><p>Teacher's Day Celebrations</p></td></tr><tr><td rowspan="1" colspan="1"><p>17 Oct 2023</p></td><td rowspan="1" colspan="1"><p>Swimming Carnival (TBC)</p></td></tr><tr><td rowspan="1" colspan="1"><p>27 Oct 2023</p></td><td rowspan="1" colspan="1"><p>Y4 Farewell Alma Mater</p></td></tr></tbody></table><p>*Dates are subject to change. <br>** Additional events and talks will be organised in consultation with the school after the 21st PRGS Exco takes office. Updates will be provided through Parents' Gateway.</p><p></p><h2><strong>Highlights of PRGS Activities</strong></h2><p>&nbsp;</p><p></p><p></p>

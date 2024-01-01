@@ -2,10 +2,13 @@
 title: Committee
 permalink: /parents/committee/
 description: ""
+variant: markdown
 ---
 ## Committee
 
 #### PRGS 21st Executive Committee
+
+![](/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg)
 
 |   |   |
 |:-:|---|

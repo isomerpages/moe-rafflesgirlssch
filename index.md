@@ -18,11 +18,8 @@ sections:
         - title: The RGS Experience
           description: Click here to find out more
           url: https://openhouse.rgs.edu.sg/
-      title: Raffles Girls' School
-      button: 2024 Year 1 Registration
-      url: https://www.rgs.edu.sg/admissions/2024y1/
-      variant: floating
-      backgroundColor: gray
+      variant: image
+      backgroundColor: white
       alignment: right
       size: md
   - infopic:

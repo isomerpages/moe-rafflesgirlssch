@@ -2,6 +2,7 @@
 title: Hong Leong Foundation Filiae Centre
 permalink: /students/fc/
 description: Hong Leong Foundation Filiae Centre
+variant: markdown
 ---
 # About Us
 The Hong Leong Foundation Filiae Centre is committed to helping students thrive within the RGS community and maintain lifelong wellness practices. We are here to help students who may need assistance in a variety of areas.
@@ -19,7 +20,9 @@ The mission of the Hong Leong Foundation Filiae Centre is to create a culture th
 * Foster community through meaningful connections
 
 # Meet our Staff
-The Hong Leong Foundation Filiae Centre is staffed with four full-time counsellors and a Student Services Officer. They provide help with questions or concerns related to school, home, friends, career and personal matters. They are also familiar with agencies and resources that are available for situations that are beyond the responsibility or capability of the school.
-* Ms Karen Lau, School Counsellor  
-*  Ms Laura Tan, School Counsellor with ECG
-*  Ms Ngeow Mei Yi, School Counsellor 
+The Hong Leong Foundation Filiae Centre is staffed with three full-time counsellors and a Student Services Officer. They provide support with students’ challenges related to school, home, friends, career, and personal matters. The school counsellors also work collaboratively with other resources in order to provide the best holistic care to our students.   
+  
+Ms Karen Lau, School Counsellor  
+Ms Laura Tan, School Counsellor with ECG  
+Ms Ngeow Mei Yi, School Counsellor  
+Ms Humaira Binte Salleh, Student Services Officer

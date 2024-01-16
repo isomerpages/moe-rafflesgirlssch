@@ -9,4 +9,4 @@ variant: markdown
 
 <img src="/images/respect-care-trust.jpg" style="width:85%">
 
-![](/images/BOG_2023__210___380_mm___210___400_mm_.png)
+![](/images/3.png)

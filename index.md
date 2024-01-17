@@ -23,8 +23,8 @@ sections:
       alignment: right
       size: sm
       title: 2024 Open House
-      subtitle: "Discover the Raffles Experience and explore our Braddell campus! See
-        you on Saturday, 18 May 2024 from 8.30am to 1.30pm. "
+      subtitle: Discover the Raffles Experience and explore our Braddell campus! See
+        you on Saturday, 18 May 2024 from 8.30am to 1.30pm.
   - infopic:
       title: The RGS Experience
       id: infopic

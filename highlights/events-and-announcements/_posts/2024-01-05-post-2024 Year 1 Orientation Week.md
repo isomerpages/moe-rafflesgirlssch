@@ -22,17 +22,17 @@ for the first time as full-fledged RGS students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OW20242.jpg">
 </div>
-<p><strong>Orientation Concert </strong>
+<p><strong>Orientation Concert</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OW20243.jpg">
 </div>
-<p><strong>Batch Initiation Ceremony </strong>
+<p><strong>Batch Initiation Ceremony</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
 </div>
-<p><strong>Raffles Initiation Ceremony </strong>
+<p><strong>Raffles Initiation Ceremony</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.jpg">

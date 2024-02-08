@@ -2,10 +2,11 @@
 title: Student Central
 permalink: /students/student-central/
 description: ""
+variant: markdown
 ---
 ## Student Central
 
-![](/images/general%20office.jpeg)
+
 
 The Student Central assists students in completing a variety of tasks and processes related to school.
 

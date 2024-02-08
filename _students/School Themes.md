@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3><strong>2024 Theme: One Heart, One Voice</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_7560.jpg">
+</div>
 <p>‘One Heart, One Voice’ emphasises the importance and contribution that
 every member of the RGS community plays in fulfilling our mission. It reinforces
 the values of being united, of relationship building and synergy, and of

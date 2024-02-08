@@ -4,7 +4,7 @@ permalink: /students/schooltheme/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2024 Theme: One Heart, One Voice </strong></h3>
+<h3><strong>2024 Theme: One Heart, One Voice</strong></h3>
 <p>‘One Heart, One Voice’ emphasises the importance and contribution that
 every member of the RGS community plays in fulfilling our mission. It reinforces
 the values of being united, of relationship building and synergy, and of

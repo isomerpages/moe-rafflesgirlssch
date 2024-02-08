@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - School Themes.md
       - Hong Leong Foundation Filiae Centre.md
+      - School Themes.md
       - Student Central.md
       - Student Well Being & Support.md
       - Education and Career Guidance.md

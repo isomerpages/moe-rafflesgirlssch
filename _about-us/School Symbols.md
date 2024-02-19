@@ -2,6 +2,7 @@
 title: School Symbols
 permalink: /about-us/school-symbols/
 description: ""
+variant: markdown
 ---
 ## School Symbols
 
@@ -30,13 +31,3 @@ uphold integrity in our actions, <br>
 to face all challenges with passion and endurance, to serve our <br>
 community with compassion and to the best of our ability and in <br>
 doing so, honour the school history and motto, Filiae Melioris Aevi.
-
-#### The School Song
-
-<img src="/images/schsong.png" style="width:100%">
-
-Song available below:
-
-* [Student choir version](https://on.soundcloud.com/Qaixq)
-* [Adult voice version](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)
-* [Music only](https://soundcloud.com/rgs-corporate-comms/rgs-school-song-f-edit-june-2019-mastered?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing)

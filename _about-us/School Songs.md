@@ -28,7 +28,17 @@ description: ""
 <p></p>
 <h3>Other School Songs</h3>
 <p>(updated 19 Feb 2024)</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/RGS_School_Songs___Cheer_Booklet_Page_05.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="RGS Dedication" src="/images/RGS_School_Songs___Cheer_Booklet_Page_05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dedication</div><div class="isomer-card-link">Click Here</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Dedication" src="/images/RGS_School_Songs___Cheer_Booklet_Page_05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dedication</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

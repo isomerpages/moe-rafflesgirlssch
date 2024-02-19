@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Songs.md
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep
@@ -11,6 +10,7 @@ collections:
       - Our People/Key Personnel.md
       - Our People/Staff Directory.md
       - School Symbols.md
+      - School Songs.md
       - Historical Milestones/.keep
       - Historical Milestones/Historical Milestones.md
       - Historical Milestones/RGS Digital Heritage Trail.md

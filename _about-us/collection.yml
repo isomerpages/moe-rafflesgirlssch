@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Other School Songs & Cheers/.keep
       - Vision Mission Values.md
       - Principal's Message.md
       - Our People/.keep

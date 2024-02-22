@@ -62,7 +62,18 @@ third_nav_title: School Songs & Cheers
 <div class="isomer-card-title">If We Hold On Together</div>
 <div class="isomer-card-link">Lyrics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Heart, One Voice</div><div class="isomer-card-link">Lyrics</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/K6Zbh" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ignite Batch Song for 2022" src="/images/for-circle-logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ignite</div><div class="isomer-card-link">Vocals + Music</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">One Heart, One Voice</div>
+<div class="isomer-card-link">Lyrics</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/5LpZJ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice 2023 Batch Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Heart, One Voice</div><div class="isomer-card-link">Music Only</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

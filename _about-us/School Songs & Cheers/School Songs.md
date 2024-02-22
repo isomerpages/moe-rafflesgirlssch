@@ -11,20 +11,31 @@ third_nav_title: School Songs & Cheers
 <img style="width: 100%" height="auto" width="100%" alt="RGS School song" src="/images/schsong.png">
 </div>
 <p>Song available below:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://on.soundcloud.com/Qaixq" rel="noopener noreferrer nofollow" target="_blank">School choir version</a>
-</p>
-</li>
-<li>
-<p><a href="https://soundcloud.com/rgs-corporate-comms/rgs-school-song-adult-voice?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing" rel="noopener noreferrer nofollow" target="_blank">Adult Voice version</a>
-</p>
-</li>
-<li>
-<p><a href="https://soundcloud.com/rgs-corporate-comms/rgs-school-song-f-edit-june-2019-mastered?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing" rel="noopener noreferrer nofollow" target="_blank">Music only version</a>
-</p>
-</li>
-</ul>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/pTNwA" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="RGS School Song" src="/images/for-circle-logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">RGS School Song</div><div class="isomer-card-link">School Choir version</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/zEvGU" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS School Song" src="/images/for-circle-logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">RGS School Song</div>
+<div class="isomer-card-link">Adult voice</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/6NYvt" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="RGS School Song" src="/images/for-circle-logo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">RGS School Song</div><div class="isomer-card-link">Music Only (F Edit)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/w5dYY" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS School Song" src="/images/for-circle-logo.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">RGS School Song</div>
+<div class="isomer-card-link">Music Only (Anthem)</div>
+</div>
+</a>
+</div>
 <hr>
 <p></p>
 <h3>Other School Songs</h3>

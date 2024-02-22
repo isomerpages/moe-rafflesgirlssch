@@ -49,16 +49,31 @@ member.</p>
 blossoming of the school spirit.</p>
 <hr>
 <h3>Tarbet (Red, Axl the Bull)</h3>
+<blockquote>
+<h4>Zeal, Tenacity</h4>
+</blockquote>
 <hr>
 <p></p>
 <h3>Buckle (Green, Genn the Elf)</h3>
+<blockquote>
+<p>Courage, Unity</p>
+</blockquote>
 <hr>
 <p></p>
 <h3>Richardson (Blue, Richard the Genie)</h3>
+<blockquote>
+<p>Bold, True</p>
+</blockquote>
 <hr>
 <p></p>
 <h3>Waddle (Yellow, Quack the Duck)</h3>
+<blockquote>
+<p>Strength, Pride</p>
+</blockquote>
 <hr>
 <p></p>
 <h3>Hadley (Purple, Harley the Monkey)</h3>
+<blockquote>
+<p>Power, Conviction</p>
+</blockquote>
 <p></p>

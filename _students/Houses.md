@@ -96,4 +96,14 @@ boat that she was on was torpedoed, just before the Japanese occupied Singapore.
 and started the House system to develop in students a strong sense of belonging
 to the school. The RGS House system is one of the oldest House systems
 in Singapore.</p>
+<hr>
+<p></p>
+<h3>Highlights</h3>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.rgs.edu.sg/highlights/events/housebanners23/" rel="noopener noreferrer nofollow" target="_blank">2023 House Banners</a>
+</p>
+</li>
+</ul>
 <p></p>

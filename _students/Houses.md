@@ -15,6 +15,10 @@ Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow), and Hadley
 1946 to 1950, the House System has always been an integral part of RGS,
 and a source of much pride.</p>
 <h3>House Spirit</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_1_House_Captains__EK15408_Web_Res.jpg">
+</div>
 <p>As a group, House leaders lead in organising and running House activities
 and Inter-House Games to encourage House spirit and nurture a sense of
 belonging in each student as they engage in healthy competition across
@@ -32,6 +36,10 @@ houses, each with their own unique mascots; the bull, elf, genie, duck
 and monkey respectively.&nbsp;</p>
 <p>In 2011, Houses designed their own House Crests, which are proudly worn
 by House members, and can be seen on the house T-shirts until today.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/housecapt.png">
+</div>
 <p>All Y1 Rafflesians also participate in a series of House Practices, where
 they strengthen bonds with their fellow House members through the various
 activities and also learning their House cheers. House Practices are integral

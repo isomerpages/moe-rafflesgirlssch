@@ -85,16 +85,16 @@ third_nav_title: School Songs & Cheers
 <div class="isomer-card-link">Lyrics</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/18Mhv" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pass It On" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pass It On</div><div class="isomer-card-link">Vocals + Music</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/oMD12" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Austrian Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pass It On Instrumental" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">The Austrian Song</div>
-<div class="isomer-card-link">Lyrics</div>
+<div class="isomer-card-title">Pass It On</div>
+<div class="isomer-card-link">Music (Piano)</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Austrian Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Austrian Song</div><div class="isomer-card-link">Lyrics</div></div></a>
 </div>
 <p></p>

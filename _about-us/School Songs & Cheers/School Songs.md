@@ -74,29 +74,51 @@ third_nav_title: School Songs & Cheers
 <div class="isomer-card-link">Lyrics</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_07.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="If We Hold On Together" src="/images/RGS_School_Songs___Cheer_Booklet_Page_07.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">If We Hold On Together</div><div class="isomer-card-link">Lyrics</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/K6Zbh" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/ignite.png" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ignite Batch Song for 2022" src="/images/for-circle-logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ignite" src="/images/Ignite.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ignite</div>
-<div class="isomer-card-link">Vocals + Music</div>
+<div class="isomer-card-link">Lyrics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/r8Mnt" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Just Friends By Yvonne Lim (Class of 1988)" src="/images/Just_Friends_song.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Just Friends</div><div class="isomer-card-link">Vocals + Music</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/K6Zbh" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ignite Batch Song for 2022" src="/images/Ignite.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ignite</div><div class="isomer-card-link">Vocals + Music</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/8kTtg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ignite" src="/images/Ignite.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ignite</div>
+<div class="isomer-card-link">Music Only</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/My_Friends_song.png" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="My Friends Lyrics" src="/images/My_Friends_song.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">My Friends</div><div class="isomer-card-link">Lyrics</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/r8Mnt" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="My Friends By Yvonne Lim (Class of 1988)" src="/images/My_Friends_song.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">My Friends</div>
+<div class="isomer-card-link">Vocals + Music</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Heart, One Voice</div><div class="isomer-card-link">Lyrics</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/5LpZJ" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice 2023 Batch Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">One Heart, One Voice</div>
-<div class="isomer-card-link">Lyrics</div>
+<div class="isomer-card-link">Music Only</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/5LpZJ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice 2023 Batch Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Heart, One Voice</div><div class="isomer-card-link">Music Only</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pass It On" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pass It On</div><div class="isomer-card-link">Lyrics</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/18Mhv" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pass It On" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg">
@@ -104,19 +126,19 @@ third_nav_title: School Songs & Cheers
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Pass It On</div>
-<div class="isomer-card-link">Lyrics</div>
+<div class="isomer-card-link">Vocals + Music</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/18Mhv" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pass It On" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pass It On</div><div class="isomer-card-link">Vocals + Music</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/oMD12" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/oMD12" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Pass It On Instrumental" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pass It On</div><div class="isomer-card-link">Music (Piano)</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pass It On Instrumental" src="/images/RGS_School_Songs___Cheer_Booklet_Page_06.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Austrian Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Pass It On</div>
-<div class="isomer-card-link">Music (Piano)</div>
+<div class="isomer-card-title">The Austrian Song</div>
+<div class="isomer-card-link">Lyrics</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Austrian Song" src="/images/RGS_School_Songs___Cheer_Booklet_Page_10.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Austrian Song</div><div class="isomer-card-link">Lyrics</div></div></a>
+</a>
 </div>
 <p></p>

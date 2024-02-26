@@ -109,5 +109,9 @@ in Singapore.</p>
 <p><a href="https://www.rgs.edu.sg/news-and-events/News-and-Events-2022/banner/" rel="noopener noreferrer nofollow" target="_blank">2022 House Banners</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2021_House_Banners.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 House Banners</a>
+</p>
+</li>
 </ul>
 <p></p>

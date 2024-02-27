@@ -33,3 +33,9 @@ We offer one-to-one appointments to address with students a myriad of issues the
 |  Learning difficulties/disabilities    |  Relationship – parents, family, peers, teachers  | 
 
 To make an appointment with a counsellor, please click [HERE](https://inet.rgs.edu.sg/students/Lists/Appointment%20with%20School%20Counsellor/AllItems.aspx).
+
+# Peer Helpers
+
+![](/images/phelp.png)
+
+Trained by our school counselors, peer helpers play a crucial role in promoting a caring school environment and fostering relationships among students. These girls provide support, guidance, and assistance to their fellow students, serving as a valuable resource for peers dealing with various issues. In doing so, they contribute significantly to creating a supportive and inclusive atmosphere within the school.

@@ -23,4 +23,11 @@ CLE forms the basis of the Raffles Programme, as it is attended to at four level
 *   Co-curricular programmes
 *   CLE curriculum
 
+### CLE Curriculum focus
+
+*  Y1 - Conduct Oneself with Pride
+*  Y2 - Serve with Passion
+*  Y3 - Lead with Courage
+*  Y4 - Inspire Commitment
+
 ![](/images/CLE_Model_2023.png)

@@ -160,6 +160,10 @@ in Singapore.</p>
 <li>
 <p><a href="/files/House_Banner_2020v_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">2020 House Banners</a>
 </p>
+</li>
+<li>
+<p><a href="/files/House_Banners_2019v.pdf" rel="noopener noreferrer nofollow" target="_blank">2019 House Banners</a>
+</p>
 <p></p>
 </li>
 </ul>

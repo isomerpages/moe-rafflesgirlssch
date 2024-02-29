@@ -45,6 +45,10 @@ they strengthen bonds with their fellow House members through the various
 activities and also learning their House cheers. House Practices are integral
 to the RGS culture, instilling a sense of House pride in each new House
 member.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8438.jpg">
+</div>
 <p>Today, the House spirit continues to grow stronger, contributing to the
 blossoming of the school spirit.</p>
 <hr>
@@ -59,6 +63,11 @@ blossoming of the school spirit.</p>
 <p>Tarbet House is named after Miss Tarbet, RGS principal from 1904 – 1910.
 She set up a training establishment within the school where students could
 be trained to be future teachers. This training centre was set up in 1906.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T1.png">
+</div>
+<p></p>
 <hr>
 <h3>Buckle (Green, Genn the Elf)</h3>
 <blockquote>
@@ -73,6 +82,10 @@ Martha Buckle, who was principal from 1910 – 1937. The teacher-training
 scheme which started in 1906 continued to make good progress under her
 principalship. She also introduced the school badge to be worn with the
 school uniform.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.png">
+</div>
 <hr>
 <p></p>
 <h3>Richardson (Blue, Richard the Genie)</h3>
@@ -86,6 +99,10 @@ school uniform.</p>
 <p>Richardson House is named after Miss C Richardson, RGS principal from
 1938 – 1939. She was known for her zeal in equipping students with a good
 command of the English Language and her emphasis on discipline.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3.png">
+</div>
 <hr>
 <p></p>
 <h3>Waddle (Yellow, Quack the Duck)</h3>
@@ -100,6 +117,10 @@ command of the English Language and her emphasis on discipline.</p>
 When World War Two broke out, she chose to remain in Singapore out of a
 sense of dedication to her job. She lost her life at sea when the evacuation
 boat that she was on was torpedoed, just before the Japanese occupied Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/W4.png">
+</div>
 <hr>
 <p></p>
 <h3>Hadley (Purple, Harley the Monkey)</h3>
@@ -115,6 +136,10 @@ boat that she was on was torpedoed, just before the Japanese occupied Singapore.
 and started the House system to develop in students a strong sense of belonging
 to the school. The RGS House system is one of the oldest House systems
 in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H5.png">
+</div>
 <hr>
 <p></p>
 <h3>Highlights</h3>
@@ -132,5 +157,16 @@ in Singapore.</p>
 <p><a href="/files/2021_House_Banners.pdf" rel="noopener noreferrer nofollow" target="_blank">2021 House Banners</a>
 </p>
 </li>
+<li>
+<p><a href="/files/House_Banner_2020v_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">2020 House Banners</a>
+</p>
+<p></p>
+</li>
 </ul>
+<p><strong><u>2020 House Banner Unveiling</u></strong>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7KzOgoKs5e4?si=7N4s0c9UXBQJTNsn"></iframe>
+</div>
 <p></p>

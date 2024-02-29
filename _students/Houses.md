@@ -52,15 +52,22 @@ blossoming of the school spirit.</p>
 <blockquote>
 <h4>Zeal, Tenacity</h4>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Tarbet Banner" src="/images/Tarbet_banner.png">
+</div>
 <p>Tarbet House is named after Miss Tarbet, RGS principal from 1904 – 1910.
 She set up a training establishment within the school where students could
 be trained to be future teachers. This training centre was set up in 1906.</p>
 <hr>
-<p></p>
 <h3>Buckle (Green, Genn the Elf)</h3>
 <blockquote>
 <p>Courage, Unity</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Buckle_banner.png">
+</div>
 <p>Buckle House is named after RGS’s longest-serving principal, Miss Dorothy
 Martha Buckle, who was principal from 1910 – 1937. The teacher-training
 scheme which started in 1906 continued to make good progress under her
@@ -72,6 +79,10 @@ school uniform.</p>
 <blockquote>
 <p>Bold, True</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Richardson_banner.png">
+</div>
 <p>Richardson House is named after Miss C Richardson, RGS principal from
 1938 – 1939. She was known for her zeal in equipping students with a good
 command of the English Language and her emphasis on discipline.</p>
@@ -81,6 +92,10 @@ command of the English Language and her emphasis on discipline.</p>
 <blockquote>
 <p>Strength, Pride</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Waddle_banner.png">
+</div>
 <p>Waddle House is named after Mrs K Waddle, RGS principal from 1939 – 1942.
 When World War Two broke out, she chose to remain in Singapore out of a
 sense of dedication to her job. She lost her life at sea when the evacuation
@@ -91,6 +106,10 @@ boat that she was on was torpedoed, just before the Japanese occupied Singapore.
 <blockquote>
 <p>Power, Conviction</p>
 </blockquote>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hadley_banner.png">
+</div>
 <p>Hadley House is named after Miss M M Hadley, RGS principal from 1946 –
 1951. She took over the task of rehabilitating the school after the war
 and started the House system to develop in students a strong sense of belonging

@@ -18,19 +18,25 @@ into office:</p>
 <p><strong>PRGS 22nd Executive Committee 2024&nbsp;</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
+</div>
 <p></p>
 <p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No.</p>
+<p><strong>No.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 </tr>
 <tr>

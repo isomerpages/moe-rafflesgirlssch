@@ -5,6 +5,7 @@ date: 2023-03-04
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 (A message from RGS Principal, Ms Haslinda Zamani)
 
@@ -30,5 +31,3 @@ A registered association since 2003, the Parents for RGS (PRGS) Association prov
 | 14   |  Hon Auditor  | Ms Larissa Liang |
 
 Congratulations and a warm welcome to all the appointees including new Exco Members Mr Kelvin Tan, Mrs Celia Au, Ms Eunice Tay and Auditor Ms Larissa Liang, as well as heartfelt thanks to all members of the 20th Exco led by Chairperson Mr Daniel Tan  and Vice-chairperson Mrs Koh Su San for the close collaboration forged with the school in improving the learning and development of our RGS girls. Congratulations, too, to Mrs Koh Su San and Ms Cara Chan on being elected Chairperson and Vice-chairperson of the 21st Exco.
-
-

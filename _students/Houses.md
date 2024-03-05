@@ -14,6 +14,12 @@ Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow), and Hadley
 (Purple). Established by Miss Hadley during her term as principal from
 1946 to 1950, the House System has always been an integral part of RGS,
 and a source of much pride.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/History_of_House.pdf" rel="noopener noreferrer nofollow" target="_blank">History of RGS House</a>
+</p>
+</li>
+</ul>
 <h3>House Spirit</h3>
 <p></p>
 <div class="isomer-image-wrapper">

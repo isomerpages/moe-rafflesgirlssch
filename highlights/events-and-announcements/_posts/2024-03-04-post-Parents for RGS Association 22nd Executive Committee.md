@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Parents for RGS Association 22nd Executive Committee
 permalink: /highlights/events-and-announcements/prgs22/
 date: 2024-03-04
 layout: post
@@ -18,19 +18,25 @@ into office:</p>
 <p><strong>PRGS 22nd Executive Committee 2024&nbsp;</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
+</div>
 <p></p>
 <p></p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No.</p>
+<p><strong>No.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Designation</p>
+<p><strong>Designation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -211,10 +217,6 @@ into office:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Congratulations and a warm welcome to all the appointees including new
 Exco Members Ms Ang Ching Pin and Ms Grace Seow, and Auditor Dr Tan Wei
 Ching, as well as heartfelt thanks to all members of the 21st Exco led

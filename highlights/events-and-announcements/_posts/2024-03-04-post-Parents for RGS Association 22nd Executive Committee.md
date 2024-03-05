@@ -179,7 +179,7 @@ into office:</p>
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jinnie Pang Siyan</p>
+<p>Dr Jinnie Pang Siyan</p>
 </td>
 </tr>
 <tr>

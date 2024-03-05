@@ -217,10 +217,6 @@ into office:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Congratulations and a warm welcome to all the appointees including new
 Exco Members Ms Ang Ching Pin and Ms Grace Seow, and Auditor Dr Tan Wei
 Ching, as well as heartfelt thanks to all members of the 21st Exco led

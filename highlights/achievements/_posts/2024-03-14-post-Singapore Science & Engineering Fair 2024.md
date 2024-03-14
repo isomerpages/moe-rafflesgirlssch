@@ -17,7 +17,6 @@ Bronze Awards and 1 Merit Award under the Main Category. They also received
 1 Project Distinction and another Project Merit under the Junior Scientists
 category. 6 teams also received special awards for their projects.</p>
 <p>Congratulations to all the teams and teacher-mentors for their good work!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSEF2024.png">
 </div>

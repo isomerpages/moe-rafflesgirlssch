@@ -321,6 +321,6 @@ to synthetic plastics</p>
 Singapore at the <a href="https://www.societyforscience.org/isef/" rel="noopener noreferrer nofollow" target="_blank">Regeneron International Science and Engineering Fair</a> (Regeneron
 ISEF) that will take place from 11-17 May 2024 in Los Angeles, California.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S24_Regeneron_Reps_Gold_Award_RGS_Alumnus_Y6_Yin_Yue_Aseera_Jannath.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/S24_Regeneron_Reps_Gold_Award_RGS_Alumnus_Y6_Yin_Yue_Aseera_Jannath.jpg">
 </div>
 <p></p>

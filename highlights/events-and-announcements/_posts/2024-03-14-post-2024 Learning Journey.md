@@ -4,7 +4,7 @@ permalink: /highlights/events-and-announcements/lj2024/
 date: 2024-03-14
 layout: post
 description: ""
-image: ""
+image: /images/7.png
 variant: tiptap
 ---
 <p>As Term 1 concluded, our girls enthusiastically engaged in the 'Learning

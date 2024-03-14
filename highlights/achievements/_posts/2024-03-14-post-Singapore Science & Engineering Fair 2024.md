@@ -17,11 +17,10 @@ Bronze Awards and 1 Merit Award under the Main Category. They also received
 1 Project Distinction and another Project Merit under the Junior Scientists
 category. 6 teams also received special awards for their projects.</p>
 <p>Congratulations to all the teams and teacher-mentors for their good work!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSEF2024.png">
 </div>
-<p><strong>SSEF Main Category </strong>
+<p><strong>SSEF Main Category</strong>
 </p>
 <table>
 <tbody>
@@ -246,7 +245,7 @@ Blue Removal</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Junior Scientist Category </strong>
+<p><strong>Junior Scientist Category</strong>
 </p>
 <p></p>
 <table>
@@ -317,8 +316,10 @@ to synthetic plastics</p>
 </tbody>
 </table>
 <p>Congratulations as well to our RGS Alumnae Yin Yue and Aseera Jannath
-(Class of 2022) who received the Gold Award!</p>
+(Class of 2022) who received the Gold Award! They will be representing
+Singapore at the <a href="https://www.societyforscience.org/isef/" rel="noopener noreferrer nofollow" target="_blank">Regeneron International Science and Engineering Fair</a> (Regeneron
+ISEF) that will take place from 11-17 May 2024 in Los Angeles, California.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S24_Regeneron_Reps_Gold_Award_RGS_Alumnus_Y6_Yin_Yue_Aseera_Jannath.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/S24_Regeneron_Reps_Gold_Award_RGS_Alumnus_Y6_Yin_Yue_Aseera_Jannath.jpg">
 </div>
 <p></p>

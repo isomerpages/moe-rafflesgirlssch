@@ -4,7 +4,7 @@ permalink: /highlights/achievements/ssef24/
 date: 2024-03-14
 layout: post
 description: ""
-image: ""
+image: /images/S24_Regeneron_Reps_Gold_Award_RGS_Alumnus_Y6_Yin_Yue_Aseera_Jannath.jpg
 variant: tiptap
 ---
 <p>The Singapore Science &amp; Engineering Fair (SSEF) is a national competition

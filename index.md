@@ -15,8 +15,8 @@ sections:
         - title: Events & Announcements
           description: ""
           url: /highlights/events-and-announcements/
-        - title: The RGS Experience
-          description: Click here to find out more
+        - title: RGS Open House
+          description: 18 May 2024, 8.30am to 1.30pm.
           url: https://openhouse.rgs.edu.sg/
       variant: side
       backgroundColor: gray

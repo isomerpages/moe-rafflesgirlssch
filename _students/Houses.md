@@ -70,10 +70,10 @@ blossoming of the school spirit.</p>
 She set up a training establishment within the school where students could
 be trained to be future teachers. This training centre was set up in 1906.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/T1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Tarbet" src="/images/house3.png">
+</div>
 <hr>
 <h3>Buckle (Green, Genn the Elf)</h3>
 <blockquote>
@@ -90,7 +90,7 @@ principalship. She also introduced the school badge to be worn with the
 school uniform.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Buckle" src="/images/house2.png">
 </div>
 <hr>
 <p></p>
@@ -107,7 +107,7 @@ school uniform.</p>
 command of the English Language and her emphasis on discipline.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R3.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Richardson" src="/images/house4.png">
 </div>
 <hr>
 <p></p>
@@ -125,7 +125,7 @@ sense of dedication to her job. She lost her life at sea when the evacuation
 boat that she was on was torpedoed, just before the Japanese occupied Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/W4.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Waddle" src="/images/house5.png">
 </div>
 <hr>
 <p></p>
@@ -144,7 +144,7 @@ to the school. The RGS House system is one of the oldest House systems
 in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H5.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Hadley" src="/images/house6.png">
 </div>
 <hr>
 <p></p>

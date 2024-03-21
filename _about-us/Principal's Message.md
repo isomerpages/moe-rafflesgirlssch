@@ -7,7 +7,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Mrs Ong Hong Peng RGS" src="/images/Mrs_Ong_Hong_Peng.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mrsOngweb1.jpg">
 </div>
 <p>Welcome to Raffles Girls' School.</p>
 <p>It is my pleasure to welcome you to Raffles Girls’ School (RGS), a premier
@@ -21,7 +21,7 @@ as we nurture our girls to embrace and thrive in this increasingly complex
 and uncertain global landscape.&nbsp; This cannot be done without some
 strong fundamentals that are evergreen.&nbsp; Our Curriculum, our People
 and our Environment.</p>
-<p><em><u>Our Curriculum</u></em>
+<p><em><u>Our Curriculum</u></em> 
 <br>The <strong>Raffles Programme</strong> is a seamless 6-year curriculum for
 high ability learners.&nbsp; Key features of this curriculum equip our
 girls with the skills needed to bridge the various disciplines and enable
@@ -29,7 +29,7 @@ them to hold multiple perspectives through subjects such as <em>Inquiry &amp; Ad
 well as Research Studies.&nbsp; Our <strong>Raffles Academy</strong> (RA)
 offers research or coursework modules to extend and deepen learning in
 topics and areas of interest to our girls.&nbsp;</p>
-<p><em><u>Our People</u></em>
+<p><em><u>Our People</u></em> 
 <br>Our girls will find the environment stimulating as they learn alongside
 peers who are equally motivated and talented. Indeed, this diversity we
 offer is only possible because our girls are admitted from over 110 primary
@@ -38,7 +38,7 @@ through continual learning under our very own <strong>Centre for Pedagogical Res
 Together with a team of skilful counsellors, our girls can be assured of
 a strong support network of Key Personnel, Form Teachers and Counsellors
 to support their social-emotional and learning needs.&nbsp;</p>
-<p><em><u>Our Environment</u></em>
+<p><em><u>Our Environment</u></em> 
 <br>Our Braddell campus, with its lush greenery and large open spaces, has
 been designed specifically to promote collaborations and learning, and
 at the same time, raise environmental awareness of the interplay between

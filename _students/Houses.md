@@ -70,10 +70,8 @@ blossoming of the school spirit.</p>
 <p>Tarbet House is named after Miss Tarbet, RGS principal from 1904 – 1910.
 She set up a training establishment within the school where students could
 be trained to be future teachers. This training centre was set up in 1906.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Tarbet" src="/images/house3.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Tarbet House" src="/images/ntarbet3.png">
 </div>
 <hr>
 <h3>Buckle (Green, Genn the Elf)</h3>
@@ -108,7 +106,7 @@ school uniform.</p>
 command of the English Language and her emphasis on discipline.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Richardson" src="/images/house4.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Richardson" src="/images/nrichard.png">
 </div>
 <hr>
 <p></p>

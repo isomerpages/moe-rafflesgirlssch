@@ -5,8 +5,9 @@ variant: tiptap
 description: RGS House
 ---
 <h2>The House System in RGS</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS House" src="/images/houseschool.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/housegroup.png">
 </div>
 <p>There are five Houses in RGS, and each is named after one of five consecutive
 RGS principals who had served the school. Chronologically, the Houses are
@@ -90,7 +91,7 @@ principalship. She also introduced the school badge to be worn with the
 school uniform.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Buckle" src="/images/house2.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Buckle House" src="/images/newbuckle2.png">
 </div>
 <hr>
 <p></p>
@@ -125,10 +126,9 @@ sense of dedication to her job. She lost her life at sea when the evacuation
 boat that she was on was torpedoed, just before the Japanese occupied Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Waddle" src="/images/house5.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Waddle house" src="/images/nhousewadd.png">
 </div>
 <hr>
-<p></p>
 <h3>Hadley (Purple, Harley the Monkey)</h3>
 <blockquote>
 <p>Power, Conviction</p>
@@ -144,12 +144,10 @@ to the school. The RGS House system is one of the oldest House systems
 in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Hadley" src="/images/house6.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Hadley House" src="/images/nhousehad.png">
 </div>
 <hr>
-<p></p>
 <h3>Highlights</h3>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/highlights/events/housebanners23/" rel="noopener noreferrer nofollow" target="_blank">2023 House Banners</a>
@@ -178,5 +176,10 @@ in Singapore.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7KzOgoKs5e4?si=7N4s0c9UXBQJTNsn"></iframe>
+</div>
+<p><strong><u>House is where the Heart is!</u></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4dR87dfPFfg?"></iframe>
 </div>
 <p></p>

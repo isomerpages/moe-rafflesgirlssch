@@ -4,8 +4,7 @@ permalink: /holistic-education/moesexed/
 description: ""
 variant: tiptap
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<h2>MOE Sexuality Education in Schools</h2>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including

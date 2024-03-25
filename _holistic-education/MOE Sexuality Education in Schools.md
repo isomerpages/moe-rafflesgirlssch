@@ -4,8 +4,7 @@ permalink: /holistic-education/moesexed/
 description: ""
 variant: tiptap
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<h2>MOE Sexuality Education in Schools</h2>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -156,7 +155,7 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and will be made available for submission via
-Parents Gateway by <strong>28/03/2024(Term 2, Week 2)</strong>
+Parents Gateway by <strong>28/03/2024 (Term 2, Week 2)</strong>
 </p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents

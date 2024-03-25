@@ -156,7 +156,7 @@ supplementary sexuality education programmes by MOE-approved external providers.
 <p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and will be made available for submission via
-Parents Gateway by <strong>28/03/2024(Term 2, Week 2)</strong>
+Parents Gateway by <strong>28/03/2024 (Term 2, Week 2)</strong>
 </p>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents

@@ -80,5 +80,12 @@ component, among 488 students from 122 schools across Singapore.</p>
 <p>Our girls also emerged as 2nd Runner-Ups for the Grand Finals' Team Component.</p>
 <p>We extend our heartfelt gratitude to the Teacher-mentors for their unwavering
 guidance and support throughout the competition.</p>
+<p>The NUS&nbsp;Geography&nbsp;Challenge is an annual&nbsp;Geography&nbsp;competition
+organised by the&nbsp;NUS&nbsp;Department&nbsp;of&nbsp;Geography&nbsp;and&nbsp;NUS&nbsp;Geographical&nbsp;Society,
+with support from the Ministry&nbsp;of&nbsp;Education. The competition
+hopes to ignite the passion&nbsp;of&nbsp;secondary school students and
+inspire them to develop a keen interest in the dynamic discipline&nbsp;of&nbsp;Geography.
+Through this challenge, students will learn about world issues and how&nbsp;Geography&nbsp;can
+empower them to respond to these issues.</p>
 <p>To find out more, visit <a href="https://nusgeographychallenge.wordpress.com/" rel="noopener noreferrer nofollow" target="_blank">https://nusgeographychallenge.wordpress.com/</a>
 </p>

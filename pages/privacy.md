@@ -35,4 +35,3 @@ variant: markdown
 11. This site may contain links to non-RGS sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites. 
 12. At our discretion, we may update our privacy statement to reflect current acceptable practices. You agree to be bound by the prevailing terms of our privacy statement as updated from time to time on our website. 
 13. 13.	If you have questions about our privacy statement or practices, you can contact us at rgss@moe.edu.sg by addressing your email to the PDPA Contact Person, Raffles Girls’ School.
-

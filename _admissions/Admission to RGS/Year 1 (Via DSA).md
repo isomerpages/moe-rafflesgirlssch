@@ -84,7 +84,7 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 </li>
 </ul>
 <h4>Important Note</h4>
-<p><strong><u>Required Submission of Additional Documents </u></strong>
+<p><strong><u>Required Submission of Additional Documents</u></strong>
 </p>
 <p>Applicants may need to submit additional documents/videos directly to
 RGS before <strong>15 June 2024</strong>, via the relevant links that can
@@ -100,21 +100,21 @@ documents for verification purposes upon request when necessary.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsatalentareas.png">
 </div>
 <h4>Process Overview</h4>
-<p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong>
+<p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
 <br>To be advised nearer to application period.</p>
-<p><strong>Submission of additional documents to RGS via e-form</strong>
+<p><strong>Submission of additional documents to RGS via e-form</strong> 
 <br>Before 15 June 2024
 <br>Please refer to further details for talent areas <a href="/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong>
+<p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
 <br>July to August 2024</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>
 </p>
-<p><strong>Notification of Final Selection Outcome</strong>
+<p><strong>Notification of Final Selection Outcome</strong> 
 <br>By mid-September 2024</p>
 <p>Applicants will be notified via email and RGS reserves the right not to
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>
 </p>
-<p>For further enquiries on Admissions &amp; DSA, please e-mail us at admissions@rafflesgirlssch.edu.sg
-or call 6737 1845 / 6970 6442.</p>
+<p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="admissions@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a> or
+call 6737 1845 / 6970 6442.</p>

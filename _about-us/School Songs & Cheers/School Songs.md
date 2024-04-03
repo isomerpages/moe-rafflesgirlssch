@@ -144,5 +144,27 @@ third_nav_title: School Songs & Cheers
 <div class="isomer-card-link">Lyrics</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/5LpZJ" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="One Heart, One Voice" src="/images/RGS_School_Songs___Cheer_Booklet_Page_11.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">One Heart, One Voice (2023)</div><div class="isomer-card-link">Music Only</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/images/Different_Stories_One_Heartbeat.png" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different Stories,  One Heartbeat" src="/images/Different_Stories_One_Heartbeat.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Different Stories, One Heartbeat (2021)</div>
+<div class="isomer-card-link">Lyrics</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/aUpeqoiggAn6Z3nM6" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Different Stories,  One Heartbeat" src="/images/Different_Stories_One_Heartbeat.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Different Stories,  One Heartbeat (2021)</div><div class="isomer-card-link">Vocals + Music</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://on.soundcloud.com/TQUZqf4bd2LgqtmA8" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different Stories,  One Heartbeat" src="/images/Different_Stories_One_Heartbeat.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Different Stories, One Heartbeat (2021)</div>
+<div class="isomer-card-link">Music Only</div>
+</div>
+</a>
 </div>
 <p></p>

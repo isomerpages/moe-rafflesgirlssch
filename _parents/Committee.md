@@ -2,36 +2,391 @@
 title: Committee
 permalink: /parents/committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Committee
-
-#### PRGS 22nd Executive Committee
-
-![](/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg)
-
-|   |   |
-|:-:|---|
-| Chairman  | Mrs Koh Su San  |
-| Vice-Chairman  | Ms Cara Chan Tuan Li  |
-|  Secretary | Mr Kelvin Tan  |
-| Assistant Secretary  | Mrs Celia Au |
-| Treasurer  | Ms Winny Yap  |
-| Assistant Treasurer  | Ms Eunice Tay  |
-| Ordinary Member  | Ms Cindy Goh  |
-| Ordinary Member  | Mr Daniel Tan Tze Hui  |
-| Ordinary Member  | Ms Jeanni Eng  |
-| Ordinary Member  | Ms Kavitha Valliappan  |
-| Ordinary Member  | Mrs Sharon Chung |
-| Ordinary Member  | Mr Tan Boon Siong  |
-| Co-opted Member  | Dr Chen Sheng  |
-| Co-opted Member  | Ms Danielle Lim  |
-| Co-opted Member  | Ms Esther Koh  |
-| Co-opted Member  | Dr Frank Guan  |
-| Co-opted Member  | Ms Goh Pei Pei  |
-| Co-opted Member  | Ms Jinnie Pang  |
-| Co-opted Member  | Ms June Wong |
-| Co-opted Member  | Mr Kevin Cheah  |
-| Honorary Auditor  | Ms Lim Sze Wei (Nicole)  |
-| Honorary Auditor  | Ms Larissa Liang  |
-|   |   |
+<h2>Committee</h2>
+<h4><strong>PRGS 22nd Executive Committee</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cara Chan Tuan Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Celia Au</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Winny Yap</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Tan Tze Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeanni Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kavitha Valliappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Chung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Boon Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chen Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Danielle Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Frank Guan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Pei Pei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jinnie Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms June Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Cheah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Sze Wei (Nicole)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Larissa Liang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<h4>PRGS 21st Executive Committee</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg">
+</div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Koh Su San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cara Chan Tuan Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Celia Au</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Winny Yap</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Tan Tze Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jeanni Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kavitha Valliappan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Chung</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Boon Siong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chen Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Danielle Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Frank Guan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Pei Pei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jinnie Pang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms June Wong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Cheah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Sze Wei (Nicole)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Larissa Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

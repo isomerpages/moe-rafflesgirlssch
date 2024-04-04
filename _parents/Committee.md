@@ -106,10 +106,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr Jinnie Pang Siyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms June Wong Hua King</p>
 </td>
 </tr>
 <tr>
@@ -117,7 +125,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Chen Sheng</p>
+<p>Mrs Sharon Chung</p>
 </td>
 </tr>
 <tr>
@@ -125,7 +133,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Eunice Tay</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +141,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Koh</p>
+<p>Mr Chen Sheng</p>
 </td>
 </tr>
 <tr>
@@ -141,7 +149,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Frank Guan</p>
+<p>Ms Elaine Ho</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +157,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Pei Pei</p>
+<p>Mr Thirugnanam Kaneshalingam</p>
 </td>
 </tr>
 <tr>
@@ -157,23 +165,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jinnie Pang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms June Wong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Alice Zhang</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +173,7 @@ variant: tiptap
 <p>Honorary Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sze Wei (Nicole)</p>
+<p>Dr Tan Wei Ching</p>
 </td>
 </tr>
 <tr>
@@ -189,14 +181,11 @@ variant: tiptap
 <p>Honorary Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Larissa Liang</p>
+<p>Ms Esther Koh Hsiao Ling</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
 <h4>PRGS 21st Executive Committee</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg">

@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <h2>Committee</h2>
 <h4><strong>PRGS 22nd Executive Committee</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
+</div>
 <table>
 <tbody>
 <tr>

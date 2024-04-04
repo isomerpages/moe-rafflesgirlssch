@@ -1421,7 +1421,7 @@ variant: tiptap
 <p>Azreena Mohd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Manager, Finance</p>
+<p>Assistant Manager, Finance</p>
 </td>
 </tr>
 <tr>
@@ -1429,7 +1429,7 @@ variant: tiptap
 <p>Cindy Liu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Officer, Finance</p>
+<p>Senior Officer, Finance</p>
 </td>
 </tr>
 <tr>

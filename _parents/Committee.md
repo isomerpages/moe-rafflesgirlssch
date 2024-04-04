@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h2>Committee</h2>
-<h4><strong>PRGS 22nd Executive Committee</strong></h4>
+<h4><strong>PRGS 22nd Executive Committee (2024)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>PRGS 21st Executive Committee</h4>
+<h4>PRGS 21st Executive Committee (2023)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg">
 </div>

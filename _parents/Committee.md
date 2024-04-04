@@ -29,7 +29,7 @@ variant: tiptap
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Tan</p>
+<p>Mr Kelvin Tan Teck San</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Ching Pin</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Winny Yap</p>
+<p>Mr Kevin Cheah Ming Chung</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Tay</p>
+<p>Ms Grace Seow Pei En</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Goh</p>
+<p>Mrs Koh Su San</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Tan Tze Hui</p>
+<p>Ms Jeanni Eng Jee Nee</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jeanni Eng</p>
+<p>Ms Winny Yap Yoke Moi</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Chung</p>
+<p>Ms Goh Pei Pei</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,15 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Boon Siong</p>
+<p>Ms Danielle Lim Ee Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -117,7 +125,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Danielle Lim</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -165,7 +173,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Cheah</p>
+<p></p>
 </td>
 </tr>
 <tr>

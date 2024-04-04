@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Committee
 
-#### PRGS 21st Executive Committee
+#### PRGS 22nd Executive Committee
 
 ![](/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg)
 

@@ -18,21 +18,18 @@ sections:
         - title: RGS Open House
           description: 18 May 2024, 8.30am to 1.30pm.
           url: https://openhouse.rgs.edu.sg/
-      variant: side
+      variant: image
       backgroundColor: gray
       alignment: right
       size: md
-      title: 2024 Open House
-      subtitle: Discover the Raffles Experience and explore our Braddell campus! See
-        you on Saturday, 18 May 2024 from 8.30am to 1.30pm.
   - infopic:
-      title: The RGS Experience
+      title: 18 May 2024, Saturday
       id: infopic
-      description: Visit our virtual Open House site to find out more about the
-        Raffles Experience
+      description: RGS Open House. 8.30am - 1.30pm, 2 Braddell Rise, Singapore 318871
+        (No pre-registration required)
       button: Explore now
       url: https://openhouse.rgs.edu.sg/
-      image: /images/untitled (800 x 500 px).jpg
+      image: /images/OH2024.png
       alt: Image alt text
   - resources:
       title: Highlights

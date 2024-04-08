@@ -88,7 +88,7 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 </p>
 <p>Applicants may need to submit additional documents/videos directly to
 RGS before <strong>15 June 2024</strong>, via the relevant links that can
-be found at this link.</p>
+be found at this <strong>link</strong>.</p>
 <p>This document contains detailed information of the talent areas, including
 who can apply, what are the additional information applicants are expected
 to provided and the selection process/criteria of each talent area.</p>
@@ -104,8 +104,7 @@ documents for verification purposes upon request when necessary.</p>
 <br>To be advised nearer to application period.</p>
 <p><strong>Submission of additional documents to RGS via e-form</strong> 
 <br>Before 15 June 2024
-<br>Please refer to further details for talent areas <a href="/files/2023%20webpage%20rgs-dsa_talentinfo%20(020523).pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<br>Please refer to further details for talent areas here.</p>
 <p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
 <br>July to August 2024</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>

@@ -104,7 +104,7 @@ documents for verification purposes upon request when necessary.</p>
 <br>To be advised nearer to application period.</p>
 <p><strong>Submission of additional documents to RGS via e-form</strong> 
 <br>Before 15 June 2024
-<br>Please refer to further details for talent areas here.</p>
+<br>Please refer to further details for talent areas <strong>here</strong>.</p>
 <p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
 <br>July to August 2024</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>

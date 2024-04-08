@@ -55,7 +55,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 September 2024 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong>
+<p><strong>2 September 2024 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
 <br>
 <br><strong>(Subjected to prevailing Covid-19 Safe Management Measures at that time)</strong>
 </p>

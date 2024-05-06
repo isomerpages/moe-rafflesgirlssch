@@ -112,7 +112,7 @@ documents for verification purposes upon request when necessary.</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>
 </p>
 <p><strong>Notification of Final Selection Outcome</strong> 
-<br>By mid-September 2024</p>
+<br>By 9 September 2024</p>
 <p>Applicants will be notified via email and RGS reserves the right not to
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>

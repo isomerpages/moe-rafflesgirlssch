@@ -100,7 +100,7 @@ apply. This e-application form will only be accessible during the application
 period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>
 </p>
-<p>For further details about the Admissions Tests, please click <a href="/files/2023%20webpages%20rgs-y3-admissions%20info_ent%20020523%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
+<p>For further details about the Admissions Tests, please click <a href="/files/Y3_Admission_Academic_Subject_Selection_Tests.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <p>Detailed results of the tests and interview, if any, will not be released
 and RGS reserves the right not to release the results or the reasons for
 non-selection.</p>

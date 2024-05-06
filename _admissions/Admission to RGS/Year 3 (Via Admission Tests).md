@@ -24,10 +24,14 @@ and&nbsp;&nbsp;</p>
 <p>Excellent achievement in academic and co-curricular activities.&nbsp;</p>
 </li>
 </ul>
-<p>Shortlisted applicants must sit for Admission Tests administered by RGS
-for the following&nbsp;three&nbsp;subjects: English Language, Mathematics
+<p>All applicants must sit for (in-person) Admission Tests administered by
+RGS for the following&nbsp;three&nbsp;subjects: English Language, Mathematics
 and Science.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -91,8 +95,9 @@ and Science.</p>
 <p>DO NOT submit any documents, original or otherwise, as all documents submitted
 will not be returned. Applicants must be prepared to produce the original
 documents for verification purposes upon request, if necessary.</p>
-<p>Please click HERE to apply. This e-application form will only be accessible
-during the application period.</p>
+<p>Please click <a href="https://form.gov.sg/6625e21104c40c0f8d108bac" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+apply. This e-application form will only be accessible during the application
+period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>
 </p>
 <p>For further details about the Admissions Tests, please click <a href="/files/2023%20webpages%20rgs-y3-admissions%20info_ent%20020523%20(1).pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>

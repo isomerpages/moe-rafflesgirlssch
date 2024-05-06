@@ -57,6 +57,8 @@ school/community.</p>
 </ul>
 <p><strong>Please note that meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.</strong>
 </p>
+<p><strong>Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</strong>
+</p>
 <h4>Application Procedure</h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -101,7 +103,7 @@ documents for verification purposes upon request when necessary.</p>
 </div>
 <h4>Process Overview</h4>
 <p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
-<br>To be advised nearer to application period.</p>
+<br>7 May 2024, 11.00am to 3 June 2024, 3.00pm</p>
 <p><strong>Submission of additional documents to RGS via e-form</strong> 
 <br>Before 15 June 2024
 <br>Please refer to further details for talent areas <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>

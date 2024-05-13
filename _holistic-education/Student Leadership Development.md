@@ -38,6 +38,8 @@ Student Congress strives to be a representative voice for the students, with the
 
 The House Executive Committee is the youngest leadership board to be established. There are five Houses in RGS, and each is named after one of five consecutive RGS principals who had served the school. Chronologically, the Houses are Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow), and Hadley (Purple). Established by Miss Hadley during her term as principal from 1946 to 1950, the House System has always been an integral part of RGS, and a source of much pride. As a group, House leaders lead in organising and running House activities and Inter-House Games to encourage House spirit and nurture a sense of belonging in each student as they engage in healthy competition across Houses. They play a key role in integrating our Year 1s into the school culture and helping them develop a sense of pride in their House and in turn, the school.
 
+![RGS House Tarbet Buckle Richardson Waddle Hadley](/images/house_Website_Feature.png)
+
 * IG - [@house_yourday](https://www.instagram.com/house_yourday/)
 * [House system in RGS](https://www.rgs.edu.sg/students/houses/)
 

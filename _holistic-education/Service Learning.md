@@ -10,9 +10,9 @@ The RGS Service-Learning programme seeks to nurture our students to be socially 
 
 ![](/images/servicelearn.png)
 
-Through service-learning, our students actively engage in enhancing the well-being of the local community and grow to become independent, pro-active learners. They are equipped and empowered to serve, explore and act on real community needs. This includes the Overseas Service-Learning programme for selected students and civic engagement projects through the Community Problem Solving programme.
+Through service-learning, our students actively engage in enhancing the well-being of the local community and grow to become independent, pro-active learners. They are equipped and empowered to serve, explore and act on real community needs. 
 
-Based on \*Treffinger’s Levels of Service (LoS), service learning in RGS is designed to provide for the different profiles of our students, who will complete a Community Exploration project by the time they are in Year 2. With this foundation, our students can make informed choices and pursue Community Action projects or continue with Community Service/Exploration projects when they are in Year 3 and Year 4.
+Based on \*Treffinger’s Levels of Service (LoS), service-learning in RGS is designed to provide for the different profiles of our students, who will complete a Community Exploration project by the time they are in Year 2. With this foundation, our students can make informed choices and pursue Community Action projects or continue with Community Service/Exploration projects when they are in Year 3 and Year 4.
 
 ![](/images/Graduation_Assembly_2023.jpg)
 
@@ -26,6 +26,8 @@ Based on \*Treffinger’s Levels of Service (LoS), service learning in RGS is de
 |   |   |   |   |   |
 
 _\*LoS = Based on Don Treffinger’s levels of service approach for Talent Development_
+
+![](/images/sl2324v.png)
 
 ## Community Problem Solving (CmPS) Programme in RGS
 

@@ -6,6 +6,8 @@ variant: markdown
 ---
 ## Student Leadership Development
 
+![](/images/rgslead24.png)
+
 The student leadership provisions serve to create a dynamic supportive environment where student leaders work collaboratively amongst themselves, and with other stakeholders to cultivate the holistic development of students, and peers who bond, help and influence each other positively; and where the culture of care and support is extended to others within and beyond its grounds.
 
 #### Prefectorial Board
@@ -14,11 +16,15 @@ The student leadership provisions serve to create a dynamic supportive environme
 
 Established in 1950, the RGS Prefectorial Board (PB) is the school's first leadership board. As custodians of school culture, RGSPB strives to inculcate a strong sense of identity and responsibility within the school, forging strong partnerships with teachers and other student leaders in order to do so. In working towards this goal, prefects are committed to upholding discipline in the school as an integral part of school culture. RGSPB also strives to cultivate a sense of belonging to the school community through activities and initiatives that celebrate the Rafflesian identity in various aspects. By engaging the school population in creating a shared identity, RGSPB strives to forge a strong and close-knit community that works towards creating a better age for all.
 
+* IG - [@RafflesiansUnite](https://www.instagram.com/rafflesiansunite/)
+
 #### Peer Support Board
 
 <img src="/images/psb.jpg" style="width:49%" align="right">
 
 The Peer Support Board (PSB) aims to cultivate a loving and supportive school community – a second family to each and every RGS girl. Peer Support Leaders (PSLs) in relation to PSB's mascot, the dolphin, live out their motto of 'Riding the waves with you' by offering support to their peers. PSB develops passionate and purposeful leaders who are driven to enable others with the spirit of non-discriminatory, continuous peer support, which can be sustained within and beyond the school community. The role of a PSL is not only to help our Year 1s adapt and learn skills to thrive in a new school environment, but also to stand by their fellow schoolmates through challenges, and actively encourage and foster close ties between all members of the school. PSLs also plan and execute initiatives that promote a genuine, heartfelt peer-support spirit, thereby fulfilling their goal of 'Riding the waves with you'.
+
+* IG - [@rgspsb](https://www.instagram.com/rgspsb/)
 
 #### Student Congress
 
@@ -31,6 +37,11 @@ Student Congress strives to be a representative voice for the students, with the
 <img src="/images/hec.jpg" style="width:49%" align="right">
 
 The House Executive Committee is the youngest leadership board to be established. There are five Houses in RGS, and each is named after one of five consecutive RGS principals who had served the school. Chronologically, the Houses are Tarbet (Red), Buckle (Green), Richardson (Blue), Waddle (Yellow), and Hadley (Purple). Established by Miss Hadley during her term as principal from 1946 to 1950, the House System has always been an integral part of RGS, and a source of much pride. As a group, House leaders lead in organising and running House activities and Inter-House Games to encourage House spirit and nurture a sense of belonging in each student as they engage in healthy competition across Houses. They play a key role in integrating our Year 1s into the school culture and helping them develop a sense of pride in their House and in turn, the school.
+
+![RGS House Tarbet Buckle Richardson Waddle Hadley](/images/house_Website_Feature.png)
+
+* IG - [@house_yourday](https://www.instagram.com/house_yourday/)
+* [House system in RGS](https://www.rgs.edu.sg/students/houses/)
 
 
 #### CCA Leaders
@@ -54,5 +65,3 @@ Some of the key activities led by student leaders are:
 *   Class Centre&nbsp;
     
 *   Tea With Congress
-
-

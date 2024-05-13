@@ -32,6 +32,13 @@ We empower our students by providing opportunities to co-initiate and organise N
 
 Student-initiated platforms allow our students to lead their peers to engage in dialogue with academics, top civil servants and professionals to develop multiple perspectives and understanding in nation building.
 
+**In-Conversation**
+
+![](/images/inconvo2023.png)
+
+Organised annually by a dedicated committee of Year Three students, Raffles In-Conversation (In-Convo) focuses on delving into deep-seated societal issues in Singapore. Its aim is to provide a diverse platform that empowers participants to broaden their understanding of both Singapore and the wider world, while also encouraging the formation of unique opinions on key social issues.
+
 [Raffles Policy Dialogue](https://www.rgs.edu.sg/highlights/events-and-announcements/rpd2023/)
 
 ![](https://www.rgs.edu.sg/images/y3%20rpd.jpg)
+![](/images/RPD_Website_Feature_2024.png)

@@ -19,7 +19,7 @@ DSTA JC scholarships.</p>
 </div>
 <p>We are proud to announce that the following students received the YDSP
 scholarship from the Guest-of-Honour, Senior Minister of State for Defence,
-Mr Heng Chee How.:</p>
+Mr Heng Chee How:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Klarisse Ng Shee Chin (Huang Shiqing) (S312)</p>

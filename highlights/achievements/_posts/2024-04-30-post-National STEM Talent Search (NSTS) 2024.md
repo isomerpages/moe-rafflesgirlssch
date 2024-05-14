@@ -8,13 +8,13 @@ image: ""
 variant: tiptap
 ---
 <p>Previously known as the A*STAR Talent Search, the National STEM Talent
-Search (NSTS) is an annual competition by Science Centre Singapore with
-support from the Ministry of Education. NSTS is an initiative to reward
-students who have performed well in scientific research.&nbsp;</p>
+Search (NSTS) is an annual competition organized by Science Centre Singapore
+with support from the Ministry of Education. NSTS aims to reward students
+who have excelled in scientific research.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/nsts24.png">
 </div>
-<p>We’re please to announce the following:</p>
+<p>We are pleased to announce the following awards:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -69,7 +69,7 @@ students who have performed well in scientific research.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Students who have attained at least a Bronze, Silver or Gold award at
-SSEF 2024 may apply. Our students applied this year based on their achievements
-at <a href="https://www.rgs.edu.sg/highlights/achievements/ssef24/" rel="noopener noreferrer nofollow" target="_blank">SSEF 2024</a>.</p>
+<p>Students who have attained at least a Bronze, Silver, or Gold award at
+SSEF 2024 are eligible to apply. Our students applied this year based on
+their achievements at <a href="https://www.rgs.edu.sg/highlights/achievements/ssef24/" rel="noopener noreferrer nofollow" target="_blank">SSEF 2024</a>.</p>
 <p></p>

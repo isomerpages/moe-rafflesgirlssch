@@ -8,7 +8,11 @@ variant: tiptap
 <h2>Staff Directory</h2>
 <p><strong><u>Department - Senior Management</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -102,7 +106,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Aesthetics</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -172,7 +180,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - English Language &amp; Literature</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -282,7 +294,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Humanities</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -416,7 +432,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Languages</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -598,7 +618,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Mathematics</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -732,7 +756,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Physical Education</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -802,7 +830,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Science</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -992,7 +1024,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Centre for Pedagogical Research &amp; Learning</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1094,7 +1130,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Character &amp; Citizenship Education</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1148,7 +1188,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Talent Development</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1178,7 +1222,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Student Management</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1232,7 +1280,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Information &amp; Communications Technology</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1254,7 +1306,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Administration Office</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1308,7 +1364,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Aesthetics (EAS)</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1346,7 +1406,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Estate</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1384,7 +1448,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Procurement</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1406,7 +1474,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Finance</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1444,7 +1516,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Human Resource</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1482,7 +1558,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Information Technology</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1552,7 +1632,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Library</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1574,7 +1658,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Science (EAS)</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1644,7 +1732,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Strategic Communications</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1682,7 +1774,11 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Counselling &amp; Student Services</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1714,14 +1810,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chua Hai Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Executive, Admissions</p>
 </td>
 </tr>
 <tr>

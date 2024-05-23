@@ -26,14 +26,14 @@ sections:
       alignment: right
       size: md
   - infopic:
-      title: 18 May 2024, Saturday
+      title: Admissions via DSA
       id: infopic
-      description: RGS Open House. 8.30am - 1.30pm, 2 Braddell Rise, Singapore 318871
-        (No pre-registration required)
-      button: Explore now
-      url: https://openhouse.rgs.edu.sg/
-      image: /images/OH2024.png
-      alt: Image alt text
+      description: Click here for more information or scan the QR Code to view
+        specific requirements for respective talent area.
+      button: Click here for DSA Information
+      url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/via-DSA/
+      image: /images/https___go_gov_sg_dsatalentinfo2024.png
+      alt: "DSA Information "
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

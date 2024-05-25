@@ -17,8 +17,10 @@ while adhering to the rules and criteria for each problem.</p>
 <p>This year, 4 teams represented RGS at the World Finals! Our teams demonstrated
 exceptional performance, securing remarkable results in their respective
 divisions.</p>
+<p>Problem 3 Division 2 was also awarded the special OM-er Award!</p>
 <p><strong>Problem 3 Division 2 "Classics...Opening Night Antics"</strong> 
-<br>World Finals Placing: XXth out of XX teams</p>
+<br>OMER Award Winner
+<br>World Finals Placing: 2nd out of XX teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -82,7 +84,7 @@ divisions.</p>
 </tbody>
 </table>
 <p><strong>Problem 5 Division 2 "Rocking World Tour"</strong> 
-<br>World Finals Placing: XXnd out of XX teams</p>
+<br>World Finals Placing: 4th out of XX teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -135,7 +137,14 @@ divisions.</p>
 <p>Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Mischa Filastin</p>
+<p>NUR MISCHA FILASTIN BINTE MOHAMMAD FAIZAL</p>
+<p>Owyong Hsiao-Hann Alexis</p>
+<p>Subramanian Avyuktha</p>
+<p>Shan Haoyun</p>
+<p>You Yu Han</p>
+<p>Talen Sanjana Joseph</p>
+<p>Yi Yuhuan</p>
+<p></p>
 </td>
 </tr>
 </tbody>

@@ -110,7 +110,7 @@ divisions. Problem 3 Division 2 was also awarded the special OMER Award!</p>
 <p>Anvita Athreya</p>
 <p>Kylie Ona</p>
 <p>Sage Oon</p>
-<p>Chan Wei Xin Chloe</p>
+<p>Chan Wen Xin Chloe</p>
 <p>Yan Qiaoyu</p>
 </td>
 </tr>

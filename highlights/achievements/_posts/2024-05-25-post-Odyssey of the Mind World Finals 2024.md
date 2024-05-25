@@ -16,11 +16,10 @@ were encouraged to find new perspectives to push the limits of their creativity,
 while adhering to the rules and criteria for each problem.</p>
 <p>This year, 4 teams represented RGS at the World Finals! Our teams demonstrated
 exceptional performance, securing remarkable results in their respective
-divisions.</p>
-<p>Problem 3 Division 2 was also awarded the special OM-er Award!</p>
+divisions. Problem 3 Division 2 was also awarded the special OMER Award!</p>
 <p><strong>Problem 3 Division 2 "Classics...Opening Night Antics"</strong> 
 <br>OMER Award Winner
-<br>World Finals Placing: 2nd out of XX teams</p>
+<br>World Finals Placing: 2nd out of 62 teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +31,8 @@ divisions.</p>
 <p>Teacher Mentor</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Nicholas Tan</p>
+<p>Mr Nicholas Tan &amp;
+<br>Mr Joseph Toh</p>
 </th>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ divisions.</p>
 </tbody>
 </table>
 <p><strong>Problem 4 Division 3 "Deep Space Structure"</strong> 
-<br>World Finals Placing: XXth out of XX teams</p>
+<br>World Finals Placing: 16th out of 37 teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -84,7 +84,7 @@ divisions.</p>
 </tbody>
 </table>
 <p><strong>Problem 5 Division 2 "Rocking World Tour"</strong> 
-<br>World Finals Placing: 4th out of XX teams</p>
+<br>World Finals Placing: 4th out of 58 teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,7 +117,7 @@ divisions.</p>
 </tbody>
 </table>
 <p><strong>Problem 5 Division 3 "Rocking World Tour"</strong> 
-<br>World Finals Placing: XXnd out of XX teams</p>
+<br>World Finals Placing: 17th out of 44 teams</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -137,7 +137,7 @@ divisions.</p>
 <p>Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NUR MISCHA FILASTIN BINTE MOHAMMAD FAIZAL</p>
+<p>Nur Mischa Filastin Binte Mohammad Faizal</p>
 <p>Owyong Hsiao-Hann Alexis</p>
 <p>Subramanian Avyuktha</p>
 <p>Shan Haoyun</p>

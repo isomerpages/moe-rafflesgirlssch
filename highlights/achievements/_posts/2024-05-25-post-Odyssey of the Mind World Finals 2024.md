@@ -17,8 +17,8 @@ while adhering to the rules and criteria for each problem.</p>
 <p>This year, 4 teams represented RGS at the World Finals! Our teams demonstrated
 exceptional performance, securing remarkable results in their respective
 divisions.</p>
-<p>Problem 3 Division 2 (P3D2) was also awarded the special <strong>OMER Award! </strong>The
-OMER Award recognises those individuals, coaches, team members, parents,
+<p>Problem 3 Division 2 (P3D2) was also awarded the special <strong>OMER's Award! </strong>The
+OMER's Award recognises those individuals, coaches, team members, parents,
 officials and others who, during a tournament, serve as exemplary examples
 or role models through their actions or words.</p>
 <p>The OMER's Award was presented to the P3D2 team for their exemplary sportsmanship
@@ -32,7 +32,7 @@ being in the heat of competition and contending with their own sets being
 incomplete. We are all very proud to see them recognised for these acts
 of service to others.</p>
 <p><strong>Problem 3 Division 2 "Classics...Opening Night Antics"</strong> 
-<br>OMER Award Winner
+<br>OMER's Award Winner
 <br>World Finals Placing: 2nd out of 62 teams</p>
 <table style="minWidth: 50px">
 <colgroup>

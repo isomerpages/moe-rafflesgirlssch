@@ -26,9 +26,7 @@ and kindness to others amidst the heat of competition. When a team from
 North Carolina had a part of their set broken 30 minutes before their performance,
 our girls immediately gathered the tools they had, which they had been
 using, and presented the full set of tools to the other team's coach for
-their use, without a moment of hesitation. (*they were exclaiming "take
-take take take" while pushing the toolbox into the hands of the coach,
-and were commenting on how harrowing it must be for the other team)</p>
+their use, without a moment of hesitation.</p>
 <p>The girls demonstrated real selflessness and empathy for others, despite
 being in the heat of competition and contending with their own sets being
 incomplete. We are all very proud to see them recognised for these acts

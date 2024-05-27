@@ -7,6 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_05_25_at_12_06_20_PM.jpg">
+</div>
+<p></p>
 <p>Odyssey of the Mind is a programme where students embark on a 6-month
 journey to create a thrilling, high-energy performance based around a problem
 set by the competition organisers, Odyssey HQ.
@@ -163,4 +168,10 @@ of service to others.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Earth_Week_2024.jpg">
+</div>
 <p>Congratulations to our teams and coaches for their commendable performance!</p>
+<p></p>
+<p></p>

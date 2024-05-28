@@ -390,7 +390,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roselind Mathews</p>
+<p>Nafisah Abdul Hamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -398,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sia Bee Leng</p>
+<p>Roselind Mathews</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -415,14 +415,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Audrey Tan Beng Foon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nafisah Abdul Hamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

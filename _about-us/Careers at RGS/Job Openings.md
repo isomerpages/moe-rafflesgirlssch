@@ -16,7 +16,11 @@ Our students are creative, self-disciplined and motivated, and we invite
 you to join us in nurturing them <strong>thinkers</strong>, <strong>leaders</strong> and <strong>pioneers</strong> of
 the future.</p>
 <h3><strong>Full-Time Teachers</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -119,7 +123,11 @@ leadership; and
 </li>
 </ul>
 <h3><strong>Relief Teachers</strong></h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -211,85 +219,7 @@ Diploma in Education (PGDE)</p>
 </li>
 </ul>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
-<h4><strong>Officer, Admissions (8 months contract)</strong></h4>
-<p>The Officer, Admissions, is accountable to the Director (Student Development)
-for the efficient administration of the Admissions Office by providing
-a range of administrative service and support.</p>
-<p><strong>Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide administrative service and support to manage the school’s enrolment
-and/or admissions processes</p>
-</li>
-<li>
-<p>Facilitate annual Year 1 admissions to RGS for Primary 6 students via
-two routes: Direct-Schools Admission and PSLE-posting</p>
-</li>
-<li>
-<p>Facilitate annual Year 3 admissions via Admissions Tests and Interviews
-for Secondary 2 students</p>
-</li>
-<li>
-<p>Support the school in implementing MOE Admissions policies and processes</p>
-</li>
-<li>
-<p>Organize and conduct outreach efforts to promote RGS as a preferred choice
-secondary school to primary school female students and parents</p>
-</li>
-<li>
-<p>Liaise with various internal and external stakeholders to carry out Admissions
-work</p>
-</li>
-<li>
-<p>Respond to general public and liaise with applicants on DSA and general
-admission-related queries</p>
-</li>
-<li>
-<p>Update and maintain DSA and Post PSLE admissions information on school
-website, database to ensure easy retrieval of information.</p>
-</li>
-<li>
-<p>Updating Student Movements with respect to Admissions, Transfers and Leave
-of Absence</p>
-</li>
-<li>
-<p>Oversee International Scholars pre- and post-recruitment processes, scholars’
-arrival preparation and administration processes for smooth transition
-to Singapore and RGS</p>
-</li>
-<li>
-<p>Liaise with MOE, hostel, parents and/or school staff for matters relevant
-to International Scholars.</p>
-</li>
-<li>
-<p>Manage admissions data and maintain secure and confidential manual and
-automated filing systems</p>
-</li>
-</ul>
-<p><strong>Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Diploma with a minimum of 2 years relevant working experience</p>
-</li>
-<li>
-<p>Self-motivated, possessing initiative, tenacity and very good interpersonal
-skills</p>
-</li>
-<li>
-<p>Have the passion to serve with positive customer service mindset</p>
-</li>
-<li>
-<p>Able to communicate and act with discretion, confidentiality and sensitivity</p>
-</li>
-<li>
-<p>Strong verbal and written English skills &nbsp;</p>
-</li>
-<li>
-<p>Highly Competent in Data Management with MS Office Word &amp; Excel</p>
-</li>
-</ul>
+<p>There are currently no positions available.</p>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

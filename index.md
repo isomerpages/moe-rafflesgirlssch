@@ -15,9 +15,6 @@ sections:
         - title: Events & Announcements
           description: ""
           url: /highlights/events-and-announcements/
-        - title: RGS Open House
-          description: 18 May 2024, 8.30am to 1.30pm.
-          url: https://openhouse.rgs.edu.sg/
         - title: Admission via DSA
           description: Click here for more details
           url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/via-DSA/
@@ -33,7 +30,7 @@ sections:
       button: Click here for DSA Information
       url: https://www.rgs.edu.sg/admissions/Admission-to-RGS/via-DSA/
       image: /images/https___go_gov_sg_dsatalentinfo2024.png
-      alt: "DSA Information "
+      alt: DSA Information
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

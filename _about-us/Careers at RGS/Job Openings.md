@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>We invite highly passionate individuals who share the dream for our girls to join us as:</strong>
 </p>
-<h3><strong>TEACHING POSITIONS</strong></h3>
+<h3>TEACHING POSITIONS</h3>
 <p>Be part of a team that learns and grows together, designs forward-looking
 curriculum, and boldly explores approaches for nurturing high-ability learners,</p>
 <p>Join us, for a unique opportunity to hone the craft of teaching and to

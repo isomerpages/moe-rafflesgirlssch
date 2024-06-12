@@ -219,7 +219,7 @@ Diploma in Education (PGDE)</p>
 </li>
 </ul>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
-<h4><strong>Operations Manager (One-Year Contract)</strong></h4>
+<h4><strong>Operations Manager</strong></h4>
 <p><strong>Job Description</strong>
 </p>
 <p>You will be responsible for the day-to-day operations of the Estate department

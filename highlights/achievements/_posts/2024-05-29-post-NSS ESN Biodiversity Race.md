@@ -15,7 +15,6 @@ mission was to record research-grade observations of various species, including
 amphibians, birds, butterflies, moths, mammals, and reptiles. The participants
 collectively recorded an impressive total of 929 observations, covering
 121 different species.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NSS ESN Biodiversity Race" src="/images/esnnss.png">
 </div>

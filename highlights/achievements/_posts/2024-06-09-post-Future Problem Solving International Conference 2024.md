@@ -15,6 +15,10 @@ competition in Indiana University Bloomington from 5- 9 June! Our Community
 Problem Solving teams, Project Praesidio and Project Majulah, achieved
 an impressive 3rd place in their respective divisions. Our Global Issues
 Problem Solving (Senior Division) team also excelled, securing 3rd place!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fpspi14.png">
+</div>
+<p></p>
 <p>Congratulations to all the participants and their coaches for their outstanding
 hard work, creativity, and dedication!</p>
 <p><strong>Community Problem Solving (Middle Division - Project Praesidio)</strong>

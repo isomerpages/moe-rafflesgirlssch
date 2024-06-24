@@ -9,20 +9,21 @@ description: ""
 a canteen stall for either of the following cuisines:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Halal Cuisine</p>
+<p>Drinks &amp; Snacks (monthly rental of S$80.00 per month)</p>
 </li>
 <li>
-<p>International Cuisine</p>
-</li>
-</ul>
+<p>Halal Cuisine (monthly rental of S$50.00 per month)</p>
+<p></p>
 <p>RGS is a single session school with an approximate enrolment at 1,600
 pupils and about 180 staff. Our canteen operates from Mondays to Fridays,
 7.00am to 4.30pm during the school term.</p>
+</li>
+</ul>
 <p>The stall may be required to operate during School Holidays, upon request
 by the school. The stall will operate at 2 Braddell Rise Singapore 318871.</p>
-<p>Successful applicants will be given a contract from Monday, 24 June 2024
-to 31 December 2025. The contract is renewable on a yearly basis, subject
-to good performance.</p>
+<p>Successful applicants will be given a contract from Thursday, 2 January
+2025 to 31 December 2027. The contract is renewable on a yearly basis,
+subject to good performance.</p>
 <p><strong>Applicants must meet the following criteria:</strong>
 </p>
 <p>1. Stall holder and assistant(s) must be Singapore Citizens or Singapore
@@ -55,9 +56,9 @@ be duly completed and accompanied with the following documents:</p>
 <p>4. Photocopy of certificates of relevant courses attended (e.g. Basic
 Food Hygiene Course)</p>
 <p>The completed application form with the required documents must be submitted
-to the General Office at 2 Braddell Rise Singapore 318871 by 12 April 2024,
-4.30pm (Friday), or, by post or email to christina.lee@rafflesgirlssch.edu.sg
-by 12 April 2024, 11.59pm.</p>
+to the General Office at 2 Braddell Rise Singapore 318871 by 24 August
+2024, 4.30pm (Friday), or, by post or email to christina.lee@rafflesgirlssch.edu.sg
+by 24 August 2024, 11.59pm.</p>
 <p>If you are sending your document via email, please protect your documents
 i.e. those containing your NRIC number with a password.</p>
 <p>Late or incomplete applications will be rejected.</p>

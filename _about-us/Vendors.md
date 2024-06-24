@@ -43,10 +43,9 @@ Basic Food Hygiene Course (WSQ BFHC)</p>
 the Singapore Food Agency (SFA)</p>
 <p>9. Able to meet any other requirements set by the school and NEA</p>
 <p>10. Maintain cleanliness of the stall and canteen area</p>
-<p>11. Monthly rental of S$50.00 per month</p>
-<p>12. Need to have own cutleries, crockery, utensils, pedal bins and items
+<p>11. Need to have own cutleries, crockery, utensils, pedal bins and items
 as needed in the running of a stall</p>
-<p>13. Any other criteria set by the School</p>
+<p>12. Any other criteria set by the School</p>
 <h4><strong>Application Procedures</strong></h4>
 <p><a href="/files/Existing_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a> must
 be duly completed and accompanied with the following documents:</p>

@@ -14,16 +14,15 @@ a canteen stall for either of the following cuisines:</p>
 <li>
 <p>Halal Cuisine (monthly rental of S$50.00 per month)</p>
 <p></p>
+</li>
+</ul>
 <p>RGS is a single session school with an approximate enrolment at 1,600
 pupils and about 180 staff. Our canteen operates from Mondays to Fridays,
 7.00am to 4.30pm during the school term.</p>
-</li>
-</ul>
 <p>The stall may be required to operate during School Holidays, upon request
 by the school. The stall will operate at 2 Braddell Rise Singapore 318871.</p>
-<p>Successful applicants will be given a contract from Thursday, 2 January
-2025 to 31 December 2027. The contract is renewable on a yearly basis,
-subject to good performance.</p>
+<p>Successful applicants will be given a contract from <strong>Thursday, 2 January 2025 to 31 December 2027.</strong> The
+contract is renewable on a yearly basis, subject to good performance.</p>
 <p><strong>Applicants must meet the following criteria:</strong>
 </p>
 <p>1. Stall holder and assistant(s) must be Singapore Citizens or Singapore

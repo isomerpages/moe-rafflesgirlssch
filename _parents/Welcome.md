@@ -23,3 +23,7 @@ do complete this&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSeiiz1bJ
 <a href="https://www.instagram.com/rgsparents/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>to get the latest updates and purchase limited edition PRGS
 merchandise <a href="https://form.gov.sg/65951fd5ba6a3800119edb55" rel="noopener noreferrer nofollow" target="_blank">here</a>!&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_HuSH_STEM_WEEKSports_Fest.jpg">
+</div>
+<p></p>

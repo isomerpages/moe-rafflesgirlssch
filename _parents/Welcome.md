@@ -4,7 +4,7 @@ permalink: /parents/welcome/
 description: ""
 variant: tiptap
 ---
-<h2>Welcome</h2>
+<h2><strong>Welcome</strong></h2>
 <p>RGS is blessed with wonderful parents who are strong advocates of partnership
 between parents and the school. The Parents for RGS Association (PRGS)
 is a registered society established since 26 February 2003, although the

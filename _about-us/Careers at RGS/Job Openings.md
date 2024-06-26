@@ -281,6 +281,62 @@ and emergency planning</p>
 <p>Preferably with Fire Safety Manager certification</p>
 </li>
 </ul>
+<h4><strong>Executive, Finance (9 months contract)</strong></h4>
+<p>To assist Assistant Finance Manager in processing monthly close, managing
+daily operations, and ensuring the accuracy and timeliness of financial
+reporting.</p>
+<p><strong>&nbsp;Responsibilities:&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Overseeing payment processing of vendors’ invoices, transport, staff reimbursement,
+instructor fees.</p>
+</li>
+<li>
+<p>Overseeing Fixed Asset administration including Fixed asset count.</p>
+</li>
+<li>
+<p>Performing monthly reconciliation of balance sheet accounts</p>
+</li>
+<li>
+<p>Checking creation of SAP Vendors master records.</p>
+</li>
+<li>
+<p>Maintaining General Ledger and prepare journal entries for monthly closing.</p>
+</li>
+<li>
+<p>Assist in preparation of statutory financial statements and budget reports.</p>
+</li>
+<li>
+<p>Handling any ad-hoc duties as assigned.</p>
+</li>
+<li>
+<p>Assist Executive (Procurement) in administration matters and assigned
+work</p>
+</li>
+</ul>
+<p>&nbsp;<strong>Requirements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Accounting or its equivalent</p>
+</li>
+<li>
+<p>At least 5 years of working experience in accounting</p>
+</li>
+<li>
+<p>Experience working in an educational institution is an added advantage</p>
+</li>
+<li>
+<p>Proficient in MS Office applications and SAP accounting software</p>
+</li>
+<li>
+<p>Good organisational and communication skills</p>
+</li>
+<li>
+<p>Available for entire contract period</p>
+</li>
+</ul>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

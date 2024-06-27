@@ -45,7 +45,9 @@ secured notable achievements:</p>
 <p><strong>3rd place:</strong> Team Avian Aces (Photo of a Plantain Squirrel)</p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NSS_ani.png">
+</div>
 <p>Their efforts were also recognised in a <a href="https://www.straitstimes.com/multimedia/graphics/2024/06/biodiversity-race-singapore/index.html" rel="noopener noreferrer nofollow" target="_blank">Straits Times article</a>,
 highlighting their educational journey.</p>
 <p></p>

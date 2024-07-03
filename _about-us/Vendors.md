@@ -9,7 +9,7 @@ description: ""
 a canteen stall for either of the following cuisines:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Drinks &amp; Snacks (monthly rental of S$80.00 per month)</p>
+<p>Drinks (Hot &amp; Cold) &amp; Snacks (monthly rental of S$80.00 per month)</p>
 </li>
 <li>
 <p>Halal Cuisine (monthly rental of S$50.00 per month)</p>
@@ -21,7 +21,7 @@ pupils and about 180 staff. Our canteen operates from Mondays to Fridays,
 7.00am to 4.30pm during the school term.</p>
 <p>The stall may be required to operate during School Holidays, upon request
 by the school. The stall will operate at 2 Braddell Rise Singapore 318871.</p>
-<p>Successful applicants will be given a contract from <strong>Thursday, 2 January 2025 to 31 December 2027.</strong> The
+<p>Successful applicants will be given a contract from <strong>Thursday, 2 January 2025 to 31 December 2026.</strong> The
 contract is renewable on a yearly basis, subject to good performance.</p>
 <p><strong>Applicants must meet the following criteria:</strong>
 </p>

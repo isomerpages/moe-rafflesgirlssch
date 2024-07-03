@@ -219,68 +219,6 @@ Diploma in Education (PGDE)</p>
 </li>
 </ul>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
-<h4><strong>Operations Manager</strong></h4>
-<p><strong>Job Description</strong>
-</p>
-<p>You will be responsible for the day-to-day operations of the Estate department
-and assist the Director, Planning and Infrastructure in the strategic planning
-and management of estate matters so that the School’s operational needs
-are met.</p>
-<p><strong>Key Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Managing the infrastructure maintenance and improvement works of the school
-premises, including managing budget of the estate management plan and procurement
-services.</p>
-</li>
-<li>
-<p>Working with contracted vendors who supply services to the school for
-effective school operations and security.</p>
-</li>
-<li>
-<p>Liaising with internal and external stakeholders to implement estate maintenance
-plan and ensure that regulatory compliance requirements are met.</p>
-</li>
-<li>
-<p>Overseeing security and safety measures in school.</p>
-</li>
-<li>
-<p>Adhering to the school’s budgetary processes, financial and procurement
-policies.</p>
-</li>
-<li>
-<p>Adopting the use of technology and review of systems to increase productivity.</p>
-</li>
-<li>
-<p>Ensuring that the logistic requirements and set up of school’s functions
-and activities are met with minimal disruption to school operations.</p>
-</li>
-<li>
-<p>Liaising with external organisations for enquiries on usage of school
-facilities. Ensuring the necessary logistic support for confirmed usage
-of school facilities by external organisations.</p>
-</li>
-</ul>
-<p><strong>Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>University Degree in Architecture, Building /Real Estate Management, Engineering
-or related discipline. Diplomas and Experience in relevant areas will also
-be considered.</p>
-</li>
-<li>
-<p>At least 5 years of experience in logistics, estate management, safety
-and emergency planning</p>
-</li>
-<li>
-<p>Good organising abilities, interpersonal and communications skills</p>
-</li>
-<li>
-<p>Preferably with Fire Safety Manager certification</p>
-</li>
-</ul>
 <h4><strong>Executive, Finance (9 months contract)</strong></h4>
 <p>To assist Assistant Finance Manager in processing monthly close, managing
 daily operations, and ensuring the accuracy and timeliness of financial

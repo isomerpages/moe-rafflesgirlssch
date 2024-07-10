@@ -3,6 +3,7 @@ title: English Language
 permalink: /holistic-education/Academic-Studies/english/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## English Language
 
@@ -26,29 +27,17 @@ The study of the English Language recognises that language is a communicative to
 | Encoding Spoken and Written Narratives  | Oral Presentation  | Persuasive Speech  | Dialogic Discourse  |
 |   |   |   |   |
 
-#### Gallery
+## Events
 
-<img src="/images/EL competition.jpg" style="width:40%" align=right>
 
-Our students are avid participants at various competition platforms to challenge themselves – such as at the National Digital Storytelling Competition in 2019.
-<br clear=right>
+![](/images/englishweb__1_.png)
 
-<img src="/images/EL outdoor lesson.jpg" style="width:49%" align=right>
-
-Learning is not restricted to the classroom – through visits to different spaces, learning becomes more experiential and authentic.
-<br clear=right>
-
-<img src="/images/English Language Class.jpg" style="width:49%" align=right>
-
-‘Blind Date with a Book’ during EL Week. This activity is the school’s favourite activity during EL Week. Just one hour of quiet reading and discovering a new genre of books!
-<br clear=right>
-
-<img src="/images/EL Lesson.jpg" style="width:49%" align=right>
-
-At RGS, our students have the opportunity to engage with writers and thought leaders to nurture their talents in creative writing.
-<br clear=right>
-
-<img src="/images/EL Department.jpg" style="width:49%" align=right>
+Learning is not restricted to the classroom – through visits to different spaces and school events, learning becomes more experiential and authentic.
 
 Both staff and students participate enthusiastically in English/Literature-related activities, showing a school-wide approach to nurturing a love for the subject.
-<br clear=right>
+
+EL Week is an annual school event in RGS planned by the English Language and Literature Department for the students. Activities during the week are planned to promote a love for English Language, and to celebrate creativity, innovation and excellence in the use of the medium through enriched experiences. Here are some highlights of past events:
+
+* [English Language Day 2024](https://www.rgs.edu.sg/highlights/events-and-announcements/elday2024/)
+* [English Language Day 2023](https://www.rgs.edu.sg/highlights/events/elday23/)
+* [English Week 2022](https://www.rgs.edu.sg/news-and-events/News-and-Events-2022/english/)

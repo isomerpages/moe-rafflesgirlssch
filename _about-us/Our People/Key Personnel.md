@@ -39,7 +39,8 @@ variant: tiptap
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lim_Hong_Peng@moe.edu.sg</p>
+<p><a href="mailto:Lim_Hong_Peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Hong_Peng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +57,9 @@ Engagement</p>
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mary_CHERIYAN@moe.edu.sg</p>
+<p><a href="mailto:Mary_CHERIYAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mary_CHERIYAN@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -71,7 +74,9 @@ Engagement</p>
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_may@moe.edu.sg</p>
+<p><a href="mailto:tan_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_may@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -85,7 +90,8 @@ Engagement</p>
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_xiuting_valerie@moe.edu.sg</p>
+<p><a href="mailto:yeo_xiuting_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_xiuting_valerie@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +151,9 @@ Engagement</p>
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GOH_Lee_Kian@moe.edu.sg</p>
+<p><a href="mailto:GOH_Lee_Kian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">GOH_Lee_Kian@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -160,7 +168,7 @@ Engagement</p>
 <p>Senior Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_soo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_soo_ling@schools.gov.sg</a>
+<p><a href="mailto:Yeo_Soo_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeo_Soo_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -175,7 +183,7 @@ Engagement</p>
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_anna@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_anna@schools.gov.sg</a>
+<p><a href="mailto:Loo_Anna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Loo_Anna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -191,7 +199,7 @@ Engagement</p>
 <p>Centre for Pedagogical Research &amp; Learning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:foo_ling_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_ling_ling@schools.gov.sg</a>
+<p><a href="mailto:Foo_Ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Foo_Ling_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -206,7 +214,7 @@ Engagement</p>
 <p>Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Shiao_en_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shiao_en_rachel@schools.gov.sg</a>
+<p><a href="mailto:Goh_Shiao_en_rachel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Shiao_en_rachel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -221,7 +229,7 @@ Engagement</p>
 <p>English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:picca_stella_hong_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">picca_stella_hong_sin@schools.gov.sg</a>
+<p><a href="mailto:Picca_Stella_hong_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Picca_Stella_hong_sin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -237,7 +245,7 @@ Engagement</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_faizal_abdul_az@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_faizal_abdul_az@schools.gov.sg</a>
+<p><a href="mailto:Mohammad_Faizal_abdul_az@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mohammad_Faizal_abdul_az@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -252,7 +260,7 @@ Engagement</p>
 <p>Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yin_lai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yin_lai@schools.gov.sg</a>
+<p><a href="mailto:Tan_Yin_lai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Yin_lai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -268,7 +276,7 @@ Engagement</p>
 <p>Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_szer_yuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_szer_yuen@schools.gov.sg</a>
+<p><a href="mailto:Lee_Szer_yuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Szer_yuen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -283,7 +291,7 @@ Engagement</p>
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hoo_ka_mun_carmen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hoo_ka_mun_carmen@schools.gov.sg</a>
+<p><a href="mailto:Hoo_Ka_mun_carmen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Hoo_Ka_mun_carmen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -299,7 +307,7 @@ Engagement</p>
 <p>Physical Education &amp; Co-curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suey_lea_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suey_lea_hong@schools.gov.sg</a>
+<p><a href="mailto:Suey_Lea_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Suey_Lea_hong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -315,7 +323,7 @@ Engagement</p>
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:g_sundari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">g_sundari@schools.gov.sg</a>
+<p><a href="mailto:G_Sundari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">G_Sundari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -331,7 +339,7 @@ Engagement</p>
 <p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:eriyanty_tugi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">eriyanty_tugi@schools.gov.sg</a>
+<p><a href="mailto:Eriyanty_Tugi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eriyanty_Tugi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -346,7 +354,7 @@ Engagement</p>
 <p>Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:joseph_toh_kim_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joseph_toh_kim_leng@schools.gov.sg</a>
+<p><a href="mailto:Joseph_Toh_kim_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Joseph_Toh_kim_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>

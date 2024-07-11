@@ -32,14 +32,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chin Jen Fu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Principal, Academic Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>May Tan</p>
 </td>
 <td rowspan="1" colspan="1">

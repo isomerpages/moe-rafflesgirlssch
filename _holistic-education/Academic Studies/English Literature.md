@@ -29,3 +29,5 @@ Literature, rooted in life and centuries of human experience, is a mode of creat
 |   |   |   |   |
 
 ![](/images/englit.png)
+
+Our Literature students attended a play written by Amanda Chong (Class of 2005) and performed by Sindhura Kalidas (Class of 2005). The play delved into the diverse pressures and demands placed on women in their personal and working lives. Another group also attended a Pangdemonium production of Edward Albee's&nbsp;Who's Afraid of Virginia Woolf, and had a thought-provoking and insightful dialogue with the director of the play, Timothy Koh.

@@ -3,6 +3,7 @@ title: English Literature
 permalink: /holistic-education/Academic-Studies/english-lit/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## English Literature
 
@@ -27,39 +28,4 @@ Literature, rooted in life and centuries of human experience, is a mode of creat
 | Introduction to the Novella  | Creative-Writing  | Intertextuality  | Critical Approaches to Studying Literature  |
 |   |   |   |   |
 
-#### Gallery
-
-<img src="/images/teacher explaining.jpg" style="width:49%" align=right>
-
-Our Literature students engage with local publishers to learn more about writing local stories and the local publishing scene. This is our Year 4 students with our local independent publisher, Edmund Wee of Epigram Books.
-<br clear=right>
-
-<img src="/images/Learning together.jpg" style="width:49%" align=right>
-
-Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
-<br clear=right>
-
-<img src="/images/literature competition.jpg" style="width:49%" align=right>
-
-Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
-<br clear=right>
-
-<img src="/images/Literature show.jpg" style="width:49%" align=right>
-
-Students present literary critical thought and research at the annual Literature Seminar, organised by MOE Gifted Education Branch.
-<br clear=right>
-
-<img src="/images/Lesson.jpg" style="width:49%" align=right>
-
-Our students share their love for Literature at the annual National Schools Literature Festival, participating in book trailer competitions and the unseen debates.
-<br clear=right>
-
-<img src="/images/Group activity.jpg" style="width:49%" align=right>
-
-Making connections across disciplines through the comparison of Art with the craft of the short story, in collaboration with peers from Raffles Institution.
-<br clear=right>
-
-<img src="/images/literature talk.jpg" style="width:40%" align=right>
-
-Learning about the art and purpose of poetic expression with one of our poets, Jennifer Anner Champion.
-<br clear=right>
+![](/images/englit.png)

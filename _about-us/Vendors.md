@@ -28,8 +28,7 @@ contract is renewable on a yearly basis, subject to good performance.</p>
 <p>1. Stall holder and assistant(s) must be Singapore Citizens or Singapore
 Permanent Residents</p>
 <p>2. Able to provide food that meet the health/nutritional standards set
-by the Health Promotion Board <a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Singapore Programme</a>
-</p>
+by the Health Promotion Board <a href="https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme </a>.</p>
 <p>3. Able to provide good service and quality food at reasonable prices
 (to be determined in consultation with the School)</p>
 <p>4. Able to observe high standard of food and personal hygiene</p>
@@ -46,7 +45,7 @@ the Singapore Food Agency (SFA)</p>
 as needed in the running of a stall</p>
 <p>12. Any other criteria set by the School</p>
 <h4><strong>Application Procedures</strong></h4>
-<p><a href="/files/Existing_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a> must
+<p><a href="/files/RExisting_Stall_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> must
 be duly completed and accompanied with the following documents:</p>
 <p>1. One recent passport-sized coloured photograph</p>
 <p>2. Photocopy of applicant’s NRIC (front and back)</p>

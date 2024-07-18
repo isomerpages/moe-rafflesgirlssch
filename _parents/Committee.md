@@ -10,7 +10,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +53,7 @@ variant: tiptap
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Cheah Ming Chung</p>
+<p>Mr Kevin Cheah</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +198,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg">
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

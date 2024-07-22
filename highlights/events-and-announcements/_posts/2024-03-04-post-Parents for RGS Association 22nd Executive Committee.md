@@ -23,7 +23,12 @@ into office:</p>
 </div>
 <p></p>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +96,7 @@ into office:</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Cheah Ming Chung&nbsp;</p>
+<p>Mr Kevin Cheah&nbsp;</p>
 </td>
 </tr>
 <tr>

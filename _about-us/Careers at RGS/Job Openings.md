@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>We invite highly passionate individuals who share the dream for our girls to join us as:</strong>
 </p>
-<h3>TEACHING POSITIONS</h3>
+<h3><strong>TEACHING POSITIONS</strong></h3>
 <p>Be part of a team that learns and grows together, designs forward-looking
 curriculum, and boldly explores approaches for nurturing high-ability learners,</p>
 <p>Join us, for a unique opportunity to hone the craft of teaching and to
@@ -219,6 +219,84 @@ Diploma in Education (PGDE)</p>
 </li>
 </ul>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
+<h4><strong>Executive, Research</strong></h4>
+<p>We are seeking a dedicated Research Executive to join our team. This role
+involves conducting and supporting educational research, analyzing school-based
+data, and assisting with the Centre's events and publications. The ideal
+candidate will possess strong research skills and a keen interest in educational
+improvement.</p>
+<p>Your job responsibilities are:</p>
+<p><strong>Research and Data Analysis</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct literature reviews to support ongoing research projects.</p>
+</li>
+<li>
+<p>Gather, transcribe, and analyze qualitative and quantitative data.</p>
+</li>
+<li>
+<p>Analyse school-based data, such as internal surveys and dialogues, to
+generate actionable insights.</p>
+</li>
+</ul>
+<p><strong>Research Support</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist teachers in data collection, analysis, and the application of research
+findings to improve educational practices.</p>
+</li>
+</ul>
+<p><strong>Publication and Presentation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Coordinate the production of the Centre's research publications, ensuring
+high-quality standards and timely output.</p>
+</li>
+<li>
+<p>Prepare and deliver presentations to diverse audiences, effectively communicating
+research findings.</p>
+</li>
+</ul>
+<p><strong>Event Support</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist in organising the Centre’s events, including workshops and the
+biennial Symposium, to foster knowledge sharing and professional development.</p>
+</li>
+</ul>
+<p><strong>Website and Resource Management</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Manage the Centre’s website and resource repository, ensuring documentation
+is up-to-date and easily accessible.</p>
+</li>
+<li>
+<p>Liaise with Corporate Communications and other relevant parties to maintain
+and update website resources.</p>
+</li>
+</ul>
+<p><strong>Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor's degree in Mathematics, Psychology, Education, or a related
+field.</p>
+</li>
+<li>
+<p>Previous experience in research and data analysis, as well as supporting
+educational research projects, would be advantageous.</p>
+</li>
+<li>
+<p>Proficiency in statistical analysis software and content management system
+with excellent communication and collaboration skills.</p>
+</li>
+</ul>
+<p></p>
 <h4><strong>Executive, Finance (9 months contract)</strong></h4>
 <p>To assist Assistant Finance Manager in processing monthly close, managing
 daily operations, and ensuring the accuracy and timeliness of financial

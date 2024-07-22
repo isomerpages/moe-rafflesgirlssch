@@ -149,7 +149,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Sheng</p>
+<p>Dr Chen Sheng</p>
 </td>
 </tr>
 <tr>

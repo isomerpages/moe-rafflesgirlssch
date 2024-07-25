@@ -84,7 +84,7 @@ Engagement</p>
 <p>Ms&nbsp;Valerie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal</p>
+<p>Deputy Principal, Academic Studies</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Management</p>

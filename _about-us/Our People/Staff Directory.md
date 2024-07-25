@@ -51,7 +51,7 @@ variant: tiptap
 <p>Valerie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal</p>
+<p>Deputy Principal, Academic Studies</p>
 </td>
 </tr>
 <tr>

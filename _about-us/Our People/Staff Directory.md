@@ -130,7 +130,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Gerald Teh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lai Siew Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mak Hwei Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -155,14 +171,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yeo Puay Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mak Hwei Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -207,7 +215,7 @@ variant: tiptap
 <p>Michelle Liu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, English Language</p>
+<p>Assistant Head, English Language</p>
 </td>
 </tr>
 <tr>
@@ -342,6 +350,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Audrey Tan Beng Foon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Gwendalyn Too</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -398,7 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Syazwani Binte Amrun</p>
+<p>Siti Zakiah Binte Sidek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -406,7 +422,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audrey Tan Beng Foon</p>
+<p>Syazwani Binte Amrun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -480,7 +496,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Kum Meng Dee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kumbalingam Uthaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wan Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -492,6 +524,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Molyyati Binte Shahwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Languages</p>
 </td>
 </tr>
 <tr>
@@ -528,6 +568,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Sio Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nuraini Bt Abdul Gapor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +584,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Safiah Binte Ani</p>
+<p>Nur Zakiyah Binte Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Savethiri D/O Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -553,46 +609,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wee Xiumei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Savethiri D/O Arumugam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Zakiyah Binte Zakariah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Wan Rong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kum Meng Dee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Sio Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -637,7 +653,7 @@ variant: tiptap
 <p>Wang Siao Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, Mathematics</p>
+<p>Assistant Head, Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -788,14 +804,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sandy Mo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sophia Sim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,6 +813,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tan Hai Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Yea Bih</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -894,6 +910,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Deborah Roshni Rajaratnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jeffrey Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -927,6 +951,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Neo Yining</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nerine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Wei Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -975,30 +1015,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yang Kian Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nerine Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deborah Roshni Rajaratnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Wei Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1158,14 +1174,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Head, Service Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -1378,14 +1386,6 @@ variant: tiptap
 <p>Attendant, Home Economics</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Estate</u></strong>
@@ -1407,6 +1407,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Leong Fook Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manager, Operations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lok Mun Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Manager, Operations</p>
@@ -1794,6 +1802,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sarah Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education &amp; Career Guidance Counsellor</p>
 </td>
 </tr>
 <tr>

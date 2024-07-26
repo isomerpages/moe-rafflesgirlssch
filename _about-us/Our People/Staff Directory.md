@@ -109,7 +109,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -130,7 +130,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Gerald Teh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lai Siew Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mak Hwei Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -160,14 +176,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mak Hwei Yoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - English Language &amp; Literature</u></strong>
@@ -183,7 +191,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -207,7 +215,7 @@ variant: tiptap
 <p>Michelle Liu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, English Language</p>
+<p>Assistant Head, English Language</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +305,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -335,6 +343,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Asmizar Bin Abu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Audrey Tan Beng Foon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -398,7 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Syazwani Binte Amrun</p>
+<p>Siti Zakiah Binte Sidek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -406,7 +422,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audrey Tan Beng Foon</p>
+<p>Syazwani Binte Amrun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -427,7 +443,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -480,7 +496,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Kum Meng Dee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Kumbalingam Uthaman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lee Wan Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -492,6 +524,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Molyyati Binte Shahwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Languages</p>
 </td>
 </tr>
 <tr>
@@ -528,6 +568,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ng Sio Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nuraini Bt Abdul Gapor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -536,7 +584,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Safiah Binte Ani</p>
+<p>Nur Zakiyah Binte Zakariah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Savethiri D/O Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -558,46 +614,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Savethiri D/O Arumugam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Zakiyah Binte Zakariah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lee Wan Rong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kum Meng Dee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Sio Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Mathematics</u></strong>
@@ -613,7 +629,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -637,7 +653,7 @@ variant: tiptap
 <p>Wang Siao Hua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, Mathematics</p>
+<p>Assistant Head, Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -751,7 +767,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -788,14 +804,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sandy Mo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sophia Sim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -805,6 +813,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tan Hai Nee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tay Yea Bih</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -825,7 +841,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -894,6 +910,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Deborah Roshni Rajaratnam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Jeffrey Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -927,6 +951,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Neo Yining</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nerine Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Wei Jian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -980,30 +1020,6 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nerine Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deborah Roshni Rajaratnam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Wei Jian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Centre for Pedagogical Research &amp; Learning</u></strong>
@@ -1019,7 +1035,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1125,7 +1141,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1160,14 +1176,6 @@ variant: tiptap
 <p>Assistant Head, Service Learning</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Talent Development</u></strong>
@@ -1183,7 +1191,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1217,7 +1225,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1275,7 +1283,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1301,7 +1309,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1359,7 +1367,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>PDesignation</p>
 </th>
 </tr>
 <tr>
@@ -1378,14 +1386,6 @@ variant: tiptap
 <p>Attendant, Home Economics</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Estate</u></strong>
@@ -1401,12 +1401,20 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Leong Fook Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manager, Operations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lok Mun Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Manager, Operations</p>
@@ -1443,7 +1451,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1511,7 +1519,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1553,7 +1561,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1653,7 +1661,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1727,7 +1735,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1769,7 +1777,7 @@ variant: tiptap
 <p>Staff Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Position</p>
+<p>Designation</p>
 </th>
 </tr>
 <tr>
@@ -1794,6 +1802,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sarah Ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education &amp; Career Guidance Counsellor</p>
 </td>
 </tr>
 <tr>

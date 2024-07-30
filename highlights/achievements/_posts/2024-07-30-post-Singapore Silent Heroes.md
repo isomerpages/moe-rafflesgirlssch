@@ -19,12 +19,11 @@ and missions.</p>
 <p>In 2023, CAS introduced the SSH Student Award to acknowledge local students
 from various schools for their acts of kindness.</p>
 <p>We are proud to announce that the following students have received the
-award for their outstanding contributions during their CmPS project:</p>
+award for their outstanding contributions during their student-initiated
+project:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asini Senthilnathan, S404 - Project Enjo</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Asini was a leading member of Project Enjo, a completely student-initiated
 project that began in early 2023. The team, comprising 7 students,&nbsp;has
 steadfastly supported children under Brighton Connection’s care during
@@ -32,12 +31,8 @@ the school holidays. Their focus on developing character, values, and academic
 support through engaging activities has made a positive impact on the lives
 of these children.</p>
 </li>
-</ul>
-</li>
 <li>
 <p>Janhvi, S406 - Project STEMulate</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Janhvi is one of the leading members of Project STEMulate, another student-initiated
 project that started in early 2023. This team, comprising 7 students, meaningfully
 engages&nbsp;children in STEM-related activities during school holidays,
@@ -45,12 +40,8 @@ offering&nbsp;opportunities to explore, create, and innovate. Janhvi served
 as the main liaison with the Beyond Social Services staff, taking time
 to build a relationship with them and understand their needs.</p>
 </li>
-</ul>
-</li>
 <li>
 <p>Bhattacharyya Atreyi, S406 - Project STEMulate</p>
-</li>
-<li>
 <p>Atreyi is a leading member of Project STEMulate which comprises 7 students.
 She was instrumental in spearheading and steering this completely student-initiated
 project which started in early 2023. This initiative provides educationally

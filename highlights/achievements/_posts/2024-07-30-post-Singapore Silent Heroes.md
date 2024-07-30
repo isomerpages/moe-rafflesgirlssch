@@ -19,7 +19,8 @@ and missions.</p>
 <p>In 2023, CAS introduced the SSH Student Award to acknowledge local students
 from various schools for their acts of kindness.</p>
 <p>We are proud to announce that the following students have received the
-award for their outstanding contributions during their CmPS project:</p>
+award for their outstanding contributions during their student-initiated
+project:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Asini Senthilnathan, S404 - Project Enjo</p>

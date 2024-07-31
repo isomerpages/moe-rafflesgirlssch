@@ -23,8 +23,8 @@ award for their outstanding contributions during their student-initiated
 project:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Asini Senthilnathan, S404 - Project Enjo</p>
-<p>Asini was a leading member of Project Enjo, a completely student-initiated
+<p>Hasini Senthilnathan, S404 - Project Enjo</p>
+<p>Hasini was a leading member of Project Enjo, a completely student-initiated
 project that began in early 2023. The team, comprising 7 students,&nbsp;has
 steadfastly supported children under Brighton Connection’s care during
 the school holidays. Their focus on developing character, values, and academic

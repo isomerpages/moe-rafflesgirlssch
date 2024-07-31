@@ -4,4 +4,5 @@ permalink: /prgs-merchandise/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>Be a part of the Raffles family and purchase limited edition PRGS merchandise
+here!</p>

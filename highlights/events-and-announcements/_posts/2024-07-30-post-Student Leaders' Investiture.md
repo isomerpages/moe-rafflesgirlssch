@@ -9,9 +9,8 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/120_IMG_6275.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/englishweb.jpg">
 </div>
-<p></p>
 <p>Our Year 3 student leaders were officially invested into their new leadership
 roles at the annual Student Leaders’ Investiture. We were delighted to
 have Ms Serene Tan-Johnson (Class of 1997) grace the event.</p>

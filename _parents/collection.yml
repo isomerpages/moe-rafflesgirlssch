@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - PRGS Merchandise.md
       - Welcome.md
       - Committee.md
       - Events.md
       - Membership.md
+      - PRGS Merchandise.md
       - Parents Gateway.md
       - Parents Portal.md

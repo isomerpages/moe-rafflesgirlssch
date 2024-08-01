@@ -1406,14 +1406,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leong Fook Weng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Manager, Operations</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Lok Mun Leng</p>
 </td>
 <td rowspan="1" colspan="1">

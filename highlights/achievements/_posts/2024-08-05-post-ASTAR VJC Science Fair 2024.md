@@ -73,6 +73,7 @@ Mdm Cindy Tiong Team members: Tan De Ting Trina (S4-01), Tan Si En Alexis
 </div>
 </div>
 </div>
+<hr>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

@@ -40,7 +40,7 @@ Sarah Ashley Tan (S414)</div>
 <div class="isomer-card-title">Development and Characterisation of Bioplastics Derived from Fermented
 Rice and Rice Husk: A Sustainable Alternative to Conventional Plastics</div>
 <div class="isomer-card-description">Achievement: Bronze Award (Upper Secondary Category) Mentor: Mdm Cindy
-Tiong Team members: Ge Jingyi (S412), Kaelyn Yeo (S414) &amp; Zhong Ruoxuan
+Tiong Team Members: Ge Jingyi (S412), Kaelyn Yeo (S414) &amp; Zhong Ruoxuan
 (S414)</div>
 </div>
 </div>
@@ -55,7 +55,7 @@ Tiong Team members: Ge Jingyi (S412), Kaelyn Yeo (S414) &amp; Zhong Ruoxuan
 <div class="isomer-card-body">
 <div class="isomer-card-title">Effectiveness of fruit peels as bioflocculants for wastewater treatment</div>
 <div class="isomer-card-description">Achievement: Merit Award (Upper Secondary Category) Mentor: Mdm Cindy
-Tiong Team members: Khoo Shu Yuan (S410) Zeng Ziqian (S410)</div>
+Tiong Team Members: Khoo Shu Yuan (S410) Zeng Ziqian (S410)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -67,8 +67,8 @@ Tiong Team members: Khoo Shu Yuan (S410) Zeng Ziqian (S410)</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Effects of tannins on the adhesive properties of rice glue</div>
 <div class="isomer-card-description">Achievement: Certificate of Participation (Upper Secondary Category) Mentor:
-Mdm Cindy Tiong Team members: Tan De Ting Trina (S4-01), Tan Si En Alexis
-(S4-09) &amp; Wu Qingxuan (S4-09)</div>
+Mdm Cindy Tiong Team Members: Tan De Ting Trina (S401), Tan Si En Alexis
+(S409) &amp; Wu Qingxuan (S409)</div>
 </div>
 </div>
 </div>

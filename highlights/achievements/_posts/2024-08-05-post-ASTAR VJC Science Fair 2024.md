@@ -45,7 +45,6 @@ Tiong Team members: Ge Jingyi (S412), Kaelyn Yeo (S414) &amp; Zhong Ruoxuan
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -74,7 +73,7 @@ Mdm Cindy Tiong Team members: Tan De Ting Trina (S4-01), Tan Si En Alexis
 </div>
 </div>
 <hr>
-<p></p>
+<h3>Student Reflections</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">

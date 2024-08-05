@@ -19,7 +19,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Video Title: Turning Ideas Into Reality</strong>
-<br>Created by Tan De Ting Trina (S401) &amp;Sreya Areekkara Poduvattil (S406)</p>
+<br>Created by Tan De Ting Trina (S401) &amp; Sreya Areekkara Poduvattil (S406)</p>
 </li>
 <li>
 <p><strong>Video Title: Cookies</strong>

@@ -30,14 +30,10 @@ was held on 9 July 2024 followed by the Prize Presentation on 12 July 2024.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Project Title:</strong>
-</p>
-<p>Investigating the bioleaching of electronic-waste by indigenous microorganisms
-(IMO)</p>
+<p><strong>Project Title: </strong>Investigating the bioleaching of electronic-waste
+by indigenous microorganisms (IMO)</p>
 <p></p>
-<p><strong>Achievement:</strong>
-</p>
-<p>Bronze Award (Upper Secondary Category)</p>
+<p><strong>Achievement: </strong>Bronze Award (Upper Secondary Category)</p>
 <p></p>
 <p><strong>Mentor: </strong>Dr Jeffrey Lee</p>
 <p></p>

@@ -15,96 +15,64 @@ data collection and literature review</p>
 <p>This year, four teams from RGS participated in the Science fair. The judging
 was held on 9 July 2024 followed by the Prize Presentation on 12 July 2024.</p>
 <p></p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/avjc1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Investigating the bioleaching of electronic-waste by indigenous microorganisms (IMO)" src="/images/vjjjc.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Project Title: </strong>Investigating the bioleaching of electronic-waste
-by indigenous microorganisms (IMO)</p>
-<p></p>
-<p><strong>Achievement: </strong>Bronze Award (Upper Secondary Category)</p>
-<p></p>
-<p><strong>Mentor: </strong>Dr Jeffrey Lee</p>
-<p></p>
-<p><strong>Team members:</strong>
-</p>
-<p>Lim Kai Xin Isabelle (S401)</p>
-<p>Sun Yixuan (S411)</p>
-<p>Sarah Ashley Tan (S414)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Investigating the bioleaching of electronic-waste by indigenous microorganisms
+(IMO)</div>
+<div class="isomer-card-description">Achievement: Bronze Award (Upper Secondary Category) Mentor: Dr Jeffrey
+Lee Team members: Lim Kai Xin Isabelle (S401), Sun Yixuan (S411) &amp;
+Sarah Ashley Tan (S414)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS wearing medals" src="/images/avjc2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Development and Characterisation of Bioplastics Derived from Fermented Rice and Rice Husk: A Sustainable Alternative to Conventional Plastics" src="/images/vjjjc1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Project Title: </strong>Development and Characterisation of Bioplastics
-Derived from Fermented Rice and Rice Husk: A Sustainable Alternative to
-Conventional Plastics</p>
-<p><strong>Achievement: </strong>Bronze Award (Upper Secondary Category)</p>
-<p><strong>Mentor:</strong> Mdm Cindy Tiong</p>
-<p><strong>Team members:</strong>
-</p>
-<p>Ge Jingyi (S412)</p>
-<p>Kaelyn Yeo (S414)</p>
-<p>Zhong Ruoxuan (S414)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Development and Characterisation of Bioplastics Derived from Fermented
+Rice and Rice Husk: A Sustainable Alternative to Conventional Plastics</div>
+<div class="isomer-card-description">Achievement: Bronze Award (Upper Secondary Category) Mentor: Mdm Cindy
+Tiong Team members: Ge Jingyi (S412), Kaelyn Yeo (S414) &amp; Zhong Ruoxuan
+(S414)</div>
+</div>
+</div>
+</div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/avjc3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Effectiveness of fruit peels as bioflocculants for wastewater treatment" src="/images/vjjjc2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Project Title:</strong> Effectiveness of fruit peels as bioflocculants
-for wastewater treatment</p>
-<p><strong>Achievement:</strong> Merit Award (Upper Secondary Category)</p>
-<p>Mentor: Mdm Cindy Tiong</p>
-<p><strong>Team members:</strong>
-</p>
-<p>Khoo Shu Yuan (S410)</p>
-<p>Zeng Ziqian (S410)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Effectiveness of fruit peels as bioflocculants for wastewater treatment</div>
+<div class="isomer-card-description">Achievement: Merit Award (Upper Secondary Category) Mentor: Mdm Cindy
+Tiong Team members: Khoo Shu Yuan (S410) Zeng Ziqian (S410)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/avjc4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Effects of tannins on the adhesive properties of  rice glue" src="/images/vjjjc3.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Project Title:</strong> Effects of tannins on the adhesive properties
-of</p>
-<p>rice glue</p>
-<p><strong>Achievement: </strong>Certificate of Participation (Upper Secondary
-Category)</p>
-<p><strong>Mentor: </strong>Mdm Cindy Tiong</p>
-<p><strong>Team members:</strong>
-</p>
-<p>Tan De Ting Trina (S4-01)</p>
-<p>Tan Si En Alexis (S4-09)</p>
-<p>Wu Qingxuan (S4-09)</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Effects of tannins on the adhesive properties of rice glue</div>
+<div class="isomer-card-description">Achievement: Certificate of Participation (Upper Secondary Category) Mentor:
+Mdm Cindy Tiong Team members: Tan De Ting Trina (S4-01), Tan Si En Alexis
+(S4-09) &amp; Wu Qingxuan (S4-09)</div>
+</div>
+</div>
+</div>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

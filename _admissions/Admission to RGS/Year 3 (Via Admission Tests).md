@@ -95,7 +95,7 @@ and Science.</p>
 <p>DO NOT submit any documents, original or otherwise, as all documents submitted
 will not be returned. Applicants must be prepared to produce the original
 documents for verification purposes upon request, if necessary.</p>
-<p>Please click <a href="https://form.gov.sg/6625e21104c40c0f8d108bac" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+<p>Please click <a href="https://form.gov.sg/66b30d0e6b28275af2fd3845" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
 apply. This e-application form will only be accessible during the application
 period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>

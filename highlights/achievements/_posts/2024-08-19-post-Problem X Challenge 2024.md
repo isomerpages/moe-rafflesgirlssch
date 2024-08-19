@@ -100,8 +100,7 @@ award. Another team also received a special award for their submission.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Team 5</strong>
-<br>Klarisse Ng Shee Chin (S312)
-<br>(Huang Shiqing) (S312)
+<br>Klarisse Ng Shee Chin (Huang Shiqing) (S312)
 <br>Gao Ziyi (S310)
 <br>Lim Min Amelia (S310)</p>
 </td>

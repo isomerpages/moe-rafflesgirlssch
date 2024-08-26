@@ -61,6 +61,8 @@ At the 2024 SJChO, RGS performed admirably and was placed in Band 2.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Junior Chemistry Olympiad (SJChO)" src="/images/sjcho24.png">
 </div>
-<p>Ge Jingyi (S412) achieved the highest overall score in the competition.</p>
+<p>Ge Jingyi (S412) achieved the highest overall score in the competition:</p>
+<p><em>"RGS equipped me with a solid grounding in Chemistry, crucial for excelling in SJChO. The rigorous curriculum, supportive environment, and additional training sessions fostered both my analytical skills and resilience. This journey has pushed me to extend my understanding of Chemistry beyond the textbook, exploring complex concepts and real-world applications."</em>
+</p>
 <p>To find out more, visit <a href="https://snic.org.sg/index.php/event/sjcho" rel="noopener noreferrer nofollow" target="_blank">https://snic.org.sg/index.php/event/sjcho</a>
 </p>

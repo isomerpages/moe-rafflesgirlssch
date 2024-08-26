@@ -90,7 +90,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 <p>Jiang Wu Julia (Leader)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-13</p>
+<p>S413</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +98,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 <p>Xiang Siyue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-09</p>
+<p>S409</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 <p>Chen Anhan Alice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-10</p>
+<p>S410</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +114,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 <p>June Tay Yi Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S4-12</p>
+<p>S412</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 <p>Tang Chiao Yuan (Reserve)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S3-11</p>
+<p>S311</p>
 </td>
 </tr>
 </tbody>

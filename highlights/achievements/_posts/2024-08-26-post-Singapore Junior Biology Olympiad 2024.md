@@ -127,4 +127,7 @@ Despite stiff competition from other schools, we performed admirably, securing
 </tr>
 </tbody>
 </table>
+<p>Student Reflection:</p>
+<p><em>"Our SJBO journey started from the theory round to the practical round. The theory round laid a strong foundation for our understanding, honing our critical thinking skills. Transitioning to the practical round, we were given hands-on experience that allowed us to apply what we had learned in real-world scenarios. The practical round was held at Gardens by the Bay, which developed our newfound love and appreciation for plants. RGS provided us with excellent resources, and practical sessions that were both informative and stimulating, which deepened our interests in biology. We are incredibly thankful for the opportunity to embark on this journey. Our teachers' unwavering support and guidance have been instrumental in our progress, fostering a learning environment that has encouraged curiosity and growth."</em>
+</p>
 <p>To find out more about the competition. visit <a href="https://sjbo.sibiol.org.sg/" rel="noopener nofollow" target="_blank">HERE</a>.</p>

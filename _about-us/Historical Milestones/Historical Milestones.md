@@ -499,6 +499,10 @@ in 2020 and 2021, with a third team starting a science tutoring programme
 this year. Two other teams also deepened their service with Admiralty Primary
 School and Canberra Primary School, tutoring the students in Math.</p>
 <h3>2023</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Haslinda Zamani" src="/images/MsHaslindaZamani.png">
+</div>
 <p>RGS bid farewell to Principal Haslinda Zamani (Dec 2019 to Dec 2023).
 Under her watch, students were empowered to promote green efforts and co-create
 the lived physical environment as they make RGS home e.g. Cogitare set

@@ -29,15 +29,14 @@ to holistic education.</p>
 categories:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Group Category </strong>《温馨四方》<strong>:</strong> Guo Zi Yu Katelyn
-(S203), Pan Yu Hui (S201), Li Shantian (S211), and Ng Xiuyi, Zoey (S211).</p>
+<p><strong>Group Category :</strong>《温馨四方》 Guo Zi Yu Katelyn (S203), Pan
+Yu Hui (S201), Li Shantian (S211), and Ng Xiuyi, Zoey (S211).</p>
 </li>
 <li>
-<p><strong>Open Category </strong>《风吹过的歌》<strong>:</strong> Tan Xuan En (S311).</p>
+<p><strong>Open Category:</strong> Tan Xuan En (S311) with her song 《风吹过的歌》.</p>
 </li>
 <li>
-<p><strong>Individual Category </strong>刺猬的距离》<strong>:</strong> Tan Xuan
-En (S311).</p>
+<p><strong>Individual Category :</strong> Tan Xuan En (S311) with her song《刺猬的距离.</p>
 </li>
 </ul>
 <p>Congratulations to all our winners!</p>

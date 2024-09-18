@@ -22,6 +22,6 @@ Her live performance highlighted her musical talent and stage presence,
 offering a memorable experience for the audience.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Youth Station Project" src="/images/youthlive.png">
+<img style="width: 100%" height="auto" width="100%" alt="ysp24" src="/images/ysp24.png">
 </div>
 <p></p>

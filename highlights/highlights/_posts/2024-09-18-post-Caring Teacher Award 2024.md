@@ -8,10 +8,10 @@ image: /images/cta24.png
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Caring Teacher Award 2024" src="/images/mdmngcaringteacher.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Caring Teacher Award 2024" src="/images/cta244.jpg">
+</div>
 <p>We are delighted to share that our Mathematics teacher, Mdm Ng Peck Wee,
 has been&nbsp;awarded the Caring Teacher Awards (CTA) 2024. She is one
 of only three teachers to receive this prestigious National Level Award.</p>

@@ -10,7 +10,8 @@ variant: tiptap
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Teaching Positions</summary>
+<summary><strong>Teaching Positions (Full Time Teachers &amp; Relief Teachers)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -131,15 +132,6 @@ leadership; and
 <p>Is able to work well, whether in a team or individual setting</p>
 </li>
 </ul>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Relief Teachers</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h3><strong>Relief Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>

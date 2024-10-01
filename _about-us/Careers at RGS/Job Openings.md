@@ -6,15 +6,25 @@ third_nav_title: Careers at RGS
 variant: tiptap
 ---
 <p><strong>We invite highly passionate individuals who share the dream for our girls to join us as:</strong>
+<br>
 </p>
-<h3><strong>TEACHING POSITIONS</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Teaching Positions (Full Time Teachers &amp; Relief Teachers)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Be part of a team that learns and grows together, designs forward-looking
-curriculum, and boldly explores approaches for nurturing high-ability learners,</p>
+curriculum, and boldly explores approaches for nurturing high-ability learners.
+<br>
+</p>
 <p>Join us, for a unique opportunity to hone the craft of teaching and to
 be part of a school environment that values and promotes professional learning.
 Our students are creative, self-disciplined and motivated, and we invite
 you to join us in nurturing them <strong>thinkers</strong>, <strong>leaders</strong> and <strong>pioneers</strong> of
-the future.</p>
+the future.
+<br>
+</p>
 <h3><strong>Full-Time Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -88,38 +98,33 @@ the future.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>We are looking for candidates with the following attributes:</strong>
+<p>
+<br><strong>We are looking for candidates with the following attributes:</strong>
 </p>
 <ul>
 <li>
 <p>Believes first of all in nurturing the child as a whole person, and who
-have a strong belief in every student’s ability and motivation to learn.
-<br>
-</p>
+have a strong belief in every student’s ability and motivation to learn.</p>
 </li>
 <li>
 <p>Possesses at least a Bachelor's Degree from a recognized university with
-relevant teaching subject(s)
-<br>
-</p>
+relevant teaching subject(s)</p>
 </li>
 <li>
 <p>Possesses deep knowledge of their subject discipline and an openness to
 explore connections across disciplines.&nbsp; Our curriculum is developed
 in a constructive context that encourages students to make connections
-across the disciplines.
-<br>
-</p>
+across the disciplines.</p>
 </li>
 <li>
 <p>Believes the teacher is a model, mentor, and coach in the creation of
 a learning environment that challenges students in learning, inquiry and
-leadership; and
-<br>
-</p>
+leadership; and</p>
 </li>
 <li>
-<p>Is able to work well, whether in a team or individual setting</p>
+<p>Is able to work well, whether in a team or individual setting
+<br>
+</p>
 </li>
 </ul>
 <h3><strong>Relief Teachers</strong></h3>
@@ -179,8 +184,11 @@ leadership; and
 </tr>
 </tbody>
 </table>
-<p>The Relief Teacher will assist the respective Head of Department/Assistant
-Head to carry out the following duties:</p>
+<p>
+<br>The Relief Teacher will assist the respective Head of Department/Assistant
+Head to carry out the following duties:
+<br>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Prepare lessons according to the department's requirements</p>
@@ -198,7 +206,9 @@ lessons&nbsp;</p>
 <li>
 <p>Communicate with parents of the pupil with regard to behaviour in school,
 academic&nbsp; performance or any intervention that is necessary for the
-well-being of the pupil</p>
+well-being of the pupil
+<br>
+</p>
 </li>
 </ul>
 <p><strong>Job Requirements</strong>
@@ -218,10 +228,20 @@ Diploma in Education (PGDE)</p>
 <p>Excellent communication and interpersonal skills</p>
 </li>
 </ul>
-<h3><strong>NON TEACHING POSITIONS</strong></h3>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Non Teaching Positions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4><strong>Officer, Information Technology</strong></h4>
 <p>You will report to the Assistant Manager, Information Technology in the
-following areas:</p>
+following areas:
+<br>
+</p>
 <p><strong><u>Information Technology and Information Management</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -264,7 +284,9 @@ as an information provider and user.</p>
 </li>
 <li>
 <p>Create user guides and instructional videos as part of IT Educational
-Program.</p>
+Program.
+<br>
+</p>
 </li>
 </ul>
 <p><strong><u>Data Mining and Analysis</u></strong>
@@ -297,16 +319,24 @@ and back-up</p>
 <p>Knowledge in Microsoft SharePoint Administrations, and Power shell scripting</p>
 </li>
 <li>
-<p>Familiarity with Visual Studio 2017 and SharePoint Designer<strong>&nbsp;&nbsp;</strong>
+<p>Familiarity with Visual Studio 2017 and SharePoint Designer<strong>&nbsp;</strong>
+<br><strong>&nbsp;</strong>
 </p>
 </li>
 </ul>
 <p><strong>Behavioural Skills</strong>: Effective Communication, independent
-worker with good interpersonal skills</p>
-<p><strong>Language Skills</strong>: Strong in verbal and written English</p>
+worker with good interpersonal skills
+<br>
+</p>
+<p><strong>Language Skills</strong>: Strong in verbal and written English
+<br>
+</p>
 <p><strong>Experience</strong>: Minimum 1-year working experience in web
 programming and working&nbsp;with relational database systems (SQL) and
 VB.NET, ASP.NET, HTML/XHTML and CSS.</p>
+</div>
+</details>
+</div>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

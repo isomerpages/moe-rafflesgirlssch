@@ -219,7 +219,94 @@ Diploma in Education (PGDE)</p>
 </li>
 </ul>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
-<p>There are currently no positions available.</p>
+<h4><strong>Officer, Information Technology</strong></h4>
+<p>You will report to the Assistant Manager, Information Technology in the
+following areas:</p>
+<p><strong><u>Information Technology and Information Management</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Review and assess school IT’s needs and make recommendations.</p>
+</li>
+<li>
+<p>Confirm project requirements by understanding the objective, input and
+output requirements provided by the school and/or supervisor.</p>
+<p>Design and create SQL Server databases as per school requirements.</p>
+</li>
+<li>
+<p>Develop and maintain custom web applications.</p>
+</li>
+<li>
+<p>Perform routine maintenance of existing web and database applications.</p>
+</li>
+<li>
+<p>Review and upgrade systems to address any AFI. Coordinate with vendor
+if under vendor maintenance agreement.</p>
+</li>
+<li>
+<p>Maintain technical documentation of in house applications</p>
+</li>
+<li>
+<p>Create online custom lists, forms and surveys for data gathering.</p>
+</li>
+<li>
+<p>Provide support to end-users.</p>
+</li>
+</ul>
+<p>
+<br><strong><u>Education</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist in educating staff and students on the school’s IT system and Standard
+Operating Procedures so that staff and students know their responsibilities
+as an information provider and user.</p>
+</li>
+<li>
+<p>Create user guides and instructional videos as part of IT Educational
+Program.</p>
+</li>
+</ul>
+<p><strong><u>Data Mining and Analysis</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist in data preparation for analysis and reporting.</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Requirements</u></strong>
+</p>
+<p><strong>Qualifications</strong>: Minimum Diploma</p>
+<p><strong>Technical Skills</strong>: Proficiency in HTML, CSS, JavaScript(ES6
+or node.js)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Experience developing with Microsoft technologies such as .NET, C#, VB.NET,
+SQL, ASP.NET, Web Development (MVC) using IIS</p>
+</li>
+<li>
+<p>Experience with Window Server 2016/2019/2022, Active Directory, Web and
+SharePoint on-Premise server</p>
+</li>
+<li>
+<p>SQL Server 2012/ 2014/ 2016, SSIS, SSRS writing queries, functions, indexes
+and back-up</p>
+</li>
+<li>
+<p>Knowledge in Microsoft SharePoint Administrations, and Power shell scripting</p>
+</li>
+<li>
+<p>Familiarity with Visual Studio 2017 and SharePoint Designer<strong>&nbsp;&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p><strong>Behavioural Skills</strong>: Effective Communication, independent
+worker with good interpersonal skills</p>
+<p><strong>Language Skills</strong>: Strong in verbal and written English</p>
+<p><strong>Experience</strong>: Minimum 1-year working experience in web
+programming and working&nbsp;with relational database systems (SQL) and
+VB.NET, ASP.NET, HTML/XHTML and CSS.</p>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

@@ -7,6 +7,15 @@ variant: tiptap
 ---
 <p><strong>We invite highly passionate individuals who share the dream for our girls to join us as:</strong>
 </p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Teaching Positions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3><strong>TEACHING POSITIONS</strong></h3>
 <p>Be part of a team that learns and grows together, designs forward-looking
 curriculum, and boldly explores approaches for nurturing high-ability learners,</p>
@@ -122,6 +131,15 @@ leadership; and
 <p>Is able to work well, whether in a team or individual setting</p>
 </li>
 </ul>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Relief Teachers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3><strong>Relief Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -218,6 +236,14 @@ Diploma in Education (PGDE)</p>
 <p>Excellent communication and interpersonal skills</p>
 </li>
 </ul>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Non Teaching Postions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3><strong>NON TEACHING POSITIONS</strong></h3>
 <h4><strong>Officer, Information Technology</strong></h4>
 <p>You will report to the Assistant Manager, Information Technology in the

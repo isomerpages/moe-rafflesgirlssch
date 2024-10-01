@@ -238,7 +238,7 @@ Diploma in Education (PGDE)</p>
 </ul>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Non Teaching Postions</summary>
+<summary>Non Teaching Positions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>

@@ -251,7 +251,7 @@ following areas:
 <li>
 <p>Confirm project requirements by understanding the objective, input and
 output requirements provided by the school and/or supervisor.</p>
-<p>Design and create SQL Server databases as per school requirements.</p>
+<p>Design and create SQL Server databases as per school needs.</p>
 </li>
 <li>
 <p>Develop and maintain custom web applications.</p>

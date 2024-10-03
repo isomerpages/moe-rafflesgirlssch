@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SJPO 2024" src="/images/IMG_8714.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8718.jpg">
 </div>
 <p>Our students took part in the Singapore Junior Physics Olympiad (SJPO)
 2024 and achieved the following results:</p>

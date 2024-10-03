@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Physics League (SPhL)" src="/images/IMG_8718.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8714.jpg">
 </div>
 <p>Our students took part in the 2024 Singapore Physics League (Junior Category)
 and achieved the following results:</p>

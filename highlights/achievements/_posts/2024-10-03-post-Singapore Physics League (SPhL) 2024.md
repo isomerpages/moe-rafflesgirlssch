@@ -21,7 +21,7 @@ and achieved the following results:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Award (Individual)</strong>
+<p><strong>Award (Team)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

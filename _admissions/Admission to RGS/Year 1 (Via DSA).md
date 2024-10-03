@@ -117,5 +117,5 @@ documents for verification purposes upon request when necessary.</p>
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>
 </p>
-<p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="admissions@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a> or
-call 6737 1845 / 6970 6442.</p>
+<p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="admissions@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a>
+</p>

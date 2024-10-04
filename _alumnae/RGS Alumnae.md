@@ -103,6 +103,7 @@ RGS.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Treasurer</p>
+<p>(Co-opted Member)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Peck Ngo (Class of 1979)</p>

@@ -15,7 +15,7 @@ involved in scientific research through the Science Mentorship Programme
 <img style="width: 100%" height="auto" width="100%" alt="Youth Science Conference" src="/images/ysc2.png">
 </div>
 <p>The 30th YSC was held on 14 September at Ngee Ann Polytechnic, showcasing
-10 SMP and 9 SB-SMP projects from RGS. List of all the projects <a href="/files/Youth_Science_Conference_2024_RGS_results.pdf" rel="noopener nofollow" target="_blank">HERE.</a>
+10 SMP and 9 SB-SMP projects from RGS. List of all the projects <a href="/files/Youth_Science_Conference_2024.pdf" rel="noopener nofollow" target="_blank">HERE.</a>
 </p>
 <p>A key moment was the presentation by the RGS SMP team, comprising Jessyn
 Oh Jia Xin (S308), Amelia Tay Juey Oon (S311), and Luo Xindi (S312), whose

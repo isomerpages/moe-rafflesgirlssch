@@ -46,4 +46,23 @@ sections:
           description: People-centred,  Principled, Passionate, Professional
         - title: Goals
           description: Person , Leader, Thinker, Pioneer
+  - textcards:
+      title: Holistic Education
+      id: textcards
+      cards:
+        - title: Character & Leadership Education
+          description: Nurturing the RGS girl to be a leader in service of the nation and
+            community.
+          linktext: Learn more
+          url: https://www.rgs.edu.sg/holistic-education/character-ldr-edu/
+        - title: Service-Learning
+          description: Nurturing students to be socially responsible through
+            meaningful  service.
+          linktext: Learn more
+          url: https://www.rgs.edu.sg/holistic-education/service-learning/
+        - title: Talent Development
+          description: Nurturing talents at RGS to develop leaders committed to excellence
+            and service
+          linktext: Learn more
+          url: https://www.rgs.edu.sg/holistic-education/Talent-Development/td/
 ---

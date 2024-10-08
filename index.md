@@ -50,7 +50,7 @@ sections:
       title: Holistic Education
       id: textcards
       cards:
-        - title: Character & Leadership Education
+        - title: Character & Leadership
           description: Nurturing the RGS girl to be a leader in service of the nation and
             community.
           linktext: Learn more

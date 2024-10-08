@@ -14,6 +14,20 @@ variant: tiptap
 </div>
 <p>Our students took part in the Republic Polytechnic’s (RP) The Media Challenge
 from 11-12 March 2024 and emerged as Champions!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Quek Zhiying (S310)</p>
+</li>
+<li>
+<p>Lee Yining, Megan (S301)</p>
+</li>
+<li>
+<p>Sarah Teo Ling En (S310)</p>
+</li>
+<li>
+<p>Pang Wai Peng, Janelle (S311)</p>
+</li>
+</ul>
 <p>This event, organised by the School of Management and Communication’s
 Diploma in Mass Communication (DMC), provided an invaluable platform for
 media-savvy secondary school students to explore their passion for digital

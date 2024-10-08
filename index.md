@@ -24,9 +24,7 @@ sections:
       subtitle: Stay updated with RGS
       button: Read more
   - infopic:
-      title: Filiae Melioris Aevi
-      subtitle: RGS Corporate Video
-      description: Daughters of a Better Age
+      title: RGS Corporate Video
       button: Watch Video
       url: https://youtu.be/bsFZe7s95Wg
       image: /images/houseschool.JPG

@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <h2>Fees &amp; Scholarship</h2>
 <h4>RGS School Fees</h4>
-<p>For information on RGS School Fees, please click <a href="/files/2024_Sch_fees_info_Existing_for_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For information on RGS School Fees, please click <a href="/files/2025_2026_RGS_Sch_fees.pdf" rel="noopener nofollow" target="_blank">HERE</a>.</p>
+<p>(updated 8 Oct 2024)</p>
 <h4>Scholarships</h4>
 <p><strong>Edusave Scholarships for Independent Schools (ESIS)</strong> 
 <br>These scholarships are offered to academically strong students attending

@@ -237,7 +237,7 @@ Diploma in Education (PGDE)</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>Officer, Information Technology</strong></h4>
+<h4><strong>1. Officer, Information Technology</strong></h4>
 <p>You will report to the Assistant Manager, Information Technology in the
 following areas:
 <br>
@@ -334,6 +334,58 @@ worker with good interpersonal skills
 <p><strong>Experience</strong>: Minimum 1-year working experience in web
 programming and working&nbsp;with relational database systems (SQL) and
 VB.NET, ASP.NET, HTML/XHTML and CSS.</p>
+<p></p>
+<h4><strong>2. Financial Analyst</strong></h4>
+<p></p>
+<p>To assist Assistant Finance Manager in managing finance operations and
+provide financial analysis.
+<br>
+</p>
+<p><strong>Responsibilities:&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reporting on operating results and financial statement positions on a
+monthly, quarterly and annual basis</p>
+</li>
+<li>
+<p>Ensure and support an orderly process for monthly, quarterly and yearly
+closing activities</p>
+</li>
+<li>
+<p>Cost center reporting and analysis</p>
+</li>
+<li>
+<p>Ensure compliant business operations</p>
+</li>
+<li>
+<p>Engage in the Procurement process</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Requirements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Degree in Accounting or its equivalent</p>
+</li>
+<li>
+<p>At least 5 years of working experience in accounting</p>
+</li>
+<li>
+<p>Experience working in an educational institution is an added advantage</p>
+</li>
+<li>
+<p>Proficient in MS Office applications and SAP accounting software</p>
+</li>
+<li>
+<p>Good organizational and communication skills</p>
+</li>
+<li>
+<p>Available for entire contract period</p>
+</li>
+</ul>
+<p></p>
 </div>
 </details>
 </div>

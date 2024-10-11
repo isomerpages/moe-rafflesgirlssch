@@ -45,7 +45,7 @@ the future.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language</p>
+<p>English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>

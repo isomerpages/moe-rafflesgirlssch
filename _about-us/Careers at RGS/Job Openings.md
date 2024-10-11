@@ -45,7 +45,7 @@ the future.
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>General Arts</p>
+<p>English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -53,47 +53,7 @@ the future.
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>Physics</p>
 </td>
 </tr>
 </tbody>
@@ -233,7 +193,7 @@ Diploma in Education (PGDE)</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Non Teaching Positions </strong>
+<summary><strong>Non Teaching Positions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>

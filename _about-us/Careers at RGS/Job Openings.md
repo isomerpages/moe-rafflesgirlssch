@@ -429,7 +429,6 @@ and community engagement.</p>
 <p></p>
 <p><strong>Responsibilities:</strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Perform circulation duties, manage user services, and promote library

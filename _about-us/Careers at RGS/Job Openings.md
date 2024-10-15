@@ -426,10 +426,8 @@ closing activities</p>
 high-quality library services to students and staff. You will play a key
 role in promoting the library as a vital resource for learning, research,
 and community engagement.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Responsibilities:</strong>
-</p>
-<p><strong>&nbsp;</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>

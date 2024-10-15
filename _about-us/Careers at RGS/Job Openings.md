@@ -239,7 +239,6 @@ thrusts and national goals.</p>
 <p></p>
 <p><strong>Requirements</strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Bachelor’s degree in Educational Technology, Computer Science, Computing
@@ -285,6 +284,8 @@ following areas:
 <li>
 <p>Confirm project requirements by understanding the objective, input and
 output requirements provided by the school and/or supervisor.</p>
+</li>
+<li>
 <p>Design and create SQL Server databases as per school needs.</p>
 </li>
 <li>
@@ -353,19 +354,17 @@ and back-up</p>
 <p>Knowledge in Microsoft SharePoint Administrations, and Power shell scripting</p>
 </li>
 <li>
-<p>Familiarity with Visual Studio 2017 and SharePoint Designer<strong>&nbsp;</strong>
-<br><strong>&nbsp;</strong>
+<p>Familiarity with Visual Studio 2017 and SharePoint Designer
+<br>
 </p>
 </li>
 </ul>
 <p><strong>Behavioural Skills</strong>: Effective Communication, independent
 worker with good interpersonal skills
 <br>
-</p>
-<p><strong>Language Skills</strong>: Strong in verbal and written English
+<br><strong>Language Skills</strong>: Strong in verbal and written English
 <br>
-</p>
-<p><strong>Experience</strong>: Minimum 1-year working experience in web
+<br><strong>Experience</strong>: Minimum 1-year working experience in web
 programming and working&nbsp;with relational database systems (SQL) and
 VB.NET, ASP.NET, HTML/XHTML and CSS.</p>
 <p></p>
@@ -503,9 +502,11 @@ in delivery of the CCA Programme to achieve CCA objectives</p>
 <li>
 <p>To monitor students’ participation</p>
 </li>
-</ul>
+<li>
 <p>To assist in coordinating CCA resources for effective CCA delivery and
 ensure that CCA attendance are submitted on time and with accuracy&nbsp;</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Requirements</strong>
 </p>

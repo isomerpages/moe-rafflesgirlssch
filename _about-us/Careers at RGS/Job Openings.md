@@ -420,7 +420,7 @@ closing activities</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>4.  Officer, Library (Temporary)</strong></h4>
+<h4><strong>4. Officer, Library (Temporary)</strong></h4>
 <p></p>
 <p>As a Library Officer, you will assist the Library Manager in delivering
 high-quality library services to students and staff. You will play a key
@@ -492,7 +492,7 @@ and learning.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>5.  CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>5. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

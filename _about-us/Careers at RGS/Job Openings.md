@@ -420,6 +420,112 @@ closing activities</p>
 </li>
 </ul>
 <p></p>
+<h4><strong>4.  Officer, Library (Temporary)</strong></h4>
+<p></p>
+<p>As a Library Officer, you will assist the Library Manager in delivering
+high-quality library services to students and staff. You will play a key
+role in promoting the library as a vital resource for learning, research,
+and community engagement.</p>
+<p>&nbsp;</p>
+<p><strong>Responsibilities:</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform circulation duties, manage user services, and promote library
+collections and services.</p>
+</li>
+<li>
+<p>Compile data for reports and support cataloguing and digital resource
+management.</p>
+</li>
+<li>
+<p>Provide administrative, procurement, and finance-related support.</p>
+</li>
+<li>
+<p>Maintain records of library activities and ensure proper shelving and
+maintenance.</p>
+</li>
+<li>
+<p>Supervise student volunteers and assist with library workshops and programs.</p>
+</li>
+<li>
+<p>Support readers’ advisories, maintain space, and handle ad-hoc duties
+as needed.
+<br>
+</p>
+</li>
+</ul>
+<p><strong>Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Diploma and/or Degree qualification, or equivalent.</p>
+</li>
+<li>
+<p>Excellent communication and customer service abilities.</p>
+</li>
+<li>
+<p>Attention to detail and accuracy in record-keeping.</p>
+</li>
+<li>
+<p>Proficiency in using digital resources e.g., Powerpoint, Canva, Google
+Workspace, Padlet</p>
+</li>
+<li>
+<p>Sound organisational, problem solving and time management skills.</p>
+</li>
+<li>
+<p>A proactive team player who can work independently.</p>
+</li>
+<li>
+<p>Previous experience in a school library environment would be an added
+advantage.</p>
+</li>
+<li>
+<p>A passion for libraries and a commitment to promoting a love of reading
+and learning.</p>
+</li>
+<li>
+<p>Fresh graduates are welcome to apply.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>5.  CCA Flexi Adjunct Teachers</strong></h4>
+<p>Teachers-in-charge of co-curricular activities (CCA) play an important
+role in managing the CCA in a school. Your main responsibilities as a CCA
+teacher are:</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To collaborate with other teachers IC of CCA and the coach/ instructor
+in delivery of the CCA Programme to achieve CCA objectives</p>
+</li>
+<li>
+<p>To monitor students’ participation</p>
+</li>
+</ul>
+<p>To assist in coordinating CCA resources for effective CCA delivery and
+ensure that CCA attendance are submitted on time and with accuracy&nbsp;</p>
+<p></p>
+<p><strong>Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good team player with strong communication and interpersonal skills</p>
+</li>
+<li>
+<p>Able to commit to up to 1 academic year</p>
+</li>
+<li>
+<p>Prior teaching experience or experience working on youth programmes is
+an advantage</p>
+</li>
+<li>
+<p>Registered with MOE as FAJT</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

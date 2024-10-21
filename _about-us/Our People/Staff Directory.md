@@ -1582,14 +1582,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hein Thant Thu Shein</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Officer, Information Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Muhammad Ameen</p>
 </td>
 <td rowspan="1" colspan="1">

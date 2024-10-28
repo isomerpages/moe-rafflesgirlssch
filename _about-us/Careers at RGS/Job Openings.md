@@ -525,6 +525,49 @@ an advantage</p>
 <p>Registered with MOE as FAJT</p>
 </li>
 </ul>
+<p></p>
+<h4><strong>6. Education &amp; Career Guidance Counsellor (6-months)</strong></h4>
+<p></p>
+<p><strong>Education &amp; Career Guidance</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide ECG Counselling for students</p>
+</li>
+<li>
+<p>Prepare or make available ECG resources to students</p>
+</li>
+<li>
+<p>Carry out ECG activities planned for Sem 1, 2025</p>
+</li>
+<li>
+<p>Conduct sessions for students on executive functioning skills and strategies
+(Sports Customisation)</p>
+</li>
+<li>
+<p>Collaborate with MOE ECG counsellor to provide ECG support for the students</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Counselling Services (if trained)</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide counselling support where necessary</p>
+</li>
+</ul>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Requirements</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bachelor’s degree in counselling, or its equivalent.</p>
+</li>
+<li>
+<p>At least one year relevant counselling experience.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

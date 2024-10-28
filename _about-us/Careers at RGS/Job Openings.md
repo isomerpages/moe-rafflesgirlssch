@@ -556,8 +556,6 @@ an advantage</p>
 <p>Provide counselling support where necessary</p>
 </li>
 </ul>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Requirements</strong>
 </p>
 <ul data-tight="true" class="tight">

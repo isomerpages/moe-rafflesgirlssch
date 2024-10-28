@@ -43,6 +43,18 @@ of digital media strategies.</p>
 to pitch their media packages to a panel of judges comprising industry
 experts and DMC lecturers. This experience not only provided them with
 constructive feedback but also honed their presentation skills.</p>
+<p>In recognition of World Mental Health Day on 10 October, McDonald’s Singapore
+announced the launch of its new youth mental wellness initiative, ‘Lovin’
+Me,’ a comprehensive campaign designed to support the emotional well-being
+of young Singaporeans.</p>
+<p>The ‘Lovin’ Me’ campaign, featured a carefully crafted integrated content
+package that focused on raising awareness about mental wellness among Singaporean
+youths.</p>
+<p>These included ideas that were pitched by our RGS girls during their participation
+in Republic Polytechnic’s (RP) The Media Challenge.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rpmedia2.jpg">
+</div>
 <p>This remarkable achievement not only reflects the talent and dedication
 of our students but also underscores the importance of teamwork, innovation,
 and a genuine desire to make a positive impact. We couldn't be prouder

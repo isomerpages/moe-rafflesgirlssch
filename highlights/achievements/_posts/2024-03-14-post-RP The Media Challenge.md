@@ -4,7 +4,7 @@ permalink: /highlights/achievements/rptmc/
 date: 2024-03-14
 layout: post
 description: ""
-image: ""
+image: /images/rpmedia2.jpg
 variant: tiptap
 ---
 <p></p>

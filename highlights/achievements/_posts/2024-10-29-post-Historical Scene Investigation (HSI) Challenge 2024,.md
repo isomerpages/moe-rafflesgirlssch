@@ -7,6 +7,10 @@ description: ""
 image: /images/HSI24.jpg
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsi20244.png">
+</div>
 <p>As part of the History Talent Development Programme at Raffles Girls’
 School (RGS), our Year 2 students participated in the Historical Scene
 Investigation (HSI) Challenge 2024, an annual competition organised by

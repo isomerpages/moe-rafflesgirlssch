@@ -16,7 +16,7 @@ functional and beautiful furniture.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/cupwas24.jpg">
 </div>
-<p>The RGS team demonstrated their creativity and responsibility with the <em>GreenCanvas Cabinet</em>,
+<p>The RGS team demonstrated their creativity with the <em>GreenCanvas Cabinet</em>,
 securing 3rd place in the competition. Their project gave a second life
 to a discarded meeting table, transforming it into accessible storage designed
 for seniors at New Life Community Services. This thoughtful creation promotes

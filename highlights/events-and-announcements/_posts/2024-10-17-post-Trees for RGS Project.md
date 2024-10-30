@@ -23,6 +23,10 @@ an additional 50 trees at a later date, helping to create a natural sound
 barrier between Braddell Road and the Classroom Blocks.</p>
 <p>Funds for the Trees for RGS project were raised through the sales of House
 'Garden-inspired' merchandise, supporting our green initiatives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tree Planting at RGS" src="/images/treemerch.png">
+</div>
 <p>This programme was held in support of the NParks OneMillionTrees movement,
 a nationwide effort to plant a million trees across Singapore. Through
 this collaborative effort, we aim to restore nature to our urban landscape

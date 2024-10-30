@@ -29,4 +29,22 @@ this collaborative effort, we aim to restore nature to our urban landscape
 and build a City in Nature for future generations to enjoy. The OneMillionTrees
 movement is a crucial part of the Singapore Green Plan 2030, which seeks
 to transform our city into a greener, more sustainable environment.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tree Planting" src="/images/treeplantz.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kayla Kam Chun Le (S310) and Mikaela Paige Goh-Earwaker (S310)</div>
+<div class="isomer-card-description">Participating in Project Carb0n’s tree planting session, was a fulfilling
+experience. Through this event, we realised how our individual actions
+like planting the trees, can collectively contribute to a larger positive
+impact on the environment.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p>Together, let’s work towards a greener future!</p>

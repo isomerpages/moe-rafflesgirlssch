@@ -22,7 +22,7 @@ and aim to contribute solutions to real-world challenges.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon</div>
 <div class="isomer-card-description">More projects coming soon</div>
-<div class="isomer-card-link">RGS Website</div>
+<div class="isomer-card-link">Coming soon</div>
 </div>
 </a>
 </div>
@@ -37,50 +37,8 @@ and aim to contribute solutions to real-world challenges.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon</div>
 <div class="isomer-card-description">More projects coming soon</div>
-<div class="isomer-card-link">Coming Soon</div>
+<div class="isomer-card-link">Coming soon</div>
 </div>
 </a>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>

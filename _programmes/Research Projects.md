@@ -15,7 +15,7 @@ and aim to contribute solutions to real-world challenges.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon</div>
-<div class="isomer-card-link">Read More...</div>
+<div class="isomer-card-link">Coming Soon</div>
 </div>
 </a>
 </div>

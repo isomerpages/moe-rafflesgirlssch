@@ -17,10 +17,19 @@ functional and beautiful furniture.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/bulkw2w24.png">
 </div>
 <p>The RGS team demonstrated their creativity with the <em>GreenCanvas Cabinet</em>,
-securing 3rd place in the competition. Their project gave a second life
-to a discarded meeting table, transforming it into accessible storage designed
-for seniors at New Life Community Services. This thoughtful creation promotes
-creativity by providing easy access to craft materials within the community.</p>
+securing 3rd place in the competition.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kyra Seow Kai Hui (S306)</p>
+</li>
+<li>
+<p>Natasha Lee Shuen Lin (S303)</p>
+</li>
+</ul>
+<p>Their project gave a second life to a discarded meeting table, transforming
+it into accessible storage designed for seniors at New Life Community Services.
+This thoughtful creation promotes creativity by providing easy access to
+craft materials within the community.</p>
 <p>The competition encouraged participants to take ownership of waste management
 by rethinking, reusing, and redesigning bulky items. It reinforced the
 importance of making sustainable choices and reducing waste at its source.</p>

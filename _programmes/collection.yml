@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Research Projects.md
       - Raffles Programme.md
       - Teaching & Learning.md
       - RGS 1:1/.keep

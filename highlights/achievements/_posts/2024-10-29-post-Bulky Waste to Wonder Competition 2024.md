@@ -14,7 +14,7 @@ startups, gaining valuable insights into how waste can be transformed into
 functional and beautiful furniture.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/cupwas24.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Bulky Waste to Wonder Competition 2024" src="/images/bulkw2w24.png">
 </div>
 <p>The RGS team demonstrated their creativity with the <em>GreenCanvas Cabinet</em>,
 securing 3rd place in the competition. Their project gave a second life

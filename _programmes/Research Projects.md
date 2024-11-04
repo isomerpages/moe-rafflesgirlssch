@@ -9,7 +9,7 @@ research projects that often address meaningful issues within their communities.
 Guided by dedicated teacher mentors and expert researchers from esteemed
 organisations, our students investigate topics that spark their curiosity
 and aim to contribute solutions to real-world challenges.</p>
-<h3>School Based Research Projects </h3>
+<h3>School Based Research Projects</h3>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -99,6 +99,22 @@ using Laccase enzyme from Trametes versicolor</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Coming Soon</div>
 <div class="isomer-card-description">coming soon</div>
+<div class="isomer-card-link">Coming Soon</div>
+</div>
+</a>
+</div>
+<hr>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coming Soon" src="/images/projectsoon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coming Soon</div><div class="isomer-card-description">...</div><div class="isomer-card-link">Coming Soon</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coming Soon" src="/images/projectsoon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Coming Soon</div>
+<div class="isomer-card-description">...</div>
 <div class="isomer-card-link">Coming Soon</div>
 </div>
 </a>

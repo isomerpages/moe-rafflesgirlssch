@@ -1,5 +1,5 @@
 ---
-title: Nature Society Singapore 70th anniversary Gala Lunch
+title: Nature Society Singapore 70th Anniversary Gala Lunch
 permalink: /nature-society-singapore-70th-anniversary-gala-lunch/
 date: 2024-11-07
 layout: post

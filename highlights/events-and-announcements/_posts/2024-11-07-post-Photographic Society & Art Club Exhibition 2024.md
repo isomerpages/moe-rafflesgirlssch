@@ -21,3 +21,15 @@ art pieces created by our Art Club members and Y4 SAP students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/photoart1.png">
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">(Photographic Society Exco 24-25)</div>
+<div class="isomer-card-description">We are grateful for the chance to showcase our work to the school, cherishing
+moments that connect us to Singapore. This exhibition was a meaningful
+experience, teaching us to appreciate the simple yet essential aspects
+that truly make it our home.</div>
+</div>
+</div>
+</div>
+<p></p>

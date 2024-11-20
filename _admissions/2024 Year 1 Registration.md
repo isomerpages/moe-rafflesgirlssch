@@ -44,7 +44,7 @@ at Bibi &amp; Baba shops.
 </p>
 </li>
 <li>
-<p>Textbooks and stationery can be bought via the link <a href="https://cascoedusupply.com.sg/?schoolid=105" rel="noopener noreferrer nofollow" target="_blank">rgs.cascoedusupply.com.sg</a>
+<p>Textbooks and stationery can be bought via the link <a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 <br>
 </p>
 </li>
@@ -52,5 +52,4 @@ at Bibi &amp; Baba shops.
 <p>For clarification and assistance, please contact 67371845.</p>
 </li>
 </ol>
-<h2></h2>
 <p></p>

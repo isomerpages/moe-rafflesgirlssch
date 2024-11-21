@@ -1,5 +1,5 @@
 ---
-title: AY2025 Year 1 Registration
+title: Academic Year 2025 Year 1 Registration
 permalink: /admissions/2025y1/
 variant: tiptap
 description: ""

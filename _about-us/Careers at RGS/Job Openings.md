@@ -270,156 +270,83 @@ is a plus.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>2. Officer, Information Technology</strong></h4>
-<p>You will report to the Assistant Manager, Information Technology in the
-following areas:
-<br>
-</p>
-<p><strong><u>Information Technology and Information Management</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Review and assess school IT’s needs and make recommendations.</p>
-</li>
-<li>
-<p>Confirm project requirements by understanding the objective, input and
-output requirements provided by the school and/or supervisor.</p>
-</li>
-<li>
-<p>Design and create SQL Server databases as per school needs.</p>
-</li>
-<li>
-<p>Develop and maintain custom web applications.</p>
-</li>
-<li>
-<p>Perform routine maintenance of existing web and database applications.</p>
-</li>
-<li>
-<p>Review and upgrade systems to address any AFI. Coordinate with vendor
-if under vendor maintenance agreement.</p>
-</li>
-<li>
-<p>Maintain technical documentation of in house applications</p>
-</li>
-<li>
-<p>Create online custom lists, forms and surveys for data gathering.</p>
-</li>
-<li>
-<p>Provide support to end-users.</p>
-</li>
-</ul>
-<p>
-<br><strong><u>Education</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist in educating staff and students on the school’s IT system and Standard
-Operating Procedures so that staff and students know their responsibilities
-as an information provider and user.</p>
-</li>
-<li>
-<p>Create user guides and instructional videos as part of IT Educational
-Program.
-<br>
-</p>
-</li>
-</ul>
-<p><strong><u>Data Mining and Analysis</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist in data preparation for analysis and reporting.</p>
+<h4><strong>2. Developer, Information Technology</strong></h4>
 <p></p>
-</li>
-</ul>
-<p><strong><u>Requirements</u></strong>
+<p>The Developer provides analytical support in designing technology solutions
+that address the school’s requirements. This role involves partnering with
+stakeholders to identify, clarify, and document educational needs effectively.
+The Developer assists in evaluating the viability and effectiveness of
+potential solutions to ensure they meet user needs. Additionally, the person
+in this role will have to facilitate clear communication between teaching
+and technology teams to align objectives and expectations. This position
+reports to the Manager, Information Technology.</p>
+<p></p>
+<p><strong>Role &amp; Responsibilities</strong>
 </p>
-<p><strong>Qualifications</strong>: Minimum Diploma</p>
-<p><strong>Technical Skills</strong>: Proficiency in HTML, CSS, JavaScript(ES6
-or node.js)</p>
+<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Experience developing with Microsoft technologies such as .NET, C#, VB.NET,
-SQL, ASP.NET, Web Development (MVC) using IIS</p>
+<p>Provide support for new and existing web and database applications.</p>
 </li>
 <li>
-<p>Experience with Window Server 2016/2019/2022, Active Directory, Web and
-SharePoint on-Premise server</p>
+<p>Conduct user requirement analysis for the development / implementation
+of new systems and enhancements to existing systems.</p>
 </li>
 <li>
-<p>SQL Server 2012/ 2014/ 2016, SSIS, SSRS writing queries, functions, indexes
-and back-up</p>
+<p>Evaluate potential solutions and make recommendations to resolve operational
+problems.</p>
 </li>
 <li>
-<p>Knowledge in Microsoft SharePoint Administrations, and Power shell scripting</p>
+<p>Involvement in the system integration testing phase prior to implementation.</p>
 </li>
 <li>
-<p>Familiarity with Visual Studio 2017 and SharePoint Designer
-<br>
-</p>
-</li>
-</ul>
-<p><strong>Behavioural Skills</strong>: Effective Communication, independent
-worker with good interpersonal skills
-<br>
-<br><strong>Language Skills</strong>: Strong in verbal and written English
-<br>
-<br><strong>Experience</strong>: Minimum 1-year working experience in web
-programming and working&nbsp;with relational database systems (SQL) and
-VB.NET, ASP.NET, HTML/XHTML and CSS.</p>
-<p></p>
-<h4><strong>3. Financial Analyst</strong></h4>
-<p></p>
-<p>To assist Assistant Finance Manager in managing finance operations and
-provide financial analysis.
-<br>
-</p>
-<p><strong>Responsibilities:&nbsp;</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Reporting on operating results and financial statement positions on a
-monthly, quarterly and annual basis</p>
+<p>Plan and coordinate end-user training for any system implementations or
+enhancements.</p>
 </li>
 <li>
-<p>Ensure and support an orderly process for monthly, quarterly and yearly
-closing activities</p>
+<p>Liaise closely with users and build good rapport.</p>
 </li>
 <li>
-<p>Cost center reporting and analysis</p>
+<p>Liaise closely with vendors in project implementation, application testing,
+supporting application patches and upgrades in accordance with project
+methodologies and policies.</p>
 </li>
 <li>
-<p>Ensure compliant business operations</p>
+<p>Support the team in defining project requirements, tracking and documentation.</p>
 </li>
 <li>
-<p>Engage in the Procurement process</p>
-<p></p>
-</li>
-</ul>
-<p><strong>Requirements:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Accounting or its equivalent</p>
-</li>
-<li>
-<p>At least 5 years of working experience in accounting</p>
-</li>
-<li>
-<p>Experience working in an educational institution is an added advantage</p>
-</li>
-<li>
-<p>Proficient in MS Office applications and SAP accounting software</p>
-</li>
-<li>
-<p>Good organizational and communication skills</p>
-</li>
-<li>
-<p>Available for entire contract period</p>
+<p>Any relevant ad-hoc duties.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>4. Officer, Library (Temporary)</strong></h4>
+<p><strong>Key Competencies</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Qualifications</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>Diploma in Information Technology, Computer Science, Computer Engineering
+or equivalent</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Technical Skills</strong>
+</p>
+<p>Proficiency in SQL and relational database concepts</p>
+<p>Familiarity with Microsoft technologies, web applications and servers,
+multiple back-end languages</p>
+<p>&nbsp;</p>
+<p><strong>Behavioural Skills</strong>
+<br>Effective Communication, independent worker with good</p>
+<p>interpersonal skills</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Language Skills</strong>
+<br>Strong in verbal and written English</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Experience</strong>
+<br>Minimum 1-year relevant working experience</p>
+<p></p>
+<h4><strong>3. Officer, Library (Temporary)</strong></h4>
 <p></p>
 <p>As a Library Officer, you will assist the Library Manager in delivering
 high-quality library services to students and staff. You will play a key
@@ -489,7 +416,7 @@ and learning.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>5. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>4. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>
@@ -526,7 +453,7 @@ an advantage</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>6. Education &amp; Career Guidance Counsellor (6-months)</strong></h4>
+<h4><strong>5. Education &amp; Career Guidance Counsellor (6-months)</strong></h4>
 <p></p>
 <p><strong>Education &amp; Career Guidance</strong>
 </p>

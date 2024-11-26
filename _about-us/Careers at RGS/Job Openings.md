@@ -324,8 +324,8 @@ methodologies and policies.</p>
 <br>Diploma in Information Technology, Computer Science, Computer Engineering
 or equivalent</p>
 <p><strong>Technical Skills</strong>
-<br>Proficiency in SQL and relational database concepts</p>
-<p>Familiarity with Microsoft technologies, web applications and servers,
+<br>Proficiency in SQL and relational database concepts
+<br>Familiarity with Microsoft technologies, web applications and servers,
 multiple back-end languages</p>
 <p><strong>Behavioural Skills</strong>
 <br>Effective Communication, independent worker with good interpersonal skills</p>

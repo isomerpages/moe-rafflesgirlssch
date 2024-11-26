@@ -283,7 +283,6 @@ reports to the Manager, Information Technology.</p>
 <p></p>
 <p><strong>Role &amp; Responsibilities</strong>
 </p>
-<p>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Provide support for new and existing web and database applications.</p>
@@ -321,30 +320,20 @@ methodologies and policies.</p>
 <p></p>
 <p><strong>Key Competencies</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Qualifications</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p><strong>Qualifications</strong>
 <br>Diploma in Information Technology, Computer Science, Computer Engineering
 or equivalent</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Technical Skills</strong>
-</p>
-<p>Proficiency in SQL and relational database concepts</p>
-<p>Familiarity with Microsoft technologies, web applications and servers,
+<br>Proficiency in SQL and relational database concepts
+<br>Familiarity with Microsoft technologies, web applications and servers,
 multiple back-end languages</p>
-<p>&nbsp;</p>
 <p><strong>Behavioural Skills</strong>
-<br>Effective Communication, independent worker with good</p>
-<p>interpersonal skills</p>
-<p><strong>&nbsp;</strong>
-</p>
+<br>Effective Communication, independent worker with good interpersonal skills</p>
 <p><strong>Language Skills</strong>
 <br>Strong in verbal and written English</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Experience</strong>
-<br>Minimum 1-year relevant working experience</p>
+</p>
+<p>Minimum 1-year relevant working experience</p>
 <p></p>
 <h4><strong>3. Officer, Library (Temporary)</strong></h4>
 <p></p>

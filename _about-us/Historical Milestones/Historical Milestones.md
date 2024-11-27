@@ -516,8 +516,29 @@ provided to enable RGS students to engage with their peers and others from
 diverse background. Over 65 per cent of RGS students have initiated community
 projects, highlighting their dedication to service.</p>
 <p></p>
+<h3>2024</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Principal Mrs Ong Hong Peng" src="/images/mls2024.png">
+</div>
+<p>In 2024, RGS welcomed Mrs. Ong Hong Peng as Principal and Ms. Valerie
+Yeo as Deputy Principal, while bidding a fond farewell to Deputy Principals
+Ms. Chin Jen Fu and Mrs. Mary George Cheriyan, whose contributions were
+deeply valued.</p>
+<p>&nbsp;A significant shift was introduced for Year 1 students, who now
+experience a dedicated Foundation Year. This initiative is designed to
+facilitate their transition from Primary School into the Raffles Programme.
+To nurture a stronger focus on learning, Year 1 students will not receive
+Grades or a Grade Point Average (GPA). Instead, the End-of-Year Progress
+Report will feature Percentage scores complemented by qualitative feedback.</p>
+<p>&nbsp;Aligned with the values-driven ethos of the Raffles Programme, subject
+teachers will also provide qualitative evaluations, highlighting each student’s
+commitment to learning, as well as their personal and interpersonal effectiveness.
+This holistic approach underscores the school’s dedication to character
+development alongside academic growth.</p>
+<p>&nbsp;To chart the future of RGS, the school launched its Strategic Planning
+process with a staff engagement session in November, fostering a collaborative
+vision for the years ahead.</p>
 <hr>
 <p>--</p>
 <p>Source:&nbsp; <em>Daughters of A Better Age (Singapore: RGS, 2006) 2<sup>nd</sup> Edition; The Raffles Wave (various years); RGS Yearbook (various years); RGS Throwback Project (Heritage) team; Raffles Girls’ School (Secondary) Wikipedia</em>

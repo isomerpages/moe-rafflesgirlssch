@@ -516,35 +516,67 @@ rules to enhance student agency, safety and well-being.</p>
 provided to enable RGS students to engage with their peers and others from
 diverse background. Over 65 per cent of RGS students have initiated community
 projects, highlighting their dedication to service.</p>
-<p></p>
-<h3>2024</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Principal Mrs Ong Hong Peng" src="/images/mls2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MsHaslindaZamani.png">
 </div>
+<p></p>
+<p>RGS bid farewell to Principal Haslinda Zamani (Dec 2019 to Dec 2023).
+Under her watch, students were empowered to promote green efforts and co-create
+the lived physical environment as they make RGS home e.g. Cogitare set
+up a butterfly garden, and a rooftop Edible Garden sponsored by the Tanoto
+Foundation was created as an educational hub for sustainable planting and
+growth, aiming to nurture 'citizen farmers' among RGS staff and students.</p>
+<p></p>
+<p>Regular reviews were also conducted to ensure timely updates to school
+rules to enhance student agency, safety and well-being.</p>
+<p></p>
+<p>Social mixing opportunities and working with community organisations were
+provided to enable RGS students to engage with their peers and others from
+diverse background. Over 65 per cent of RGS students have initiated community
+projects, highlighting their dedication to service.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mls2024.png">
+</div>
+<p></p>
 <p>In 2024, RGS welcomed Mrs. Ong Hong Peng as Principal and Ms. Valerie
 Yeo as Deputy Principal, while bidding a fond farewell to Deputy Principals
 Ms. Chin Jen Fu and Mrs. Mary George Cheriyan, whose contributions were
 deeply valued.</p>
-<p>&nbsp;A significant shift was introduced for Year 1 students, who now
-experience a dedicated Foundation Year. This initiative is designed to
-facilitate their transition from Primary School into the Raffles Programme.
-To nurture a stronger focus on learning, Year 1 students will not receive
-Grades or a Grade Point Average (GPA). Instead, the End-of-Year Progress
-Report will feature Percentage scores complemented by qualitative feedback.</p>
-<p>&nbsp;Aligned with the values-driven ethos of the Raffles Programme, subject
+<p></p>
+<p>A significant shift was introduced for Year 1 students, who now experience
+a dedicated Foundation Year. This initiative is designed to facilitate
+their transition from Primary School into the Raffles Programme. To nurture
+a stronger focus on learning, Year 1 students will not receive Grades or
+a Grade Point Average (GPA). Instead, the End-of-Year Progress Report will
+feature Percentage scores complemented by qualitative feedback.</p>
+<p></p>
+<p>Aligned with the values-driven ethos of the Raffles Programme, subject
 teachers will also provide qualitative evaluations, highlighting each student’s
 commitment to learning, as well as their personal and interpersonal effectiveness.
 This holistic approach underscores the school’s dedication to character
 development alongside academic growth.</p>
-<p>&nbsp;To chart the future of RGS, the school launched its Strategic Planning
+<p></p>
+<p>To chart the future of RGS, the school launched its Strategic Planning
 process with a staff engagement session in November, fostering a collaborative
 vision for the years ahead.</p>
-<hr>
+</div>
+</details>
+</div>
+<p></p>
 <p>--</p>
 <p>Source:&nbsp; <em>Daughters of A Better Age (Singapore: RGS, 2006) 2<sup>nd</sup> Edition; The Raffles Wave (various years); RGS Yearbook (various years); RGS Throwback Project (Heritage) team; Raffles Girls’ School (Secondary) Wikipedia</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>

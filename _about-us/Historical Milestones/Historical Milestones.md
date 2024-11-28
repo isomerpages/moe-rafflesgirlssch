@@ -708,20 +708,6 @@ School and Canberra Primary School, tutoring the students in Math.</p>
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>2024</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>2023</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MsHaslindaZamani.png">
 </div>
@@ -742,8 +728,6 @@ diverse background. Over 65 per cent of RGS students have initiated community
 projects, highlighting their dedication to service.</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">

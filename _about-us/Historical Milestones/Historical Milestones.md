@@ -183,6 +183,10 @@ Kit Chan and actress Emma Yong were showcased.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist23.jpg">
 </div>
 <h3>1988</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Carmee Lim RGS ex Principal" src="/images/CarmeeLim.png">
+</div>
 <p>Under Principal Mrs Carmee Lim (1988 – 1999), RGS moved to a holding school
 located at Jalan Kuala (off River Valley Road) in 1988. A proponent of
 a multi-pronged approach to education, she championed creativity, innovation
@@ -201,9 +205,6 @@ RGS linked up with the University of Michigan in the Interactive Simulation
 project, which allowed RGS students to exchange ideas with students in
 six other countries in a “Global Classroom” setting.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist25.jpg">
-</div>
 <h3>1992</h3>
 <p>RGS moved from its holding school in Jalan Kuala to its original location
 at Anderson Road on 1 November 1992. 50 girls, carrying a torch and the

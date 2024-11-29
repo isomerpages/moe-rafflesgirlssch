@@ -227,7 +227,111 @@ Chapter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist29.jpg">
 </div>
-<h3>1999</h3>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>1879</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h3></h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1882</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1900</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1903</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1928</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1942-45</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1946</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1950</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1959</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1961</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1977</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1980</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1988</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1992</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1993</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1994</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>1999</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Principal Mrs Deborah Tan (1999 – 2007) played an instrumental role in
 nurturing the ideals of scholarship in the students. During her tenure,
 RGS achieved four Sustained Achievement Awards – the only school to do
@@ -241,7 +345,12 @@ Programme (IP) called the Raffles Programme (RP). This was in response
 to the recommendations for Junior College (JC) Curriculum by the Committee
 on the Review of JC and Upper Secondary Education, chief among which was
 to provide for a broader and more flexible curriculum.</p>
-<h3>2003</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2003</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Registered as a society in 2003, the key objective of the Parents for
 RGS Association (PRGS)’ is to connect parents, the school and students,
 fostering meaningful ties among key stakeholders in the students’ holistic
@@ -249,7 +358,13 @@ development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist32.jpg">
 </div>
-<h3>2004</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2004</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>RGS and RI implemented the 6-year Integrated Programme known as the Raffles
 Programme (RP) in 2004 when Mrs Deborah Tan was Principal. The RP grew
 out of a strong desire to prepare students for the demands of a fast changing
@@ -263,7 +378,12 @@ schools have been well-known for.</p>
 </div>
 <p>Fittingly, at the farewell ceremony held for Deborah Mrs Tan in 2007,
 it was announced that the school library would be renamed in her honour.</p>
-<h3>2007</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2007</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Principal Mrs Julie Hoo (2007 – 2012) initiated the 1<sup>st</sup> RGS
 Homecoming for alumnae as part of the school's anniversary celebrations.</p>
 <div class="isomer-image-wrapper">
@@ -275,7 +395,12 @@ school for girls and close partnership with the “merged” RI.</p>
 <p>Under her watch, the F1 Centre for Innovation - the RGS F1 Centre for
 Innovation – was set up to promote learning and engagement in Science,
 Technology, Engineering and Mathematics (STEM).</p>
-<h3>2009</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2009</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The Wallace Environmental Learning Laboratory (WELL) was established by
 RGS and NParks with sponsorship from GlaxoSmithKline and the support of
 the Economic Development Board.&nbsp;Situated at the Dairy Farm Nature
@@ -283,14 +408,27 @@ Park, WELL is Singapore’s first and only learning laboratory in the forest.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist35.jpg">
 </div>
-<h3>2010</h3>
+<p></p>
+<h3></h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2010</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>An in-house educational research and consultancy centre was set up with
 a team of 4 Teacher-Specialists, led by a Director. It was named RGS’ Pedagogical
 Research Lab.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu1.jpg">
 </div>
-<h3>2011</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2011</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>2011 saw the introduction of the 4-year Raffles Diploma (RD) award, which
 was co-developed with Raffles Institution, to recognise individual talent,
 encouraging personal responsibility in learning and peaks of excellence.</p>
@@ -303,7 +441,12 @@ able to engage the region.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu3.jpg">
 </div>
-<h3>2012</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2012</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>A new campus for RGS was announced. The new RGS campus, to be ready in
 2019, will provide the space and facilities required to deliver innovative
 curriculum and programmes to better support the school’s teaching and learning
@@ -313,7 +456,12 @@ two schools while retaining RGS’ independence and distinctive heritage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu4.jpg">
 </div>
-<h3>2013</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2013</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Strategic Envisioning for 2014 – 2018 - in moving the school forward and
 in light of new challenges within the education landscape, RGS embarked
 on an envisioning exercise under the watch of Principal Mrs Poh Mun See
@@ -334,7 +482,14 @@ Mr Tharman Shanmugaratnam.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu5.jpg">
 </div>
-<h3>2014</h3>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2014</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Establishment of the RGS Alumnae - in July 2014, the RGS Alumnae was established
 as an association for RGS graduates. Its aim is to inspire, enable and
 engage the alumnae to build a community that embodies the Rafflesian spirit
@@ -354,25 +509,42 @@ to reflect its growth in Research, Consultancy and Professional Learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu9.jpg">
 </div>
-<h3>2015</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2015</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>RGS celebrates SG50 - the school held several activities to commemorate
 Singapore’s Golden Jubilee including a high tea co-organised by the RGS
 Chapter and RGS Alumnae.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu10.jpg">
 </div>
+<p></p>
 <p>RGS Curriculum Review</p>
 <p>A Curriculum Review was conducted to revisit its alignment to the RP goals,
 values, approaches and features, and to make recommendations for future
 directions.</p>
-<h3>2016</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2016</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>School-wide review of RGS’ programmes and resources (2017 – 2021) – in
 2016, RGS embarked on a school-wide review of its programmes and resources
 for the next five years, with particular focus on consolidation and innovation.
 This was in response to shifts in Singapore society in terms of its priorities
 and strategies where multiple peaks of excellence and multiple pathways
 to excellence are encouraged.</p>
-<h3>2017</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Unveiling of RGS New Campus Design - on 17 February 2017, a model of the
 RGS new campus was unveiled at the Anderson campus. It is designed in such
 a way as to allow for the optimisation of the Raffles Programme.</p>
@@ -392,7 +564,13 @@ fostering a healthy balance of academic excellence and sporting prowess.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu14.jpg">
 </div>
-<h3>2018</h3>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>A fundraising event - Carnival Memorias – was held at RGS in March 2018
 for the new campus development fund.</p>
 <div class="isomer-image-wrapper">
@@ -409,7 +587,12 @@ interests of these students beyond the academic curriculum (Year 4 Options)
 and to stretch and challenge students with advanced knowledge and skills
 in their talent area (Raffles Academy). These modules are taught by RGS
 teachers as well as industry practitioners and experts in tertiary institutions.</p>
-<h3>2019</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2019</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>RGS commemorated Singapore’s Bicentennial with a skit on the Founding
 of Singapore in January; a hall assembly in April reflecting on RGS’ journey
 over the years; a schoolwide fieldtrip to The&nbsp;Bicentennial Experience
@@ -439,7 +622,14 @@ Centre; and Triple C Programme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu20.jpg">
 </div>
-<h3>2020</h3>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>RGS began its academic year in the new campus at Braddell under a new
 Principal, Ms Haslinda Zamani.</p>
 <p>To ensure learning outcomes meet the needs of our students and society
@@ -452,21 +642,31 @@ classroom teaching including design of extension learning activities for
 very high ability learners.</p>
 <p>Efforts also went into making the new campus safe and vibrant like a home
 away from home for students and staff members.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu21.jpg">
 </div>
+<p></p>
+<p></p>
 <p>The Covid-19 pandemic helped the school to have a deeper sense of resolve,
 about the kind of future that we want to build together for RGS. The experience
 of remote learning, for eg, using online platforms to communicate, to connect,
 to encourage hearts and minds, have given the school confidence to forge
 ahead in exploring new ways of learning and working through harnessing
 the power of technology.</p>
-<h3>2021</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>RGS implemented its new five-year Strategy Map with initiatives that support
 the school’s vision of future learning at RGS.</p>
+<p></p>
 <p>In February, RGS became the first school in Singapore to roll out the
 use of iPads for Year One students as part of the National Digital Literacy
 Programme.</p>
+<p></p>
 <p>At the start of Term 2, the school embarked on regular fortnightly Home
 Based Learning for all levels. A research study headed by the RGS PeRL
 team was launched to help the school better understand how teachers use
@@ -477,19 +677,27 @@ incubate their ideas, create prototypes and gather feedback as they work
 on their technological solutions, so that eventually our girls will be
 able to contribute to and lead in the digital work as confident and empowered
 young women.</p>
+<p></p>
 <p>RGS welcomed Justice Mavis Chionh as Chairperson of the School’s Board
 of Governors, succeeding Justice Judith Prakash who had served for 25 years
 with dedication and tenacity, leading the school through many milestones.</p>
-<h3>2022</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>To promote the capacity for life-long and self-directed learning, which
 is a central objective of the Personalised Digital Learning Programme,
 RGS adopted a framework aligning Executive Functioning Skills (EFS) to
 each phase of Self-Regulated Learning (SRL). Fourteen Executive Functioning
 Skills were identified and each was categorised in terms of a phase in
 SRL - Planning, Performance and Self-Reflection.</p>
+<p></p>
 <p>The school and RI conducted a Raffles Programme Curriculum Review to enhance
 alignment and continuity of outcomes and standards for Years 1 to 6 in
 both schools.</p>
+<p></p>
 <p>RGS continues to give back to the community for eg by participating in
 the MOE-NLB KidsREAD programme, where upper secondary students read to,
 and facilitate activities to First Toa Payoh Primary School and New Town
@@ -499,52 +707,66 @@ student-teams continued e-reading and math tutoring programmes started
 in 2020 and 2021, with a third team starting a science tutoring programme
 this year. Two other teams also deepened their service with Admiralty Primary
 School and Canberra Primary School, tutoring the students in Math.</p>
-<h3>2023</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Haslinda Zamani" src="/images/MsHaslindaZamani.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MsHaslindaZamani.png">
 </div>
+<p></p>
 <p>RGS bid farewell to Principal Haslinda Zamani (Dec 2019 to Dec 2023).
 Under her watch, students were empowered to promote green efforts and co-create
 the lived physical environment as they make RGS home e.g. Cogitare set
 up a butterfly garden, and a rooftop Edible Garden sponsored by the Tanoto
 Foundation was created as an educational hub for sustainable planting and
 growth, aiming to nurture 'citizen farmers' among RGS staff and students.</p>
+<p></p>
 <p>Regular reviews were also conducted to ensure timely updates to school
 rules to enhance student agency, safety and well-being.</p>
+<p></p>
 <p>Social mixing opportunities and working with community organisations were
 provided to enable RGS students to engage with their peers and others from
 diverse background. Over 65 per cent of RGS students have initiated community
 projects, highlighting their dedication to service.</p>
-<p></p>
-<h3>2024</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS Principal Mrs Ong Hong Peng" src="/images/mls2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mls2024.png">
 </div>
+<p></p>
 <p>In 2024, RGS welcomed Mrs. Ong Hong Peng as Principal and Ms. Valerie
 Yeo as Deputy Principal, while bidding a fond farewell to Deputy Principals
 Ms. Chin Jen Fu and Mrs. Mary George Cheriyan, whose contributions were
 deeply valued.</p>
-<p>&nbsp;A significant shift was introduced for Year 1 students, who now
-experience a dedicated Foundation Year. This initiative is designed to
-facilitate their transition from Primary School into the Raffles Programme.
-To nurture a stronger focus on learning, Year 1 students will not receive
-Grades or a Grade Point Average (GPA). Instead, the End-of-Year Progress
-Report will feature Percentage scores complemented by qualitative feedback.</p>
-<p>&nbsp;Aligned with the values-driven ethos of the Raffles Programme, subject
+<p></p>
+<p>A significant shift was introduced for Year 1 students, who now experience
+a dedicated Foundation Year. This initiative is designed to facilitate
+their transition from Primary School into the Raffles Programme. To nurture
+a stronger focus on learning, Year 1 students will not receive Grades or
+a Grade Point Average (GPA). Instead, the End-of-Year Progress Report will
+feature Percentage scores complemented by qualitative feedback.</p>
+<p></p>
+<p>Aligned with the values-driven ethos of the Raffles Programme, subject
 teachers will also provide qualitative evaluations, highlighting each student’s
 commitment to learning, as well as their personal and interpersonal effectiveness.
 This holistic approach underscores the school’s dedication to character
 development alongside academic growth.</p>
-<p>&nbsp;To chart the future of RGS, the school launched its Strategic Planning
+<p></p>
+<p>To chart the future of RGS, the school launched its Strategic Planning
 process with a staff engagement session in November, fostering a collaborative
 vision for the years ahead.</p>
-<hr>
+</div>
+</details>
+</div>
+<p></p>
 <p>--</p>
 <p>Source:&nbsp; <em>Daughters of A Better Age (Singapore: RGS, 2006) 2<sup>nd</sup> Edition; The Raffles Wave (various years); RGS Yearbook (various years); RGS Throwback Project (Heritage) team; Raffles Girls’ School (Secondary) Wikipedia</em>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>

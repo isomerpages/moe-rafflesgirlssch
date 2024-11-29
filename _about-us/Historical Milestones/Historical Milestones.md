@@ -241,7 +241,7 @@ Programme (IP) called the Raffles Programme (RP). This was in response
 to the recommendations for Junior College (JC) Curriculum by the Committee
 on the Review of JC and Upper Secondary Education, chief among which was
 to provide for a broader and more flexible curriculum.</p>
-<h3>2003</h3>
+<h3></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -284,79 +284,9 @@ Park, WELL is Singapore’s first and only learning laboratory in the forest.</p
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist35.jpg">
 </div>
 <h3>2010</h3>
-<p>An in-house educational research and consultancy centre was set up with
-a team of 4 Teacher-Specialists, led by a Director. It was named RGS’ Pedagogical
-Research Lab.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu1.jpg">
-</div>
+<p></p>
 <h3>2011</h3>
-<p>2011 saw the introduction of the 4-year Raffles Diploma (RD) award, which
-was co-developed with Raffles Institution, to recognise individual talent,
-encouraging personal responsibility in learning and peaks of excellence.</p>
-<p>The RD certification recognises student participation and achievements
-in five developmental domains: Cognitive, Character and Leadership, Community
-and Citizenship, Arts and Aesthetics, Sports and Health.</p>
-<p>The Regional Studies Programme (RSP) was introduced in RGS to nurture
-a group of non-Malays comfortably conversant in the Malay Language and
-able to engage the region.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu3.jpg">
-</div>
-<h3>2012</h3>
-<p>A new campus for RGS was announced. The new RGS campus, to be ready in
-2019, will provide the space and facilities required to deliver innovative
-curriculum and programmes to better support the school’s teaching and learning
-goals. To be located along Braddell Road opposite RI, the new campus will
-allow for better planning of schedules for common programmes between the
-two schools while retaining RGS’ independence and distinctive heritage.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu4.jpg">
-</div>
-<h3>2013</h3>
-<p>Strategic Envisioning for 2014 – 2018 - in moving the school forward and
-in light of new challenges within the education landscape, RGS embarked
-on an envisioning exercise under the watch of Principal Mrs Poh Mun See
-(Dec 2012 - 2019). RGS Management, in consultation with staff, students
-and parents and working with a professional consultant, updated the school
-Strategic Map.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu7.jpg">
-</div>
-<p>Two large-scale fund-raising events for the New Campus were held in 2013/14
-- Launch of “Consuming Passion” cookbook by RGS alumnae with proceeds from
-the sale of the book going towards the new campus development fund. Guest-of-Honour
-for the event was former President of Singapore, Mr S R Nathan. The other
-was the New Campus Fund Raising Banquet held at the Orchard Hotel. Guest-
-of-Honour for the event was Deputy Prime Minister and Minister for Finance,
-Mr Tharman Shanmugaratnam.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu5.jpg">
-</div>
-<h3>2014</h3>
-<p>Establishment of the RGS Alumnae - in July 2014, the RGS Alumnae was established
-as an association for RGS graduates. Its aim is to inspire, enable and
-engage the alumnae to build a community that embodies the Rafflesian spirit
-and work towards the betterment of society, nation and self.</p>
-<p>To celebrate RGS’ 135th birthday and raise funds for the New Campus, Homecoming
-III was held in August. It was a day when Rafflesians, past and present,
-came back to celebrate and to connect with one another over a range of
-activities that foster bonding across generations of Rafflesians.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu8.jpg">
-</div>
-<p>The Pedagogical Research Lab was expanded to incorporate the Teaching
-track; namely, the Senior and Lead Teachers as well as the Head of Professional
-Development. It was renamed the Centre for Pedagogical Research and Learning
-to reflect its growth in Research, Consultancy and Professional Learning.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu9.jpg">
-</div>
-<h3>2015</h3>
-<p></p>
-<h3>2016</h3>
 <p></p>
 <h3></h3>
 <p></p>
@@ -491,29 +421,99 @@ to reflect its growth in Research, Consultancy and Professional Learning.</p>
 <summary>2010</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>An in-house educational research and consultancy centre was set up with
+a team of 4 Teacher-Specialists, led by a Director. It was named RGS’ Pedagogical
+Research Lab.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu1.jpg">
+</div>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2011</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>2011 saw the introduction of the 4-year Raffles Diploma (RD) award, which
+was co-developed with Raffles Institution, to recognise individual talent,
+encouraging personal responsibility in learning and peaks of excellence.</p>
+<p>The RD certification recognises student participation and achievements
+in five developmental domains: Cognitive, Character and Leadership, Community
+and Citizenship, Arts and Aesthetics, Sports and Health.</p>
+<p>The Regional Studies Programme (RSP) was introduced in RGS to nurture
+a group of non-Malays comfortably conversant in the Malay Language and
+able to engage the region.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu3.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2012</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>A new campus for RGS was announced. The new RGS campus, to be ready in
+2019, will provide the space and facilities required to deliver innovative
+curriculum and programmes to better support the school’s teaching and learning
+goals. To be located along Braddell Road opposite RI, the new campus will
+allow for better planning of schedules for common programmes between the
+two schools while retaining RGS’ independence and distinctive heritage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu4.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2013</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Strategic Envisioning for 2014 – 2018 - in moving the school forward and
+in light of new challenges within the education landscape, RGS embarked
+on an envisioning exercise under the watch of Principal Mrs Poh Mun See
+(Dec 2012 - 2019). RGS Management, in consultation with staff, students
+and parents and working with a professional consultant, updated the school
+Strategic Map.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu7.jpg">
+</div>
+<p>Two large-scale fund-raising events for the New Campus were held in 2013/14
+- Launch of “Consuming Passion” cookbook by RGS alumnae with proceeds from
+the sale of the book going towards the new campus development fund. Guest-of-Honour
+for the event was former President of Singapore, Mr S R Nathan. The other
+was the New Campus Fund Raising Banquet held at the Orchard Hotel. Guest-
+of-Honour for the event was Deputy Prime Minister and Minister for Finance,
+Mr Tharman Shanmugaratnam.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu5.jpg">
+</div>
+<p></p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2014</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Establishment of the RGS Alumnae - in July 2014, the RGS Alumnae was established
+as an association for RGS graduates. Its aim is to inspire, enable and
+engage the alumnae to build a community that embodies the Rafflesian spirit
+and work towards the betterment of society, nation and self.</p>
+<p>To celebrate RGS’ 135th birthday and raise funds for the New Campus, Homecoming
+III was held in August. It was a day when Rafflesians, past and present,
+came back to celebrate and to connect with one another over a range of
+activities that foster bonding across generations of Rafflesians.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu8.jpg">
+</div>
+<p>The Pedagogical Research Lab was expanded to incorporate the Teaching
+track; namely, the Senior and Lead Teachers as well as the Head of Professional
+Development. It was renamed the Centre for Pedagogical Research and Learning
+to reflect its growth in Research, Consultancy and Professional Learning.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu9.jpg">
+</div>
 <p></p>
 </div>
 </details>

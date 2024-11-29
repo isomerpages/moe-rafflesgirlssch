@@ -355,150 +355,11 @@ to reflect its growth in Research, Consultancy and Professional Learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu9.jpg">
 </div>
 <h3>2015</h3>
-<p>RGS celebrates SG50 - the school held several activities to commemorate
-Singapore’s Golden Jubilee including a high tea co-organised by the RGS
-Chapter and RGS Alumnae.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu10.jpg">
-</div>
-<p>RGS Curriculum Review</p>
-<p>A Curriculum Review was conducted to revisit its alignment to the RP goals,
-values, approaches and features, and to make recommendations for future
-directions.</p>
+<p></p>
 <h3>2016</h3>
-<p>School-wide review of RGS’ programmes and resources (2017 – 2021) – in
-2016, RGS embarked on a school-wide review of its programmes and resources
-for the next five years, with particular focus on consolidation and innovation.
-This was in response to shifts in Singapore society in terms of its priorities
-and strategies where multiple peaks of excellence and multiple pathways
-to excellence are encouraged.</p>
-<h3>2017</h3>
-<p>Unveiling of RGS New Campus Design - on 17 February 2017, a model of the
-RGS new campus was unveiled at the Anderson campus. It is designed in such
-a way as to allow for the optimisation of the Raffles Programme.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu13.jpg">
-</div>
-<p>Groundbreaking Ceremony of RGS New Campus@Braddell – the ceremony took
-place on 12 August 2017. Guest-of-Honour for the event was Dr Amy Khor,
-Senior Minister of State, Ministry of the Environment and Water Resources,
-and Ministry of Health. The event marked another milestone in RGS’ 138-year
-history. In breaking ground for the building of the RGS New Campus, the
-school is symbolically laying the foundation for RGS to set a new benchmark
-for learning spaces that is student-focused, environmentally-friendly and
-inclusive of the community around RGS. This will be RGS’ fifth campus since
-the school was established in 1879 and will continue the RGS legacy of
-fostering a healthy balance of academic excellence and sporting prowess.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu14.jpg">
-</div>
-<h3>2018</h3>
-<p>A fundraising event - Carnival Memorias – was held at RGS in March 2018
-for the new campus development fund.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu15.jpg">
-</div>
-<p>Arising from a school-wide review of RGS’ programmes and resources, Raffles
-Academy (RA) 2.0, a Talent Development programme, was implemented. Students
-are able to broaden and/or deepen their learning in a particular area of
-study through Coursework or Research Modules. This inclusive, opt-in programme
-combines the best features of three RGS’ instructional programmes to develop
-in Year 3 and 4 students the fundamental skills and passion for research
-and creative problem solving (Research Studies), to cater to the many varied
-interests of these students beyond the academic curriculum (Year 4 Options)
-and to stretch and challenge students with advanced knowledge and skills
-in their talent area (Raffles Academy). These modules are taught by RGS
-teachers as well as industry practitioners and experts in tertiary institutions.</p>
-<h3>2019</h3>
-<p>RGS commemorated Singapore’s Bicentennial with a skit on the Founding
-of Singapore in January; a hall assembly in April reflecting on RGS’ journey
-over the years; a schoolwide fieldtrip to The&nbsp;Bicentennial Experience
-@Fort Canning in July and held a “Sixth Statue” Competition in August.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu17.jpg">
-</div>
-<p>On 17 August, RGS held its 140<sup>th</sup> Founder’s Day in the morning
-graced by Guest-of-Honour Ms Chan Lai Fung (Permanent Secretary/National
-Research &amp; Development).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu18.jpg">
-</div>
-<p>Co-organised with RGS Alumnae, RGS held its Homecoming on the same day
-which saw 5,000 participants comprising alumnae, current and former staff
-and students, and well-wishers thronging the Anderson Campus for a grand
-farewell before the “Big Move”.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu19.jpg">
-</div>
-<p>The “Big Move” from Anderson Campus to Braddell Campus was held on 21
-October, starting with a “Hopper Bus” journey from Anderson Road to Braddell
-Rise – a symbolic move with the Principal carrying the RGS flag from the
-“old’ campus to the “new”. 4 launches took place that day, the launch of
-the Performing Arts Centre; Innovation Hub; Hong Leong Foundation Filiae
-Centre; and Triple C Programme.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu20.jpg">
-</div>
-<h3>2020</h3>
-<p>RGS began its academic year in the new campus at Braddell under a new
-Principal, Ms Haslinda Zamani.</p>
-<p>To ensure learning outcomes meet the needs of our students and society
-in the near and further future, RGS embarked on an envisioning process
-at the start of the year, involving all members of staff, and included
-input from alumnae, students and parents.</p>
-<p>Arising from the Gifted Education Branch curriculum study report of the
-Raffles Programme, school efforts gave focus to enhancing enactment of
-classroom teaching including design of extension learning activities for
-very high ability learners.</p>
-<p>Efforts also went into making the new campus safe and vibrant like a home
-away from home for students and staff members.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu21.jpg">
-</div>
-<p>The Covid-19 pandemic helped the school to have a deeper sense of resolve,
-about the kind of future that we want to build together for RGS. The experience
-of remote learning, for eg, using online platforms to communicate, to connect,
-to encourage hearts and minds, have given the school confidence to forge
-ahead in exploring new ways of learning and working through harnessing
-the power of technology.</p>
-<h3>2021</h3>
-<p>RGS implemented its new five-year Strategy Map with initiatives that support
-the school’s vision of future learning at RGS.</p>
-<p>In February, RGS became the first school in Singapore to roll out the
-use of iPads for Year One students as part of the National Digital Literacy
-Programme.</p>
-<p>At the start of Term 2, the school embarked on regular fortnightly Home
-Based Learning for all levels. A research study headed by the RGS PeRL
-team was launched to help the school better understand how teachers use
-blended learning to enhance learning opportunities.</p>
-<p>In support of RGS’s Digital Curriculum, the Keppel Sandbox was launched
-at RGS. The Sandbox is a digital makerspace for RGS students to ideate,
-incubate their ideas, create prototypes and gather feedback as they work
-on their technological solutions, so that eventually our girls will be
-able to contribute to and lead in the digital work as confident and empowered
-young women.</p>
-<p>RGS welcomed Justice Mavis Chionh as Chairperson of the School’s Board
-of Governors, succeeding Justice Judith Prakash who had served for 25 years
-with dedication and tenacity, leading the school through many milestones.</p>
-<h3>2022</h3>
-<p>To promote the capacity for life-long and self-directed learning, which
-is a central objective of the Personalised Digital Learning Programme,
-RGS adopted a framework aligning Executive Functioning Skills (EFS) to
-each phase of Self-Regulated Learning (SRL). Fourteen Executive Functioning
-Skills were identified and each was categorised in terms of a phase in
-SRL - Planning, Performance and Self-Reflection.</p>
-<p>The school and RI conducted a Raffles Programme Curriculum Review to enhance
-alignment and continuity of outcomes and standards for Years 1 to 6 in
-both schools.</p>
-<p>RGS continues to give back to the community for eg by participating in
-the MOE-NLB KidsREAD programme, where upper secondary students read to,
-and facilitate activities to First Toa Payoh Primary School and New Town
-Primary School students, so that they can develop an interest in reading.
-The school also deepened its service to Greenwood Primary school, as two
-student-teams continued e-reading and math tutoring programmes started
-in 2020 and 2021, with a third team starting a science tutoring programme
-this year. Two other teams also deepened their service with Admiralty Primary
-School and Canberra Primary School, tutoring the students in Math.</p>
+<p></p>
+<h3></h3>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>1879</summary>
@@ -660,17 +521,54 @@ School and Canberra Primary School, tutoring the students in Math.</p>
 <summary>2015</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS celebrates SG50 - the school held several activities to commemorate
+Singapore’s Golden Jubilee including a high tea co-organised by the RGS
+Chapter and RGS Alumnae.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu10.jpg">
+</div>
+<p></p>
+<p>RGS Curriculum Review</p>
+<p>A Curriculum Review was conducted to revisit its alignment to the RP goals,
+values, approaches and features, and to make recommendations for future
+directions.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2016</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>School-wide review of RGS’ programmes and resources (2017 – 2021) – in
+2016, RGS embarked on a school-wide review of its programmes and resources
+for the next five years, with particular focus on consolidation and innovation.
+This was in response to shifts in Singapore society in terms of its priorities
+and strategies where multiple peaks of excellence and multiple pathways
+to excellence are encouraged.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2017</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Unveiling of RGS New Campus Design - on 17 February 2017, a model of the
+RGS new campus was unveiled at the Anderson campus. It is designed in such
+a way as to allow for the optimisation of the Raffles Programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu13.jpg">
+</div>
+<p>Groundbreaking Ceremony of RGS New Campus@Braddell – the ceremony took
+place on 12 August 2017. Guest-of-Honour for the event was Dr Amy Khor,
+Senior Minister of State, Ministry of the Environment and Water Resources,
+and Ministry of Health. The event marked another milestone in RGS’ 138-year
+history. In breaking ground for the building of the RGS New Campus, the
+school is symbolically laying the foundation for RGS to set a new benchmark
+for learning spaces that is student-focused, environmentally-friendly and
+inclusive of the community around RGS. This will be RGS’ fifth campus since
+the school was established in 1879 and will continue the RGS legacy of
+fostering a healthy balance of academic excellence and sporting prowess.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu14.jpg">
+</div>
 <p></p>
 </div>
 </details>
@@ -678,11 +576,58 @@ School and Canberra Primary School, tutoring the students in Math.</p>
 <summary>2018</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>A fundraising event - Carnival Memorias – was held at RGS in March 2018
+for the new campus development fund.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu15.jpg">
+</div>
+<p>Arising from a school-wide review of RGS’ programmes and resources, Raffles
+Academy (RA) 2.0, a Talent Development programme, was implemented. Students
+are able to broaden and/or deepen their learning in a particular area of
+study through Coursework or Research Modules. This inclusive, opt-in programme
+combines the best features of three RGS’ instructional programmes to develop
+in Year 3 and 4 students the fundamental skills and passion for research
+and creative problem solving (Research Studies), to cater to the many varied
+interests of these students beyond the academic curriculum (Year 4 Options)
+and to stretch and challenge students with advanced knowledge and skills
+in their talent area (Raffles Academy). These modules are taught by RGS
+teachers as well as industry practitioners and experts in tertiary institutions.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2019</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>RGS commemorated Singapore’s Bicentennial with a skit on the Founding
+of Singapore in January; a hall assembly in April reflecting on RGS’ journey
+over the years; a schoolwide fieldtrip to The&nbsp;Bicentennial Experience
+@Fort Canning in July and held a “Sixth Statue” Competition in August.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu17.jpg">
+</div>
+<p>On 17 August, RGS held its 140<sup>th</sup> Founder’s Day in the morning
+graced by Guest-of-Honour Ms Chan Lai Fung (Permanent Secretary/National
+Research &amp; Development).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu18.jpg">
+</div>
+<p>Co-organised with RGS Alumnae, RGS held its Homecoming on the same day
+which saw 5,000 participants comprising alumnae, current and former staff
+and students, and well-wishers thronging the Anderson Campus for a grand
+farewell before the “Big Move”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu19.jpg">
+</div>
+<p>The “Big Move” from Anderson Campus to Braddell Campus was held on 21
+October, starting with a “Hopper Bus” journey from Anderson Road to Braddell
+Rise – a symbolic move with the Principal carrying the RGS flag from the
+“old’ campus to the “new”. 4 launches took place that day, the launch of
+the Performing Arts Centre; Innovation Hub; Hong Leong Foundation Filiae
+Centre; and Triple C Programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu20.jpg">
+</div>
+<p></p>
 <p></p>
 </div>
 </details>
@@ -690,18 +635,83 @@ School and Canberra Primary School, tutoring the students in Math.</p>
 <summary>2020</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS began its academic year in the new campus at Braddell under a new
+Principal, Ms Haslinda Zamani.</p>
+<p>To ensure learning outcomes meet the needs of our students and society
+in the near and further future, RGS embarked on an envisioning process
+at the start of the year, involving all members of staff, and included
+input from alumnae, students and parents.</p>
+<p>Arising from the Gifted Education Branch curriculum study report of the
+Raffles Programme, school efforts gave focus to enhancing enactment of
+classroom teaching including design of extension learning activities for
+very high ability learners.</p>
+<p>Efforts also went into making the new campus safe and vibrant like a home
+away from home for students and staff members.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cu21.jpg">
+</div>
+<p></p>
+<p></p>
+<p>The Covid-19 pandemic helped the school to have a deeper sense of resolve,
+about the kind of future that we want to build together for RGS. The experience
+of remote learning, for eg, using online platforms to communicate, to connect,
+to encourage hearts and minds, have given the school confidence to forge
+ahead in exploring new ways of learning and working through harnessing
+the power of technology.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2021</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS implemented its new five-year Strategy Map with initiatives that support
+the school’s vision of future learning at RGS.</p>
+<p></p>
+<p>In February, RGS became the first school in Singapore to roll out the
+use of iPads for Year One students as part of the National Digital Literacy
+Programme.</p>
+<p></p>
+<p>At the start of Term 2, the school embarked on regular fortnightly Home
+Based Learning for all levels. A research study headed by the RGS PeRL
+team was launched to help the school better understand how teachers use
+blended learning to enhance learning opportunities.</p>
+<p>In support of RGS’s Digital Curriculum, the Keppel Sandbox was launched
+at RGS. The Sandbox is a digital makerspace for RGS students to ideate,
+incubate their ideas, create prototypes and gather feedback as they work
+on their technological solutions, so that eventually our girls will be
+able to contribute to and lead in the digital work as confident and empowered
+young women.</p>
+<p></p>
+<p>RGS welcomed Justice Mavis Chionh as Chairperson of the School’s Board
+of Governors, succeeding Justice Judith Prakash who had served for 25 years
+with dedication and tenacity, leading the school through many milestones.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2022</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>To promote the capacity for life-long and self-directed learning, which
+is a central objective of the Personalised Digital Learning Programme,
+RGS adopted a framework aligning Executive Functioning Skills (EFS) to
+each phase of Self-Regulated Learning (SRL). Fourteen Executive Functioning
+Skills were identified and each was categorised in terms of a phase in
+SRL - Planning, Performance and Self-Reflection.</p>
+<p></p>
+<p>The school and RI conducted a Raffles Programme Curriculum Review to enhance
+alignment and continuity of outcomes and standards for Years 1 to 6 in
+both schools.</p>
+<p></p>
+<p>RGS continues to give back to the community for eg by participating in
+the MOE-NLB KidsREAD programme, where upper secondary students read to,
+and facilitate activities to First Toa Payoh Primary School and New Town
+Primary School students, so that they can develop an interest in reading.
+The school also deepened its service to Greenwood Primary school, as two
+student-teams continued e-reading and math tutoring programmes started
+in 2020 and 2021, with a third team starting a science tutoring programme
+this year. Two other teams also deepened their service with Admiralty Primary
+School and Canberra Primary School, tutoring the students in Math.</p>
 </div>
 </details>
 <details class="isomer-details">

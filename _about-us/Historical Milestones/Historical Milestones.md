@@ -242,14 +242,6 @@ to the recommendations for Junior College (JC) Curriculum by the Committee
 on the Review of JC and Upper Secondary Education, chief among which was
 to provide for a broader and more flexible curriculum.</p>
 <h3>2003</h3>
-<p>Registered as a society in 2003, the key objective of the Parents for
-RGS Association (PRGS)’ is to connect parents, the school and students,
-fostering meaningful ties among key stakeholders in the students’ holistic
-development.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist32.jpg">
-</div>
-<h3></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -357,6 +349,14 @@ development.</p>
 <details class="isomer-details">
 <summary>2003</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Registered as a society in 2003, the key objective of the Parents for
+RGS Association (PRGS)’ is to connect parents, the school and students,
+fostering meaningful ties among key stakeholders in the students’ holistic
+development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist32.jpg">
+</div>
 <p></p>
 </div>
 </details>

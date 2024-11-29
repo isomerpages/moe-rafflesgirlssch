@@ -227,20 +227,8 @@ Chapter.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist29.jpg">
 </div>
-<h3>1999</h3>
-<p>Principal Mrs Deborah Tan (1999 – 2007) played an instrumental role in
-nurturing the ideals of scholarship in the students. During her tenure,
-RGS achieved four Sustained Achievement Awards – the only school to do
-so across the nation at the time.</p>
+<h3></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist30.jpg">
-</div>
-<p>Under her leadership, RGS and RI came together to offer a six-year Integrated
-Programme (IP) called the Raffles Programme (RP). This was in response
-to the recommendations for Junior College (JC) Curriculum by the Committee
-on the Review of JC and Upper Secondary Education, chief among which was
-to provide for a broader and more flexible curriculum.</p>
 <h3></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -344,6 +332,19 @@ to provide for a broader and more flexible curriculum.</p>
 <summary>1999</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Principal Mrs Deborah Tan (1999 – 2007) played an instrumental role in
+nurturing the ideals of scholarship in the students. During her tenure,
+RGS achieved four Sustained Achievement Awards – the only school to do
+so across the nation at the time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist30.jpg">
+</div>
+<p>Under her leadership, RGS and RI came together to offer a six-year Integrated
+Programme (IP) called the Raffles Programme (RP). This was in response
+to the recommendations for Junior College (JC) Curriculum by the Committee
+on the Review of JC and Upper Secondary Education, chief among which was
+to provide for a broader and more flexible curriculum.</p>
 </div>
 </details>
 <details class="isomer-details">

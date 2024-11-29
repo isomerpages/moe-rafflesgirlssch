@@ -249,45 +249,6 @@ development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist32.jpg">
 </div>
-<h3>2004</h3>
-<p>RGS and RI implemented the 6-year Integrated Programme known as the Raffles
-Programme (RP) in 2004 when Mrs Deborah Tan was Principal. The RP grew
-out of a strong desire to prepare students for the demands of a fast changing
-world where they will be expected to lead and serve the community and nation.
-The RP is consistent with the philosophy of the Raffles schools in delivering
-a broad-based education that is focussed more on process than mere content.
-The added emphasis on the co-curriculum is also in line with what the Raffles
-schools have been well-known for.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist33.jpg">
-</div>
-<p>Fittingly, at the farewell ceremony held for Deborah Mrs Tan in 2007,
-it was announced that the school library would be renamed in her honour.</p>
-<h3>2007</h3>
-<p>Principal Mrs Julie Hoo (2007 – 2012) initiated the 1<sup>st</sup> RGS
-Homecoming for alumnae as part of the school's anniversary celebrations.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist34.jpg">
-</div>
-<p>She saw RGS through the Raffles Institution-Raffles Junior College (RI-RJC)
-merger, maintaining RGS’ distinctive identity and heritage as a premier
-school for girls and close partnership with the “merged” RI.</p>
-<p>Under her watch, the F1 Centre for Innovation - the RGS F1 Centre for
-Innovation – was set up to promote learning and engagement in Science,
-Technology, Engineering and Mathematics (STEM).</p>
-<h3>2009</h3>
-<p>The Wallace Environmental Learning Laboratory (WELL) was established by
-RGS and NParks with sponsorship from GlaxoSmithKline and the support of
-the Economic Development Board.&nbsp;Situated at the Dairy Farm Nature
-Park, WELL is Singapore’s first and only learning laboratory in the forest.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist35.jpg">
-</div>
-<h3>2010</h3>
-<p></p>
-<h3>2011</h3>
-<p></p>
-<p></p>
 <h3></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -403,18 +364,51 @@ Park, WELL is Singapore’s first and only learning laboratory in the forest.</p
 <summary>2004</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS and RI implemented the 6-year Integrated Programme known as the Raffles
+Programme (RP) in 2004 when Mrs Deborah Tan was Principal. The RP grew
+out of a strong desire to prepare students for the demands of a fast changing
+world where they will be expected to lead and serve the community and nation.
+The RP is consistent with the philosophy of the Raffles schools in delivering
+a broad-based education that is focussed more on process than mere content.
+The added emphasis on the co-curriculum is also in line with what the Raffles
+schools have been well-known for.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist33.jpg">
+</div>
+<p>Fittingly, at the farewell ceremony held for Deborah Mrs Tan in 2007,
+it was announced that the school library would be renamed in her honour.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2007</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Principal Mrs Julie Hoo (2007 – 2012) initiated the 1<sup>st</sup> RGS
+Homecoming for alumnae as part of the school's anniversary celebrations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist34.jpg">
+</div>
+<p>She saw RGS through the Raffles Institution-Raffles Junior College (RI-RJC)
+merger, maintaining RGS’ distinctive identity and heritage as a premier
+school for girls and close partnership with the “merged” RI.</p>
+<p>Under her watch, the F1 Centre for Innovation - the RGS F1 Centre for
+Innovation – was set up to promote learning and engagement in Science,
+Technology, Engineering and Mathematics (STEM).</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>2009</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>The Wallace Environmental Learning Laboratory (WELL) was established by
+RGS and NParks with sponsorship from GlaxoSmithKline and the support of
+the Economic Development Board.&nbsp;Situated at the Dairy Farm Nature
+Park, WELL is Singapore’s first and only learning laboratory in the forest.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist35.jpg">
+</div>
+<p></p>
+<h3></h3>
 </div>
 </details>
 <details class="isomer-details">

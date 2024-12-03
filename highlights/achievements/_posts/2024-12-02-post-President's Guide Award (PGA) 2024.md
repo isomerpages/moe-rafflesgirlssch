@@ -16,6 +16,17 @@ Guide Award (PGA) 2024, a prestigious honour recognising their dedication
 to the Guiding Movement and their commitment to upholding its values and
 skills to the highest standards. Among only six Guides to receive this
 award, they exemplify love for Guiding and an unwavering spirit of excellence.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ruddock Vanessa Fei (412)</p>
+</li>
+<li>
+<p>Tiffanie Lau Siew Teng (413)</p>
+</li>
+<li>
+<p>Lee Sze-Chyi Claire (403)</p>
+</li>
+</ul>
 <p>The PGA, the highest accolade for a Guide, was presented by the President
 of Singapore, making this achievement even more meaningful.</p>
 <p>We extend our heartfelt gratitude to the teachers-in-charge for their

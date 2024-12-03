@@ -9,7 +9,7 @@ description: ""
 
 **Application Period and Eligibility**
 
-Application for Appeal to Transfer to RGS after Secondary One Posting 2025 is meant for Primary 6 students who sat for the PSLE in 2024.
+Application for Appeal to Transfer to RGS after Secondary One Posting 2024 is meant for Primary 6 students who sat for the PSLE in 2024.
 
 Students who have been posted to a school via DSA-Sec Exercise are **NOT** allowed to participate in this Appeal Exercise as they are expected to honour their commitment to the posted DSA school for the duration of the programme that they were admitted into.
 

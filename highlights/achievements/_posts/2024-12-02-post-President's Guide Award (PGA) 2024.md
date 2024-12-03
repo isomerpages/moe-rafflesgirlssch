@@ -18,13 +18,13 @@ skills to the highest standards. Among only six Guides to receive this
 award, they exemplify love for Guiding and an unwavering spirit of excellence.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ruddock Vanessa Fei (412)</p>
+<p>Ruddock Vanessa Fei (S412)</p>
 </li>
 <li>
-<p>Tiffanie Lau Siew Teng (413)</p>
+<p>Tiffanie Lau Siew Teng (S413)</p>
 </li>
 <li>
-<p>Lee Sze-Chyi Claire (403)</p>
+<p>Lee Sze-Chyi Claire (S403)</p>
 </li>
 </ul>
 <p>The PGA, the highest accolade for a Guide, was presented by the President

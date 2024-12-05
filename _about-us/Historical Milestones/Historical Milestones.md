@@ -206,28 +206,7 @@ project, which allowed RGS students to exchange ideas with students in
 six other countries in a “Global Classroom” setting.</p>
 <p></p>
 <h3>1992</h3>
-<p>RGS moved from its holding school in Jalan Kuala to its original location
-at Anderson Road on 1 November 1992. 50 girls, carrying a torch and the
-school flag, took part in the school's bus-stop relay from River Valley
-Road to Anderson Road.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist27.jpg">
-</div>
-<h3>1993</h3>
-<p>On 1 January 1993, RGS became an Independent School, recruiting her own&nbsp;teachers
-and introducing innovative enrichment programmes to promote the total development
-of students&nbsp;and go beyond textbooks.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist28.jpg">
-</div>
-<h3>1994</h3>
-<p>In 1994, the RGS Chapter was formed, to replace the Women's Rafflesian
-Chapter.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist29.jpg">
-</div>
-<h3></h3>
 <p></p>
 <h3></h3>
 <p></p>
@@ -314,18 +293,37 @@ Chapter.</p>
 <summary>1992</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS moved from its holding school in Jalan Kuala to its original location
+at Anderson Road on 1 November 1992. 50 girls, carrying a torch and the
+school flag, took part in the school's bus-stop relay from River Valley
+Road to Anderson Road.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist27.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1993</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h3></h3>
+<p>On 1 January 1993, RGS became an Independent School, recruiting her own&nbsp;teachers
+and introducing innovative enrichment programmes to promote the total development
+of students&nbsp;and go beyond textbooks.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist28.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1994</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<h3></h3>
+<p>In 1994, the RGS Chapter was formed, to replace the Women's Rafflesian
+Chapter.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist29.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">

@@ -26,38 +26,6 @@ in student enrolment, paving the way for its status as a distinguished
 educational institution in Singapore. The commitment of good people, many
 of whom remain unsung heroes, continues to shape RGS as an institution
 for high-ability girls.</p>
-<h3>1879</h3>
-<p></p>
-<h3>1882</h3>
-<p></p>
-<h3>1900</h3>
-<p></p>
-<h3>1903</h3>
-<p></p>
-<h3>1928</h3>
-<h3>1942-45</h3>
-<p></p>
-<h3>1946</h3>
-<p></p>
-<p></p>
-<h3>1950</h3>
-<h3>1959</h3>
-<p></p>
-<h3>1961</h3>
-<p></p>
-<p></p>
-<h3>1977</h3>
-<p></p>
-<p></p>
-<h3>1980</h3>
-<p></p>
-<h3>1988</h3>
-<p></p>
-<p></p>
-<h3>1992</h3>
-<p></p>
-<p></p>
-<h3></h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

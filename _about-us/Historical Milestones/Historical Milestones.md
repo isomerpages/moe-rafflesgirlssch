@@ -64,146 +64,24 @@ her for making her mark not only as a trainer who produced teachers who
 maintained “her high standards of efforts and of efficiency”, but also
 as a Principal who taught students to be independent thinkers.</p>
 <h3>1928</h3>
-<p>As enrolment expanded, RGS moved to Queen Street in 1928 whereupon it
-became a full-fledged girls’ school and stopped admitting boys to the lower
-and middle forms.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist9.jpg">
-</div>
-<p>Principal Miss C Richardson (1938 – 1939) was known for her efforts in
-impressing on students the importance of articulating the English Language
-properly and her emphasis on discipline.</p>
-<p>When World War Two broke out, Principal Mrs K Waddle (1939 – 1942)<strong> </strong>chose
-to remain in Singapore out of dedication to her job. When she left on the
-last evacuation boat just before the Japanese occupied Singapore, the boat
-was torpedoed and she lost her life at sea.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist13.jpg">
-</div>
 <h3>1942-45</h3>
-<p>RGS’ Queen Street campus was occupied by the Japanese Military Police
-(“Kempeitai”) as its headquarters during the war years.</p>
-<h3>1946</h3>
-<p>The House system in RGS was started by Miss M M Hadley, the postwar principal
-of the school (1946 - 1951), to develop in RGS students a strong sense
-of belonging to the school.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist12.jpg">
-</div>
-<p>Ten years later when Miss Evelyn Norris became Principal, she added a
-fifth house – Hadley House - in honour of Miss Hadley’s contributions to
-the school. Hence, as a tribute to the former Principals, the five RGS
-Houses were named after them. It is one of the oldest House systems in
-Singapore.</p>
-<h3>1950</h3>
-<p>Principal Miss Cecily Hinchliffe (1951 – 1956) championed all-round development
-of students. A Science Department was established in 1955 and a laboratory
-completed in 1957. She also introduced weekly assemblies to the school
-programme, which have since become part of the school’s tradition.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist14.jpg">
-</div>
-<p>The school motto (“Filiae Melioris Aevi” or “Daughters of a Better Age”)
-was introduced in 1953, with the school's first annual Speech Day held
-on the same year.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist15.jpg">
-</div>
-<p>The following year, in 1954, “From High Olympus” was adopted as the school
-song (lyrics and music by Miss Florence Hoare and Miss H L Schnoor).</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist17.jpg">
-</div>
-<h3>1959</h3>
-<p>In January 1959, the primary and secondary sections of the school were
-separated and the secondary section moved to Anderson Road, while the primary
-section was renamed Raffles Girls' Primary School (RGPS) and remained in
-Queen Street till 1979 when it too moved to larger premises on Holland
-Grove Road.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist19.jpg">
-</div>
-<p>At the school’s new premises in Anderson Road, the school operated on
-“two sessions” (morning and afternoon) to cope with increasing enrolment.</p>
-<p>Principal Miss M N Oehlers (1958 – 1961) oversaw the move. She had been
-a student, a teacher and Assistant Principal before taking over the helm
-as Principal of RGS. At her retirement ceremony in 1961, she outlined what
-she regarded as important qualities to develop in students: Honesty, Courtesy
-and Charity.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist16.jpg">
-</div>
-<h3>1961</h3>
-<p>Principal Miss Noel Evelyn Norris (1961 – 1976) encouraged<strong> </strong>leadership
-training and character development for girls, and avidly promoted CCAs.
-She also made it compulsory for students to read both Science and Arts
-subjects so as to have an all-rounded education.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist18.jpg">
-</div>
-<p>The school premises were upgraded such as the construction of a new Science
-block and the carving out of a large new playing field.</p>
-<h3>1977</h3>
-<p>Principal Miss Tan Leng Neo (1977 – 1979) oversaw both the Secondary and
-Pre-University classes at RGS. Believing that students absorb more through
-experiential learning, she encouraged teachers to organize field trips
-and outdoor activities for students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist20.jpg">
-</div>
-<p>A multi-purpose parade ground was constructed to provide a suitable assembly
-area for flag-raising ceremonies as well as for uniformed groups to form
-up. The parade square also serves as a venue for special celebrations like
-Founder’s Day, Speech Day, National Day and Teacher’s Day. This parade
-ground was renamed Tan Leng Neo Square in her honour in 2001.</p>
-<p>Concerned about the welfare of staff and students, Miss Tan installed
-water coolers and placed terrazzo tables and chairs around the school.
-She also looked into the installing of the Steven’s Road traffic lights
-“right-turn green arrow” into Anderson Road to help traffic flow to the
-school.</p>
-<h3>1980</h3>
-<p>Principal Mrs Chee Keng Soon (1980 – 1988) introduced job attachments,
-talks and other activities outside of school for character and leadership
-development. To inculcate in students a concern for the less fortunate,
-classes were encouraged to visit welfare organisations.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist21.jpg">
-</div>
-<p>To ease constraints on school facilities, the Pre-University classes were
-phased out in 1983. In 1984, the Gifted Education Programme was introduced.
-A year later, RGS went single session when the school was given the use
-of the adjoining ex-Anderson Secondary School campus.</p>
-<p>Students enjoyed ample opportunities to showcase their creative talents
-in music, drama, art and languages when “RGS Nite” (originally known as
-“An Evening of Music and Dance”) was started. It was on this platform that
-the talents of violinist Seow Lee Chin, choir pianist Karen Yip, singer
-Kit Chan and actress Emma Yong were showcased.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist23.jpg">
-</div>
+<h3>1946</h3>
+<p></p>
+<p></p>
+<h3>1950</h3>
+<h3>1959</h3>
+<p></p>
+<h3>1961</h3>
+<p></p>
+<p></p>
+<h3>1977</h3>
+<p></p>
+<p></p>
+<h3>1980</h3>
+<p></p>
 <h3>1988</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs Carmee Lim RGS ex Principal" src="/images/CarmeeLim.png">
-</div>
-<p>Under Principal Mrs Carmee Lim (1988 – 1999), RGS moved to a holding school
-located at Jalan Kuala (off River Valley Road) in 1988. A proponent of
-a multi-pronged approach to education, she championed creativity, innovation
-and entrepreneurship. Special rooms such as the Humanities Centre and the
-RGS Guidance Centre were set up.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist24.jpg">
-</div>
-<p>Together with the staff, Mrs Lim came up with the concept of the Living
-Values known as the four “P’s” – Principled, People-Centred, Passionate
-and Professional.</p>
-<p>To shape RGS into a “School for the Future”, students were exposed to
-a learning environment that tapped on multimedia technology and a Cyber
-Learning Centre (which came to be named in her honour) was set up. In 1989,
-RGS linked up with the University of Michigan in the Interactive Simulation
-project, which allowed RGS students to exchange ideas with students in
-six other countries in a “Global Classroom” setting.</p>
 <p></p>
 <h3>1992</h3>
 <p></p>
@@ -239,29 +117,95 @@ six other countries in a “Global Classroom” setting.</p>
 <summary>1928</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>As enrolment expanded, RGS moved to Queen Street in 1928 whereupon it
+became a full-fledged girls’ school and stopped admitting boys to the lower
+and middle forms.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist9.jpg">
+</div>
+<p>Principal Miss C Richardson (1938 – 1939) was known for her efforts in
+impressing on students the importance of articulating the English Language
+properly and her emphasis on discipline.</p>
+<p>When World War Two broke out, Principal Mrs K Waddle (1939 – 1942)<strong> </strong>chose
+to remain in Singapore out of dedication to her job. When she left on the
+last evacuation boat just before the Japanese occupied Singapore, the boat
+was torpedoed and she lost her life at sea.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist13.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1942-45</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS’ Queen Street campus was occupied by the Japanese Military Police
+(“Kempeitai”) as its headquarters during the war years.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1946</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>The House system in RGS was started by Miss M M Hadley, the postwar principal
+of the school (1946 - 1951), to develop in RGS students a strong sense
+of belonging to the school.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist12.jpg">
+</div>
+<p>Ten years later when Miss Evelyn Norris became Principal, she added a
+fifth house – Hadley House - in honour of Miss Hadley’s contributions to
+the school. Hence, as a tribute to the former Principals, the five RGS
+Houses were named after them. It is one of the oldest House systems in
+Singapore.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1950</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Principal Miss Cecily Hinchliffe (1951 – 1956) championed all-round development
+of students. A Science Department was established in 1955 and a laboratory
+completed in 1957. She also introduced weekly assemblies to the school
+programme, which have since become part of the school’s tradition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist14.jpg">
+</div>
+<p>The school motto (“Filiae Melioris Aevi” or “Daughters of a Better Age”)
+was introduced in 1953, with the school's first annual Speech Day held
+on the same year.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist15.jpg">
+</div>
+<p>The following year, in 1954, “From High Olympus” was adopted as the school
+song (lyrics and music by Miss Florence Hoare and Miss H L Schnoor).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist17.jpg">
+</div>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1959</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>In January 1959, the primary and secondary sections of the school were
+separated and the secondary section moved to Anderson Road, while the primary
+section was renamed Raffles Girls' Primary School (RGPS) and remained in
+Queen Street till 1979 when it too moved to larger premises on Holland
+Grove Road.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist19.jpg">
+</div>
+<p>At the school’s new premises in Anderson Road, the school operated on
+“two sessions” (morning and afternoon) to cope with increasing enrolment.</p>
+<p></p>
+<p>Principal Miss M N Oehlers (1958 – 1961) oversaw the move. She had been
+a student, a teacher and Assistant Principal before taking over the helm
+as Principal of RGS. At her retirement ceremony in 1961, she outlined what
+she regarded as important qualities to develop in students: Honesty, Courtesy
+and Charity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist16.jpg">
+</div>
 <p></p>
 </div>
 </details>
@@ -269,17 +213,67 @@ six other countries in a “Global Classroom” setting.</p>
 <summary>1961</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Principal Miss Noel Evelyn Norris (1961 – 1976) encouraged<strong> </strong>leadership
+training and character development for girls, and avidly promoted CCAs.
+She also made it compulsory for students to read both Science and Arts
+subjects so as to have an all-rounded education.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist18.jpg">
+</div>
+<p>The school premises were upgraded such as the construction of a new Science
+block and the carving out of a large new playing field.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1977</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Principal Miss Tan Leng Neo (1977 – 1979) oversaw both the Secondary and
+Pre-University classes at RGS. Believing that students absorb more through
+experiential learning, she encouraged teachers to organize field trips
+and outdoor activities for students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist20.jpg">
+</div>
+<p>A multi-purpose parade ground was constructed to provide a suitable assembly
+area for flag-raising ceremonies as well as for uniformed groups to form
+up. The parade square also serves as a venue for special celebrations like
+Founder’s Day, Speech Day, National Day and Teacher’s Day. This parade
+ground was renamed Tan Leng Neo Square in her honour in 2001.</p>
+<p></p>
+<p>Concerned about the welfare of staff and students, Miss Tan installed
+water coolers and placed terrazzo tables and chairs around the school.
+She also looked into the installing of the Steven’s Road traffic lights
+“right-turn green arrow” into Anderson Road to help traffic flow to the
+school.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1980</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>Principal Mrs Chee Keng Soon (1980 – 1988) introduced job attachments,
+talks and other activities outside of school for character and leadership
+development. To inculcate in students a concern for the less fortunate,
+classes were encouraged to visit welfare organisations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist21.jpg">
+</div>
+<p>To ease constraints on school facilities, the Pre-University classes were
+phased out in 1983. In 1984, the Gifted Education Programme was introduced.
+A year later, RGS went single session when the school was given the use
+of the adjoining ex-Anderson Secondary School campus.</p>
+<p></p>
+<p>Students enjoyed ample opportunities to showcase their creative talents
+in music, drama, art and languages when “RGS Nite” (originally known as
+“An Evening of Music and Dance”) was started. It was on this platform that
+the talents of violinist Seow Lee Chin, choir pianist Karen Yip, singer
+Kit Chan and actress Emma Yong were showcased.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist23.jpg">
+</div>
 <p></p>
 </div>
 </details>
@@ -287,6 +281,27 @@ six other countries in a “Global Classroom” setting.</p>
 <summary>1988</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs Carmee Lim RGS ex Principal" src="/images/CarmeeLim.png">
+</div>
+<p>Under Principal Mrs Carmee Lim (1988 – 1999), RGS moved to a holding school
+located at Jalan Kuala (off River Valley Road) in 1988. A proponent of
+a multi-pronged approach to education, she championed creativity, innovation
+and entrepreneurship. Special rooms such as the Humanities Centre and the
+RGS Guidance Centre were set up.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist24.jpg">
+</div>
+<p>Together with the staff, Mrs Lim came up with the concept of the Living
+Values known as the four “P’s” – Principled, People-Centred, Passionate
+and Professional.</p>
+<p></p>
+<p>To shape RGS into a “School for the Future”, students were exposed to
+a learning environment that tapped on multimedia technology and a Cyber
+Learning Centre (which came to be named in her honour) was set up. In 1989,
+RGS linked up with the University of Michigan in the Interactive Simulation
+project, which allowed RGS students to exchange ideas with students in
+six other countries in a “Global Classroom” setting.</p>
 </div>
 </details>
 <details class="isomer-details">

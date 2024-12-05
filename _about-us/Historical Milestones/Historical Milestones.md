@@ -27,42 +27,13 @@ educational institution in Singapore. The commitment of good people, many
 of whom remain unsung heroes, continues to shape RGS as an institution
 for high-ability girls.</p>
 <h3>1879</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist1.jpg">
-</div>
-<p>From its humble beginnings at Bras Basah Road on 4 March 1844 as a one-room
-department in a boy’s school (Raffles Institution), RGS was officially
-established in 1879 with an enrolment of 77 students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist2.jpg">
-</div>
-<p>Its first Headmistress was Miss M Nelson (1880 – 1884). Together with
-three assistants, Miss Nelson taught the girls sewing, cooking, reading
-and writing as the focus of the school then was to equip girls with the
-tools to become an educated wife.</p>
+<p></p>
 <h3>1882</h3>
-<p>From 1882 onwards, English speaking boys were admitted to the lower, middle
-and primary classes. This was discontinued in 1927 due to the increasing
-demand for places for girls.&nbsp;The school had by 1883, 4 classrooms,
-occupied by 134 students</p>
+<p></p>
 <h3>1900</h3>
-<p>RGS attained the status of an English High School, offering Latin as a
-subject which proved useful to girls aspiring to become doctors and lawyers.</p>
-<p>In 1902, the Director of Public Instruction referred to RGS as “an admirably
-managed establishment”.</p>
+<p></p>
 <h3>1903</h3>
-<p>RGS became a Government School – henceforth the Government set the standard
-of education and appointed civil servants to run the School.</p>
-<p>Principal Miss Tarbet (1904 – 1910) pushed for the start of a training
-establishment where students could be trained to be teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist8.jpg">
-</div>
-<p>To date, Miss Dorothy Martha Buckle (1910 – 1937) is the longest serving
-Principal in RGS. Mr H R Cheeseman (Director of Education, Singapore) praised
-her for making her mark not only as a trainer who produced teachers who
-maintained “her high standards of efforts and of efficiency”, but also
-as a Principal who taught students to be independent thinkers.</p>
+<p></p>
 <h3>1928</h3>
 <h3>1942-45</h3>
 <p></p>
@@ -93,24 +64,60 @@ as a Principal who taught students to be independent thinkers.</p>
 <summary>1879</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist1.jpg">
+</div>
+<p>From its humble beginnings at Bras Basah Road on 4 March 1844 as a one-room
+department in a boy’s school (Raffles Institution), RGS was officially
+established in 1879 with an enrolment of 77 students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist2.jpg">
+</div>
+<p>Its first Headmistress was Miss M Nelson (1880 – 1884). Together with
+three assistants, Miss Nelson taught the girls sewing, cooking, reading
+and writing as the focus of the school then was to equip girls with the
+tools to become an educated wife.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1882</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>From 1882 onwards, English speaking boys were admitted to the lower, middle
+and primary classes. This was discontinued in 1927 due to the increasing
+demand for places for girls.&nbsp;The school had by 1883, 4 classrooms,
+occupied by 134 students</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1900</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS attained the status of an English High School, offering Latin as a
+subject which proved useful to girls aspiring to become doctors and lawyers.</p>
+<p></p>
+<p>In 1902, the Director of Public Instruction referred to RGS as “an admirably
+managed establishment”.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>1903</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>RGS became a Government School – henceforth the Government set the standard
+of education and appointed civil servants to run the School.</p>
+<p></p>
+<p>Principal Miss Tarbet (1904 – 1910) pushed for the start of a training
+establishment where students could be trained to be teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hist8.jpg">
+</div>
+<p>To date, Miss Dorothy Martha Buckle (1910 – 1937) is the longest serving
+Principal in RGS. Mr H R Cheeseman (Director of Education, Singapore) praised
+her for making her mark not only as a trainer who produced teachers who
+maintained “her high standards of efforts and of efficiency”, but also
+as a Principal who taught students to be independent thinkers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -126,6 +133,7 @@ and middle forms.</p>
 <p>Principal Miss C Richardson (1938 – 1939) was known for her efforts in
 impressing on students the importance of articulating the English Language
 properly and her emphasis on discipline.</p>
+<p></p>
 <p>When World War Two broke out, Principal Mrs K Waddle (1939 – 1942)<strong> </strong>chose
 to remain in Singapore out of dedication to her job. When she left on the
 last evacuation boat just before the Japanese occupied Singapore, the boat

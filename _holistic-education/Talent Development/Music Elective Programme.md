@@ -46,4 +46,3 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 * Concert outing
 * Ethnic music workshop/learning journey
 * SYF Arts Celebrations (Youth Station Project, performances)
-

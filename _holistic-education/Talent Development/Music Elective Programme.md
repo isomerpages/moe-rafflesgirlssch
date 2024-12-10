@@ -28,7 +28,7 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 * Develop independent learners with inquiring and innovative minds through reflective practices in music&nbsp;
 * Provide the basis for an informed and lifelong appreciation of music
 
-|****Programme Overview**** |
+| **Programme Overview** |
 
 **Core Curriculum**
 

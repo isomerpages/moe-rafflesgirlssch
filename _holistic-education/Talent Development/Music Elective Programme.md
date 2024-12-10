@@ -36,7 +36,14 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 | **Music Studies** <br> General Musicianship<br>Baroque Period&nbsp;<br>Ethnic Music (I) | **Music Studies** <br> Classical Period <br> Ethnic Music (II)  | **Music Studies** <br>Romantic Period<br>Jazz    | **Music Studies** <br>20th Century music<br>Pop music | -------- | -------- | -------- | -------- |
 | **Creating** <br> Melodic composition   | **Creating** <br> Classical style composition      | **Creating** <br> Art Song composition    | **Creating** <br> Pop Song composition using DAW     |
 |**Performing** <br>Solo and chamber ensemble performance | **Performing** <br>Solo and chamber ensemble performance  | **Performing** <br>Solo and chamber ensemble performance  | **Performing** <br>Solo and chamber ensemble performance  |
-| Text     | Text     | Text     | Text     |
+|
 
+**Enrichment**
 
+* Annual MEP Concert&nbsp;
+* VIA performances&nbsp;
+* School performances&nbsp;
+* Concert outing
+* Ethnic music workshop/learning journey
+* SYF Arts Celebrations (Youth Station Project, performances)
 

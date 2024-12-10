@@ -11,6 +11,8 @@ The Music Elective Programme (MEP) is offered by the Ministry of Education to en
 
 Beyond classroom learning, the enriching curriculum provides our students with opportunities for hands-on music-making, learning opportunities with professionals in the creative industries. They will also enjoy opportunities to learn and collaborate with MEP students from other schools.
 
+![](/images/MEP2324.png)
+
 | **Key Understandings**  |
 |:-:|
 * Music expresses human experiences and values.&nbsp;

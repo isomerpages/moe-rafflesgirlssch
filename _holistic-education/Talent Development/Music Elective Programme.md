@@ -35,7 +35,7 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 
 |Year 1 | Year 2  | Year 3  | Year 4 |
 | -------- | -------- | -------- | -------- |
-| **Music Studies** <br> General Musicianship<br>Baroque Period&nbsp;<br>Ethnic Music (I) | **Music Studies** <br> Classical Period <br> Ethnic Music (II)  | **Music Studies** <br>Romantic Period<br>Jazz    | **Music Studies** <br>20th Century music<br>Pop music | -------- | -------- | -------- | -------- |
+| **Music Studies** <br> General Musicianship<br>Baroque Period&nbsp;<br>Ethnic Music (I) | **Music Studies** <br> Classical Period <br> Ethnic Music (II)  | **Music Studies** <br>Romantic Period<br>Jazz    | **Music Studies** <br>20th Century music<br>Pop music 
 | **Creating** <br> Melodic composition   | **Creating** <br> Classical style composition      | **Creating** <br> Art Song composition    | **Creating** <br> Pop Song composition using DAW     |
 |**Performing** <br>Solo and chamber ensemble performance | **Performing** <br>Solo and chamber ensemble performance  | **Performing** <br>Solo and chamber ensemble performance  | **Performing** <br>Solo and chamber ensemble performance  |
 |

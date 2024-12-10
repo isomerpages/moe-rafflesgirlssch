@@ -13,15 +13,15 @@ Beyond classroom learning, the enriching curriculum provides our students with o
 
 ![](/images/MEP2324.png)
 
-| **Key Understandings**  |
-|:-:|
+#### Key Understandings
+
 * Music expresses human experiences and values.&nbsp;
 * Music is a universal language that connects individuals and communities&nbsp;
 * Music is shaped by historical, social and cultural contexts.&nbsp;
 * Music has the power to influence and effect social change.
 
-| **Aims**  |
-|:-:|
+#### Aims
+
 * Develop critical thinking and musical creativity&nbsp;
 * Develop communication, collaborative and interpretative skills in music
 * Develop perception and awareness of musical cultures and traditions, both local and global

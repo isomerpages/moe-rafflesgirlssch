@@ -17,7 +17,7 @@ on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2024 (Monday)</strong> to
 indicate that your daughter is taking up the place at RGS.You may refer
 to the registration guide for more details.</p>
-<p>Please use the Web Links to complete the following tasks.
+<p>Please use the Web Links to complete the following tasks:
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -76,7 +76,7 @@ to the registration guide for more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Inter-bank GIRO Arrangements</strong>
+<p><strong><a href="/files/RGS_GIRO_Form__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Inter-bank GIRO Arrangements</a></strong>
 </p>
 <p><strong>(To be submitted by 3 January 2025, 5.00pm)</strong>
 </p>
@@ -98,7 +98,7 @@ website.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form available on RGS Parents Portal</p>
+<p>Form available on RGS Parents Portal.</p>
 </td>
 </tr>
 </tbody>
@@ -107,7 +107,8 @@ website.</p>
 </p>
 <p>The first day of school for Academic Year 2025 is Thursday, 2 January
 2025. All Year 1 students are to report to RGS by 7.25am, in their RGS
-PE polo shirts, culottes and school shoes.</p>
+PE polo shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 2 January 2025. However, the online registration form MUST be completed by 23 December 2024, 9.00am.</strong>
+</p>
 <p>
 <br><strong><u>SCHOOL UNIFORMS</u></strong>
 </p>
@@ -119,6 +120,10 @@ at Bibi &amp; Baba shops.</p>
 </p>
 <p>Textbooks and stationery can be bought via the link <a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
+<p></p>
+<p><strong><u>SCHOOL BUS OPERATORS LIST</u></strong>
+</p>
+<p>You may view the list of Bus Operators <a href="/files/School_Bus_Transport_Operators_17Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong><u>Frequently Asked Questions for </u><em><u>Year 1 Posting Results and </u></em></strong>
 <br><strong><em><u>Y1 Registration</u></em></strong>

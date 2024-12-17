@@ -132,7 +132,7 @@ at Bibi &amp; Baba shops.</p>
 </p>
 </li>
 </ol>
-<p>Posting results will be released <strong>between Wed, 18 Dec 2024 and Fri, 20 Dec 2024</strong> online,
+<p>Posting results will be released <strong>on 18 Dec 2024 </strong>online,
 via SMS and your daughter’s primary school.&nbsp;</p>
 <p>Parents/guardians of all students successfully posted to RGS will receive
 instructions on the RGS Year 1 Registration process via Parents Gateway

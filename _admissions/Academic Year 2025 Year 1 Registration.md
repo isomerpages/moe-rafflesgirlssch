@@ -4,7 +4,7 @@ permalink: /admissions/2025y1/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Academic Year 2025 Year 1 Registration</strong></h2>
+<h2><strong>REGISTRATION for Year 1 Academic Year 2025 (Compulsory)</strong></h2>
 <p>
 <br>To all students who will join RGS as a Year 1 student in 2025, congratulations
 and welcome!&nbsp;</p>

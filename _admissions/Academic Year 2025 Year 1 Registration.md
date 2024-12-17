@@ -75,7 +75,7 @@ indicate that your daughter is taking up the place at RGS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Inter-bank GIRO Arrangements </strong>
+<p><strong>Inter-bank GIRO Arrangements</strong>
 </p>
 <p><strong>(To be submitted by 3 January 2025, 5.00pm)</strong>
 </p>

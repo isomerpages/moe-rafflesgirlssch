@@ -15,8 +15,9 @@ and welcome!&nbsp;</p>
 <p>Parents/Guardians of all 2025 Year 1 students will receive instructions
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2024 (Monday)</strong> to
-indicate that your daughter is taking up the place at RGS.</p>
-<p>Please use the Web Links to complete the following tasks:
+indicate that your daughter is taking up the place at RGS.You may refer
+to the registration guide for more details.</p>
+<p>Please use the Web Links to complete the following tasks.
 <br>
 </p>
 <table style="minWidth: 50px">
@@ -116,13 +117,9 @@ at Bibi &amp; Baba shops.</p>
 <p></p>
 <p><strong><u>TEXTBOOKS &amp; STATIONERY</u></strong>
 </p>
-<ol>
-<li>
 <p>Textbooks and stationery can be bought via the link <a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 <p></p>
-</li>
-</ol>
 <p><strong><u>Frequently Asked Questions for </u><em><u>Year 1 Posting Results and </u></em></strong>
 <br><strong><em><u>Y1 Registration</u></em></strong>
 </p>

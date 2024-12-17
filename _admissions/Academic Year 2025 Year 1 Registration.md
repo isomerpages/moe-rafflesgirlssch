@@ -123,7 +123,8 @@ at Bibi &amp; Baba shops.</p>
 <p></p>
 <p><strong><u>SCHOOL BUS OPERATORS LIST</u></strong>
 </p>
-<p>You may view the list of Bus Operators <a href="/files/School_Bus_Transport_Operators_17Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>You may view the list of Bus Operators <a href="/files/School_Bus_Transport_Operators_17Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>Parents/guardians must liaise directly with the bus vendors </strong>should
+they wish to arrange for transportation for their daughters/wards.</p>
 <p></p>
 <p><strong><u>Frequently Asked Questions for </u><em><u>Year 1 Posting Results and </u></em></strong>
 <br><strong><em><u>Y1 Registration</u></em></strong>

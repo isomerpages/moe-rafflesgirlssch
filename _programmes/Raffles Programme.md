@@ -2,12 +2,13 @@
 title: Raffles Programme
 permalink: /programmes/raffles-programme/
 description: ""
+variant: markdown
 ---
 ## Raffles Programme
 
-<img src="/images/rp1.jpg" style="width:49%" align=right>
+<img src="/images/rp1.jpg" style="width:49%" align="right">
 
-The Raffles Programme is a seamless 6-year curriculum culminating in the Singapore-Cambridge General Certificate in Education (GCE) Advanced Level Examination.  
+The Raffles Programme is a seamless 6-year curriculum culminating in the Singapore-Cambridge General Certificate in Education (GCE) Advanced Level Examination.  Students are expected to complete the full duration of the programme. Transfers to other schools, especially other IP institutions, are strongly discouraged and will only be considered under exceptional circumstances.
   
 Building on the rich heritage and culture of excellence of Raffles Girls' School and Raffles Institution, the programme provides a rigorous and enriched curriculum for highly-able students in Singapore. The Raffles Programme offers a broad-based curriculum, pathways for the development of special interests and strengths, and an emphasis on character and leadership development.
 
@@ -17,12 +18,12 @@ Nurturing the high ability girl to be a leader who will realise her talents in s
 
 #### Goals
 
-To develop fine character and well-being, nurture the intellect and fire the imagination of the RGS girl as a 
+To develop fine character and well-being, nurture the intellect and fire the imagination of the RGS girl as a&nbsp;
 
-*   **Person** who is purposeful and aspires towards the greater good with integrity, empathy and resilience.
-*   **Leader** who values diversity, cohesiveness, and inclusiveness in exerting positive influence and impact on the community.
-*   **Thinker** who demonstrates a disposition for reflective and flexible thinking, and is willing to take intellectual risks, especially in the face of complex and ambiguous situations.
-*   **Pioneer** who seeks opportunities and embraces challenges with courage to innovate for the common good.
+*   **Person**&nbsp;who is purposeful and aspires towards the greater good with integrity, empathy and resilience.
+*   **Leader**&nbsp;who values diversity, cohesiveness, and inclusiveness in exerting positive influence and impact on the community.
+*   **Thinker**&nbsp;who demonstrates a disposition for reflective and flexible thinking, and is willing to take intellectual risks, especially in the face of complex and ambiguous situations.
+*   **Pioneer**&nbsp;who seeks opportunities and embraces challenges with courage to innovate for the common good.
 
 #### School Values  
 
@@ -63,7 +64,7 @@ It is designed to respond to the precocity, intensity and complexity that charac
 
 #### Understanding by Design (UBD) Framework by Grant Wiggins and Jay McTighe  
 
-Assessments are based on the desired learner outcomes (what we want students to know, understand and be able to do); they drive our instructional practices. This is consistent with the backward design process of the UBD framework that the school uses for the development of its lesson units in each discipline area. The framework helps focus curriculum and teaching on the development and deepening of student understanding using a three-stage design process: _identifying desired results_, determining evidence, _planning learning experiences_ and _instruction_.
+Assessments are based on the desired learner outcomes (what we want students to know, understand and be able to do); they drive our instructional practices. This is consistent with the backward design process of the UBD framework that the school uses for the development of its lesson units in each discipline area. The framework helps focus curriculum and teaching on the development and deepening of student understanding using a three-stage design process:&nbsp;_identifying desired results_, determining evidence,&nbsp;_planning learning experiences_&nbsp;and&nbsp;_instruction_.
 
 #### Curriculum Differentiation  
 

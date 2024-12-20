@@ -60,7 +60,7 @@ that secondary school.</p>
 <p>The appeal process starts on the day the PSLE posting results are released.
 Registration for appeal has to be done through e-application via the RGS
 Admission site. Please click <a href="https://www.rgs.edu.sg/admissions/Admission-to-RGS/appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-details. <strong>Application will open from 9am, Wednesday 18 Dec 2024 to 9am, Friday 20 Dec 2024.</strong>
+details. <strong>Application will open from 9am, Wednesday 18 Dec 2024 to 9am, Friday 23 Dec 2024.</strong>
 </p>
 <p>This appeal process is not applicable to students who have already gained
 admission to a secondary school via DSA or AEIS.</p>

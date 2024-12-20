@@ -55,7 +55,7 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/66f23bf185944a55ba54c465" rel="noopener nofollow" target="_blank">Standing Order for use of Edusave Account at RGS for purchased of Personal Learning Device Bundle (PDLB)</a></strong>
+<p><strong><a href="https://form.gov.sg/66f23bf185944a55ba54c465" rel="noopener nofollow" target="_blank">Standing Order for use of Edusave Account at RGS for purchase of Personal Learning Device Bundle (PLDB)</a></strong>
 </p>
 <p><strong>(Mandatory - to be submitted by 23 December 2024, 9.00am)</strong>
 </p>

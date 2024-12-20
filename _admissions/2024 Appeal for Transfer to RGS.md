@@ -32,7 +32,7 @@ the application.</p>
 applicant cannot be contacted or are unable to produce the original documents
 for verification purposes upon request.</p>
 <p>To apply, please click <a href="https://form.gov.sg/65659a0017464c0011a41c13" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete
-the online application. <strong>Application opens from 9am on 18 December 2024 to 9am, 20 December 2024.</strong>
+the online application. <strong>Application opens from 9am on 18 December 2024 to 9am, 23 December 2024.</strong>
 </p>
 <p><strong>Secondary One Registration Day</strong>
 </p>

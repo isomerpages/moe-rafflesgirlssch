@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<h2>Staff Directory</h2>
+<h1><strong>Staff Directory</strong></h1>
 <p><strong><u>Department - Senior Management</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Hong Peng</p>
+<p>Mrs Ong Hong Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>May Tan</p>
+<p>Ms May Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Principal, Student Development</p>
@@ -40,15 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mary George Cheriyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Principal, PeRL &amp; Community Engagement</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Valerie Yeo</p>
+<p>Ms Valerie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Principal, Academic Studies</p>
@@ -56,15 +48,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Juliana Chia</p>
+<p>Miss Magdalene Suey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bursar</p>
+<p>Deputy Principal, Organisational Development</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Michael Jalleh</p>
+<p>Miss Yeo Soo Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Director, Student Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Michael Jalleh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Academic Studies</p>
@@ -72,7 +72,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Lee Kian</p>
+<p>Ms Goh Lee Kian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Planning &amp; Infrastructure</p>
@@ -80,18 +80,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Su Yin</p>
+<p>Ms Juliana Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Director, Communications &amp; Partnerships</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yeo Soo Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Student Development</p>
+<p>Bursar</p>
 </td>
 </tr>
 </tbody>
@@ -114,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Anna Loo</p>
+<p>Ms Anna Loo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head, Aesthetics</p>
@@ -122,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Denise Tan</p>
+<p>Mrs Lai Siew Yong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -130,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gerald Teh</p>
+<p>Mrs Vivien Willamme</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -138,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lai Siew Yong</p>
+<p>Ms Denise Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -146,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mak Hwei Yoke</p>
+<p>Ms Noorshidah Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -154,7 +146,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Noorshidah Ibrahim</p>
+<p>Mr Yeo Puay Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -162,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vivien Willamme</p>
+<p>Ms Mak Hwei Yoke</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -170,10 +162,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yeo Puay Hong</p>
+<p>Mr Gerald Teh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Asman Bin Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Technician, Design &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sheila Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attendant, Home Economic</p>
 </td>
 </tr>
 </tbody>
@@ -1364,7 +1372,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asman Bin Yusof</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Technician, Design &amp; Technology</p>

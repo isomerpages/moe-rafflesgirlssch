@@ -32,7 +32,8 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:hongpeng.lim@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hongpeng.lim@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +45,8 @@ variant: tiptap
 <br>Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:may.tan@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">may.tan@rafflesgirlssch.edu.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -56,12 +58,13 @@ variant: tiptap
 <p>Deputy Principal, Academic Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:valerie.yeo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.yeo@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalene
+<p>Miss Magdalene
 <br>Suey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +72,8 @@ variant: tiptap
 <p>Organisational Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:magdalene.suey@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene.suey@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +85,8 @@ variant: tiptap
 <p>Director, Student Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sooling.yeo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sooling.yeo@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +98,8 @@ variant: tiptap
 <p>Director, Academic Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:michael.jalleh@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michael.jalleh@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +110,8 @@ variant: tiptap
 <p>Director, Planning and Infrastructure</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:leekian.goh@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leekian.goh@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -115,7 +122,8 @@ variant: tiptap
 <p>Bursar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:juliana.chia@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana.chia@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -126,18 +134,8 @@ variant: tiptap
 <p>Head, Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:anna.loo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anna.loo@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +146,8 @@ variant: tiptap
 <p>Head, Character &amp; Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:rachel.pang@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel.pang@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +158,8 @@ variant: tiptap
 <p>Head, English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:stella.picca@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stella.picca@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,8 @@ variant: tiptap
 <p>Head, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:faizal.mohammad@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal.mohammad@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +183,8 @@ variant: tiptap
 <p>Head, Information &amp; Communications Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yinlai.tan@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yinlai.tan@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +196,8 @@ variant: tiptap
 <p>Head, Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:szeryuen.lee@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">szeryuen.lee@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -205,7 +208,8 @@ variant: tiptap
 <p>Head, Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:carmen.hoo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carmen.hoo@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +220,8 @@ variant: tiptap
 <p>Head, Physical Education &amp; Co-curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:emily.huang@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">emily.huang@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +233,8 @@ variant: tiptap
 <p>Head, Professional Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lingling.foo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lingling.foo@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +246,8 @@ variant: tiptap
 <p>Head, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sundari.pramathevan@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sundari.pramathevan@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +259,8 @@ variant: tiptap
 <p>Head, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eriyanty.mohd@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eriyanty.mohd@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -263,7 +271,8 @@ variant: tiptap
 <p>Head, Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:joseph.toh@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joseph.toh@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -274,7 +283,8 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:audrey.chen@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">audrey.chen@rafflesgirlssch.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

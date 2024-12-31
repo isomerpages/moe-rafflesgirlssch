@@ -30,4 +30,4 @@ Being a close-knit family, the various departments collaborate to create a condu
 * Firing the imagination
 * Developing the body
 
-#### You might just be the person we are looking for to join our RGS family!
+#### You might just be the person we are looking for to join our Rafflesian&nbsp;Family!

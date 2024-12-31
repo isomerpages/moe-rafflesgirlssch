@@ -11,3 +11,7 @@ variant: tiptap
 <p>This edition showcases the highlights of key events and outstanding student
 and staff achievements, along with inspiring features on Mrs Mary George
 Cheriyan and 2024 Rafflesian Award Winner, Chua Jen Ee.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Raffles_Wave__December_2024_.png">
+</div>
+<p></p>

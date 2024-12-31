@@ -1749,18 +1749,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jamaluddin Bin Johan</p>
+<p>Mr Leonard Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Strategic Communications</p>
+<p>Executive, Strategic Communications (Team Lead)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leonard Louis</p>
+<p>Mr Jamaluddin Johan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive, Strategic Communications</p>
+<p>Senior Executive, Strategic Communications</p>
 </td>
 </tr>
 </tbody>
@@ -1783,7 +1783,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Karen Lau</p>
+<p>Miss Karen Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -1791,7 +1791,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Laura Tan</p>
+<p>Ms Laura Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor with ECG</p>
@@ -1799,7 +1799,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ngeow Mei Yi</p>
+<p>Ms Ngeow Mei Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -1807,7 +1807,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sarah Ee</p>
+<p>Mdm Sarah Ee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance Counsellor</p>
@@ -1815,7 +1815,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Humaira Binte Salleh</p>
+<p>Ms Humaira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Officer, Student Services</p>

@@ -32,23 +32,6 @@ variant: tiptap
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Hong_Peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hong_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Mary
-<br>George
-<br>Cheriyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deputy Principal, Centre for Pedagogical Research &amp; Learning and Community
-Engagement</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Mary_CHERIYAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mary_cheriyan@moe.edu.sg</a>
-</p>
 <p></p>
 </td>
 </tr>
@@ -61,8 +44,7 @@ Engagement</p>
 <br>Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_may@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_may@moe.edu.sg</a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
@@ -80,6 +62,30 @@ Engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal,</p>
+<p>Organisational Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Yeo Soo
+<br>Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Michael
 <br>Jalleh</p>
 </td>
@@ -88,18 +94,6 @@ Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Michael_Francis_jalleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">michael_francis_jalleh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Su Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Director, Communications &amp; Partnerships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_SU_YIN_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_su_yin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -130,8 +124,7 @@ Engagement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Yeo Soo
-<br>Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director, Student Development</p>

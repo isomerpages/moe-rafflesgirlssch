@@ -342,7 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ong Shu Juin</p>
+<p>Miss Ong Shu Juin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Head, Inquiry &amp; Advocacy</p>
@@ -350,7 +350,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aliah Binte Mohamed Shariff</p>
+<p>Mdm Aliah Binte Mohamed Shariff</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -358,7 +358,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asmizar Bin Abu</p>
+<p>Mr Asmizar Bin Abu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -366,7 +366,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audrey Tan Beng Foon</p>
+<p>Ms Audrey Tan Beng Foon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -374,7 +374,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gwendalyn Too</p>
+<p>Ms Elizabeth Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -382,7 +382,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kevin Ng</p>
+<p>Miss Gwendalyn Too</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -390,7 +390,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Mei Ling</p>
+<p>Mr Kevin Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -398,7 +398,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mak Wai Ling</p>
+<p>Ms Loo Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -406,7 +406,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohamad Fadhly</p>
+<p>Ms Low Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -414,7 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nafisah Abdul Hamed</p>
+<p>Mrs Mak Wai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -422,7 +422,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Roselind Mathews</p>
+<p>Mr Mohamad Fadhly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -430,7 +430,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Siti Zakiah Binte Sidek</p>
+<p>Ms Nafisah Abdul Hamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -438,7 +438,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Syazwani Binte Amrun</p>
+<p>Ms Roselind Mathews</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zakiah Binte Sidek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -464,7 +472,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Szer Yuen</p>
+<p>Ms Lee Szer Yuen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head, Languages</p>
@@ -472,7 +480,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Chee Yeh</p>
+<p>Mdm Tan Lee Khim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Head, Languages</p>
@@ -480,7 +488,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Lee Khim</p>
+<p>Mr Wong Chee Yeh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Head, Languages</p>
@@ -488,7 +496,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Benedict Ng</p>
+<p>Mr Benedict Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -496,7 +504,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hing Siew Bee</p>
+<p>Mr Chong Yaw Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -504,7 +512,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ivy Toh</p>
+<p>Ms Hing Siew Bee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -512,7 +520,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kum Meng Dee</p>
+<p>Ms Ivy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -520,7 +528,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kumbalingam Uthaman</p>
+<p>Mr Kumbalingam Uthaman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -528,7 +536,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Wan Rong</p>
+<p>Miss Lee Wan Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -536,7 +544,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lin Yao</p>
+<p>Ms Lin Yao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -544,15 +552,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Molyyati Binte Shahwan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Languages</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mu Jun</p>
+<p>Ms Michelle Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -560,7 +560,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nadiah Rusydina Binte Roslan</p>
+<p>Mdm Molyyati Binte Shahwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -568,7 +568,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Neo Jia Hui</p>
+<p>Mdm Mu Jun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -576,7 +576,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ngiew Tian Hui</p>
+<p>Ms Nadiah Rusydina Binte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -584,7 +584,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Sio Hoon</p>
+<p>Miss Neo Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -592,7 +592,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nuraini Bt Abdul Gapor</p>
+<p>Miss Ng Sio Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -600,7 +600,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Zakiyah Binte Zakariah</p>
+<p>Mdm Nuraini Bt Abdul Gapor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -608,7 +608,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Savethiri D/O Arumugam</p>
+<p>Ms Nur Zakiyah Binte Zakariah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -616,7 +616,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shi Hai Yan</p>
+<p>Ms Savethiri D/O Arumugam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -624,7 +624,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wee Xiumei</p>
+<p>Ms Shi Hai Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Wee Xiumei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

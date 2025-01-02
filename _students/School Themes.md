@@ -25,7 +25,7 @@ talents. Even as each distinct story is being written, a constant theme
 runs through all of them, which speaks of the importance of having a strong
 sense of identity, staying true to who we are, members of the RGS family.</p>
 <p>We reaffirm the RGS tradition of excellence and unique pioneering spirit
-that encourages us to seek new frontiers, yet be grounded in the school&amp;#39;s
+that encourages us to seek new frontiers, yet be grounded in the school's
 values and mission to contribute to community and nation. We share a common
 vision that as an RGS community, we strive to grow collectively and individually.</p>
 <p>Even as we write our own stories, we are one RGS.</p>

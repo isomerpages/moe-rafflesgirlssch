@@ -6,6 +6,9 @@ third_nav_title: Careers at RGS
 variant: markdown
 ---
 ## Careers at RGS
+![RGS educators teaching students](/images/RGS_Staff_teaching.png)
+
+### Empowering the RGS Educator
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HAh18-4LoUA?si=IknmQ8P06JcSbmN-" height="315" width="560"></iframe>
 

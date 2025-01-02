@@ -4,24 +4,10 @@ permalink: /students/schooltheme/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2024 Theme: One Heart, One Voice</strong></h3>
-<p></p>
+<h3><strong>2025 Theme: Different Stories, One Heartbeat</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/IMG_7560.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="2025 Theme" src="/images/2025_theme_banner.png">
 </div>
-<p>‘One Heart, One Voice’ emphasises the importance and contribution that
-every member of the RGS community plays in fulfilling our mission. It reinforces
-the values of being united, of relationship building and synergy, and of
-collectively working towards a shared vision. It underscores the need for
-collaboration in providing a learning environment that is open, dynamic
-and relevant to the world, infusing academic rigour in a supportive learning
-culture as we push the boundaries of education in inspiring and nurturing
-every RGS girl to be active creators of a better age for all. It is our
-wish that she discovers her sense of belonging, interacting with her peers
-and developing the capacity to move others towards shared goals for the
-good of the nation and community.</p>
-<hr>
-<h3><strong>Theme: Different Stories, One Heartbeat</strong></h3>
 <p>The story of each RGS girl begins when she dons her blue RGS pinafore
 and enters the gates of the school for the very first time. Like the chapters
 in a riveting book, each story builds and captivates as it chronicles the
@@ -121,3 +107,16 @@ so that other people won't feel insecure</p>
 some of us; it's in everyone. And as we let our own light shine, we unconsciously
 give other people permission to do the same. As we are liberated from our
 own fear, our presence automatically liberates others.”</p>
+<hr>
+<h3><strong>Theme: One Heart, One Voice</strong></h3>
+<p>‘One Heart, One Voice’ emphasises the importance and contribution that
+every member of the RGS community plays in fulfilling our mission. It reinforces
+the values of being united, of relationship building and synergy, and of
+collectively working towards a shared vision. It underscores the need for
+collaboration in providing a learning environment that is open, dynamic
+and relevant to the world, infusing academic rigour in a supportive learning
+culture as we push the boundaries of education in inspiring and nurturing
+every RGS girl to be active creators of a better age for all. It is our
+wish that she discovers her sense of belonging, interacting with her peers
+and developing the capacity to move others towards shared goals for the
+good of the nation and community.</p>

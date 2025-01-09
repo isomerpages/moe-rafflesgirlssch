@@ -197,80 +197,7 @@ Diploma in Education (PGDE)</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>1. Learning &amp; Technology Designer (LTD)</strong></h4>
-<p></p>
-<p>The LTD will:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>collaborate with teachers to bring innovative EdTech ideas into reality
-through iterative and learner/user-centred design, prototyping, and development.</p>
-</li>
-<li>
-<p>coach and support teachers in using educational technologies, ensuring
-effective integration with existing curricula.</p>
-</li>
-<li>
-<p>work closely with Academic Heads of Dept to understand the unique needs
-of the various departments and work on projects to best harness technology
-to transform teaching and learning.</p>
-</li>
-<li>
-<p>support meaningful integration technology into the classroom, to enhance
-the learning experience for students (e.g. greater personalisation) and
-empower educators with tailored tech solutions for high-ability learners.</p>
-</li>
-<li>
-<p>co-identify instructional challenges faced by teachers and create, curate
-and experiment with cutting-edge tools/resources/solutions that will transform
-teaching and learning for high-ability learners.</p>
-</li>
-<li>
-<p>research and stay updated on the latest trends in educational technology,
-recommending and testing new tools that can enhance learning outcomes.</p>
-</li>
-<li>
-<p>partner members of ICT Hub to evaluate the implementation of the school’s
-ICT focus, programmes and direction in alignment with the school’s strategic
-thrusts and national goals.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bachelor’s degree in Educational Technology, Computer Science, Computing
-&amp; Design, or a related field</p>
-</li>
-<li>
-<p>Experience with coding languages such as Python and JavaScript, and familiarity
-with prototyping, wireframing and design software.</p>
-</li>
-<li>
-<p>Knowledge of education, instructional design, and learning theory is a
-plus.</p>
-</li>
-<li>
-<p>Proactive, team player who is an independent worker, strong interpersonal
-skills, an analytical and creative problem-solver, passion for ICT, new
-media and new technology</p>
-</li>
-<li>
-<p>Good verbal and written communication skills</p>
-</li>
-<li>
-<p>Experience with Learning Management Systems and AR/VR, gamification, AI
-in education, and other emerging EdTech trends is a plus.</p>
-</li>
-<li>
-<p>Background in user experience (UX) and user interface (UI) design principles
-is a plus.</p>
-</li>
-</ul>
-<p></p>
-<h4><strong>2. Developer, Information Technology</strong></h4>
+<h4><strong>1. Developer, Information Technology</strong></h4>
 <p></p>
 <p>The Developer provides analytical support in designing technology solutions
 that address the school’s requirements. This role involves partnering with
@@ -335,7 +262,7 @@ multiple back-end languages</p>
 </p>
 <p>Minimum 1-year relevant working experience</p>
 <p></p>
-<h4><strong>3. Officer, Library (Temporary)</strong></h4>
+<h4><strong>2. Officer, Library (Temporary)</strong></h4>
 <p></p>
 <p>As a Library Officer, you will assist the Library Manager in delivering
 high-quality library services to students and staff. You will play a key
@@ -405,7 +332,7 @@ and learning.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>4. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>3. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>
@@ -442,7 +369,7 @@ an advantage</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>5. Education &amp; Career Guidance Counsellor (6-months)</strong></h4>
+<h4><strong>4. Education &amp; Career Guidance Counsellor (6-months)</strong></h4>
 <p></p>
 <p><strong>Education &amp; Career Guidance</strong>
 </p>

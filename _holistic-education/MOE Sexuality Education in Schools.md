@@ -124,8 +124,7 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Mass Talk (pre-recorded video)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
-on:</p>
+<p>Raise awareness and provide knowledge on:</p>
 <p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
 it spreads, how to prevent infection mainly through ABC (abstinence, being
 faithful, correct, and consistent condom use).</p>
@@ -141,9 +140,8 @@ healthy way.</p>
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
-of a risky situation by applying skills of assertiveness and responsible
-decision-making</p>
+<p>Learn to negotiate their way out of a risky situation by applying skills
+of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,19 +152,10 @@ decision-making</p>
 </tbody>
 </table>
 <h4><strong>Information for Parents</strong></h4>
-<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
-supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and will be made available for submission via
-Parents Gateway by <strong>28/03/2024 (Term 2, Week 2)</strong>
-</p>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and will be made available for submission via
-Parents Gateway by <strong>28/03/2024 (Term 2 Week 2)</strong>
-</p>
-<p>Parents can contact Mrs Lee Hwee Ling, Sexuality Education Coordinator
-via email <a rel="noopener noreferrer nofollow" target="_blank">Neo_hwee_ling_lee@schools.gov.sg</a> or
-69706439 for discussion or to seek clarification about the school’s Sexuality
+<p>Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
+supplementary sexuality education programmes by MOE-approved external providers.
+A form will be sent to parents via Parents Gateway.</p>
+<p>Parents can contact Ms Sharon Tan, Sexuality Education Coordinator via
+email&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">tan_zi_yan_sharon@schools.gov.sg</a>&nbsp;or
+69706426 for discussion or to seek clarification about the school’s Sexuality
 Education programme.</p>

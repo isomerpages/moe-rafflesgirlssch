@@ -4,7 +4,7 @@ permalink: /holistic-education/moesexed/
 description: ""
 variant: tiptap
 ---
-<h2>MOE Sexuality Education in Schools</h2>
+<h2><strong>MOE Sexuality Education in Schools</strong></h2>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -15,7 +15,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
+<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Support students in managing their physiological, social and emotional
@@ -31,7 +31,7 @@ by having positive mainstream values and attitudes about sexuality that
 are premised on the family as the basic unit of society.</p>
 </li>
 </ul>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -51,14 +51,12 @@ ones.</p>
 </ul>
 <p>You may click <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of RAFFLES GIRLS’ School’s Sexuality Education Programme for 2024</strong>
+<p><strong>Overview of RAFFLES GIRLS’ School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://www.rgs.edu.sg/holistic-education/moesexed/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+Sexual Behaviour, and, Culture, Society and Law.</p>
 <p>The subjects that incorporate topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)</p>
@@ -81,23 +79,29 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>Click <a href="/files/2024_Info_on_SEd_for_RGS_website___1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to view the Sexuality Education lessons that will be taught in 2024.</strong>
+<p><strong>Click <a href="/files/2025_Info_on_SEd_for_RGS_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view the Sexuality Education lessons that will be taught in 2025.</strong>
 </p>
 <h4><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
+mass talk segment and a classroom-based programme. The desired outcome
+of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At Raffles Girls’ School, the <em>eTeens</em> programme will be implemented as follows in 2024:</strong>
+<p><strong>At Raffles Girls’ School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -117,7 +121,7 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk (pre-recorded video)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
@@ -129,7 +133,7 @@ faithful, correct, and consistent condom use).</p>
 healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2 (Monday)</p>
+<p>Term 3 Week 2 (Tuesday)</p>
 </td>
 </tr>
 <tr>

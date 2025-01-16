@@ -44,7 +44,7 @@ thinking.</p>
 <h1>Connect with us!</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Updated_Email_Signature.png">
+<img style="width: 100%" height="auto" width="100%" alt="RGS Library Contact details" src="/images/Library_image.png">
 </div>
 <h1>Opening Hours</h1>
 <p>During Term:</p>

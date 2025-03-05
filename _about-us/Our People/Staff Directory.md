@@ -1260,6 +1260,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Amos Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Technology Designer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Yap Zi Ning</p>
 </td>
 <td rowspan="1" colspan="1">

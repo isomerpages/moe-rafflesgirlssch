@@ -220,14 +220,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Liu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Head, English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Adeline Tang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1386,7 +1378,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <p><strong><u>Department - Administration Office</u></strong>
 </p>
 <table style="minWidth: 50px">

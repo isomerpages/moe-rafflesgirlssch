@@ -90,14 +90,17 @@ and Science.</p>
 </table>
 <p><strong>SUBMISSION OF APPLICATION</strong>
 </p>
-<p>Applicants must&nbsp;<strong>complete and submit an online application before 2 pm on 21 August 2024 (Wed).</strong>
+<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2025 (Monday). This is the only mode of application.</strong>
 </p>
-<p>DO NOT submit any documents, original or otherwise, as all documents submitted
-will not be returned. Applicants must be prepared to produce the original
-documents for verification purposes upon request, if necessary.</p>
-<p>Please click <a href="https://form.gov.sg/66b30d0e6b28275af2fd3845" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
-apply. This e-application form will only be accessible during the application
-period.</p>
+<p>Applicants are required to submit soft copies of the following via the
+online application form:</p>
+<p>1.&nbsp;&nbsp;&nbsp; PSLE Results Slip</p>
+<p>2.&nbsp;&nbsp;&nbsp; Secondary 1 End-Year Progress Report or Result Slip</p>
+<p>Applicants must be prepared to produce any original documents for verification
+purposes upon request, if necessary.</p>
+<p>Please click <a href="https://form.gov.sg/67d1322814ef0505bb1c5c23" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+apply. This online application form will only be accessible during the
+application period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>
 </p>
 <p>For further details about the Admissions Tests, please click <a href="/files/Y3_Admission_Academic_Subject_Selection_Tests.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>

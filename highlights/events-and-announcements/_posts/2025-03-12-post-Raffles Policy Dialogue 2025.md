@@ -7,10 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>How do we define success? What does it truly mean to ‘make it’ in Singapore?
-These were some of the thought-provoking questions explored at this year’s
-Raffles Policy Dialogue (RPD), where over 700 students from 45 schools
-gathered to exchange ideas and challenge perspectives.</p>
+<p>How can we broaden our definition of success beyond grades and academic
+achievements? What does it truly mean to ‘make it’ in Singapore? These
+were some of the thought-provoking questions explored at this year’s Raffles
+Policy Dialogue (RPD), where over 700 students from 45 schools gathered
+to exchange ideas and challenge perspectives.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Raffles Policy Dialogue 2025" src="/images/rpd25.png">

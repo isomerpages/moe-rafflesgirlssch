@@ -9,11 +9,14 @@ description: Beyond equations and textbooks, physics comes to life when students
 image: /images/sypt255.png
 variant: tiptap
 ---
-<p>Our students took part in the Singapore Young Physicists’ Tournament (SYPT)
-2025 and attained the following results:</p>
-<p></p>
+<p>Beyond equations and textbooks, physics comes to life when students tackle
+real-world problems—testing, debating, and refining their understanding
+through rigorous scientific discussions. The Singapore Young Physicists’
+Tournament (SYPT) offers just that: an authentic learning experience that
+mirrors the work of real physicists.</p>
+<p>Our students took part in SYPT 2025 and attained the following results:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYPT 2025" src="/images/image002__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sypt255.png">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -61,11 +64,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>SYPT&nbsp;seeks to bring students through a process of what physicists
-do, from research to modelling, experimentation and finally to an oral
-presentation before peers and experts. It provides authentic learning experiences
-in the learning of physics.&nbsp;</p>
-<p></p>
+<p>From conducting research and building models to experimenting and defending
+their findings before experts, participants gain invaluable skills in scientific
+inquiry and argumentation.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">

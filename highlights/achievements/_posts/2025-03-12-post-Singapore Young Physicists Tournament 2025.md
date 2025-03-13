@@ -4,7 +4,7 @@ permalink: /singapore-young-physicists-tournament-2025/
 date: 2025-03-12
 layout: post
 description: ""
-image: ""
+image: /images/sypt255.png
 variant: tiptap
 ---
 <p>Our students took part in the Singapore Young Physicists’ Tournament (SYPT)

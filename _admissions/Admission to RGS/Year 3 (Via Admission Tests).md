@@ -7,25 +7,25 @@ variant: tiptap
 ---
 <h3><strong>Year 3 (Via Admission Tests)</strong></h3>
 <h4><strong>Criteria</strong></h4>
-<p>This application is for admission into&nbsp;<strong>Year 3 only</strong>&nbsp;for
-the next academic year (2025).&nbsp;</p>
+<p>This application is for admission into <strong>Year 3 only</strong> for
+the <strong>next academic year 2026</strong>.</p>
 <p>Any student who was successfully posted to a secondary school under the
 DSA-Sec Exercise or Admissions Exercise for International Student (AEIS)
-is&nbsp;not&nbsp;allowed to transfer to another school as she is expected
-to honour her commitment to the school she has been posted to. In other
-words, she cannot apply for admission to Year 3 via our Admission Tests.</p>
-<p>Applicant must have:&nbsp;</p>
+is not allowed to transfer to another school as she is expected to honour
+her commitment to the school she has been posted to. In other words, she <u>cannot</u> apply
+for admission to Year 3 via our Admission Tests.</p>
+<p>An applicant for Year 3 Admissions must have:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Outstanding academic performance in Secondary 1 and 2 school examinations;
-and&nbsp;&nbsp;</p>
+<p>Outstanding academic performance in Secondary 1 and 2 school examinations
+in her current school; and</p>
 </li>
 <li>
-<p>Excellent achievement in academic and co-curricular activities.&nbsp;</p>
+<p>Excellent achievements in academic and co-curricular activities.&nbsp;</p>
 </li>
 </ul>
-<p>All applicants must sit for (in-person) Admission Tests administered by
-RGS for the following&nbsp;three&nbsp;subjects: English Language, Mathematics
+<p>All shortlisted applicants must sit for in-person Admission Tests administered
+by RGS for the following three subjects: English Language, Mathematics
 and Science.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -47,7 +47,7 @@ and Science.</p>
 <p>Application Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 August 2024 (Mon) 9 am to 21 August 2024 (Wed) 2 pm</strong>
+<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 2 pm</strong>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 September 2024 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
+<p><strong>8 September 2025 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
 <br>
-<br><strong>(Subjected to prevailing Covid-19 Safe Management Measures at that time)</strong>
+<br><strong>3 Tests to be taken in-person at RGS</strong>
 </p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>October - November 2024</strong>
+<p><strong>Mid-October – Mid-November 2025</strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ and Science.</p>
 <p>Notification of Result of Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>November 2024</strong>
+<p><strong>By 28 November 2025 (Friday)</strong>
 </p>
 </td>
 </tr>

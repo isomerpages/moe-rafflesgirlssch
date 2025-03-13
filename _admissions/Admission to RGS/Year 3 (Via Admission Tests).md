@@ -7,25 +7,25 @@ variant: tiptap
 ---
 <h3><strong>Year 3 (Via Admission Tests)</strong></h3>
 <h4><strong>Criteria</strong></h4>
-<p>This application is for admission into&nbsp;<strong>Year 3 only</strong>&nbsp;for
-the next academic year (2025).&nbsp;</p>
+<p>This application is for admission into <strong>Year 3 only</strong> for
+the <strong>next academic year 2026</strong>.</p>
 <p>Any student who was successfully posted to a secondary school under the
 DSA-Sec Exercise or Admissions Exercise for International Student (AEIS)
-is&nbsp;not&nbsp;allowed to transfer to another school as she is expected
-to honour her commitment to the school she has been posted to. In other
-words, she cannot apply for admission to Year 3 via our Admission Tests.</p>
-<p>Applicant must have:&nbsp;</p>
+is not allowed to transfer to another school as she is expected to honour
+her commitment to the school she has been posted to. In other words, she <u>cannot</u> apply
+for admission to Year 3 via our Admission Tests.</p>
+<p>An applicant for Year 3 Admissions must have:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Outstanding academic performance in Secondary 1 and 2 school examinations;
-and&nbsp;&nbsp;</p>
+<p>Outstanding academic performance in Secondary 1 and 2 school examinations
+in her current school; and</p>
 </li>
 <li>
-<p>Excellent achievement in academic and co-curricular activities.&nbsp;</p>
+<p>Excellent achievements in academic and co-curricular activities.&nbsp;</p>
 </li>
 </ul>
-<p>All applicants must sit for (in-person) Admission Tests administered by
-RGS for the following&nbsp;three&nbsp;subjects: English Language, Mathematics
+<p>All shortlisted applicants must sit for in-person Admission Tests administered
+by RGS for the following three subjects: English Language, Mathematics
 and Science.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -47,7 +47,7 @@ and Science.</p>
 <p>Application Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 August 2024 (Mon) 9 am to 21 August 2024 (Wed) 2 pm</strong>
+<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 2 pm</strong>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 September 2024 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
+<p><strong>8 September 2025 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
 <br>
-<br><strong>(Subjected to prevailing Covid-19 Safe Management Measures at that time)</strong>
+<br><strong>3 Tests to be taken in-person at RGS</strong>
 </p>
 </td>
 </tr>
@@ -73,7 +73,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>October - November 2024</strong>
+<p><strong>Mid-October – Mid-November 2025</strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ and Science.</p>
 <p>Notification of Result of Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>November 2024</strong>
+<p><strong>By 28 November 2025 (Friday)</strong>
 </p>
 </td>
 </tr>
@@ -90,14 +90,17 @@ and Science.</p>
 </table>
 <p><strong>SUBMISSION OF APPLICATION</strong>
 </p>
-<p>Applicants must&nbsp;<strong>complete and submit an online application before 2 pm on 21 August 2024 (Wed).</strong>
+<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2025 (Monday). This is the only mode of application.</strong>
 </p>
-<p>DO NOT submit any documents, original or otherwise, as all documents submitted
-will not be returned. Applicants must be prepared to produce the original
-documents for verification purposes upon request, if necessary.</p>
-<p>Please click <a href="https://form.gov.sg/66b30d0e6b28275af2fd3845" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
-apply. This e-application form will only be accessible during the application
-period.</p>
+<p>Applicants are required to submit soft copies of the following via the
+online application form:</p>
+<p>1.&nbsp;&nbsp;&nbsp; PSLE Results Slip</p>
+<p>2.&nbsp;&nbsp;&nbsp; Secondary 1 End-Year Progress Report or Result Slip</p>
+<p>Applicants must be prepared to produce any original documents for verification
+purposes upon request, if necessary.</p>
+<p>Please click <a href="https://form.gov.sg/67d1322814ef0505bb1c5c23" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+apply. This online application form will only be accessible during the
+application period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>
 </p>
 <p>For further details about the Admissions Tests, please click <a href="/files/Y3_Admission_Academic_Subject_Selection_Tests.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>

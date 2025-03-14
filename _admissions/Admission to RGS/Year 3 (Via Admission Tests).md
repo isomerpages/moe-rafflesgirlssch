@@ -47,7 +47,7 @@ and Science.</p>
 <p>Application Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 2 pm</strong>
+<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 9 am</strong>
 </p>
 </td>
 </tr>

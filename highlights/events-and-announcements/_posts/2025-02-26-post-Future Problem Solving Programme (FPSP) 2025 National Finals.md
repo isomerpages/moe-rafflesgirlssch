@@ -142,6 +142,18 @@ in June 2025.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Middle Team Category - Honorable Mention (MT11)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Lehan, Natalie (S407)
+<br>Tho Jing Wen (S411)
+<br>Wee Kai Ning, Alyssa (Huang Kaining) (S412)
+<br>Klarisse Ng Shee Chin (Huang Shiqing) (S412)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Senior Team Category - 1st Place (ST02)</strong>
 </p>
 </td>

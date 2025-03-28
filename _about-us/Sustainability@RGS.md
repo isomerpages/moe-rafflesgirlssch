@@ -180,6 +180,18 @@ within school environments.</div>
 <div class="isomer-card-link">Read more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/jane-goodall-institute-singapore-roots-shoots-youth-summit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit" src="/images/Roots___Shoots_Youth_Summit.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit</div><div class="isomer-card-description">As part of her tour of Singapore, Dr Jane Goodall visited RGS and generously donated eight trees, which were planted on the school premises.</div><div class="isomer-card-link">Read More...</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NParks tree planting" src="/images/nparks_tree_planting.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NParks tree planting</div>
+<div class="isomer-card-description">57 students from Project Carb0n participated in an NParks tree planting
+session, planting around 50 trees along Ang Mo Kio Street 32.</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>

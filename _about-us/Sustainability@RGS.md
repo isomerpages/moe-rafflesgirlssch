@@ -5,8 +5,25 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<p>Butterfly Garden</p>
-<p></p>
+<h4>Butterfly Garden</h4>
+<p>As part of a green initiative by the RGS Cogitare Club (a Mathematics,
+Science and Environmental CCA in RGS), a Butterfly Garden was officially
+launched to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create a colourful and green space for staff and students alike to learn
+about and enjoy nature</p>
+</li>
+<li>
+<p>Increase awareness of green spaces in RGS</p>
+</li>
+<li>
+<p>Protect butterflies, bees and other pollinators (these species, while
+vulnerable, are essential in the reproduction of many flowering plants,
+preserving the genetic diversity of the garden by allowing natural selection
+to continue to take place)</p>
+</li>
+</ul>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/news-and-events/News-and-Events-2021/butterfly/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Launch of the RGS Butterfly Garden" src="/images/but8.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of the RGS Butterfly Garden</div><div class="isomer-card-description">As part of a green initiative by the RGS Cogitare Club (a Mathematics, Science and Environmental CCA in RGS), a Butterfly Garden was officially launched on 23 April 2021!</div><div class="isomer-card-link">Read More...</div></div></a>
 </div>
 <p></p>

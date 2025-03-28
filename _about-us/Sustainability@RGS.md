@@ -4,7 +4,10 @@ permalink: /sustainability-rgs/
 variant: tiptap
 description: ""
 ---
-<p></p>
+<p>The RGS Green Strategic Plan maps out a holistic and whole-of-school effort
+to support Singapore’s national agenda on sustainable development. It aims
+to make environmental sustainability a key theme through the 4Cs: <strong>C</strong>ampus; <strong>C</strong>urriculum; <strong>C</strong>ulture
+and <strong>C</strong>ommunity (e.g. partnerships beyond school.)</p>
 <h4>Butterfly Garden</h4>
 <p>As part of a green initiative by the RGS Cogitare Club (a Mathematics,
 Science and Environmental CCA in RGS), a Butterfly Garden was officially
@@ -56,6 +59,15 @@ to our school, fostering a mindful approach to food. Beyond our walls,
 it sparks a ripple effect, with students and staff becoming ambassadors
 of sustainability, influencing families and friends to cultivate more edible
 gardens across the island.</p>
+<p>The Environmental Sustainability Committee (ESC), which oversees the EG,
+enlisted the support of the House teachers and student leaders to be involved
+in one dimension: to carry out activities such as weeding, maintenance
+and harvesting, with support from Edible Garden City. Each House was allocated
+a garden plot, with the aim of concurrently building House spirit. The
+harvest would be given to our canteen stallholders and F&amp;N teachers,
+and free for staff to take home. The ESC has also worked with the Humanities
+and Science departments to actively integrate concepts of sustainability
+and use the EG as a learning space.&nbsp;</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid02jWWsZMAtbBVVtHuGfS4fJ9Vp3NRxr9sHXoxzEuHDGcnfPvf66rbkWsf3xGBAFT1Tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1692932207313.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Garden</div><div class="isomer-card-description">As we celebrated our 144th Founder’s Day, we marked the occasion with the launch of our Rooftop Edible Garden, sponsored by the Tanoto Foundation. Created as an educational hub for sustainable planting and growth, it aims to nurture 'citizen farmers' among RGS staff and students.</div><div class="isomer-card-link">Read more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid0Nh6Ajsimy8sZrcizqj9S8wjcgv8xAonzTsGE143hps4mdSr55XQ1iQFgY7Ng8kKol" class="isomer-card">

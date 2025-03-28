@@ -50,22 +50,22 @@ to continue to take place)</p>
 <p></p>
 <h3>Every Singaporean a Naturalist’ (ESN)</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/achievements/esn23/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/achievements/esn23/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nss2023v2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NSS ESN Biodiversity Race 2023</div><div class="isomer-card-description">Organised by Nature Society Singapore (NSS), the annual Biodiversity Race is part of NSS’ Every Singaporean A Naturalist (ESN) programme. The ESN programme aims to equip young citizen scientists with the knowledge and skills to identify and monitor our urban biodiversity.</div><div class="isomer-card-link">Read More...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/nss-esn-biodiversity-race/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nss2023v2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Project_Avis_Fera.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NSS ESN Biodiversity Race 2023</div>
-<div class="isomer-card-description">Organised by Nature Society Singapore (NSS), the annual Biodiversity Race
-is part of NSS’ Every Singaporean A Naturalist (ESN) programme. The ESN
-programme aims to equip young citizen scientists with the knowledge and
-skills to identify and monitor our urban biodiversity.</div>
+<div class="isomer-card-title">NSS ESN Biodiversity Race 2024</div>
+<div class="isomer-card-description">Students from TheWildSide, Cogitaire, and other passionate RGS girls showcased
+their skills in the 3rd NSS ESN Biodiversity Race on 29 May. The event
+featured 40 teams from 12 primary and secondary schools competing across
+six locations island-wide.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/nss-esn-biodiversity-race/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Project_Avis_Fera.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NSS ESN Biodiversity Race 2024</div><div class="isomer-card-description">Students from TheWildSide, Cogitaire, and other passionate RGS girls showcased their skills in the 3rd NSS ESN Biodiversity Race on 29 May. The event featured 40 teams from 12 primary and secondary schools competing across six locations island-wide.</div><div class="isomer-card-link">Read More...</div></div></a>
+</a>
 </div>
 <p></p>
 <h3>Tree Planting</h3>

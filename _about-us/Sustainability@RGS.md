@@ -99,7 +99,7 @@ including lemongrass, roselle, and laksa leaf.</div>
 <div class="isomer-card-description">Our students distributed fresh produce and vegetables from our Garden
 to the community through Queenstown Kakis.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Chinese Dumplings" src="/images/af4f62b7_b2ff_413c_a542_ed236a6efee9.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Chinese Dumplings</div><div class="isomer-card-description">As part of the MT Fortnight activities, our Chinese Language teacher, Mdm Mu Jun, taught students how to make dumplings using ingredients from our garden.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p></p>
 <h3>International Coastal Cleanup Singapore (ICCS)</h3>

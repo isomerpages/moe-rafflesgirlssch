@@ -155,6 +155,10 @@ schools.</div>
 conducted around campus to observe and document avian life. These transects
 provide valuable insights into local biodiversity and foster a deeper appreciation
 for nature among students and staff.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/birdsrgs.png">
+</div>
 <p>Recent observations have recorded fascinating bird species, including
 the vibrant <strong>Ornate Sunbird</strong>, the striking <strong>Collared Kingfisher</strong>,
 and the majestic <strong>Oriental Pied Hornbill</strong>. These sightings

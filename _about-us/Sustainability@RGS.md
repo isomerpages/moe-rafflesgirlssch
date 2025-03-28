@@ -88,6 +88,18 @@ including lemongrass, roselle, and laksa leaf.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Queenstown Kakis" src="/images/IMG_2544__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Queenstown Kakis</div>
+<div class="isomer-card-description">Our students distributed fresh produce and vegetables from our Garden
+to the community through Queenstown Kakis.</div>
+</div>
+</div>
 </div>
 <p></p>
 <h3>International Coastal Cleanup Singapore (ICCS)</h3>

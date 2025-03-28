@@ -46,7 +46,22 @@ school tour, where they explored our Edible Garden, Galleria, and the iconic
 Raffles Tree.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rooftop Garden Transect</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/watch/?v=773843234637413" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="/images/379010757_786758686791705_4209392367805856862_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Edible Garden</div><div class="isomer-card-description">The RGS Edible Rooftop Garden is a wonderful initiative by Mrs Carmee Lim and the RGS Alumni. It symbolises our commitment to sustainability as well as a living classroom fostering closer connection to nature for our girls. </div><div class="isomer-card-link">Read more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/life/food/wanted-raffles-students-or-alumni-for-inaugural-rafflesian-cook-off" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rafflesian Cook-off" src="/images/IMG_0065_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rafflesian Cook-off</div>
+<div class="isomer-card-description">With the theme Celebrating Singapore Heritage Through Heartfelt Recipes,
+RGSA organised a Cook-off where participants had to incorporate a key ingredient
+from our Rooftop Garden. These included a bounty of locally grown crops,
+including lemongrass, roselle, and laksa leaf.</div>
+<div class="isomer-card-link">Read More...</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
@@ -71,6 +86,17 @@ six locations island-wide.</div>
 </a>
 </div>
 <p></p>
+<p></p>
+<h3>Transect</h3>
+<p>RGS is home to a rich diversity of bird species, with regular bird transects
+conducted around campus to observe and document avian life. These transects
+provide valuable insights into local biodiversity and foster a deeper appreciation
+for nature among students and staff.</p>
+<p>Recent observations have recorded fascinating bird species, including
+the vibrant <strong>Ornate Sunbird</strong>, the striking <strong>Collared Kingfisher</strong>,
+and the majestic <strong>Oriental Pied Hornbill</strong>. These sightings
+highlight the ecological richness of our green spaces and the importance
+of conservation efforts within our urban environment.</p>
 <h3>Tree Planting</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/events-and-announcements/cacaotrees23/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Planting of Cacao Trees @ RGS" src="/images/a0809f14-a0cc-4de8-b296-2c3596eb1f2f.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Planting of Cacao Trees @ RGS</div><div class="isomer-card-description">As part of RGS Environmental Sustainability efforts, five cacao trees were planted along the strip of land between our school field and Braddell Heights. Ms Janice Wong sponsored a total of 20 cacao trees across the campus, with support from the RGS Alumnae (RGSA).</div><div class="isomer-card-link">Read More...</div></div></a>

@@ -31,7 +31,7 @@ to continue to take place)</p>
 <p></p>
 <h3>Edible Rooftop Garden</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Gaden</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid02jWWsZMAtbBVVtHuGfS4fJ9Vp3NRxr9sHXoxzEuHDGcnfPvf66rbkWsf3xGBAFT1Tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1692932207313.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Garden</div><div class="isomer-card-description">As we celebrated our 144th Founder’s Day, we marked the occasion with the launch of our Rooftop Edible Garden, sponsored by the Tanoto Foundation. Created as an educational hub for sustainable planting and growth, it aims to nurture 'citizen farmers' among RGS staff and students.</div><div class="isomer-card-link">Read more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

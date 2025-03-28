@@ -32,7 +32,7 @@ to continue to take place)</p>
 <h3>Edible Rooftop Garden</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid02jWWsZMAtbBVVtHuGfS4fJ9Vp3NRxr9sHXoxzEuHDGcnfPvf66rbkWsf3xGBAFT1Tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1692932207313.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Garden</div><div class="isomer-card-description">As we celebrated our 144th Founder’s Day, we marked the occasion with the launch of our Rooftop Edible Garden, sponsored by the Tanoto Foundation. Created as an educational hub for sustainable planting and growth, it aims to nurture 'citizen farmers' among RGS staff and students.</div><div class="isomer-card-link">Read more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid0Nh6Ajsimy8sZrcizqj9S8wjcgv8xAonzTsGE143hps4mdSr55XQ1iQFgY7Ng8kKol" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/378574524_782999187167655_927699426707048782_n.jpg">
@@ -44,7 +44,7 @@ to continue to take place)</p>
 (Hougang Dewcourt) at our Braddell Campus. The visit ended with a leisurely
 school tour, where they explored our Edible Garden, Galleria, and the iconic
 Raffles Tree.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Read More...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rooftop Garden Transect</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>

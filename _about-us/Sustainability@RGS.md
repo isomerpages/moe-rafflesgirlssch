@@ -30,6 +30,14 @@ to continue to take place)</p>
 <h3>Earth Week</h3>
 <p></p>
 <h3>Edible Rooftop Garden</h3>
+<p>More than a garden, our rooftop Edible Garden is an educational hub for
+sustainable planting and growth, aiming to nurture 'citizen farmers' among
+our staff and students.</p>
+<p>This green haven introduces 'Farm to Table' and 'Direct Source' concepts
+to our school, fostering a mindful approach to food. Beyond our walls,
+it sparks a ripple effect, with students and staff becoming ambassadors
+of sustainability, influencing families and friends to cultivate more edible
+gardens across the island.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid02jWWsZMAtbBVVtHuGfS4fJ9Vp3NRxr9sHXoxzEuHDGcnfPvf66rbkWsf3xGBAFT1Tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1692932207313.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Garden</div><div class="isomer-card-description">As we celebrated our 144th Founder’s Day, we marked the occasion with the launch of our Rooftop Edible Garden, sponsored by the Tanoto Foundation. Created as an educational hub for sustainable planting and growth, it aims to nurture 'citizen farmers' among RGS staff and students.</div><div class="isomer-card-link">Read more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid0Nh6Ajsimy8sZrcizqj9S8wjcgv8xAonzTsGE143hps4mdSr55XQ1iQFgY7Ng8kKol" class="isomer-card">
@@ -46,7 +54,7 @@ school tour, where they explored our Edible Garden, Galleria, and the iconic
 Raffles Tree.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/watch/?v=773843234637413" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="/images/379010757_786758686791705_4209392367805856862_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Edible Garden</div><div class="isomer-card-description">The RGS Edible Rooftop Garden is a wonderful initiative by Mrs Carmee Lim and the RGS Alumni. It symbolises our commitment to sustainability as well as a living classroom fostering closer connection to nature for our girls. </div><div class="isomer-card-link">Read more...</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/watch/?v=773843234637413" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="/images/379010757_786758686791705_4209392367805856862_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Edible Garden</div><div class="isomer-card-description">The RGS Edible Rooftop Garden is a wonderful initiative by Mrs Carmee Lim and the RGS Alumni. It symbolises our commitment to sustainability as well as a living classroom fostering closer connection to nature for our girls.</div><div class="isomer-card-link">Read more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.straitstimes.com/life/food/wanted-raffles-students-or-alumni-for-inaugural-rafflesian-cook-off" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -98,7 +106,9 @@ and the majestic <strong>Oriental Pied Hornbill</strong>. These sightings
 highlight the ecological richness of our green spaces and the importance
 of conservation efforts within our urban environment.</p>
 <h3>Tree Planting</h3>
-<p></p>
+<p>Our Tree planting initiatives have raised awareness about the critical
+role that trees play in reducing carbon emissions and enhancing biodiversity
+within school environments.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/events-and-announcements/cacaotrees23/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Planting of Cacao Trees @ RGS" src="/images/a0809f14-a0cc-4de8-b296-2c3596eb1f2f.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Planting of Cacao Trees @ RGS</div><div class="isomer-card-description">As part of RGS Environmental Sustainability efforts, five cacao trees were planted along the strip of land between our school field and Braddell Heights. Ms Janice Wong sponsored a total of 20 cacao trees across the campus, with support from the RGS Alumnae (RGSA).</div><div class="isomer-card-link">Read More...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/trees-for-rgs-project/" class="isomer-card">
 <div class="isomer-card-image">

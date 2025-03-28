@@ -141,11 +141,12 @@ Green Hub, supporting sustainability and community care.</div>
 </div>
 <p></p>
 <h3>International Coastal Cleanup Singapore (ICCS)</h3>
-<p>Our students contribute to the International Coastal Cleanup Singapore
-where they spend the morning collecting, analysing, and disposing of beach
-litter. Through this initiative, they play a part in environmental conservation
-and helped keep our beaches litter-free. We also thank the parent volunteers
-who accompanied their daughters and actively participated in the event.</p>
+<p>RGS has been part of the International Coastal Cleanup Singapore (ICCS)
+since its inception in 1992 and continues to do so. Our students contribute
+by collecting, analysing, and disposing of beach litter, playing a role
+in environmental conservation and helping to keep our beaches litter-free.
+Parent volunteers also accompanied their daughters and actively participated
+in the event.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/iccs.png">

@@ -92,6 +92,20 @@ six locations island-wide.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
 </a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NSS Teacher Training Workshop in RGS" src="/images/DSC_0916.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NSS Teacher Training Workshop in RGS</div>
+<div class="isomer-card-description">RGS hosted the Nature Society Singapore (NSS) annual teacher training
+workshop from the 24 - 25 November 2022. The 47 participants consisted
+of teachers from pre-schools, primary schools, secondary schools and international
+schools.</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>

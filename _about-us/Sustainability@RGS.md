@@ -32,20 +32,20 @@ to continue to take place)</p>
 our students. An exciting lineup of events take place during the week to
 promote awareness of our changing climate, food sustainability and more.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/news-and-events/News-and-Events-2022/earth-week/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Biodiversity trail</div><div class="isomer-card-description">As part of Earth Week 2022, the RGS Cogitare Club launched a biodiversity trail that features the school’s wide variety of biodiversity, with interactive features and scenic spots.</div><div class="isomer-card-link">Read more...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/earth-week-2024/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/watch/?v=491199162741979" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Earth Week 2024" src="/images/ew2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="Earth Week 2022" src="/images/musicalpiece.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Our Path to a Greener Tomorrow</div>
-<div class="isomer-card-description">Themed “Our Path to a Greener Tomorrow”, Earth Week 2024 featured a presentation
-by environmentalist Ms Kong Man Jing and a special workshop, organised
-in collaboration with students from Guanyang Secondary School.</div>
+<div class="isomer-card-title">🎵 A Musical Tribute to Earth Week</div>
+<div class="isomer-card-description">Indulge in this musical offering to&nbsp;Earth Week with Einsame Blumen
+(Lonely Flowers) by the Romantic composer Robert Schumann. A musical piece
+performed Chloe Saw (Class of 2022)</div>
 <div class="isomer-card-link">Read more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/earth-week-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Earth Week 2024" src="/images/ew2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Path to a Greener Tomorrow</div><div class="isomer-card-description">Themed “Our Path to a Greener Tomorrow”, Earth Week 2024 featured a presentation by environmentalist Ms Kong Man Jing and a special workshop, organised in collaboration with students from Guanyang Secondary School.</div><div class="isomer-card-link">Read more...</div></div></a>
 </div>
 <h3>Edible Rooftop Garden</h3>
 <p>More than a garden, our rooftop Edible Garden is an educational hub for
@@ -88,6 +88,17 @@ including lemongrass, roselle, and laksa leaf.</div>
 <div class="isomer-card-link">Read More...</div>
 </div>
 </a>
+</div>
+<p></p>
+<h3>International Coastal Cleanup Singapore (ICCS)</h3>
+<p>Our students contribute to the International Coastal Cleanup Singapore
+where they spend the morning collecting, analysing, and disposing of beach
+litter. Through this initiative, they play a part in environmental conservation
+and helped keep our beaches litter-free. We also thank the parent volunteers
+who accompanied their daughters and actively participated in the event.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/iccs.png">
 </div>
 <p></p>
 <p></p>

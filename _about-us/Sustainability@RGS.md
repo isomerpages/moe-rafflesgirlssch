@@ -126,6 +126,18 @@ Mdm Mu Jun, taught students how to make dumplings using ingredients from
 our garden.</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bishan Fridge" src="/images/bishangrd.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bishan Green Hub</div>
+<div class="isomer-card-description">We shared some of our garden produce with the community fridge at Bishan
+Green Hub, supporting sustainability and community care.</div>
+</div>
+</div>
 </div>
 <p></p>
 <h3>International Coastal Cleanup Singapore (ICCS)</h3>

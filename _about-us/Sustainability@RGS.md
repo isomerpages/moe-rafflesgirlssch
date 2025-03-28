@@ -211,4 +211,17 @@ session, planting around 50 trees along Ang Mo Kio Street 32.</div>
 </div>
 </div>
 <p></p>
+<h3>Solar Energy</h3>
+<p>In December 2024, RGS completed the installation of solar panels on our
+campus roofs, allowing us to harness renewable energy and cover a significant
+portion of our daytime electricity needs. Any excess energy generated is
+exported back to the national power grid, contributing to the nation's
+clean energy efforts.</p>
+<p>Energy generation and usage can be monitored through a Solar Dashboard,
+supporting sustainability efforts within our school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGs Solar Power Energy" src="/images/RGS_Secondary___Solar_PV_Infographic_Poster.png">
+</div>
+<p></p>
 <p></p>

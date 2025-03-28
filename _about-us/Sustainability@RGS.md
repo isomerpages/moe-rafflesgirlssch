@@ -35,12 +35,15 @@ to continue to take place)</p>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/378574524_782999187167655_927699426707048782_n.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Garden Tour</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Our String Ensemble CCA hosted 35 seniors from Fei Yue Active Ageing Centre
+(Hougang Dewcourt) at our Braddell Campus. The visit ended with a leisurely
+school tour, where they explored our Edible Garden, Galleria, and the iconic
+Raffles Tree.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rooftop Garden Transect" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rooftop Garden Transect</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>

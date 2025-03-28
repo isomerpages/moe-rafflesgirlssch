@@ -28,7 +28,25 @@ to continue to take place)</p>
 </div>
 <p></p>
 <h3>Earth Week</h3>
-<p></p>
+<p>Earth Week is an annual school event in RGS planned by Cogitare Club for
+our students. An exciting lineup of events take place during the week to
+promote awareness of our changing climate, food sustainability and more.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/news-and-events/News-and-Events-2022/earth-week/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Biodiversity trail</div><div class="isomer-card-description">As part of Earth Week 2022, the RGS Cogitare Club launched a biodiversity trail that features the school’s wide variety of biodiversity, with interactive features and scenic spots.</div><div class="isomer-card-link">Read more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">Themed “Our Path to a Greener Tomorrow”, Earth Week 2024 featured a presentation
+by environmentalist Ms Kong Man Jing and a special workshop, organised
+in collaboration with students from Guanyang Secondary School.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <h3>Edible Rooftop Garden</h3>
 <p>More than a garden, our rooftop Edible Garden is an educational hub for
 sustainable planting and growth, aiming to nurture 'citizen farmers' among
@@ -105,7 +123,7 @@ workshop from the 24 - 25 November 2022. The 47 participants consisted
 of teachers from pre-schools, primary schools, secondary schools and international
 schools.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid037xQjQb1KXEmMH3e2opr9oiJ8dgya5b6dUXrpWGrgTSBRHVF9vSnVNY1QskPUpz3tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NSS ESN 3rd Sypmosium 2024" src="/images/465234061_18468056992053259_3353424631217946422_n.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NSS ESN 3rd Sypmosium 2024</div><div class="isomer-card-description">RGS hosted the NSS ESN Annual Symposium, a platform for sharing experiences, findings, and recognising the achievements of schools, students, and teachers. Participants engaged in pre-symposium activities, including booths hosted by our students.</div><div class="isomer-card-link">Read more...</div></div></a>
 </div>
 <p></p>
 <p></p>

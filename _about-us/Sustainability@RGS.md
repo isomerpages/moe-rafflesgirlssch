@@ -53,19 +53,22 @@ to continue to take place)</p>
 <p></p>
 <h3>Tree Planting</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trees for RGS Project" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trees for RGS Project</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/events-and-announcements/cacaotrees23/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Planting of Cacao Trees @ RGS" src="/images/a0809f14-a0cc-4de8-b296-2c3596eb1f2f.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Planting of Cacao Trees @ RGS</div><div class="isomer-card-description">As part of RGS Environmental Sustainability efforts, five cacao trees were planted along the strip of land between our school field and Braddell Heights. Ms Janice Wong sponsored a total of 20 cacao trees across the campus, with support from the RGS Alumnae (RGSA).</div><div class="isomer-card-link">Read More...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/trees-for-rgs-project/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Planting of Cacao Trees @ RGS" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Trees for RGS Project" src="/images/trees_for_rgs24.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Planting of Cacao Trees @ RGS</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Trees for RGS Project</div>
+<div class="isomer-card-description">On 17 October 2024, our SVIA team, Project Carb0n, organised a tree planting
+session. This initiative aimed to raise awareness about the critical role
+that trees play in reducing carbon emissions and enhancing biodiversity
+within school environments.</div>
+<div class="isomer-card-link">Read more...</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/jane-goodall-institute-singapore-roots-shoots-youth-summit/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit" src="/images/Roots___Shoots_Youth_Summit.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Jane Goodall Institute (Singapore) Roots &amp; Shoots Youth Summit</div><div class="isomer-card-description">As part of her tour of Singapore, Dr Jane Goodall visited RGS and generously donated eight trees, which were planted on the school premises.</div><div class="isomer-card-link">Read More...</div></div></a>
 </div>
 <p></p>
 <p></p>

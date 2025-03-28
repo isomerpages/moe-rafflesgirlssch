@@ -74,7 +74,7 @@ including lemongrass, roselle, and laksa leaf.</div>
 <p></p>
 <p></p>
 <p></p>
-<h3>Every Singaporean a Naturalist’ (ESN)</h3>
+<h3>Nature Society Singapore (NSS) Every Singaporean a Naturalist’ (ESN)</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/highlights/achievements/esn23/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/nss2023v2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NSS ESN Biodiversity Race 2023</div><div class="isomer-card-description">Organised by Nature Society Singapore (NSS), the annual Biodiversity Race is part of NSS’ Every Singaporean A Naturalist (ESN) programme. The ESN programme aims to equip young citizen scientists with the knowledge and skills to identify and monitor our urban biodiversity.</div><div class="isomer-card-link">Read More...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/nss-esn-biodiversity-race/" class="isomer-card">

@@ -50,24 +50,25 @@ performed Chloe Saw (Class of 2022)</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/earth-week-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Earth Week 2024" src="/images/ew2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Path to a Greener Tomorrow</div><div class="isomer-card-description">Themed “Our Path to a Greener Tomorrow”, Earth Week 2024 featured a presentation by environmentalist Ms Kong Man Jing and a special workshop, organised in collaboration with students from Guanyang Secondary School.</div><div class="isomer-card-link">Read more...</div></div></a>
 </div>
-<h3>Edible Rooftop Garden</h3>
-<p>More than a garden, our rooftop Edible Garden is an educational hub for
-sustainable planting and growth, aiming to nurture 'citizen farmers' among
-our staff and students.</p>
-<p>This green haven introduces 'Farm to Table' and 'Direct Source' concepts
-to our school, fostering a mindful approach to food. Beyond our walls,
-it sparks a ripple effect, with students and staff becoming ambassadors
-of sustainability, influencing families and friends to cultivate more edible
-gardens across the island.</p>
-<p>The Environmental Sustainability Committee (ESC), which oversees the EG,
-enlisted the support of the House teachers and student leaders to be involved
-in one dimension: to carry out activities such as weeding, maintenance
-and harvesting, with support from Edible Garden City. Each House was allocated
-a garden plot, with the aim of concurrently building House spirit. The
-harvest would be given to our canteen stallholders and F&amp;N teachers,
-and free for staff to take home. The ESC has also worked with the Humanities
-and Science departments to actively integrate concepts of sustainability
-and use the EG as a learning space.&nbsp;</p>
+<h3>Rooftop Edible Garden</h3>
+<p>More than just a garden, our rooftop Edible Garden serves as an educational
+hub for sustainable planting and growth, aiming to nurture 'citizen farmers'
+among our staff and students.</p>
+<p>This green space introduces 'Farm to Table' and 'Direct Source' concepts,
+encouraging a mindful approach to food. It also sparks a ripple effect,
+with students and staff becoming ambassadors of sustainability, inspiring
+families and friends to create edible gardens across the island.</p>
+<p>The Environmental Sustainability Committee (ESC), which oversees the garden,
+enlisted the support of House teachers and student leaders for activities
+such as weeding, maintenance, and harvesting, with guidance from Edible
+Garden City. Each House was allocated a garden plot to foster House spirit,
+with the harvest donated to canteen stallholders and F&amp;N teachers,
+and available for staff to take home.</p>
+<p>The ESC has also collaborated with the Humanities and Science departments
+to integrate sustainability concepts and use the garden as a learning space.</p>
+<p>With the new involvement of our Year 1 classes, students will develop
+a deeper understanding and commitment to becoming responsible citizens,
+contributing to a greener and more sustainable environment.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid02jWWsZMAtbBVVtHuGfS4fJ9Vp3NRxr9sHXoxzEuHDGcnfPvf66rbkWsf3xGBAFT1Tl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1692932207313.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launch of Rooftop Garden</div><div class="isomer-card-description">As we celebrated our 144th Founder’s Day, we marked the occasion with the launch of our Rooftop Edible Garden, sponsored by the Tanoto Foundation. Created as an educational hub for sustainable planting and growth, it aims to nurture 'citizen farmers' among RGS staff and students.</div><div class="isomer-card-link">Read more...</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/rafflesgirlsschool.since1879/posts/pfbid0Nh6Ajsimy8sZrcizqj9S8wjcgv8xAonzTsGE143hps4mdSr55XQ1iQFgY7Ng8kKol" class="isomer-card">

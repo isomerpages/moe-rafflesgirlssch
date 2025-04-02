@@ -149,6 +149,14 @@ in Singapore.</p>
 <h3>Highlights</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://www.rgs.edu.sg/house-banner-2025/" rel="noopener nofollow" target="_blank">2025 House Banners</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.rgs.edu.sg/house-banner-2024/" rel="noopener nofollow" target="_blank">2024 House Banners</a>
+</p>
+</li>
+<li>
 <p><a href="https://www.rgs.edu.sg/highlights/events/housebanners23/" rel="noopener noreferrer nofollow" target="_blank">2023 House Banners</a>
 </p>
 </li>

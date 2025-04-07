@@ -11,8 +11,131 @@ of RGS students, and organise activities to allow our members to develop
 and maintain links with the school. We also collaborate with the school
 in running programmes to facilitate our members’ and their daughters’/wards’
 journeys through RGS.</p>
-<p><a href="https://drive.google.com/file/d/1S8kwowWibvV9PTlK0VP4aeImDQP_72nd/view" rel="noopener noreferrer nofollow" target="_blank">2023 PRGS Activities Highlight Video</a>
+<p><a href="https://drive.google.com/file/d/1nd5JLGnNO_p-8uyLLXPkZfEk4Dkxf_rV/view" rel="noopener noreferrer nofollow" target="_blank">2024/2025 PRGS Activities Highlight Video</a>
 </p>
+<h4>Parent &amp; Child Bonding Events</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb25v1.png">
+</div>
+<p>Kickstarting the year was a special talk by best-selling author and international
+speaker, Andrew Matthews. This was followed by many more parent-and-child
+bonding workshops held throughout the year to engage parents and their
+daughters: the Prata Journey, a prata-flipping workshop, the K-Pop Dance
+Date with your daughter, the Mother’s Day workshop where mothers and daughters
+crafted their own floral arrangements and painted their own Janice Wong’s
+Pure Imagination chocolate squares as gifts for Mum, and a Crochet Date
+with your Daughter workshop. We received an overwhelming response and thank
+parents for taking time out of their busy schedules to bond with their
+daughters over these fun activities.</p>
+<h4>Parenting Talks</h4>
+<p>PRGS organises numerous talks for parents to equip them with the necessary
+information as they journey with their daughters over the 4 years at RGS.
+&nbsp;One of the highly anticipated events is the annual Breakfast Dialogues
+with the Principals series, offering tailored sessions for Year 2, Year
+3 and Year 4 parents. These small-group gatherings provided an intimate
+setting for parents to engage in meaningful discussions on topics relevant
+to their child’s year, which they found immensely valuable and insightful.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgs25web2.png">
+</div>
+<p>A new and special series of university admissions talks was launched in
+2024 to help parents and their daughters to plan and prepare for university.
+The first session on US universities (which was also open to the whole
+Raffles family, including Year 5-6 students and RGS alumnae) received tremendous
+interest and positive feedback. The subsequent session on Singapore Management
+University, which included a campus tour, was similarly successful. Parents
+certainly appreciated the university talks, and PRGS will strive to organise
+more in future. The talks follow in the tradition of the annual transition
+talk (from RGS to Raffles Institution), as activities aimed at equipping
+parents and our girls with ample knowledge for their educational journey
+toward excellence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgs25web3.png">
+</div>
+<p>Making a comeback for the second year was a talk on AI, this time focused
+on generative AI technologies. Many parents attended, wanting to know more
+to help their daughters leverage technology to aid their schoolwork.</p>
+<h4>Partnering RGS to Create Holistic Fun for Our Girls</h4>
+<p>PRGS has always focused on the well-being of both parents and our daughters.
+While numerous events were held to engage parents, PRGS continued to support
+RGS in organising fun activities for our girls. 2024 saw SportsFest return
+to an external venue after several years due to the COVID pandemic. Held
+at Serangoon Stadium, PRGS produced our very own sports towel for the girls
+and got the Milo van down! It was certainly a delicious treat for both
+the girls and RGS staff. We also sponsored Magnolia ice cream, Oreo cookies,
+gummy bears, healthy cookies, and even procured sponsorship for Jia Jia
+Herbal drinks to cool everyone down at the end of the event. The excitement
+and cheers ended Term 2 on a high note!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb8.png">
+</div>
+<p>School reopened in Term 3 after the June break with yet another whole-school
+event: the annual Racial Harmony Day which PRGS proudly organised with
+the school to showcase the different cultures in Singapore. Our very own
+kacang puteh man and women dressed up to serve a tasty traditional mix
+of nuts and crackers to the girls. Various traditional games like five
+stones, pick-up sticks, capteh, and gasing (spinning top) gave the girls
+the chance to enjoy “old school” activities. Enthusiastic parent volunteers
+also facilitated hands-on experiences such as Chinese lucky knot-tying
+and interactive appreciation of the aromatics used in bunga rampai. The
+highlight of the event was definitely the potong ice cream, which the girls
+relished during the warm afternoon of fun!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb6.png">
+</div>
+<p>As the year came to an end, PRGS continued to deepen its support for the
+girls. For the first time, a special care pack containing a mini crochet
+toy with notes of encouragement was lovingly prepared for every girl to
+comfort and cheer them on as they prepare for the End-of-Year examinations.
+Both girls and parents were extremely delighted to receive them, and many
+came forward to express their gratitude.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb7.png">
+</div>
+<p>&nbsp;The GLOW personal grooming workshop continued to be a staple in
+the after-exams series of activities. Mothers volunteered to teach a two-hour
+workshop, which was an especially meaningful woman-to-woman sharing session,
+facilitating personal grooming advice to the girls.</p>
+<h4>Tribute to RGS</h4>
+<p>The school has been an excellent pillar of support in nurturing our girls
+to be Daughters of a Better Age. As RGS commemorated its 145th anniversary
+in 2024, PRGS continued to support the school with its annual PRGS award
+to two deserving girls annually who demonstrated good character and values
+– Feng Chenyu (S301) and Aurelie Tan (S411). PRGS also supported the school’s
+Founder’s Day celebration with a dessert table featuring a grand croquembouche
+tower cake. This delectable and intricately built assemblage received nothing
+short of rave reviews!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb9.png">
+</div>
+<p>It takes a village to raise a child, they say, and certainly, we can be
+so proud of how eagerly and selflessly a group of devoted educators and
+staff rallied around our daughters, working to maximise each girl’s potential.
+PRGS is especially proud and happy to acknowledge the RGS team for their
+dedication with the tradition of the Staff Appreciation Lunch Extravaganza.
+The 22nd PRG Exco wishes to thank PRGS members who made the celebrations
+possible through their generous contributions of funds. The theme for this
+year’s celebration was “Around the World”, where RGS staff were treated
+with the highest level of service from the PRGS Exco (who dressed up as
+cabin crew). The menu featured an array of main dishes and street food
+from around the world including Mexican churros and nachos, Middle Eastern
+kebabs, Indian pani puri, along with a lavish Indian, Peranakan and Western
+buffet spread. The day’s entertainment opened with parents performing a
+fast K-Pop dance, followed by the MEP girls who provided more “in-flight”
+entertainment. Every staff member went home with a prize and a PRGS travel
+bag, in keeping with the Around-the-world theme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb10.png">
+</div>
+<p>Ending the year was the annual Farewell Alma Mater (FAM) ceremony, and
+PRGS gifted each Year 4 student a personalised thermos, along with a generous
+contribution to the school fund for organising the graduation event. &nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2023 Highlights</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h3><strong>Sports Fest</strong></h3>
 <p>2023 Sports Fest was held at the end of term 2. PRGS provided snacks and
 refreshments to sustain the girls through the day’s activities, helped
@@ -142,6 +265,7 @@ talks throughout 2023, as well as “Breakfast Dialogue with Principals”
 sessions for each of the year groups. The parenting talks were chosen to
 address relevant issues, including “Stepping into the era of VR/AR and
 AI” and, for our Year 4 parents, transitioning to Year 5 in Raffles Institution.</p>
+<p></p>
 <p>The Breakfast Dialogues with Principals were held across the year, with
 parents from each year group being able to direct any concerns they had
 in a small-group setting to Principal Ms Haslinda, the Deputy Principals,
@@ -162,7 +286,8 @@ RGS on 15 Dec 2023. At the annual PRGS Exco Social Gathering, we bade Ms
 Haslinda farewell with a specially curated photo collage as a token of
 appreciation. PRGS Exco also initiated an e-<s> &nbsp;</s>scrapbook for
 parents to express their well wishes to Ms Haslinda.</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PRGS30.jpg">
 </div>
@@ -170,4 +295,10 @@ parents to express their well wishes to Ms Haslinda.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PRGS31.png">
 </div>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h3></h3>
 <p></p>

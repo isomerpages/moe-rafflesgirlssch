@@ -42,10 +42,10 @@ spirit and values and contribute to shaping and achieving the goals of
 RGS.</p>
 <p>Website:&nbsp;<a href="http://rgsalumnae.com/" rel="noopener noreferrer nofollow" target="_blank">rgsalumnae.com</a>
 </p>
-<p>The 6th Executive Council of the RGS Alumnae was voted in on 22 March
+<p>The 6th Executive Council of the RGS Alumnae was voted in on 29 March
 2025.</p>
 <p>The office bearers for 2025/2026 are as follows:</p>
-<p><strong>RGS Alumnae 5th Executive Council</strong>
+<p><strong>RGS Alumnae 6th Executive Council</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>

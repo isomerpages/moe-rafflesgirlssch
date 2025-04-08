@@ -6,6 +6,13 @@ variant: tiptap
 ---
 <h2>Committee</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0944__1_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1605.jpg">
+</div>
 <h4>PRGS 23rd Executive Committee (2025)</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -192,8 +199,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>PRGS 22nd Executive Committee (2024)</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<h4>PRGS 22nd Executive Committee (2024)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Untitled_design__6_.png">
 </div>
@@ -381,6 +392,13 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4>PRGS 21st Executive Committee (2023)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2023_10_24_at_7_42_19_PM.jpeg">
@@ -585,4 +603,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<h4></h4>
+<h4></h4>
 <p></p>

@@ -8,13 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/homepgbg.jpg
-      key_highlights:
-        - title: Achievements
-          description: ""
-          url: /highlights/achievements/
-        - title: Events & Announcements
-          description: ""
-          url: /highlights/events-and-announcements/
       variant: image
       backgroundColor: gray
       alignment: right

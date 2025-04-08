@@ -5,6 +5,7 @@ date: 2023-01-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 **Welcome Year 1s!**
 

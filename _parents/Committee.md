@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>Committee</h2>
 <p></p>
-<h4>PRGS 2erd Executive Committee (2025)</h4>
+<h4>PRGS 23rd Executive Committee (2025)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

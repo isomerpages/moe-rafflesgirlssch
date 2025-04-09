@@ -1,10 +1,10 @@
 ---
-title: Learning Journey Service Learning
+title: What’s in My Backyard? 2025
 permalink: /learning-journey-service-learning/
 date: 2025-04-09
 layout: post
 description: ""
-image: ""
+image: /images/slweb.jpg
 variant: tiptap
 ---
 <p>Over the years, our students have actively contributed to the well-being

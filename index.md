@@ -16,7 +16,7 @@ sections:
       title: 24 May 2025, Saturday
       subtitle: RGS Open house
       id: infopic
-      description: 8:30am - 1:30pm
+      description: 8:30am - 1:30pm (No pre-registration required)
       button: Microsite
       url: https://openhouse.rgs.edu.sg/
       image: /images/rgsoh2025.png

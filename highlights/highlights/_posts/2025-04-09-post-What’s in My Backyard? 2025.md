@@ -4,7 +4,7 @@ permalink: /learning-journey-service-learning/
 date: 2025-04-09
 layout: post
 description: ""
-image: /images/slweb.jpg
+image: /images/slweb2.jpg
 variant: tiptap
 ---
 <p>Over the years, our students have actively contributed to the well-being

@@ -12,6 +12,15 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
+  - infopic:
+      title: 24 May 2025, Saturday
+      subtitle: RGS Open house
+      id: infopic
+      description: 8:30am - 1:30pm
+      button: Microsite
+      url: https://openhouse.rgs.edu.sg/
+      image: /images/rgsoh2025.png
+      alt: RGS Open House 2025
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

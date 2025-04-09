@@ -137,7 +137,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elizabeth Tham Huiwen</p>
+<p>Dr Elizabeth Tham Huiwen</p>
 </td>
 </tr>
 <tr>

@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/wel2rgs.jpg
+      background: /images/rgscover1.jpg
       variant: image
       backgroundColor: gray
       alignment: right

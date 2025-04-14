@@ -14,7 +14,6 @@ introduced to Service-Learning through the <em>What’s in My Backyard</em> init
 programme designed to deepen their understanding of the community, particularly
 the elderly, and to nurture a sense of empathy and responsibility as active
 citizens.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning Journey RGS helping the community" src="/images/sllj2025.png">
 </div>
@@ -68,7 +67,7 @@ for the dedication of the school’s support staff.</p>
 students’ journey towards becoming Daughters of a Better Age—young individuals
 committed to uplifting others with empathy, purpose, and a heart for the
 community.</p>
-<p></p>
+<h4>Feedback from our partners:</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">

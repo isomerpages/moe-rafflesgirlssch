@@ -106,7 +106,7 @@ RGS.</p>
 <p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gow Huiyian (Class of 1988)</p>
+<p>Ms Gow Hui Yian (Class of 1988)</p>
 </td>
 </tr>
 <tr>

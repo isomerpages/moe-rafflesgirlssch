@@ -12,7 +12,7 @@ variant: tiptap
 <p>It is my pleasure to welcome you to Raffles Girls’ School (RGS), a premier
 girls’ school in Singapore.</p>
 <p>RGS has a rich history and tradition spanning more than 140 years in Singapore.&nbsp;
-She is 145 years this year! Over these decades, our girls have made significant
+She is 146 years this year! Over these decades, our girls have made significant
 contributions in the community and are outstanding leaders and experts
 in diverse fields and industries, ranging from education, finance, arts,
 law and medicine, just to name a few.&nbsp; This tradition continues today

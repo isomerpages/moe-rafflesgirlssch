@@ -12,6 +12,11 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
+      title: Raffles Girls` School
+      key_highlights:
+        - title: Filiae Melioris Aevi
+          description: Daughters of a Better Age
+          url: ""
   - infopic:
       title: 24 May 2025, Saturday
       subtitle: RGS Open house

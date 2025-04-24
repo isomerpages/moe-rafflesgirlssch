@@ -47,6 +47,10 @@ RGS.</p>
 <p>The office bearers for 2025/2026 are as follows:</p>
 <p><strong>RGS Alumnae 6th Executive Council</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rgsa_2025.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

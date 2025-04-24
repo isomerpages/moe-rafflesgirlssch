@@ -30,16 +30,24 @@ and aim to contribute solutions to real-world challenges.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.rgs.edu.sg/files/versicolor1.pdf" rel="noopener nofollow" target="_blank">Simultaneous Bioremediation of Wastewater and Generation of Electricity using Laccase enzyme from Trametes versicolor</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2025_Showcase_001_Fungal_Enzymes_for_Simultaneous_Wastewater_Remediation_and_Clean_Energy.pdf" rel="noopener nofollow" target="_blank">Fungal Enzymes for Simultaneous Wastewater Remediation and Clean Energy</a>
 </p>
+</li>
+<li>
+<p><a href="/files/2025_Showcase_002_Lactobacillus___A_Rescue_to_Alzheimer_s_Disease_.pdf" rel="noopener nofollow" target="_blank">Lactobacillus - A Rescue to Alzheimer’s Disease</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Showcase_003_Smart_Bus_Stop_Flagging_System.pdf" rel="noopener nofollow" target="_blank">Smart Bus Stop Flagging System</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2025_Showcase_004_A_PM2_5_Sugarcane_Bagasse_Air_Filter__2023_SSEF_.pdf" rel="noopener nofollow" target="_blank">A PM2.5 Sugarcane Bagasse Air Filter</a>
+</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -68,21 +76,7 @@ before peers and experts. It provides authentic learning experiences in
 the learning of physics.</div>
 <div class="isomer-card-link">Read more...</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/singapore-young-physicists-tournament-2025/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Young Physicists Tournament 2025" src="/images/sypt2025.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Young Physicists Tournament 2025</div><div class="isomer-card-description">My SYPT journey was exciting and fulfilling. Investigating real-world phenomena deepened my physics knowledge and research skills.</div><div class="isomer-card-link">Read more...</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Coming Soon" src="/images/projectsoon.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Coming Soon</div><div class="isomer-card-description">more projects coming soon...</div><div class="isomer-card-link">coming soon...</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Coming Soon" src="/images/projectsoon.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Coming Soon</div>
-<div class="isomer-card-description">more projects coming soon...</div>
-<div class="isomer-card-link">coming soon...</div>
-</div>
-</a>
-</div>
 <p></p>

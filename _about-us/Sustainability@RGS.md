@@ -49,6 +49,20 @@ performed Chloe Saw (Class of 2022)</div>
 <div class="isomer-card-link">Read more...</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/earth-week-2024/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Earth Week 2024" src="/images/ew2024.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Path to a Greener Tomorrow</div><div class="isomer-card-description">Themed “Our Path to a Greener Tomorrow”, Earth Week 2024 featured a presentation by environmentalist Ms Kong Man Jing and a special workshop, organised in collaboration with students from Guanyang Secondary School.</div><div class="isomer-card-link">Read more...</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.rgs.edu.sg/earth-week-2025/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Earth Week 2025" src="/images/reathwk25.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Earth Week 2025</div>
+<div class="isomer-card-description">We celebrated Earth Week with the theme Our Power, Our Planet — a powerful
+reminder that our voices, choices, and actions can shape a greener, more
+sustainable future.</div>
+<div class="isomer-card-link">Read more...</div>
+</div>
+</a>
 </div>
 <h3>Rooftop Edible Garden</h3>
 <p>More than just a garden, our rooftop Edible Garden serves as an educational

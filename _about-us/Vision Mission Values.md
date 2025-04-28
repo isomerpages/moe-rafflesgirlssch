@@ -2,10 +2,13 @@
 title: Vision Mission Values
 permalink: /about-us/vision-mission-values/
 description: ""
+variant: markdown
 ---
 ## Vision Mission Values
 
 Established in 1879, Raffles Girls’ School is today a beacon of education excellence, attracting the best and the brightest in Singapore and around the world. At RGS, there are limitless possibilities on which each girl can build to realise her ambitions. Together with a strong record of achievements in both the academic and co-curricular domains, RGS girls are empowered to discover their own unique ways of making a difference in their communities, and in so doing, come to embody the school’s motto Filiae Melioris Aevi – Daughters of a Better Age.
+
+![RGS Vision Values Mission](/images/vmg25.png)
 
 |   |   |
 |:-:|---|

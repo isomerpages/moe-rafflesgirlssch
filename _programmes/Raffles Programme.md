@@ -6,7 +6,7 @@ variant: markdown
 ---
 ## Raffles Programme
 
-<img src="/images/rp1.jpg" style="width:49%" align="right">
+![RGS Raffles Programme](/images/raffles_programme.png)
 
 The Raffles Programme is a seamless 6-year curriculum culminating in the Singapore-Cambridge General Certificate in Education (GCE) Advanced Level Examination.  Students are expected to complete the full duration of the programme. Transfers to other schools, especially other IP institutions, are strongly discouraged and will only be considered under exceptional circumstances.
   

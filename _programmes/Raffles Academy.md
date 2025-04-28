@@ -2,8 +2,11 @@
 title: Raffles Academy
 permalink: /programmes/raffles-academy/
 description: ""
+variant: markdown
 ---
 ## Raffles Academy 2.0
+
+![RGS Raffles Academy](/images/talent_rgs.png)
 
 The Raffles Academy 2.0 (RA 2.0) caters to Year 3 &amp; 4 students’ varied talents or interests, providing them with a diversity of choices in developing their potential. Students broaden and/or deepen their learning in a particular area of study through Coursework or Research Modules. This inclusive, opt-in programme develops in Y3-4 students the fundamental skills and passion for research and creative problem-solving, to cater to the many varied interests of these students beyond the academic curriculum and to stretch and challenge students with advanced knowledge and skills in their talent area. These modules are taught by RGS teachers as well as industry practitioners and experts in tertiary institutions. Qualitative reports describe the ‘process’ as well as ‘product/performance’ of students in this programme for a more holistic evaluation of the students’ learning journey in RA 2.0.&nbsp;
 

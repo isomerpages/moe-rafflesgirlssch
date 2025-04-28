@@ -96,5 +96,5 @@ charging stations in school.</p>
 <h4>Do we have to buy the iPad, Apple Pencil and keyboard on our own?</h4>
 <p>MOE has managed to acquire a bundle deal for students' purchase. More
 information is available on the Year 1 Registration website&nbsp;(via our
-RGS iNet portal) on&nbsp;<strong>23 December 2024</strong>.</p>
+RGS iNet portal) in December after the release of the Y1 posting results.</p>
 <p></p>

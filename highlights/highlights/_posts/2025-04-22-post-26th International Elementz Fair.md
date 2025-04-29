@@ -13,8 +13,8 @@ variant: tiptap
 <p>The International Elementz Fair is a platform where students from around
 the region can showcase their scientific research and innovation prototypes,
 contributing to the betterment of society.&nbsp;At the recent 26th International
-Elementz Fair, the&nbsp;team comprising Clara Kho (S4-06) and Lakshana
-Rajaduraj (S4-06) presented their project titled "Developing a silver nanoparticle
+Elementz Fair, the&nbsp;team comprising Clara Kho (S406) and Lakshana Rajaduraj
+(S406) presented their project titled "Developing a silver nanoparticle
 infused&nbsp;filter out of sustainable materials to oxidise formaldehyde
 effectively". The team performed well and attained the Gold Award at the
 fair.</p>

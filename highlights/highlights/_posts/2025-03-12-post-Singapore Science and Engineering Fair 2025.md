@@ -25,7 +25,6 @@ students achieved commendable results:</p>
 <p>4 Special Awards for outstanding projects</p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SSEF 2025" src="/images/ssef25.png">
 </div>

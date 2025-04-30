@@ -102,6 +102,9 @@ submit original documents. Applicants must be prepared to produce the original
 documents for verification purposes upon request when necessary.</p>
 <h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA2025.png">
+</div>
 <h4><strong>Process Overview</strong></h4>
 <p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
 <br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>

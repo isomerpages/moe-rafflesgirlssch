@@ -101,109 +101,10 @@ to provide and the selection process/criteria of each talent area.</p>
 submit original documents. Applicants must be prepared to produce the original
 documents for verification purposes upon request when necessary.</p>
 <h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Languages</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>STEM</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Music &amp; Visual Arts</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Leadership</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>English Language</p>
-</li>
-<li>
-<p>Chinese Language</p>
-</li>
-<li>
-<p>Malay Language</p>
-</li>
-<li>
-<p>Tamil Language</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Mathematics</p>
-</li>
-<li>
-<p>Science</p>
 <p></p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Music Elective Programme</p>
-</li>
-<li>
-<p>Visual Arts (Drawing/Painting/Sculpture)</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Community Youth Leadership</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Badminton</p>
-</li>
-<li>
-<p>Basketball</p>
-</li>
-<li>
-<p>Netball</p>
-</li>
-<li>
-<p>Rhythmic Gymnastics</p>
-</li>
-<li>
-<p><strong>Sailing (final year)</strong>
-</p>
-</li>
-<li>
-<p>Softball</p>
-</li>
-<li>
-<p>Squash</p>
-</li>
-<li>
-<p>Swimming</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_1.png">
+</div>
 <h4><strong>Process Overview</strong></h4>
 <p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
 <br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>
@@ -216,8 +117,7 @@ documents for verification purposes upon request when necessary.</p>
 </p>
 <p><strong>Notification of Final Selection Outcome</strong> 
 <br>All applicants will receive their application outcomes between 25 August
-and 4 September 2025.<strong><br><br></strong>
-</p>
+and 4 September 2025.</p>
 <p>Applicants will be notified via email and RGS reserves the right not to
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>

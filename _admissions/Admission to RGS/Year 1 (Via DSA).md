@@ -133,38 +133,91 @@ documents for verification purposes upon request when necessary.</p>
 <li>
 <p>English Language</p>
 </li>
+<li>
+<p>Chinese Language</p>
+</li>
+<li>
+<p>Malay Language</p>
+</li>
+<li>
+<p>Tamil Language</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mathematics</p>
+</li>
+<li>
+<p>Science</p>
 <p></p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Music Elective Programme</p>
+</li>
+<li>
+<p>Visual Arts (Drawing/Painting/Sculpture)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Community Youth Leadership</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton</p>
+</li>
+<li>
+<p>Basketball</p>
+</li>
+<li>
+<p>Netball</p>
+</li>
+<li>
+<p>Rhythmic Gymnastics</p>
+</li>
+<li>
+<p><strong>Sailing (final year)</strong>
+</p>
+</li>
+<li>
+<p>Softball</p>
+</li>
+<li>
+<p>Squash</p>
+</li>
+<li>
+<p>Swimming</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsatalentareas.png">
-</div>
-<h4>Process Overview</h4>
+<h4><strong>Process Overview</strong></h4>
 <p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
-<br>7 May 2024, 11.00am to 3 June 2024, 3.00pm</p>
+<br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>
 <p><strong>Submission of additional documents to RGS via e-form</strong> 
-<br>Before 15 June 2024
-<br>Please refer to further details for talent areas <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+<br>Before 20 June 2025
+<br>Please check for further details for specific talent areas <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
-<br>July to August 2024</p>
+<br>mid-July to end-August 2025</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>
 </p>
 <p><strong>Notification of Final Selection Outcome</strong> 
-<br>By 9 September 2024</p>
+<br>All applicants will receive their application outcomes between 25 August
+and 4 September 2025.<strong><br><br></strong>
+</p>
 <p>Applicants will be notified via email and RGS reserves the right not to
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>

@@ -70,7 +70,9 @@ For more information on DSA-Sec, please refer to the MOE website at&nbsp;
 <li>
 <p>Applicants from MOE mainstream schools are to apply by logging in via
 the applicant's parent's SingPass OR approach their primary school for
-assistance if they are unable to apply online.</p>
+assistance if they are unable to apply online. Instructions on Application
+for applicants form mainstream schools can be found at <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+</p>
 </li>
 <li>
 <p>Applicants&nbsp;not&nbsp;studying in MOE mainstream primary schools need
@@ -86,19 +88,68 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 <p></p>
 </li>
 </ul>
-<h4>Important Note</h4>
+<h4><strong>Important Note</strong></h4>
 <p><strong><u>Required Submission of Additional Documents</u></strong>
 </p>
 <p>Applicants may need to submit additional documents/videos directly to
-RGS before <strong>15 June 2024</strong>, via the relevant links that can
-be found at this <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>.</p>
+RGS before <strong>20 June 2025 (Friday)</strong>, via the relevant links
+that can be found at this <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a></strong>.</p>
 <p>This document contains detailed information of the talent areas, including
 who can apply, what are the additional information applicants are expected
-to provided and the selection process/criteria of each talent area.</p>
+to provide and the selection process/criteria of each talent area.</p>
 <p>All documents/videos submitted will not be returned. Applicants MUST NOT
 submit original documents. Applicants must be prepared to produce the original
 documents for verification purposes upon request when necessary.</p>
-<h4>19 Talent Areas for RGS DSA-Sec 2024</h4>
+<h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Languages</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>STEM</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Music &amp; Visual Arts</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Leadership</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sports &amp; Games</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>English Language</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/dsatalentareas.png">
 </div>

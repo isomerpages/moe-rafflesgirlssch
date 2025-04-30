@@ -101,7 +101,6 @@ to provide and the selection process/criteria of each talent area.</p>
 submit original documents. Applicants must be prepared to produce the original
 documents for verification purposes upon request when necessary.</p>
 <h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA2025.png">
 </div>

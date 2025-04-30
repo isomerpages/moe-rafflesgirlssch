@@ -89,11 +89,11 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 </li>
 </ul>
 <h4><strong>Important Note</strong></h4>
-<p><strong><u>Required Submission of Additional Documents</u></strong>
+<p><strong><a href="/files/2025_DSA_Website_Info_Details_Final_30April.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Required Submission of Additional Documents</u></a></strong>
 </p>
-<p>Applicants may need to submit additional documents/videos directly to
-RGS before <strong>20 June 2025 (Friday)</strong>, via the relevant links
-that can be found <strong><u>HERE</u></strong>.</p>
+<blockquote>
+<h4><strong>Applicants may need to submit additional documents/videos directly to RGS before 20 June 2025 (Friday), via the relevant links that can be found <a href="/files/2025_DSA_Website_Info_Details_Final_30April.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>HERE</u></a>.</strong></h4>
+</blockquote>
 <p>This document contains detailed information of the talent areas, including
 who can apply, what are the additional information applicants are expected
 to provide and the selection process/criteria of each talent area.</p>
@@ -109,7 +109,7 @@ documents for verification purposes upon request when necessary.</p>
 <br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>
 <p><strong>Submission of additional documents to RGS via e-form</strong> 
 <br>Before 20 June 2025
-<br>Please check for further details for specific talent areas <strong><a href="/files/2024_Webpage_RGS_DSA_TalentInfo__080424_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
+<br>Please check for further details for specific talent areas <strong><a href="/files/2025_DSA_Website_Info_Details_Final_30April.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>.</p>
 <p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
 <br>mid-July to end-August 2025</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>

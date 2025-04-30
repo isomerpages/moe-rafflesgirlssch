@@ -71,7 +71,7 @@ For more information on DSA-Sec, please refer to the MOE website at&nbsp;
 <p>Applicants from MOE mainstream schools are to apply by logging in via
 the applicant's parent's SingPass OR approach their primary school for
 assistance if they are unable to apply online. Instructions on Application
-for applicants form mainstream schools can be found at <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
+for applicants from mainstream schools can be found at <a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a>
 </p>
 </li>
 <li>
@@ -101,9 +101,7 @@ to provide and the selection process/criteria of each talent area.</p>
 submit original documents. Applicants must be prepared to produce the original
 documents for verification purposes upon request when necessary.</p>
 <h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_1.png">
-</div>
+<p></p>
 <h4><strong>Process Overview</strong></h4>
 <p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
 <br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>

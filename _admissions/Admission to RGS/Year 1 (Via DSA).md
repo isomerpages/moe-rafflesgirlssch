@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Admission to RGS
 variant: tiptap
 ---
-<h2>Year 1 (Via DSA)</h2>
-<h4>Terms and Conditions of RGS DSA-Sec Exercise</h4>
+<h2><strong>Year 1 (Via DSA)</strong></h2>
+<h4><strong>Terms and Conditions of RGS DSA-Sec Exercise</strong></h4>
 <p>Students successfully admitted to RGS via DSA</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -14,31 +14,28 @@ variant: tiptap
 PSLE results or participate in the annual S1 Posting Exercise.</p>
 </li>
 <li>
-<p>are expected to honour their commitment to the school for the duration
+<p>are required to honour their commitment to the school for the duration
 of the 6-year Integrated Programme, and participate in the activities related
 to the talent they are selected for, from year 1-4.</p>
 </li>
 <li>
 <p>for the talent area 'Music Elective Programme', are required to join a
 music-related CCA. They&nbsp;will not&nbsp;be allowed to offer Third Language
-or other Elective Programmes.</p>
+or other Special Programmes.</p>
 </li>
 <li>
 <p>for the talent area 'Visual Arts', will be admitted to the school's Special
 Art Programme and are required to join the Art Club as their CCA. They&nbsp;will
-not&nbsp;be allowed to offer Third Language or other Elective Programmes.</p>
+not&nbsp;be allowed to offer Third Language or other Special Programmes.</p>
 </li>
 </ul>
-<p>Students and their parents are encouraged to consider schools that would
-be a good fit for the student's overall learning needs. This includes choosing&nbsp;schools
-based on the student's aptitudes and strengths, bearing in mind the school's
-academic and non-academic requirements, ethos and culture, and the programmes
-available to develop the area of talent.</p>
-<h4>Criteria</h4>
+<p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, school culture and the programmes available to develop the area of talent.</strong>
+</p>
+<h4><strong>Criteria</strong></h4>
 <p>The Applicant must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>be eligible for Secondary 1 in&nbsp;<strong>2025</strong>.</p>
+<p>be eligible for Secondary 1 in&nbsp;<strong>2026</strong>.</p>
 </li>
 <li>
 <p>have strong, consistent academic performance in primary school.</p>
@@ -55,16 +52,20 @@ school/community.</p>
 <p>have demonstrated good performance at selection trials/auditions/interviews.</p>
 </li>
 </ul>
-<p><strong>Please note that meeting all the criteria does not guarantee that the student will be shortlisted/given an offer.</strong>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p><strong>Please note that meeting all the criteria does not guarantee that the student will be shortlisted for selection trials/tests/auditions/interviews or given an offer.</strong>
 </p>
 <p><strong>Due to different profiles of applicants, selection/shortlisting trends may differ year on year.</strong>
 </p>
-<h4>Application Procedure</h4>
+<h4><strong>Application Procedure</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application for DSA-Sec must be submitted through MOE's online DSA-Sec
-Portal. The application is free-of-charge. For more information on DSA-Sec,
-please refer to the MOE website at&nbsp;<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+Portal. The application is free-of-charge and will <strong>open from 7 May 2025, 11am to 3 June 2025, 3pm</strong>.
+For more information on DSA-Sec, please refer to the MOE website at&nbsp;
+<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
 <li>
 <p>Applicants from MOE mainstream schools are to apply by logging in via

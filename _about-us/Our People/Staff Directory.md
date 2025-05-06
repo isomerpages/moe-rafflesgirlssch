@@ -444,6 +444,14 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tok Wei Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Languages</u></strong>
@@ -707,14 +715,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Maggie Phua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Navinesh S/O Thanabalasingam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1263,7 +1263,7 @@ variant: tiptap
 <p>Mr Amos Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Technology Designer</p>
+<p>Lead Learning &amp; Technology Strategist</p>
 </td>
 </tr>
 <tr>
@@ -1512,14 +1512,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Liu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Officer, Finance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Vijaya Govindarajoo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1562,7 +1554,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Loo</p>
+<p>Miss Tiffany Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Executive, Human Resources</p>
@@ -1608,6 +1600,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Executive, Information Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Khant Htel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Officer, Information Technology</p>
 </td>
 </tr>
 <tr>
@@ -1751,7 +1751,7 @@ variant: tiptap
 <p>Mr Leonard Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive, Strategic Communications (Team Lead)</p>
+<p>Senior Executive, Strategic Communications (Team Lead)</p>
 </td>
 </tr>
 <tr>
@@ -1785,7 +1785,7 @@ variant: tiptap
 <p>Miss Karen Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Head, Guidance Services</p>
 </td>
 </tr>
 <tr>

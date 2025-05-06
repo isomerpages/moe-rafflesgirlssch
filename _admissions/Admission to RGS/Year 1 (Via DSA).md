@@ -28,6 +28,12 @@ or other Special Programmes.</p>
 Art Programme and are required to join the Art Club as their CCA. They&nbsp;will
 not&nbsp;be allowed to offer Third Language or other Special Programmes.</p>
 </li>
+<li>
+<p>for the talent area 'Science', are required to join the Cogitare Club,
+a Science and Innovation CCA, participate in Curieosity Lab (an enrichment
+programme)&nbsp;in Years 1-2, and complete the Integrated Science Research
+Programme from Years 1-4.</p>
+</li>
 </ul>
 <p><strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, school culture and the programmes available to develop the area of talent.</strong>
 </p>

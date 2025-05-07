@@ -197,72 +197,7 @@ Diploma in Education (PGDE)</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>1. Developer, Information Technology</strong></h4>
-<p></p>
-<p>The Developer provides analytical support in designing technology solutions
-that address the school’s requirements. This role involves partnering with
-stakeholders to identify, clarify, and document educational needs effectively.
-The Developer assists in evaluating the viability and effectiveness of
-potential solutions to ensure they meet user needs. Additionally, the person
-in this role will have to facilitate clear communication between teaching
-and technology teams to align objectives and expectations. This position
-reports to the Manager, Information Technology.</p>
-<p></p>
-<p><strong>Role &amp; Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide support for new and existing web and database applications.</p>
-</li>
-<li>
-<p>Conduct user requirement analysis for the development / implementation
-of new systems and enhancements to existing systems.</p>
-</li>
-<li>
-<p>Evaluate potential solutions and make recommendations to resolve operational
-problems.</p>
-</li>
-<li>
-<p>Involvement in the system integration testing phase prior to implementation.</p>
-</li>
-<li>
-<p>Plan and coordinate end-user training for any system implementations or
-enhancements.</p>
-</li>
-<li>
-<p>Liaise closely with users and build good rapport.</p>
-</li>
-<li>
-<p>Liaise closely with vendors in project implementation, application testing,
-supporting application patches and upgrades in accordance with project
-methodologies and policies.</p>
-</li>
-<li>
-<p>Support the team in defining project requirements, tracking and documentation.</p>
-</li>
-<li>
-<p>Any relevant ad-hoc duties.</p>
-</li>
-</ul>
-<p></p>
-<p><strong>Key Competencies</strong>
-</p>
-<p><strong>Qualifications</strong>
-<br>Diploma in Information Technology, Computer Science, Computer Engineering
-or equivalent</p>
-<p><strong>Technical Skills</strong>
-<br>Proficiency in SQL and relational database concepts
-<br>Familiarity with Microsoft technologies, web applications and servers,
-multiple back-end languages</p>
-<p><strong>Behavioural Skills</strong>
-<br>Effective Communication, independent worker with good interpersonal skills</p>
-<p><strong>Language Skills</strong>
-<br>Strong in verbal and written English</p>
-<p><strong>Experience</strong>
-</p>
-<p>Minimum 1-year relevant working experience</p>
-<p></p>
-<h4><strong>2. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>1. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

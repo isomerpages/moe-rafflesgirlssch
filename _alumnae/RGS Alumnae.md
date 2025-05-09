@@ -134,7 +134,7 @@ RGS.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Andrea Tan Tian Lin (Class of 1996)</p>
+<p>Ms Andrea Tan (Class of 1996)</p>
 </td>
 </tr>
 </tbody>

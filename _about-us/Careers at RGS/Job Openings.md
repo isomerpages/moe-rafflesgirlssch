@@ -255,9 +255,9 @@ IM Procurement guidelines.</p>
 </li>
 <li>
 <p>Identify opportunities for cost savings through economies of scale.</p>
+<p>&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p><strong>Requirements:</strong>
 </p>
 <ul data-tight="true" class="tight">

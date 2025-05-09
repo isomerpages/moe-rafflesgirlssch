@@ -5,13 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2>Committee</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_0944__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1605.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PRGS 2025" src="/images/Prgs_2025.jpg">
 </div>
 <h4>PRGS 23rd Executive Committee (2025)</h4>
 <table style="minWidth: 50px">

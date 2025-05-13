@@ -95,7 +95,7 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 </li>
 </ul>
 <h4><strong>Important Note</strong></h4>
-<p><strong><a href="/files/2025_DSA_Website_Info_Details_Final_1May.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Required Submission of Additional Documents</u></a></strong>
+<p><strong><a href="/files/2025_DSA_Website_Info_Details_Final_1May_.pdf" rel="noopener noreferrer nofollow" target="_blank">Required Submission of Additional Documents</a></strong>
 </p>
 <blockquote>
 <h4><strong>Applicants may need to submit additional documents/videos directly to RGS before 20 June 2025 (Friday), via the relevant links that can be found <a href="/files/2025_DSA_Website_Info_Details_Final_1May_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong></h4>

@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /holistic-education/Academic-Studies/pe/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## Physical Education
 
@@ -21,7 +22,7 @@ Our Physical Education programme seeks to develop Healthy Daughters for a Health
 
 ###### <center>Main Curriculum</center>
 
-*   Sports/Games – Badminton, Floorball, Football, Fundamental Gymnastics, Netball, Softball, Sport Climbing, Tennis, Touch Rugby
+*   Sports/Games – Volleyball, Floorball, Football, Fundamental Gymnastics, Netball, Softball, Sport Climbing, Tennis, Touch Rugby
 *   Outdoor Education
 *   Physical Health
 

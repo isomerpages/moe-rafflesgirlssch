@@ -3,31 +3,116 @@ title: English Literature
 permalink: /holistic-education/Academic-Studies/english-lit/
 description: ""
 third_nav_title: Academic Studies
-variant: markdown
+variant: tiptap
 ---
-## English Literature
-
-Literature, rooted in life and centuries of human experience, is a mode of creative expression that engages the reader in the aesthetic domain. The literary tradition, an invaluable and ever-growing resource, gives access to the very best in human thought and culture. The study of literature thus enables the reader to critically examine human experience that leads to greater self-awareness. It provokes thinking about our beliefs and values and invites a personal engagement with ideas in the aesthetic domain. An appreciation of Literature will enhance one’s sensitivity to the power of words and thus, the importance of using them critically and creatively to serve society, making the world a more humane and beautiful place.
-
-###### <center>Learning Outcomes</center>
-
-*   Appreciate the reading and significance of literature across literary periods and genres, and its contribution to aesthetic and imaginative growth
-*   Explore areas of significant, enduring and contemporary human concern, thus developing the sensitivity compassion and empathy for others and a greater understanding of the self
-*   Engage with various types of literary texts so as to critically appreciate writer’s craft and intent
-*   Become owners of and participants in literary opinions
-*   Contribute creative literary works reflecting literary knowledge and their insights of life
-
-###### <center>Programmes</center>
-
-|   |   |   |   |
-|:-:|---|---|---|
-| **Year 1 – Introduction to Literature as a Discipline**  | **Year 2 – Introduction to Shakespearean Drama and Poetry**  | **Year 3 – The Development of English Literature Through the Ages**  | **Year 4 – The Study of Literature as a Powerful Voice Speaking from and for its Time**  |
-| Close-Reading Skills and Introduction to Literary Analysis  | Shakespeare and Drama, Analysis and Performance  | Modern Dramatic Form as Social Commentary  | The Art of the Short Story  |
-| Making Connections Between Text and Self, and Text and World  | Singapore Literature – Poetry, Plays and Short Stories  | Comparative Poetry  | The Art of the Novel  |
-|Introduction to Poetry   | Close-Reading Skills and Literary Analysis  |Critical Analysis and Sound Interpretation of Literary Works   | Critical Analysis and Sound Interpretation of Literary Works  |
-| Introduction to the Novella  | Creative-Writing  | Intertextuality  | Critical Approaches to Studying Literature  |
-|   |   |   |   |
-
-![](/images/englit.png)
-
-Our Literature students attended a play written by Amanda Chong (Class of 2005) and performed by Sindhura Kalidas (Class of 2005). The play delved into the diverse pressures and demands placed on women in their personal and working lives. Another group also attended a Pangdemonium production of Edward Albee's&nbsp;Who's Afraid of Virginia Woolf, and had a thought-provoking and insightful dialogue with the director of the play, Timothy Koh.
+<h2>English Literature</h2>
+<h3>Our Philosophy</h3>
+<p>Literature, rooted in life and centuries of human experience, is a mode
+of creative expression that engages the reader in the aesthetic domain.
+The literary tradition, an invaluable and ever-growing resource, gives
+access to the very best in human thought and culture. The study of literature
+thus enables the reader to critically examine human experience that leads
+to greater self-awareness. It provokes thinking about our beliefs and values
+and invites a personal engagement with ideas in the aesthetic domain. An
+appreciation of Literature will enhance one’s sensitivity to the power
+of words and thus, the importance of using them critically and creatively
+to serve society, making the world a more humane and beautiful place.</p>
+<h3>Our Aspirations for Every RGS Literature Student</h3>
+<p>At RGS, Literature nurtures discerning readers, empathetic thinkers, and
+creative voices who shape the world with imagination and insight.</p>
+<h4>Appreciate Literature Across Time and Place</h4>
+<p>"Appreciate the reading and significance of literature across periods,
+spaces, and genres, fostering imaginative growth and aesthetic sensitivity."</p>
+<h4>Engage Critically and Culturally</h4>
+<p>"Critically appreciate writer’s craft and intent across diverse local
+and global texts, developing a deeper understanding of contexts, cultures,
+and perspectives."</p>
+<h4>Explore Enduring Human Concerns</h4>
+<p>"Reflect on significant, enduring, and contemporary human experiences,
+cultivating sensitivity, empathy, and a deeper understanding of the self
+and others."</p>
+<h4>Own and Shape Literary Opinions</h4>
+<p>"Develop and articulate informed, independent literary opinions as thoughtful
+participants in the literary conversation."</p>
+<h4>Create with Literary Insight</h4>
+<p>"Contribute original literary works that reflect both literary knowledge
+and profound insights into life and the human experience."</p>
+<h3>Programmes</h3>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year 4</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Literature as a Discipline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature across Time and Space</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature as Exploration, Contestation and Negotiation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literature as a Powerful Voice and Artform</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p>Introduction to Literary Analysis
+<br>Creative Responses to Literature
+<br>Critical Approaches to Studying Literature
+<br>Making Connections Between Text and Self, and Text and World</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Introduction to Poetry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction to Singapore Literature – Drama, Poetry and Short Stories</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Comparative Poetry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Art of the Short Story</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Introduction to Prose</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction to Shakespeare and his body of works</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Art of the Novel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Drama as Social Commentary</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/englit.png">
+</div>
+<p></p>

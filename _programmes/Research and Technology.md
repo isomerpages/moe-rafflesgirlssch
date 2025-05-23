@@ -47,6 +47,18 @@ and aim to contribute solutions to real-world challenges.</p>
 <p><a href="/files/2025_Showcase_004_A_PM2_5_Sugarcane_Bagasse_Air_Filter__2023_SSEF_.pdf" rel="noopener nofollow" target="_blank">A PM2.5 Sugarcane Bagasse Air Filter</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Showcase_24RGSS02.pdf" rel="noopener nofollow" target="_blank">Real-Time Posture Detection for Physiotherapy Support</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Showcase_24RGSS03.pdf" rel="noopener nofollow" target="_blank">Making Molecules that know Right from Left</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Showcase_24RGSS08.pdf" rel="noopener nofollow" target="_blank">Posture Detection for Physiotherapy Application</a>
+</p>
+</li>
 </ul>
 </td>
 </tr>

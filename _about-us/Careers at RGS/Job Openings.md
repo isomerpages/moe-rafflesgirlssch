@@ -14,10 +14,17 @@ variant: tiptap
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>We invite highly passionate individuals who share the dream for our girls
+to join us as:</p>
+<p>Teaching Positions</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Be part of a team that learns and grows together, designs forward-looking
 curriculum, and boldly explores approaches for nurturing high-ability learners.
 <br>
 </p>
+</li>
+</ul>
 <p>Join us, for a unique opportunity to hone the craft of teaching and to
 be part of a school environment that values and promotes professional learning.
 Our students are creative, self-disciplined and motivated, and we invite
@@ -25,7 +32,7 @@ you to join us in nurturing them <strong>thinkers</strong>, <strong>leaders</str
 the future.
 <br>
 </p>
-<h3><strong>Full-Time Teachers</strong></h3>
+<h3><strong>Teaching Positions (Full Time Teachers)</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -59,9 +66,119 @@ the future.
 </tbody>
 </table>
 <p>
-<br><strong>We are looking for candidates with the following attributes:</strong>
+<br>Be part of a team that learns and grows together, designs forward-looking
+curriculum, and boldly explores approaches for nurturing high-ability learners.</p>
+<p></p>
+<p>Join us, for a unique opportunity to hone the craft of teaching and to
+be part of a school environment that values and promotes professional learning.
+Our students are creative, self-disciplined and motivated, and we invite
+you to join us in nurturing them&nbsp;<strong>thinkers</strong>,&nbsp;<strong>leaders</strong>&nbsp;and&nbsp;<strong>pioneers</strong>&nbsp;of
+the future.</p>
+<p></p>
+<p><strong>Full-Time Teachers</strong>
 </p>
-<ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Main</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chemistry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>We are looking for candidates with the following attributes:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Believes first of all in nurturing the child as a whole person, and who
 have a strong belief in every student’s ability and motivation to learn.</p>
@@ -69,6 +186,9 @@ have a strong belief in every student’s ability and motivation to learn.</p>
 <li>
 <p>Possesses at least a Bachelor's Degree from a recognized university with
 relevant teaching subject(s)</p>
+</li>
+<li>
+<p>A Post-Graduate Diploma in Education (PGDE) is preferred</p>
 </li>
 <li>
 <p>Possesses deep knowledge of their subject discipline and an openness to
@@ -82,11 +202,24 @@ a learning environment that challenges students in learning, inquiry and
 leadership; and</p>
 </li>
 <li>
-<p>Is able to work well, whether in a team or individual setting
-<br>
-</p>
+<p>Is able to work well, whether in a team or individual setting</p>
+</li>
+<li>
+<p>Be part of the dynamic, creative and innovative RGS teaching and learning
+experience. At the same time, build a meaningful and rewarding career with
+us. We offer a competitive and attractive salary package and benefits commensurate
+with experience.</p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p>Interested candidates, please send a&nbsp;<strong>detailed</strong>&nbsp;resume
+to:
+<br>The Human Resource Department
+<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rgs_hr@schools.gov.sg</a>
+<br><em>(Only shortlisted candidates will be notified)</em>
+<br>
+</p>
 <h3><strong>Relief Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>

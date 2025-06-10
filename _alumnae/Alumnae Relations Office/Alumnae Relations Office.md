@@ -31,7 +31,7 @@ Meanwhile, if you wish to engage with us in any way or just give feedback on how
 
 I look forward to your partnership with us.
 
-Filiae Melioris Aevi  
-  
+Filiae Melioris Aevi
+
 Mrs Ong Hong Peng  
 Principal

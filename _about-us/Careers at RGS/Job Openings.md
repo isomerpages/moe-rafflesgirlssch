@@ -10,73 +10,21 @@ variant: tiptap
 </p>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Teaching Positions (Full Time Teachers &amp; Relief Teachers)</strong>
+<summary><strong>Teaching Positions (Full Time Teachers)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>We invite highly passionate individuals who share the dream for our girls
-to join us as:</p>
-<p>Teaching Positions</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Be part of a team that learns and grows together, designs forward-looking
-curriculum, and boldly explores approaches for nurturing high-ability learners.
-<br>
-</p>
-</li>
-</ul>
-<p>Join us, for a unique opportunity to hone the craft of teaching and to
-be part of a school environment that values and promotes professional learning.
-Our students are creative, self-disciplined and motivated, and we invite
-you to join us in nurturing them <strong>thinkers</strong>, <strong>leaders</strong> and <strong>pioneers</strong> of
-the future.
-<br>
-</p>
-<h3><strong>Teaching Positions (Full Time Teachers)</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/N</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject Main</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>Be part of a team that learns and grows together, designs forward-looking
 curriculum, and boldly explores approaches for nurturing high-ability learners.</p>
 <p></p>
 <p>Join us, for a unique opportunity to hone the craft of teaching and to
 be part of a school environment that values and promotes professional learning.
 Our students are creative, self-disciplined and motivated, and we invite
-you to join us in nurturing them&nbsp;<strong>thinkers</strong>,&nbsp;<strong>leaders</strong>&nbsp;and&nbsp;<strong>pioneers</strong>&nbsp;of
-the future.</p>
-<p></p>
-<p><strong>Full-Time Teachers</strong>
+you to join us in nurturing them <strong>thinkers</strong>, <strong>leaders</strong>&nbsp;and <strong>pioneers</strong> of
+the future..
+<br>
 </p>
+<h3><strong>Full-Time Teachers</strong></h3>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -176,6 +124,7 @@ the future.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
 <p><strong>We are looking for candidates with the following attributes:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -208,117 +157,7 @@ leadership; and</p>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with
 us. We offer a competitive and attractive salary package and benefits commensurate
-with experience.</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<p>Interested candidates, please send a&nbsp;<strong>detailed</strong>&nbsp;resume
-to:
-<br>The Human Resource Department
-<br>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">rgs_hr@schools.gov.sg</a>
-<br><em>(Only shortlisted candidates will be notified)</em>
-<br>
-</p>
-<h3><strong>Relief Teachers</strong></h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>S/N</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Subject Main</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>History</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geography</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>General Arts</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>The Relief Teacher will assist the respective Head of Department/Assistant
-Head to carry out the following duties:
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Prepare lessons according to the department's requirements</p>
-</li>
-<li>
-<p>Apply pedagogy which is aligned with that of the school/department</p>
-</li>
-<li>
-<p>Set and mark assignments/tests of your classes</p>
-</li>
-<li>
-<p>Track and monitor pupils' performance and if necessary conduct remedial
-lessons&nbsp;</p>
-</li>
-<li>
-<p>Communicate with parents of the pupil with regard to behaviour in school,
-academic&nbsp; performance or any intervention that is necessary for the
-well-being of the pupil
-<br>
-</p>
-</li>
-</ul>
-<p><strong>Job Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A good Bachelor Degree in the relevant discipline with a Post-Graduate
-Diploma in Education (PGDE)</p>
-</li>
-<li>
-<p>Enjoy teaching the age group of students from 13 to 18 years old</p>
-</li>
-<li>
-<p>Strong content mastery</p>
-</li>
-<li>
-<p>Excellent communication and interpersonal skills</p>
+with experience</p>
 </li>
 </ul>
 </div>

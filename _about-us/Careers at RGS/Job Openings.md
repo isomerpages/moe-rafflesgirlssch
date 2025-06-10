@@ -124,7 +124,6 @@ the future..
 </tbody>
 </table>
 <p></p>
-<p></p>
 <p><strong>We are looking for candidates with the following attributes:</strong>
 </p>
 <ul data-tight="true" class="tight">

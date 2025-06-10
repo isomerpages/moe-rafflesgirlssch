@@ -3,6 +3,7 @@ title: Alumnae Relations Office
 permalink: /alumnae/Alumnae-Relations-Office/aro/
 description: ""
 third_nav_title: Alumnae Relations Office
+variant: markdown
 ---
 ## Alumnae Relations Office
 
@@ -18,19 +19,19 @@ To connect the alumnae with their alma mater through mutually beneficial interac
 
 **Goals**  
 
-*   Create platforms for alumnae to give back to the organisation; eg, Career talks; Gifting  
+*   Create platforms for alumnae to give back to the organisation; eg, Career talks; Gifting &nbsp;
 *   Facilitate alumnae networking and connections; eg School Reunions
 *   Facilitate alumnae connections with current students; eg, Mentoring
 *   Showcase alumnae stories
 
-You may consider membership in the [RGS Alumnae](http://rgsalumnae.com/), a registered society that seeks to connect members through diverse projects and gatherings.
+You may consider membership in the&nbsp;[RGS Alumnae](http://rgsalumnae.com/), a registered society that seeks to connect members through diverse projects and gatherings.
 
-Meanwhile, if you wish to engage with us in any way or just give feedback on how to strengthen our links, please contact us at **(65) 6970-6459** or [aro@rafflesgirlssch.edu.sg](mailto:aro@rafflesgirlssch.edu.sg).  
+Meanwhile, if you wish to engage with us in any way or just give feedback on how to strengthen our links, please contact us&nbsp;at&nbsp;**(65) 6970-6459**&nbsp;or&nbsp;[aro@rafflesgirlssch.edu.sg](mailto:aro@rafflesgirlssch.edu.sg).  
 
 
 I look forward to your partnership with us.
 
-Filiae Melioris Aevi  
-  
-Mary George Cheriyan  <br>
-Deputy Principal
+Filiae Melioris Aevi
+
+Mrs Ong Hong Peng  
+Principal

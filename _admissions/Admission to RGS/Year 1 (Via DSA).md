@@ -130,5 +130,5 @@ and 4 September 2025.</p>
 release the details of the outcome or the reasons for non-selection.</p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>
 </p>
-<p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="mailto:admissions@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a>
+<p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="mailto:admissions@rafflesgirlssch.edu.sg" rel="noopener nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a>
 </p>

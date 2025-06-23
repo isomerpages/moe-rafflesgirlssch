@@ -21,14 +21,15 @@ camaraderie, and a strong sense of pride and purpose in every participant.</p>
 <summary>Angklung Ensemble</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Congratulations to our Angklung Ensemble for being the first to shine
-at the SYF Arts Presentation.</p>
+<p>"This year, stepping onto the stage in our new costumes was a memorable
+experience. Inspired by various ethnic costumes, our outfits reflected
+the rich diversity of our cultural heritage. I loved how the vibrant orange
+shawls and intricately patterned batik skirts paid tribute to traditional
+elements, while still adding a fresh, elegant touch to our performance.
+It made me feel proud to be part of something that celebrated both our
+roots and creativity."</p>
 <p></p>
-<p>This year, they took the stage in their new costumes, inspired by various
-ethnic costumes to reflect the rich diversity of our cultural heritage.
-The vibrant orange shawls and intricately patterned batik skirts pay homage
-to traditional elements while adding a fresh and elegant touch to their
-performance.</p>
+<p>— RGS Angklung Esemble</p>
 <p></p>
 </div>
 </details>
@@ -145,16 +146,16 @@ uplift and encourage one another. "
 <summary>Guitar Ensemble</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>After months of dedication and countless hours of practice, the RGS Guitar
+<p>"After months of dedication and countless hours of practice, the RGS Guitar
 Ensemble can finally bid farewell to the SYF season—on a high note! Every
 member gave their best to deliver a performance they can truly be proud
 of. We are thrilled to share that we ended it with a bang, clinching a
 Distinction.
 <br>
 <br>A big thank you as well to all the parents and supporters who attended
-our performances—your presence and encouragement meant so much to us.
-<br>
-<br>Well done, Guitar Ensemble!</p>
+our performances—your presence and encouragement meant so much to us. "</p>
+<p></p>
+<p>— RGS Guitar Ensemble</p>
 <p></p>
 </div>
 </details>

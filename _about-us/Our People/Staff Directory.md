@@ -80,7 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Chia</p>
+<p>Ms Lieu Mee Mee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bursar</p>
@@ -292,7 +292,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yap Hsin Yan</p>
+<p>Ms Wendy Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leon Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -447,6 +455,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tok Wei Sin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fathie Bin Ali Abdat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -677,7 +693,7 @@ variant: tiptap
 <p>Ms Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, Mathematics</p>
+<p>Assistant Head, Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -881,7 +897,7 @@ variant: tiptap
 <p>Dr Lim Ai Khim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Head, Integrated Science Research Programme</p>
+<p>Assistant Head, Integrated Science Research Programme</p>
 </td>
 </tr>
 <tr>
@@ -927,14 +943,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Joan Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Joseph Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1786,14 +1794,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor with ECG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ngeow Mei Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
 </td>
 </tr>
 <tr>

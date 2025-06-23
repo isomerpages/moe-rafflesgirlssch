@@ -36,7 +36,7 @@ performance.</p>
 <summary>Band Symphonic</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>We poured our hearts, time, and energy into every rehearsal, every note,
+<p>"We poured our hearts, time, and energy into every rehearsal, every note,
 and every detail. While the result may not have been what we had hoped
 for, it does not take away from everything we have gained and grown through
 together.
@@ -56,10 +56,10 @@ goal — and that, above all, is what truly matters.
 up not just for the award, but for each other.
 <br>
 <br>SYF may be over, but the bond we’ve built and the lessons we carry with
-us will last far longer than any certificate.
-<br>
-<br>To our RGS Band Symphonic — let’s keep playing with heart, and always
-hold your heads high.</p>
+us will last far longer than any certificate. Let’s keep playing with heart,
+and always hold your heads high."</p>
+<p></p>
+<p>— RGS Band Symphonic</p>
 <p></p>
 </div>
 </details>
@@ -83,7 +83,7 @@ hold your heads high.</p>
 <summary>Dance International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>We presented a dance piece titled “You, Yours”, featuring two contrasting
+<p>"We presented a dance piece titled “You, Yours”, featuring two contrasting
 songs. The first conveyed the despair and emotional weight that follows
 failure — a feeling of being trapped in darkness. As the piece progressed,
 the choreography evolved, becoming more fluid and assertive, reflecting
@@ -113,9 +113,9 @@ as RGS DI.</p>
 discipline over the past few months. Our deepest gratitude also goes to
 our instructor, Ms Ng Jingwen, and our teachers-in-charge, Mdm Safiah Binte
 Ani, Ms Sandi Kum, and Ms Lin Yao, for their constant support and guidance
-throughout this journey.</p>
+throughout this journey."</p>
 <p></p>
-<p>RGS Dance International Exco’25</p>
+<p>— RGS Dance International Exco’25</p>
 <p></p>
 </div>
 </details>
@@ -123,10 +123,10 @@ throughout this journey.</p>
 <summary>Ethnic Dance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>For this year’s Singapore Youth Festival (SYF), our RGS Ethnic Dance (Indian
-Dance) team presented 'Pamba Ganapathy', an energetic devotional piece
-that pays homage to Lord Ganapathy — the beloved elephant-headed deity
-revered as the remover of obstacles. Set in a fast-paced Bharatanatyam
+<p>"For this year’s Singapore Youth Festival (SYF), our RGS Ethnic Dance
+(Indian Dance) team presented 'Pamba Ganapathy', an energetic devotional
+piece that pays homage to Lord Ganapathy — the beloved elephant-headed
+deity revered as the remover of obstacles. Set in a fast-paced Bharatanatyam
 style, the performance artfully blended traditional movements with stylised
 choreography, capturing the essence of devotion, grace, and strength. Accompanied
 by vibrant and rhythmic music, the piece radiated both power and poise,
@@ -135,7 +135,7 @@ earning the team a Distinction.
 <br>This journey has been rigorous yet incredibly rewarding. As I reflect
 on our experiences, I’m proud of how we have grown — not just as dancers,
 but as resilient individuals and supportive teammates, always ready to
-uplift and encourage one another.
+uplift and encourage one another. "
 <br>
 <br>— Wagisha Wani, Chairperson</p>
 <p></p>
@@ -178,7 +178,9 @@ had the crowd tapping along! 🎸🎵
 musically, but also strengthened our bond as a team. When faced with challenges—like
 tackling tricky rhythms—we supported one another through clear communication:
 counting together, tapping the tempo, and offering constructive feedback.
-We overcame those hurdles together, and we did it!” Handbell Ensemble 2025</p>
+We overcame those hurdles together, and we did it!”</p>
+<p></p>
+<p>— Handbell Ensemble 2025</p>
 <p></p>
 </div>
 </details>
@@ -186,8 +188,8 @@ We overcame those hurdles together, and we did it!” Handbell Ensemble 2025</p>
 <summary>Raffles Drama</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>1) Raffles Drama (Team A) presented “Sarah is Typing…” , an original piece
-written in English, exploring the growing impact of Internet addiction
+<p>1) "Raffles Drama (Team A) presented “Sarah is Typing…” , an original
+piece written in English, exploring the growing impact of Internet addiction
 and hyperconnectivity.</p>
 <p></p>
 <p>Through this piece, we hope to strike a personal chord that impacts many
@@ -210,11 +212,11 @@ and helped us revamp our entire performance before SYF. A meaningful moment
 was our pre-SYF run for Team B, whose encouragement reminded us of the
 strength of our community. The friendships and collaboration that emerged
 from SYF serve as a quiet reminder for our CCA to trust each other and
-perform with one heart.</p>
+perform with one heart."</p>
 <p></p>
-<p>~Ziqin and Quanming (Directors of "Sarah is typing...")</p>
+<p>— Ziqin and Quanming (Directors of "Sarah is typing...")</p>
 <p></p>
-<p>2) For this year’s Singapore Youth Festival, Raffles Drama Team B presented
+<p>2) "For this year’s Singapore Youth Festival, Raffles Drama Team B presented
 《“逃”花源》Escape to Utopia, an original Chinese-language theatre piece that
 delves into the theme of pressure among youths. The narrative introduces
 Utopia—a paradise seemingly free from life’s burdens. But as the story
@@ -241,9 +243,9 @@ Most importantly, it was the trust we placed in one another that carried
 us through.</p>
 <p></p>
 <p>This experience was more than just a performance, it was a reflection
-of our growth, both as individuals and as a team.</p>
+of our growth, both as individuals and as a team."</p>
 <p></p>
-<p>By Yinuo and Sarah, Directors of 《“逃”花源》Escape to Utopia</p>
+<p>— Yinuo and Sarah, Directors of 《“逃”花源》Escape to Utopia</p>
 <p></p>
 </div>
 </details>
@@ -251,7 +253,7 @@ of our growth, both as individuals and as a team.</p>
 <summary>String Ensemble</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Over the past few months, our members have been diligently practising
+<p>"Over the past few months, our members have been diligently practising
 for SYF. Even though we faced many challenges along the way, the ensemble
 remained optimistic throughout the busy SYF season, committing wholeheartedly
 to the collective effort of the CCA.</p>
@@ -262,7 +264,9 @@ instructors, teachers, family, and friends.</p>
 <p>We’re proud to share that all the hard work paid off — RGS String Ensemble
 achieved a Distinction at SYF!</p>
 <p></p>
-<p>Thank you, everyone!</p>
+<p>Thank you, everyone!"</p>
+<p></p>
+<p>— RGS String Ensemble Exco</p>
 <p></p>
 </div>
 </details>

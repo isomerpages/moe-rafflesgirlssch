@@ -12,7 +12,7 @@ arts, featuring a diverse range of disciplines and genres that reflect
 Singapore’s vibrant multicultural heritage.</p>
 <p>These experiences go beyond competition or performance—they foster empathy,
 camaraderie, and a strong sense of pride and purpose in every participant.</p>
-<p></p>
+<p>Please find below some reflections from our students:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/syf2025highlights.png">
 </div>

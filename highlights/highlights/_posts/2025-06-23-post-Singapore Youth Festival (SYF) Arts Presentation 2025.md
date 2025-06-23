@@ -64,8 +64,7 @@ hold your heads high.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Chinese Orchestra</strong>
-</summary>
+<summary>Chinese Orchestra</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>(Coming Soon)</p>
@@ -81,8 +80,7 @@ hold your heads high.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Dance International</strong>
-</summary>
+<summary>Dance International</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>We presented a dance piece titled “You, Yours”, featuring two contrasting
@@ -122,8 +120,7 @@ throughout this journey.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Ethnic Dance</strong>
-</summary>
+<summary>Ethnic Dance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>For this year’s Singapore Youth Festival (SYF), our RGS Ethnic Dance (Indian
@@ -145,8 +142,7 @@ uplift and encourage one another.
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Guitar Ensemble</strong>
-</summary>
+<summary>Guitar Ensemble</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>After months of dedication and countless hours of practice, the RGS Guitar

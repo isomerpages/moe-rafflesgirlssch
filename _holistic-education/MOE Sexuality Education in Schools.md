@@ -79,7 +79,7 @@ of the possible consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>Click <a href="/files/2025_Info_on_SEd_for_RGS_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view the Sexuality Education lessons that will be taught in 2025.</strong>
+<p><strong>Click <a href="/files/2025_Info_on_SEd_for_RGS_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view the Sexuality Education lessons that will be taught in 2025.</strong>
 </p>
 <h4><strong>&nbsp;<em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
 <p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
@@ -145,7 +145,7 @@ of assertiveness and responsible decision-making</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 5</p>
 <p>(Tuesday)</p>
 </td>
 </tr>

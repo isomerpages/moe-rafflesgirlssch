@@ -64,7 +64,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Magdalene
+<p>Ms Magdalene
 <br>Suey</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,13 +116,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Juliana Chia</p>
+<p>Ms&nbsp;Lieu Mee Mee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Bursar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:juliana.chia@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana.chia@rafflesgirlssch.edu.sg</a>
+<p><a href="mailto:meemee.lieu@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meemee.lieu@rafflesgirlssch.edu.sg</a>
 </p>
 </td>
 </tr>

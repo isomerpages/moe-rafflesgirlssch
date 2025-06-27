@@ -260,6 +260,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Leon Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ling Shuang Ning</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -293,14 +301,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Wendy Chen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Leon Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -382,6 +382,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Fathie Bin Ali Abdat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Gwendalyn Too</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -455,14 +463,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Tok Wei Sin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fathie Bin Ali Abdat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

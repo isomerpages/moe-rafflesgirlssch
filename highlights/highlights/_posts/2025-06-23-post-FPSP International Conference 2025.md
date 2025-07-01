@@ -13,7 +13,34 @@ University Bloomington.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Future Problem Solving Programme (FPSP)" src="/images/fpspic2025.png">
 </div>
-<p>A Year 3 participant, Cai Yizhen shared her reflection:</p>
+<p>Among the participants was Pan Yu Hui from the Community Problem Solving
+(CmPS) team, <em>Project Oculus</em>, who shared:</p>
+<p>PSPIC was an event my team and I had highly anticipated, and the experience
+proved to be as enriching and memorable as we had hoped. This was thanks
+to two key elements: the programme itself and the people.</p>
+<blockquote>
+<p>I was greatly inspired by the programme -- its mission to nurture future
+problem-solvers and bring together like-minded youths was deeply inspiring.
+I particularly appreciate the opportunity to learn from innovative projects
+from around the world, which showed me what youths like ourselves can do
+when we channel our creativity and passion into meaningful action.</p>
+</blockquote>
+<p>Beyond the program, it was the people who made this experience truly unforgettable.
+My team and I bonded as we worked and learned together, being side by side
+24/7 and enjoying the "university dorm life" for a week. Although we faced
+challenges, they taught us the importance of teamwork and communication.
+In addition, we enjoyed meeting diverse and driven individuals from around
+the world. We shared precious moments -- from exchanging gifts and filming
+social media clips, to learning from each other and sharing our passions.</p>
+<p>Overall, FPSPIC was more than just enjoyable — it was eye-opening, transformative
+and pushed me beyond my comfort zone. None of it would have been possible
+without those who supported us: FPS for such a meaningful programme, our
+school, teachers and mentors for their unwavering guidance, as well as
+my amazing teammates and the entire Singapore delegation. I am extremely
+grateful and humbled to be part of this programme.</p>
+<p></p>
+<p>Year 3 student Cai Yizhen, who participated in the <em>Global Issues Problem Solving (GIPS)</em> component,
+reflected on the intensity and impact of the competition:</p>
 <blockquote>
 <p>"The experience was truly an incredible one shaped by the people we met,
 the challenges we faced, and the growth we experienced together.</p>
@@ -60,6 +87,12 @@ it was about the growth we experienced together, and the connections and
 camaraderie we built with fellow passionate individuals.</p>
 <p>Once again, thank you for the opportunity to represent RGS and Singapore
 at the International Conference."</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>Full results available below:</p>
 <ul data-tight="true" class="tight">
 <li>

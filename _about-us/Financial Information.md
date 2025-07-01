@@ -5,13 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>Financial Information</h2>
-<p><a href="/files/fy2019.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2019 Financial Statement</a>
-<br><a href="/files/fy2020.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2020 Financial Statement</a>
-<br><a href="/files/fy2021%20financial%20statement.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2021 Financial Statement </a>
-<br><a href="/files/fy2022%20financial%20statement.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2022 Financial Statement</a>
-<br><a href="/files/Annex_A_Summary_of_Donations_related_Funds_Financial_Information_Table_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2023 Financial Statement </a>
-</p>
-<h4>Other Information</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -98,11 +91,11 @@ to life-long learning, living meaningful lives and serving society</p>
 </table>
 <h4>Contact Information</h4>
 <p><strong>Name of Contact Person</strong>
-<br>Ms Juliana Chia</p>
+<br>Ms Lieu Mee Mee</p>
 <p><strong>Telephone No.</strong>
 <br>6970 6488</p>
 <p><strong>Fax No</strong>
 <br>6235 3731</p>
 <p><strong>Email</strong>
-<br><a href="mailto:Juliana_CHIA@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Juliana_CHIA@schools.gov.sg</a>
+<br><a href="mailto:lieu_mee_mee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lieu_mee_mee@schools.gov.sg</a>
 </p>

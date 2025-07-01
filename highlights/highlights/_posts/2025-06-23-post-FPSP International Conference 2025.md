@@ -4,7 +4,7 @@ permalink: /fpsp-international-conference-2025/
 date: 2025-06-23
 layout: post
 description: ""
-image: ""
+image: /images/fpspi2025.png
 variant: tiptap
 ---
 <p>In June 2025, a group of RGS students represented Singapore at the Future

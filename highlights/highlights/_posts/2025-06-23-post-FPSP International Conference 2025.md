@@ -15,7 +15,7 @@ University Bloomington.</p>
 </div>
 <p>Among the participants was Pan Yu Hui from the Community Problem Solving
 (CmPS) team, <em>Project Oculus</em>, who shared:</p>
-<p>PSPIC was an event my team and I had highly anticipated, and the experience
+<p>FPSPIC was an event my team and I had highly anticipated, and the experience
 proved to be as enriching and memorable as we had hoped. This was thanks
 to two key elements: the programme itself and the people.</p>
 <blockquote>
@@ -87,12 +87,6 @@ it was about the growth we experienced together, and the connections and
 camaraderie we built with fellow passionate individuals.</p>
 <p>Once again, thank you for the opportunity to represent RGS and Singapore
 at the International Conference."</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Full results available below:</p>
 <ul data-tight="true" class="tight">
 <li>

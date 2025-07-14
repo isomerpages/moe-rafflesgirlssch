@@ -1,7 +1,7 @@
 ---
 title: NSS ESN 4th Biodiversity Race 2025
 permalink: /nss-esn-4th-biodiversity-race-2025/
-date: 2025-07-14
+date: 2025-06-04
 layout: post
 description: ""
 image: ""

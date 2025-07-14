@@ -9,6 +9,9 @@ variant: tiptap
 ---
 <p>On 4 June 2025, our students took part in the NSS ESN 4th Biodiversity
 Race.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/esn_2025.png">
+</div>
 <p>Organised by the Nature Society (Singapore) [NSS], the annual Biodiversity
 Race is part of NSS’ <em>Every Singaporean A Naturalist</em> (ESN) programme,
 which aims to equip young citizen scientists with the knowledge and skills

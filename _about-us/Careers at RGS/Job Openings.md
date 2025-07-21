@@ -167,93 +167,8 @@ with experience</p>
 <summary><strong>Non Teaching Positions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-<h4><strong>1. Executive, Finance</strong></h4>
-<p>Join our Finance team and play a key role in managing accounts receivables,
-fixed assets, GST reporting, and procurement operations.</p>
-<p></p>
-<p><strong>Key Responsibilities</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Prepare and issue invoices, credit notes, receipts, and perform counter
-collections.</p>
-</li>
-<li>
-<p>Track collections, resolve overdue fees, and monitor AR aging.</p>
-</li>
-<li>
-<p>Process GIRO collections and Edusave deductions via iBens for enrichment
-programmes.</p>
-</li>
-<li>
-<p>Update bank transactions and monitor MOE grant receipts.</p>
-</li>
-<li>
-<p>Issue tax-deductible receipts (TDRs) for ECF-approved donations via TEDAS.</p>
-</li>
-<li>
-<p>Prepare monthly balance sheet reconciliation schedules.</p>
-</li>
-<li>
-<p>Ensure compliance with financial SOPs and internal controls.</p>
-</li>
-<li>
-<p>Fixed Assets Management</p>
-</li>
-<li>
-<p>Maintain and update fixed asset records, including tagging and depreciation.</p>
-</li>
-<li>
-<p>Track physical asset movement and perform annual fixed assets count.</p>
-</li>
-<li>
-<p>Manage journal entries related to capital grants and deferred capital
-accounts.</p>
-</li>
-<li>
-<p>Prepare accurate and timely quarterly GST submissions to IRAS.</p>
-</li>
-<li>
-<p>Procurement Support</p>
-</li>
-<li>
-<p>Assist with day-to-day procurement operations and ensure compliance with
-IM Procurement guidelines.</p>
-</li>
-<li>
-<p>Review procurement policies and processes to enhance efficiency and cost-effectiveness.</p>
-</li>
-<li>
-<p>Identify opportunities for cost savings through economies of scale.</p>
-<p>&nbsp;</p>
-</li>
-</ul>
-<p><strong>Requirements:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Degree in Accountancy</p>
-</li>
-<li>
-<p>Fresh graduates are welcome to apply!</p>
-</li>
-<li>
-<p>Hand-on experience with SAP Business One accounting system would be advantageous</p>
-</li>
-<li>
-<p>Strong attention to detail, interpersonal skills and good communication
-skills</p>
-</li>
-<li>
-<p>Proficiency in Microsoft Office (Word, Excel, PowerPoint).</p>
-</li>
-<li>
-<p>Relevant experience in AR or fixed assets management preferred</p>
-</li>
-</ul>
-<p></p>
-<h4><strong>2. School Counsellor</strong></h4>
+<h4></h4>
+<h4><strong>1. School Counsellor</strong></h4>
 <p>You will report to the Head, Guidance Services, in the following areas:</p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -366,7 +281,7 @@ an advantage.</p>
 <p>Closing date: 30 May 2025</p>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>3. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>2. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

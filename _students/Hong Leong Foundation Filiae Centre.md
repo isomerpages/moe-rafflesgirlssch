@@ -24,5 +24,5 @@ The Hong Leong Foundation Filiae Centre is staffed with three full-time counsell
   
 Ms Karen Lau, School Counsellor  
 Ms Laura Tan, School Counsellor with ECG  
-Ms Ngeow Mei Yi, School Counsellor  
+Ms Nooraini Salleh, School Counsellor  
 Ms Humaira Binte Salleh, Student Services Officer

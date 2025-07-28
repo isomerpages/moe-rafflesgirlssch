@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Silent Heroes. RGS student posing with GOH and receiving award" src="/images/ssh2025.png">
+</div>
 <p>The Singapore Silent Heroes (SSH) Award Presentation is an annual ceremony
 organised by the&nbsp;<a href="https://www.cas.sg/" rel="noopener noreferrer nofollow" target="_blank">Civilians Association (Singapore)</a>&nbsp;(CAS).
 The award recognises ordinary, everyday Singaporeans and permanent residents

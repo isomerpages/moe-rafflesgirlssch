@@ -4,7 +4,7 @@ permalink: /singapore-silent-heroes-2025/
 date: 2025-07-21
 layout: post
 description: ""
-image: ""
+image: /images/ssh2025.png
 variant: tiptap
 ---
 <p></p>
@@ -59,8 +59,7 @@ is about walking with, not doing for, others.</div>
 <div class="isomer-card-description">Through my VIA journey, I learnt that service is rooted in empathy, not
 just helping but understanding. In RGSmile, I saw how mindset shifts matter.
 True service means standing with others, listening deeply, and using our
-voice to amplify theirs.This is body text for your card. Describe your
-card.</div>
+voice to amplify theirs.</div>
 </div>
 </div>
 </div>

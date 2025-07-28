@@ -59,8 +59,7 @@ is about walking with, not doing for, others.</div>
 <div class="isomer-card-description">Through my VIA journey, I learnt that service is rooted in empathy, not
 just helping but understanding. In RGSmile, I saw how mindset shifts matter.
 True service means standing with others, listening deeply, and using our
-voice to amplify theirs.This is body text for your card. Describe your
-card.</div>
+voice to amplify theirs.</div>
 </div>
 </div>
 </div>

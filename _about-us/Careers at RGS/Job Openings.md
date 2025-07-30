@@ -143,121 +143,8 @@ with experience</p>
 <summary><strong>Non Teaching Positions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4></h4>
-<h4><strong>1. School Counsellor</strong></h4>
-<p>You will report to the Head, Guidance Services, in the following areas:</p>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Establish, implement, and evaluate the school counselling and guidance
-programme which involves</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Design and deliver developmentally appropriate initiatives that promote
-students’ social, emotional, and mental well-being.</p>
-</li>
-<li>
-<p>Implement strategies for early identification and intervention of students
-with emotional, behavioural, or mental health concerns.</p>
-</li>
-<li>
-<p>Develop and refine a tiered referral and support system that ensures timely
-and effective care.</p>
-</li>
-<li>
-<p>Maintain accurate and professional documentation of counselling sessions
-and provide periodic reports to school management on counselling trends
-and student needs.</p>
-</li>
-<li>
-<p>Contribute expertise in child and adolescent development to the design,
-delivery, and evaluation of the school’s guidance curriculum and well-being
-programmes.</p>
-</li>
-<li>
-<p>Plan and conduct training sessions for staff and parents on counselling-related
-topics and emerging youth issues.</p>
-</li>
-<li>
-<p>Build and sustain partnerships with external agencies, mental health professionals,
-and community services to support referrals and multidisciplinary care.</p>
-<p></p>
-</li>
-</ul>
-<p>2. Provide socio-emotional counselling and consultation support:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Offer direct counselling (individual and group) to students facing emotional,
-social, behavioural, or mental health challenges.</p>
-</li>
-<li>
-<p>Collaborate with key school personnel through structured case management
-discussions to ensure coordinated and holistic care for students.</p>
-</li>
-<li>
-<p>Engage parents/guardians in the counselling process and conduct home visits
-where appropriate.</p>
-</li>
-<li>
-<p>Refer students and families to relevant community or specialist services
-as needed.</p>
-</li>
-</ul>
-<p></p>
-<p>3. Support school staff in student well-being, behavioural management,
-and crisis intervention:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Advise and support teachers on managing students with socio-emotional
-or behavioural needs, including input on student development, classroom
-interventions, and support strategies.</p>
-</li>
-<li>
-<p>Provide crisis intervention and support to students experiencing acute
-emotional distress or risk situations.</p>
-</li>
-<li>
-<p>Support the school’s crisis management processes and contribute to the
-post-crisis recovery plan.</p>
-<p></p>
-</li>
-</ul>
-<p><strong>Requirements</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Relevant Postgraduate qualification in counselling, psychology, social
-work or equivalent</p>
-</li>
-<li>
-<p>Minimum 3 years of working experience in counselling, preferably with
-children or adolescents in an educational or youth-related setting.</p>
-</li>
-<li>
-<p>Possess an open mind, flexibility and cultural sensitivity</p>
-</li>
-<li>
-<p>Excellent interpersonal, communication and networking skills</p>
-</li>
-<li>
-<p>Strong collaborative and time management skills</p>
-</li>
-<li>
-<p>Ability to design and implement systems and structures</p>
-</li>
-<li>
-<p>Experience in developing digital content (e.g. videos, infographics, online
-toolkits) for youth education in mental health and well-being would be
-an advantage.</p>
-</li>
-</ul>
-<p></p>
-<p>Closing date: 30 May 2025</p>
-<p>(We regret only shortlisted candidates will be notified)</p>
-<p></p>
-<h4><strong>2. Laboratory Technician</strong></h4>
+<h4><strong>1. Laboratory Technician</strong></h4>
 <p>You will assist in the delivery of smooth-running Science and STEM lessons,
 support students and teachers in investigative projects, ensuring safe
 lab practices and facilitating engaging, hands-on learning experiences.
@@ -318,7 +205,7 @@ and familiarity with safety requirements in science laboratories.</p>
 <p></p>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>3. Laboratory Assistant</strong></h4>
+<h4><strong>2. Laboratory Assistant</strong></h4>
 <p>You will assist in the smooth running of Science and STEM laboratories
 by supporting students and teachers in investigative projects, ensuring
 safe lab practices and facilitating engaging, hands-on learning experiences.
@@ -377,7 +264,7 @@ management, and service support.</p>
 </ul>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>4. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>3. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

@@ -62,7 +62,7 @@ the future..
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
+<p>Physics</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ the future..
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Geography</p>
+<p>English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ the future..
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>History</p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ the future..
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
+<p>Malay Language</p>
 </td>
 </tr>
 <tr>
@@ -94,31 +94,7 @@ the future..
 <p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
+<p>Higher Chinese Language</p>
 </td>
 </tr>
 </tbody>
@@ -281,7 +257,127 @@ an advantage.</p>
 <p>Closing date: 30 May 2025</p>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>2. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>2. Laboratory Technician</strong></h4>
+<p>You will assist in the delivery of smooth-running Science and STEM lessons,
+support students and teachers in investigative projects, ensuring safe
+lab practices and facilitating engaging, hands-on learning experiences.
+The Laboratory Technician is expected to develop and maintain effective
+working relationships with science teachers, students and external stakeholders.</p>
+<p></p>
+<p>Key Responsibilities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist teachers in the daily management and operations of the Science
+lab, including preparation and maintenance of materials and equipment for
+practical classes to ensure practical work is conducted smoothly and efficiently.</p>
+</li>
+<li>
+<p>Conduct safety inspections to determine whether conditions are safe or
+any remedial actions need to be taken.</p>
+</li>
+<li>
+<p>Maintain records of health safety for compliance with government and school
+regulations.</p>
+</li>
+<li>
+<p>Uphold responsibility for inventory/ stock-taking to track school supplies
+and source for and purchase materials for practical to ensure a sufficient
+supply of required materials.</p>
+</li>
+<li>
+<p>Assist Laboratory Manager in coordinating lab &amp; curriculum needs,
+preparing subject lab budget in collaboration with teachers and monitoring
+the expenditure for practical and project requirements.</p>
+</li>
+<li>
+<p>Collaborate with teachers on STEM learning experiences and student project
+support</p>
+</li>
+<li>
+<p>Liaise with external vendors and partners on laboratory checks, asset
+management and service support.</p>
+<p></p>
+</li>
+</ul>
+<p>Requirements</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess a Diploma in Science discipline.</p>
+</li>
+<li>
+<p>Possess good interpersonal and IT literate skills.</p>
+</li>
+<li>
+<p>Able to work independently and conscientiously.</p>
+</li>
+<li>
+<p>Prior experience in laboratory work in secondary schools and/or industries
+and familiarity with safety requirements in science laboratories.</p>
+</li>
+</ul>
+<p></p>
+<p>(We regret only shortlisted candidates will be notified)</p>
+<p></p>
+<h4><strong>2. Laboratory Assistant</strong></h4>
+<p>You will assist in the smooth running of Science and STEM laboratories
+by supporting students and teachers in investigative projects, ensuring
+safe lab practices and facilitating engaging, hands-on learning experiences.
+The Laboratory Assistant is expected to maintain effective working relationships
+with key stakeholders and external vendors for laboratory readiness and
+efficiency.</p>
+<p></p>
+<p>Key Responsibilities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assist teachers in the daily management and operations of the Science
+lab, including preparation and maintenance of materials and equipment for
+practical classes to ensure practical work is conducted smoothly and efficiently.</p>
+</li>
+<li>
+<p>Ensure safety procedures, records and protocols in compliance with government
+and school regulations.</p>
+</li>
+<li>
+<p>Maintain responsibility for inventory and stock-taking of lab materials
+and new supplies.</p>
+</li>
+<li>
+<p>Assist Laboratory Technician and Manager in budget formulation, requisition
+and administration of stocks.</p>
+</li>
+<li>
+<p>Coordinate with Laboratory Manager and Science/STEM teachers for lab and
+curriculum needs and Estate for the daily upkeeping of the laboratories.</p>
+</li>
+<li>
+<p>Provide guidance during lessons and/or CCA to ensure students are equipped
+with the necessary tools and knowledge for safe and successful experiments.</p>
+</li>
+<li>
+<p>Liaise with external vendors and partners on laboratory checks, asset
+management, and service support.</p>
+</li>
+</ul>
+<p></p>
+<p>Requirements</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess a Diploma in Science discipline.</p>
+</li>
+<li>
+<p>Possess good interpersonal and First Aid certification skills.</p>
+</li>
+<li>
+<p>Able to work independently and conscientiously.</p>
+</li>
+<li>
+<p>Preferably good knowledge in Biology/ Chemistry/ Physics.</p>
+<p></p>
+</li>
+</ul>
+<p>(We regret only shortlisted candidates will be notified)</p>
+<p></p>
+<h4><strong>3. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

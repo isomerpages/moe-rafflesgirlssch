@@ -318,7 +318,7 @@ and familiarity with safety requirements in science laboratories.</p>
 <p></p>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>2. Laboratory Assistant</strong></h4>
+<h4><strong>3. Laboratory Assistant</strong></h4>
 <p>You will assist in the smooth running of Science and STEM laboratories
 by supporting students and teachers in investigative projects, ensuring
 safe lab practices and facilitating engaging, hands-on learning experiences.
@@ -377,7 +377,7 @@ management, and service support.</p>
 </ul>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>3. CCA Flexi Adjunct Teachers</strong></h4>
+<h4><strong>4. CCA Flexi Adjunct Teachers</strong></h4>
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

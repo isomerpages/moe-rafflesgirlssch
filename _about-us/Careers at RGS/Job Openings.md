@@ -138,13 +138,18 @@ with experience</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Non Teaching Positions</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4><strong>1. Laboratory Technician</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>1. Laboratory Technician</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You will assist in the delivery of smooth-running Science and STEM lessons,
 support students and teachers in investigative projects, ensuring safe
 lab practices and facilitating engaging, hands-on learning experiences.
@@ -204,8 +209,12 @@ and familiarity with safety requirements in science laboratories.</p>
 </ul>
 <p></p>
 <p>(We regret only shortlisted candidates will be notified)</p>
-<p></p>
-<h4><strong>2. Laboratory Assistant</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2. Laboratory Assistant</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You will assist in the smooth running of Science and STEM laboratories
 by supporting students and teachers in investigative projects, ensuring
 safe lab practices and facilitating engaging, hands-on learning experiences.
@@ -264,8 +273,12 @@ management, and service support.</p>
 </ul>
 <p>(We regret only shortlisted candidates will be notified)</p>
 <p></p>
-<h4><strong>3. Executive, Operations</strong></h4>
-<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3. Executive, Operations</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>You will report to the Manager, Operations and be responsible for all
 delegated duties related to the facilities management, safety and security
 and logistics support of the school. You will also ensure the safety and
@@ -395,8 +408,12 @@ regulations</p>
 </ul>
 <p></p>
 <p>(We regret only shortlisted candidates will be notified)</p>
-<p></p>
-<h4><strong>4. CCA Flexi Adjunct Teachers</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4. CCA Flexi Adjunct Teachers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
 role in managing the CCA in a school. Your main responsibilities as a CCA
 teacher are:</p>

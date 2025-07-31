@@ -8,6 +8,7 @@ variant: tiptap
 <p><strong>We invite highly passionate individuals who share the dream for our girls to join us as:</strong>
 <br>
 </p>
+<h4>Teaching Positions</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Teaching Positions (Full Time Teachers)</strong>
@@ -138,14 +139,8 @@ with experience</p>
 </div>
 </details>
 </div>
+<h4>Non Teaching Positions</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Non Teaching Positions</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 <details class="isomer-details">
 <summary><strong>1. Laboratory Technician</strong>
 </summary>
@@ -272,7 +267,6 @@ management, and service support.</p>
 </li>
 </ul>
 <p>(We regret only shortlisted candidates will be notified)</p>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -452,6 +446,8 @@ an advantage</p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

@@ -112,7 +112,7 @@ via email OR to the School’s General Office.</p>
 <p>Contact No: 6970 6423</p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">christina.lee@rafflesgirslssch.edu.sg</a>
+<p>Email: <a href="mailto:christina.lee@rafflesgirlssch.edu.sg" rel="noopener nofollow" target="_blank">christina.lee@rafflesgirlssch.edu.sg</a>
 </p>
 </li>
 <li>

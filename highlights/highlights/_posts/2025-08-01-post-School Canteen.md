@@ -80,12 +80,8 @@ to meet HPB HMSP requirements)</p>
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://inet.rgs.edu.sg/staff/eas/Procurement/_layouts/15/DocIdRedir.aspx?ID=PJR5AM3ZMKA2-943612283-12983" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/2025_Existing_Stall_Application_Form.pdf" rel="noopener nofollow" target="_blank">Application Form</a>
 </p>
-</li>
-</ul>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>

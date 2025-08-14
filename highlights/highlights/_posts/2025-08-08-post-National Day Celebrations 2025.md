@@ -1,7 +1,7 @@
 ---
 title: National Day Celebrations 2025
 permalink: /national-day-celebrations-2025/
-date: 2025-08-14
+date: 2025-08-08
 layout: post
 description: ""
 image: ""

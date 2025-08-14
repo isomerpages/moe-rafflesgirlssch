@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ndp2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ndpp25.png">
 </div>
 <p>Sixty years young and still soaring! The Rafflesian family painted the
 campus in a dazzling sea of red and white as we celebrated Singapore’s

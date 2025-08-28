@@ -176,9 +176,6 @@ an advantage</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning
 experience. At the same time, build a meaningful and rewarding career with

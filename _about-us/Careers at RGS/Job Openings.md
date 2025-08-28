@@ -142,72 +142,7 @@ with experience</p>
 <h4>Non Teaching Positions</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. Laboratory Technician</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You will assist in the delivery of smooth-running Science and STEM lessons,
-support students and teachers in investigative projects, ensuring safe
-lab practices and facilitating engaging, hands-on learning experiences.
-The Laboratory Technician is expected to develop and maintain effective
-working relationships with science teachers, students and external stakeholders.</p>
-<p></p>
-<p>Key Responsibilities</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist teachers in the daily management and operations of the Science
-lab, including preparation and maintenance of materials and equipment for
-practical classes to ensure practical work is conducted smoothly and efficiently.</p>
-</li>
-<li>
-<p>Conduct safety inspections to determine whether conditions are safe or
-any remedial actions need to be taken.</p>
-</li>
-<li>
-<p>Maintain records of health safety for compliance with government and school
-regulations.</p>
-</li>
-<li>
-<p>Uphold responsibility for inventory/ stock-taking to track school supplies
-and source for and purchase materials for practical to ensure a sufficient
-supply of required materials.</p>
-</li>
-<li>
-<p>Assist Laboratory Manager in coordinating lab &amp; curriculum needs,
-preparing subject lab budget in collaboration with teachers and monitoring
-the expenditure for practical and project requirements.</p>
-</li>
-<li>
-<p>Collaborate with teachers on STEM learning experiences and student project
-support</p>
-</li>
-<li>
-<p>Liaise with external vendors and partners on laboratory checks, asset
-management and service support.</p>
-<p></p>
-</li>
-</ul>
-<p>Requirements</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Possess a Diploma in Science discipline.</p>
-</li>
-<li>
-<p>Possess good interpersonal and IT literate skills.</p>
-</li>
-<li>
-<p>Able to work independently and conscientiously.</p>
-</li>
-<li>
-<p>Prior experience in laboratory work in secondary schools and/or industries
-and familiarity with safety requirements in science laboratories.</p>
-</li>
-</ul>
-<p></p>
-<p>(We regret only shortlisted candidates will be notified)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2. Laboratory Assistant</strong>
+<summary><strong>1. Laboratory Assistant</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You will assist in the smooth running of Science and STEM laboratories
@@ -270,142 +205,7 @@ management, and service support.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3. Executive, Operations</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You will report to the Manager, Operations and be responsible for all
-delegated duties related to the facilities management, safety and security
-and logistics support of the school. You will also ensure the safety and
-security of staff and students on school premises and accountability for
-use of budget resources within policies and processes set by procurement
-and finance.
-<br>
-<br>Key Responsibilities</p>
-<p></p>
-<p>School Safety</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Serve as a member of the School’s Emergency Response Group.</p>
-</li>
-<li>
-<p>Support the school in conducting fire/emergency drill exercises as part
-of the school’s safety and emergency preparedness protocol.</p>
-</li>
-<li>
-<p>Build and maintain positive relationships with the school’s staff, students,
-and visitors and respond to their feedback, and attend to emergencies outside
-of regular office hours when necessary.</p>
-</li>
-</ul>
-<p></p>
-<p>Facilities Management</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Conduct daily inspections to ensure the building remains in optimal and
-functional condition, addressing issues or providing recommendations to
-management for corrective actions to be taken.</p>
-</li>
-<li>
-<p>Establish routine checks to maintain high standards of cleanliness, car
-park operations, and overall building upkeep.</p>
-</li>
-<li>
-<p>Translate business requirements into clear contractual agreements with
-suppliers through thorough analysis, tendering processes, and effective
-negotiation.</p>
-</li>
-<li>
-<p>Supervise and drive contractors’ performance in carrying out operational
-functions such as security, cleaning, landscaping, waste management, event
-set-up, lifts, carpark operations, building repairs and maintenance, logistics
-&amp; storage management and fire safety.</p>
-</li>
-<li>
-<p>Review and update Standard Operating Procedures (SOPs) for all estate-related
-functions to ensure operational efficiency and compliance.</p>
-</li>
-<li>
-<p>Ensure all building systems and components receive timely servicing in
-accordance with scheduled maintenance plans and work specifications, with
-regular reviews for improvements.</p>
-</li>
-<li>
-<p>Oversee the progress of building works and construction projects to ensure
-that projects are in compliance with protocol in terms of cost, quality,
-timeline and scope, and ensure post-development issues are resolved quickly
-and efficiently</p>
-</li>
-<li>
-<p>Coordinate timely rectification of building defects, working closely with
-contractors to conduct necessary inspections and tests.</p>
-</li>
-<li>
-<p>Conduct regular checks on fire protection systems to verify proper functionality
-and follow up with corrective measures or recommendations when deficiencies
-are identified.</p>
-</li>
-<li>
-<p>Liaise with internal stakeholders, external vendors, and relevant authorities
-to facilitate improvement works while ensuring compliance with all regulatory
-requirements.</p>
-</li>
-<li>
-<p>Provide regular updates to stakeholders on the status of defects, maintenance
-progress, and resolution timelines to ensure transparency and effective
-communication.</p>
-</li>
-</ul>
-<p></p>
-<p>Administration</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collate data and provide inputs to support the Manager in preparing the
-annual budget and any ad hoc budget requests.</p>
-</li>
-<li>
-<p>Monitor the utilization of both operational and capital expenditure budgets
-to ensure cost-effectiveness and alignment with approved plans.</p>
-</li>
-<li>
-<p>Assist in contract management and procurement processes, maintaining accurate
-records and documentation related to building operations and service contractors.</p>
-</li>
-<li>
-<p>Manage and provide support for the usage of shared facilities and amenities,
-ensuring proper scheduling, upkeep, and user compliance.</p>
-</li>
-</ul>
-<p></p>
-<p>Requirements</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Minimum Diploma in any technical field</p>
-</li>
-<li>
-<p>3 to 5 years of experience in logistics, facilities management, safety
-and emergency planning</p>
-</li>
-<li>
-<p>Good knowledge of Infocom Technology with experience with facilities management
-applications</p>
-</li>
-<li>
-<p>Good knowledge and understanding of the building industry and building
-regulations</p>
-</li>
-<li>
-<p>Good organizing abilities, interpersonal and communications skills</p>
-</li>
-<li>
-<p>Fire Safety Manager certification would be an advantage</p>
-</li>
-</ul>
-<p></p>
-<p>(We regret only shortlisted candidates will be notified)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>4. CCA Flexi Adjunct Teachers</strong>
+<summary><strong>2. CCA Flexi Adjunct Teachers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
@@ -446,6 +246,7 @@ an advantage</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <h3><strong>APPLICATION DETAILS</strong></h3>

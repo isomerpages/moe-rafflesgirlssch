@@ -55,7 +55,7 @@ the future..
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chemistry</p>
+<p>English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ the future..
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Physics</p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -71,28 +71,12 @@ the future..
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Malay Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Higher Chinese Language</p>
@@ -140,72 +124,9 @@ with experience</p>
 </details>
 </div>
 <h4>Non Teaching Positions</h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. Laboratory Assistant</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You will assist in the smooth running of Science and STEM laboratories
-by supporting students and teachers in investigative projects, ensuring
-safe lab practices and facilitating engaging, hands-on learning experiences.
-The Laboratory Assistant is expected to maintain effective working relationships
-with key stakeholders and external vendors for laboratory readiness and
-efficiency.</p>
-<p></p>
-<p>Key Responsibilities</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Assist teachers in the daily management and operations of the Science
-lab, including preparation and maintenance of materials and equipment for
-practical classes to ensure practical work is conducted smoothly and efficiently.</p>
-</li>
-<li>
-<p>Ensure safety procedures, records and protocols in compliance with government
-and school regulations.</p>
-</li>
-<li>
-<p>Maintain responsibility for inventory and stock-taking of lab materials
-and new supplies.</p>
-</li>
-<li>
-<p>Assist Laboratory Technician and Manager in budget formulation, requisition
-and administration of stocks.</p>
-</li>
-<li>
-<p>Coordinate with Laboratory Manager and Science/STEM teachers for lab and
-curriculum needs and Estate for the daily upkeeping of the laboratories.</p>
-</li>
-<li>
-<p>Provide guidance during lessons and/or CCA to ensure students are equipped
-with the necessary tools and knowledge for safe and successful experiments.</p>
-</li>
-<li>
-<p>Liaise with external vendors and partners on laboratory checks, asset
-management, and service support.</p>
-</li>
-</ul>
-<p></p>
-<p>Requirements</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Possess a Diploma in Science discipline.</p>
-</li>
-<li>
-<p>Possess good interpersonal and First Aid certification skills.</p>
-</li>
-<li>
-<p>Able to work independently and conscientiously.</p>
-</li>
-<li>
-<p>Preferably good knowledge in Biology/ Chemistry/ Physics.</p>
-<p></p>
-</li>
-</ul>
-<p>(We regret only shortlisted candidates will be notified)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2. CCA Flexi Adjunct Teachers</strong>
+<summary><strong>CCA Flexi Adjunct Teachers</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Teachers-in-charge of co-curricular activities (CCA) play an important
@@ -246,6 +167,7 @@ an advantage</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>

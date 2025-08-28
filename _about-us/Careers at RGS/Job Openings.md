@@ -82,6 +82,14 @@ the future..
 <p>Higher Chinese Language</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Malay Language</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

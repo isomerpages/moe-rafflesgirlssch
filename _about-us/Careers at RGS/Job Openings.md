@@ -82,6 +82,14 @@ the future..
 <p>Higher Chinese Language</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Malay Language</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -167,9 +175,6 @@ an advantage</p>
 </div>
 </details>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <h3><strong>APPLICATION DETAILS</strong></h3>
 <p>Be part of the dynamic, creative and innovative RGS teaching and learning

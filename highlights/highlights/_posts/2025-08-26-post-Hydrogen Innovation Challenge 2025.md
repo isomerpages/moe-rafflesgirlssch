@@ -82,3 +82,15 @@ results in this competition.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Quek Zhi Ying (S410)</div>
+<div class="isomer-card-description">"This journey has not been a smooth and easy one for our team. Though
+we had our ups and downs trying to come up with innovative solutions for
+the competition, we worked together and pushed through the challenges we
+faced, giving it our all."</div>
+</div>
+</div>
+</div>
+<p></p>

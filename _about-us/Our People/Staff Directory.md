@@ -468,6 +468,14 @@ variant: tiptap
 <p>Teacher</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Usha Anbalagan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Languages</u></strong>
@@ -1062,10 +1070,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sandy Huang</p>
+<p>Mdm Ferind Mohd Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Higher Technician,&nbsp;Laboratory</p>
+<p>Laboratory Technician</p>
 </td>
 </tr>
 <tr>
@@ -1428,14 +1436,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zuraini Bte Mohammad Said</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant, Administration</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chua Moi Leng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1465,7 +1465,7 @@ variant: tiptap
 <p>Mr Lok Mun Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manager, Operations</p>
+<p>Senior Manager, Operations &amp; Procurement</p>
 </td>
 </tr>
 <tr>
@@ -1478,10 +1478,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Nor Bin Ahmad</p>
+<p>Mr Den Indra Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Officer, Operations</p>
+<p>Executive, Operations</p>
 </td>
 </tr>
 </tbody>
@@ -1591,7 +1591,7 @@ variant: tiptap
 <p>Mr Morris Gabriel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Manager, Information Technology</p>
+<p>Senior Manager, Information Technology &amp; Administration Office</p>
 </td>
 </tr>
 <tr>
@@ -1798,10 +1798,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Laura Tan</p>
+<p>Ms Janani Thuriraj</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor with ECG</p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>

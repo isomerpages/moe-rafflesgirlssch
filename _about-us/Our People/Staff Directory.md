@@ -1070,6 +1070,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sandy Huang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Technician, Laboratory</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ferind Mohd Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">

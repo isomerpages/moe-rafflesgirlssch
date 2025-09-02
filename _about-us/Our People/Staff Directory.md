@@ -1078,14 +1078,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Hui Juan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Laboratory Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chan Siong Weng</p>
 </td>
 <td rowspan="1" colspan="1">

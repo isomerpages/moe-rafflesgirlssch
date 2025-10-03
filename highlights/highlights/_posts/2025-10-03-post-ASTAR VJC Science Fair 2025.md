@@ -108,7 +108,6 @@ Assay for Early Neurodegenerative Detection.</p>
 <td rowspan="1" colspan="1">
 <p>Quek Zhi Ying (Guo Zhiying) (S410), Tan Rui Xuan (S412) and Hannah Sin
 (S413)</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Investigating the Applications of Alginates in Wastewater Treatment.</p>

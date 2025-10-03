@@ -10,6 +10,9 @@ variant: tiptap
 <p>Our girls recently took part in the A*STAR–VJC Science Fair, an annual
 event jointly organised by the Agency for Science, Technology and Research
 (A*STAR) and Victoria Junior College (VJC).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/astrvjc.png">
+</div>
 <p>The fair encourages students to explore STEM through projects involving
 experimentation, data collection, and research.</p>
 <p>This year, four RGS teams joined the fair and achieved the following results:</p>

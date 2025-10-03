@@ -23,8 +23,8 @@ their project to the audience in attendance at the online conference.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ysc2025v1.png">
 </div>
-<p>In addiiton, Dr Lim Ai Khim, Ms Cindy Tiong, Mrs Irene Allan &amp; Mr
-Ong Wei Jian received the Outstanding Mentor Awards.</p>
+<p>In addition, Dr Lim Ai Khim, Ms Cindy Tiong, Mrs Irene Allan, and Mr Ong
+Wei Jian were presented with the Outstanding Mentor Awards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Outstanding_Mentor_Awards.png">
 </div>

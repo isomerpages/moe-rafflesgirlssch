@@ -47,7 +47,7 @@ the future..
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art</p>
+<p>English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -55,39 +55,7 @@ the future..
 <p>2.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language &amp; Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Malay Language</p>
 </td>
 </tr>
 </tbody>
@@ -132,7 +100,7 @@ with experience</p>
 </details>
 </div>
 <h4>Non Teaching Positions</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>CCA Flexi Adjunct Teachers</strong>
 </summary>
@@ -172,6 +140,57 @@ an advantage</p>
 <p>Registered with MOE as FAJT</p>
 </li>
 </ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Executive, Strategic Communications and Partnerships</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We are seeking a dynamic and passionate Strategic Communications and Partnerships
+Executive to support key functions, including partnership development,
+stakeholder engagement, strategic communications, and events planning and
+engagement. This role requires a proactive professional who can strengthen
+strategic partnerships with key stakeholders, enhance engagement efforts,
+drive innovative programs and cross-functional projects.
+<br>
+<br>Key Responsibilities</p>
+<p>
+<br>Partnerships &amp; Stakeholder Engagement
+<br>
+<br>• Coordinate engagement and volunteer opportunities for Parents of RGS
+and RGS Alumnae.
+<br>• Oversee operations of the RGS Store, Parents of RGS/RGS Alumnae online
+merchandise shop (including product planning, vendor liaison, inventory
+management and monthly reporting).
+<br>• Develop sustainable strategies for partner engagement and relationship
+building with various stakeholders.
+<br>• Collaborate with programme coordinators and partners to leverage on
+external expertise and resources for partnership initiatives and collaboration
+opportunities.
+<br>• Plan, implement, and evaluate various partnership initiatives with clearly
+defined objectives, deliverables, and success indicators to ensure optimal
+outcomes.
+<br>
+<br>Strategic Communications
+<br>
+<br>• Publish all collaterals, events and announcements across official digital
+platforms in a timely and coordinated manner.
+<br>• Ensure seamless alignment, content accuracy and brand consistency in
+all school messaging and communications.
+<br>• Provide photography and videography coverage for school events, activities
+and management of digital media asset libraries.
+<br>Requirements
+<br>• Degree or Diploma in Communications, Arts and Social Sciences or other
+related fields of study.
+<br>• Minimum 2 years of relevant experience in partnership development, stakeholder
+engagement and strategic communications.
+<br>• Hands-on experience in basic photography, videography and digital publishing
+would be advantageous.
+<br>• Excellent interpersonal, communication and stakeholder management skills.
+<br>• Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
+<br>
+<br>
+<br>(We regret only shortlisted candidates will be notified)</p>
 </div>
 </details>
 </div>

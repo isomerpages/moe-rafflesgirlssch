@@ -220,7 +220,6 @@ topics and emerging adolescent issues.
 professionals, and community services to support referrals and multidisciplinary
 care.
 <br>
-<br>
 <br>2. Provide socio-emotional counselling and consultation support
 <br>
 <br>• Offer direct counselling (individual and group) to students facing emotional,

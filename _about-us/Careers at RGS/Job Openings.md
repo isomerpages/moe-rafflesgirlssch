@@ -193,6 +193,74 @@ would be advantageous.
 <br>(We regret only shortlisted candidates will be notified)</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>School Counsellor</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You will report to the Head, Guidance Services, in the following areas:
+<br>
+<br>1. Establish, implement, and evaluate the school counselling and guidance
+programme
+<br>
+<br>- Design and deliver developmentally appropriate initiatives that promote
+students’ social, emotional, and mental well-being.
+<br>Implement strategies for early identification and intervention of students
+with emotional, behavioural, or mental health concerns.
+<br>- Develop and refine a tiered referral and support system that ensures
+timely and effective care.
+<br>- Maintain accurate and professional documentation of counselling sessions
+and provide periodic reports to school management on counselling trends
+and student needs.
+<br>- Contribute expertise in child and adolescent development to the design,
+delivery, and evaluation of the school’s guidance curriculum and well-being
+programmes.
+<br>- Plan and conduct training sessions for staff and parents on counselling-related
+topics and emerging adolescent issues.
+<br>- Build and sustain partnerships with external agencies, mental health
+professionals, and community services to support referrals and multidisciplinary
+care.
+<br>
+<br>
+<br>2. Provide socio-emotional counselling and consultation support
+<br>
+<br>- Offer direct counselling (individual and group) to students facing emotional,
+social, behavioural, or mental health challenges.
+<br>- Collaborate with key school personnel through structured case management
+discussions to ensure coordinated and holistic care for students.
+<br>- Engage parents/guardians in the counselling process and conduct home
+visits where appropriate.
+<br>- Refer students and families to relevant community or specialist services
+as needed.
+<br>
+<br>
+<br>3. Support school staff in student well-being, behavioural management,
+and crisis intervention
+<br>
+<br>- Advise and support teachers on managing students with socio-emotional
+or behavioural needs, including input on student development, classroom
+interventions, and support strategies.
+<br>- Provide crisis intervention and support to students experiencing acute
+emotional distress or risk situations.
+<br>- Support the school’s crisis management processes and contribute to the
+post-crisis recovery plan.
+<br>
+<br>Requirements
+<br>
+<br>- Relevant Postgraduate qualification in counselling, psychology, social
+work or equivalent
+<br>- Minimum 3 years of working experience in counselling, preferably with
+children or adolescents in an educational or adolescence-related setting.
+<br>- Possess an open mind, flexibility and cultural sensitivity
+<br>- Excellent interpersonal, communication and networking skills
+<br>- Strong collaborative and time management skills
+<br>- Ability to design and implement systems and structures
+<br>- Experience in developing digital content (e.g. videos, infographics,
+online toolkits) for adolescence education in mental health and well-being
+would be an advantage.
+<br>
+<br>(We regret only shortlisted candidates will be notified)</p>
+</div>
+</details>
 </div>
 <p></p>
 <h3><strong>APPLICATION DETAILS</strong></h3>

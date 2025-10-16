@@ -17,6 +17,9 @@ Researcher (NRPjr), a sister programme to the Nanyang Research Programme
 and Data Science, College of Engineering, College of Science, College of
 Humanities, Arts, &amp; Social Sciences, Nanyang Business School, and the
 National Institute of Education.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nrpjrr.png">
+</div>
 <p>This year, eight RGS students embarked on an eight-month research journey
 from April to December 2024. Their efforts culminated in the submission
 of a research paper and an oral presentation, where they achieved outstanding

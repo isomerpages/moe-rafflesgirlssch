@@ -48,5 +48,4 @@ The UPLIFT scholarship for Independent Schools provides a monetary award of $1,2
 The UPLIFT scholarship is automatically awarded to eligible students and no separate application is needed.
 For more information please refer to [this website](https://www.moe.gov.sg/financial-matters/awards-scholarships/uplift-scholarships)
 
-Should you require further assistance, please approach our Student Services at studentservices@rafflesgirlssch.edu.sg 
-
+Should you require further assistance, please approach our Student Services at studentservices@rafflesgirlssch.edu.sg

@@ -2,6 +2,7 @@
 title: Financial Aid
 permalink: /students/financialaid/
 description: ""
+variant: markdown
 ---
 ![](/images/fc11%20help.png)
 
@@ -10,7 +11,7 @@ RGS is committed to ensuring that no deserving student will be denied a place du
 
 # MOE Independent School Bursary (ISB) Application
 
-Parents of Singapore citizen students can apply for financial support [via this link](https://inet.rgs.edu.sg/parents/Pages/FAS.aspx).
+Parents of Singapore citizen students can apply for financial support [via this link](https://go.gov.sg/moe-efasis).
 
 # DigitalAccess@Home
 

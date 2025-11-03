@@ -336,68 +336,87 @@ to work independently.</p>
 <summary><strong>Data Scientist</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>We are seeking a strategic and analytical Data Scientist to create intelligence
 systems that enhance teaching, learning and operational excellence. You
 will be responsible for designing data foundations, insight models, and
 automation pipelines to advance the school’s digital transformation efforts,
-strengthening data-driven decision-making and institutional foresight.
-<br>
-<br>This role requires a data-driven professional with specialist expertise
+strengthening data-driven decision-making and institutional foresight.</p>
+<p></p>
+<p>This role requires a data-driven professional with specialist expertise
 to harness data, automation, and artificial intelligence for building and
-sustaining institutional capabilities across the organization.
-<br>
-<br><u>Institutional Intelligence and Data Infrastructure</u>
-<br>
-<br>- Design, build, and maintain data pipelines and integration frameworks
+sustaining institutional capabilities across the organization.</p>
+<p></p>
+<p>Responsibilities:</p>
+<p></p>
+<p><u>Institutional Intelligence and Data Infrastructure</u>
+</p>
+<p>• Design, build, and maintain data pipelines and integration frameworks
 across school systems (e.g. Google Workspace, n8n, Power BI, PeRL, RPMS,
-and LMS data).
-<br>- Develop dashboards, analytics models, and insight tools that provide
-leadership teams with predictive, diagnostic, and evaluative intelligence.
-<br>- Create and manage a unified data architecture that supports institutional
-foresight, trend analysis, and strategic reporting.
-<br>- Establish robust data governance structures in collaboration with IT
-and Planning &amp; Infrastructure, ensuring accuracy, privacy, and compliance.
-<br>
-<br><u>AI, Automation, and Digital Productivity</u>
-<br>
-<br>- Co-design and implement AI-enabled workflows to streamline administrative
+and LMS data).</p>
+<p>• Develop dashboards, analytics models, and insight tools that provide
+leadership teams with predictive, diagnostic, and evaluative intelligence.</p>
+<p>• Create and manage a unified data architecture that supports institutional
+foresight, trend analysis, and strategic reporting.</p>
+<p>• Establish robust data governance structures in collaboration with IT
+and Planning &amp; Infrastructure, ensuring accuracy, privacy, and compliance.</p>
+<p></p>
+<p><u>AI, Automation and Digital Productivity</u>
+</p>
+<p>• Co-design and implement AI-enabled workflows to streamline administrative
 and pedagogical processes (e.g. RPMS automation, comment generation, e-portfolios,
-credentialing).
-<br>- Explore and prototype data-driven automation systems that free teacher
-time and enhance decision quality.
-<br>- Evaluate and apply machine-learning or analytics models to support operational
-efficiency, learning analytics, and resource optimization.
-<br>
-<br><u>Data Governance and Policy Implementation</u>
-<br>
-<br>- Translate institutional policies on data protection, access control,
-and ethics into operational practice.
-<br>- Maintain documentation, audit trails and metadata registries to ensure
-transparency and accountability.
-<br>- Work closely with school leadership, IT, and academic departments to
-embed a culture of responsible data use and literacy.
-<br>
-<br><u>Capacity Building and Knowledge Transfer</u>
-<br>
-<br>- Build staff capability through workshops, guides, and documentation
-on data interpretation, dashboard use, and digital productivity tools.
-<br>- Support teams in developing data fluency and in leveraging insights
-for curriculum, operations, and planning.
-<br>- Contribute to professional learning, internal sharing, and cross-department
-collaboration on data-informed innovation.
-<br>
-<br><u>Research, Development, and Foresight</u>
-<br>
-<br>- Undertake applied research and development in institutional analytics,
+credentialing).</p>
+<p>• Explore and prototype data-driven automation systems that free teacher
+time and enhance decision quality.</p>
+<p>• Evaluate and apply machine-learning or analytics models to support operational
+efficiency, learning analytics, and resource optimisation.</p>
+<p></p>
+<p><u>Data Governance and Policy Implementation</u>
+</p>
+<p>• Translate institutional policies on data protection, access control,
+and ethics into operational practice.</p>
+<p>• Maintain documentation, audit trails and metadata registries to ensure
+transparency and accountability.</p>
+<p>• Work closely with school leadership, IT, and academic departments to
+embed a culture of responsible data use and literacy.</p>
+<p></p>
+<p><u>Capacity Building and Knowledge Transfer</u>
+</p>
+<p>• Build staff capability through workshops, guides, and documentation
+on data interpretation, dashboard use, and digital productivity tools.</p>
+<p>• Support teams in developing data fluency and in leveraging insights
+for curriculum, operations, and planning.</p>
+<p>• Contribute to professional learning, internal sharing, and cross-department
+collaboration on data-informed innovation.</p>
+<p></p>
+<p><u>Research, Development and Foresight</u>
+</p>
+<p>• Undertake applied research and development in institutional analytics,
 automation, and artificial-intelligence systems aligned with RGS’s Digital
-Transformation roadmap.
-<br>- Anticipate emerging technologies and propose adaptive strategies that
-strengthen the school’s long-term digital readiness.
-<br>- Translate foresight findings into actionable roadmaps for the Digital
-- - Transformation Office and senior leadership, guiding data-informed
-planning and resource decisions.</p>
-<p>
-<br>(We regret only shortlisted candidates will be notified)</p>
+Transformation roadmap.</p>
+<p>• Anticipate emerging technologies and propose adaptive strategies that
+strengthen the</p>
+<p>• school’s long-term digital readiness.</p>
+<p>• Translate foresight findings into actionable roadmaps for the Digital
+Transformation Office and senior leadership, guiding data-informed planning
+and resource decisions.</p>
+<p></p>
+<p>Qualifications &amp; Skills:</p>
+<p>• Bachelor’s degree or higher in Data Science, Analytics, Computer Science,
+Information Systems, Statistics, Mathematics, Engineering, or a related
+quantitative field.</p>
+<p>• Minimum three years of relevant experience in data science, analytics
+engineering, or related fields, with demonstrated experience in building
+analytics capabilities and integrated data solutions.</p>
+<p>• Experience with systems integration, workflow automation, or institutional
+analytics within education or public-sector is advantageous.</p>
+<p>• Proficiency in programming languages such as Python or R, with experience
+in machine-learning algorithms, statistical modelling, and predictive analytics.</p>
+<p>• Excellent stakeholder engagement, collaboration, and change management.</p>
+<p>• Fresh graduates with outstanding portfolios or postgraduate experience
+in data science projects may also be considered.</p>
+<p></p>
+<p>(We regret only shortlisted candidates will be notified)</p>
 </div>
 </details>
 </div>

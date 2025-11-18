@@ -159,53 +159,71 @@ an advantage</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Executive, Strategic Communications and Partnerships</strong>
+<summary><strong>Procurement Officer</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>We are seeking a dynamic and passionate Strategic Communications and Partnerships
-Executive to support key functions, including partnership development,
-stakeholder engagement, strategic communications, and events planning and
-engagement. This role requires a proactive professional who can strengthen
-strategic partnerships with key stakeholders, enhance engagement efforts,
-drive innovative programs and cross-functional projects.
-<br>
-<br>Key Responsibilities</p>
+<p>We are seeking a strategic Procurement Officer to join our Procurement
+team. You will be responsible for all delegated duties related to the procurement
+of goods and services for the school.</p>
+<p></p>
+<p>Reporting to the Senior Manager (Operations and Procurement), you will
+ensure compliance with school procurement policies, maintain procurement
+records, manage supplier relationships and support internal departments
+with their procurement needs.</p>
+<p></p>
+<p><strong><u>Key Responsibilities</u></strong>
+</p>
+<p></p>
+<p><strong>Budget Planning &amp; Governance</strong>
+</p>
+<p>- Assist in budget planning by collating past purchasing information required
+for the purchase of department’s future resources in a timely manner.</p>
+<p>- Monitor the utilization of operational and capital expenditure budgets
+to ensure cost-effectiveness and alignment with approved plans.</p>
+<p>- Demonstrate awareness of prevailing principles of good governance and
+internal controls and conduct tasks in alignment with them.</p>
+<p>- Maintain proper procurement records and documentation to support transparency
+and audit requirements.</p>
+<p></p>
+<p><strong>Procurement Operation</strong>
+</p>
+<p>- Assist budget holders to ensure timely procurement of goods and services.</p>
+<p>- Ensure all procurement activities comply with established policies,
+procedures, and statutory guidelines.</p>
+<p>- Administer GeBIZ-related requests and procedures across procurement
+life cycle.</p>
+<p>- Support relevant requests and clarifications on procurement operations
+system administration.</p>
+<p>- Support the evaluation process by developing matrix descriptors, assisting
+in shortlisting for interviews</p>
+<p>- Record scoring of general evaluation criteria, enabling users to focus
+on methodologies, designs, and proposals as a value-added service.</p>
+<p>- Support raising purchase requisition and invoices for verification by
+Estate Officers in RGS’s B2P system.</p>
+<p></p>
+<p><strong>Contract &amp; Vendor Management</strong>
+</p>
+<p>- Understand terms and conditions of contract to identify rights and obligations
+of all parties as well as scope of deliverables, and collates information
+required to assess provisions and deviations on contract.</p>
+<p>- Track contract renewals and maintain the contract register.</p>
+<p>- Support periodic supplier evaluations and escalate issues where necessary.</p>
+<p></p>
+<p><strong>Administration</strong>
+</p>
+<p>- Preparation of bite sized quarterly newsletter.</p>
+<p></p>
+<p><strong>Requirements</strong>
+</p>
+<p>- Minimum Diploma in any field, preferably in purchasing operations, supply
+chain management or project management.</p>
+<p>- At least 3 to 5 years of experience in procurement/supply chain industry.</p>
+<p>- Demonstrates proficiency with Microsoft and other school supported applications
+to complete tasks effectively.</p>
+<p>- Good knowledge of Infocom Technology and awareness of cybersecurity
+measures.</p>
+<p>- Good organizing abilities, interpersonal and communications skills.</p>
 <p>
-<br>Partnerships &amp; Stakeholder Engagement
-<br>
-<br>• Coordinate engagement and volunteer opportunities for Parents of RGS
-and RGS Alumnae.
-<br>• Oversee operations of the RGS Store, Parents of RGS/RGS Alumnae online
-merchandise shop (including product planning, vendor liaison, inventory
-management and monthly reporting).
-<br>• Develop sustainable strategies for partner engagement and relationship
-building with various stakeholders.
-<br>• Collaborate with programme coordinators and partners to leverage on
-external expertise and resources for partnership initiatives and collaboration
-opportunities.
-<br>• Plan, implement, and evaluate various partnership initiatives with clearly
-defined objectives, deliverables, and success indicators to ensure optimal
-outcomes.
-<br>
-<br>Strategic Communications
-<br>
-<br>• Publish all collaterals, events and announcements across official digital
-platforms in a timely and coordinated manner.
-<br>• Ensure seamless alignment, content accuracy and brand consistency in
-all school messaging and communications.
-<br>• Provide photography and videography coverage for school events, activities
-and management of digital media asset libraries.
-<br>Requirements
-<br>• Degree or Diploma in Communications, Arts and Social Sciences or other
-related fields of study.
-<br>• Minimum 2 years of relevant experience in partnership development, stakeholder
-engagement and strategic communications.
-<br>• Hands-on experience in basic photography, videography and digital publishing
-would be advantageous.
-<br>• Excellent interpersonal, communication and stakeholder management skills.
-<br>• Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook).
-<br>
-<br>
 <br>(We regret only shortlisted candidates will be notified)</p>
 </div>
 </details>

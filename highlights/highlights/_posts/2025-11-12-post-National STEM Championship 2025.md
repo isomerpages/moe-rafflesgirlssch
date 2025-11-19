@@ -58,6 +58,6 @@ interdisciplinary culture and spirit of inquiry in RGS.</p>
 </div>
 <p>Episode 3 - Wildcard Round!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nE35h4xbfr8?si=mLjPbgrVuls7tNoZ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xNirDuVTESo?si=JTkoNK9lRs6YHwHa"></iframe>
 </div>
 <p></p>

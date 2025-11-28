@@ -65,12 +65,12 @@ They are:</p>
 <p>7.&nbsp;Softball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.&nbsp;Squash
-<br>10.&nbsp;Swimming
-<br>11.Table Tennis
-<br>12. Tennis
-<br>13. Track &amp; Cross-Country
-<br>14. Trampoline Gymnastics</p>
+<p>8.&nbsp;Squash
+<br>9.&nbsp;Swimming
+<br>10.Table Tennis
+<br>11. Tennis
+<br>12. Track &amp; Cross-Country
+<br>13. Trampoline Gymnastics</p>
 </td>
 </tr>
 <tr>

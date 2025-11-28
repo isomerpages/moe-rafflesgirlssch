@@ -10,7 +10,8 @@ variant: tiptap
 <img style="width:85%" height="auto" width="100%" src="/images/respect-care-trust.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BOG_2023__210___380_mm___210___400_mm___1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BOG_2025__210___380_mm___210___400_mm_.png">
 </div>
 <p></p>

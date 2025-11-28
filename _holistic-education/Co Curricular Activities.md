@@ -47,14 +47,6 @@ They are:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>1. Badminton
 <br>2. Basketball
@@ -71,14 +63,6 @@ They are:</p>
 <br>11. Tennis
 <br>12. Track &amp; Cross-Country
 <br>13. Trampoline Gymnastics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -101,14 +85,6 @@ They are:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>1. Art Club
 <br>2. Angklung Ensemble
@@ -124,14 +100,6 @@ They are:</p>
 <br>10. Photographic Society
 <br>11. Raffles Drama
 <br>12. String Ensemble</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -154,14 +122,6 @@ They are:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>1. Girl Guides
 <br>2. Girls’ Brigade
@@ -170,14 +130,6 @@ They are:</p>
 <td rowspan="1" colspan="1">
 <p>4. National Police Cadet Corps (Sea)
 <br>5. Red Cross Youth</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -199,14 +151,6 @@ They are:</p>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1. Debate &amp; Oratorical Society

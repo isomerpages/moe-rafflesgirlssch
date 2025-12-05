@@ -5,8 +5,7 @@ description: ""
 variant: markdown
 ---
 ## Character &amp; Leadership Education
-
-![RGS House Captains](/images/captains.png)
+![](/images/CLE.png)
 
 Character &amp; Leadership Education (CLE) is an integral part of the RGS mission to nurture the high ability girl to be a leader who will realise her talents in service of nation and community. 
 
@@ -15,6 +14,8 @@ Through the CLE curriculum, each RGS girl learns what it means to be a person of
 *   A good steward of her life
 *   An active and socially responsible citizen
 *   A reflective and visionary leader
+
+![RGS House Captains](/images/captains.png)
 
 CLE forms the basis of the Raffles Programme, as it is attended to at four levels:
 

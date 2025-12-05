@@ -6,6 +6,9 @@ description: ""
 third_nav_title: Academic Studies
 ---
 <h3>Aesthetics</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetics.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/adp/" rel="noopener nofollow" target="_blank">Art &amp; Design Programme</a>
@@ -25,6 +28,9 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>English Language &amp; Literature</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/english/" rel="noopener nofollow" target="_blank">English Language</a>
@@ -36,6 +42,10 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>Humanities</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humans.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/geo/" rel="noopener nofollow" target="_blank">Geography</a>
@@ -51,6 +61,9 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>Languages</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Lang.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/chinese/" rel="noopener nofollow" target="_blank">Chinese Language</a>
@@ -66,6 +79,9 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>Mathematics</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/mathe/" rel="noopener nofollow" target="_blank">Mathematics</a>
@@ -73,6 +89,9 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>Physical Education</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PE.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/pe/" rel="noopener nofollow" target="_blank">Physical Education</a>
@@ -80,6 +99,9 @@ third_nav_title: Academic Studies
 </li>
 </ul>
 <h3>Science</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci.png">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.rgs.edu.sg/holistic-education/Academic-Studies/bio/" rel="noopener nofollow" target="_blank">Biology</a>

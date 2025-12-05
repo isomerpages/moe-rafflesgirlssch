@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h2>Co-Curricular Activities</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA.png">
+</div>
 <p>The vision, mission and goals of the RGS Co-Curricular Activities (CCA)
 programme are:</p>
 <p><strong>Vision</strong>&nbsp;Daughters of exemplary character who embody

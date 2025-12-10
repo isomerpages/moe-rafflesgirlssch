@@ -4,33 +4,11 @@ permalink: /students/schooltheme/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2025 Theme: Different Stories, One Heartbeat</strong></h3>
+<h3><strong>2026 Theme:</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 Theme" src="/images/2025_theme_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="School Theme 2026" src="/images/2026rgsschooltheme.png">
 </div>
-<p>The story of each RGS girl begins when she dons her blue RGS pinafore
-and enters the gates of the school for the very first time. Like the chapters
-in a riveting book, each story builds and captivates as it chronicles the
-unique experiences of each girl that will make her RGS journey particularly
-memorable - stories of teachers who are inspiring, friends who are supportive,
-the running track where she had her first fall but also of how she learned
-to pick herself up again, the science lab where she braved her first experiment,
-the classroom where birthdays were celebrated... - and will set the RGS
-girl on a course to take ownership of her time and journey in RGS.</p>
-<p>While the RGS girl may come from diverse backgrounds, the sisterhood in
-RGS is strong.</p>
-<p>Each girl is embraced as a true Rafflesian and nurtured to her fullest
-potential as she discovers and understands her strengths, interest and
-talents. Even as each distinct story is being written, a constant theme
-runs through all of them, which speaks of the importance of having a strong
-sense of identity, staying true to who we are, members of the RGS family.</p>
-<p>We reaffirm the RGS tradition of excellence and unique pioneering spirit
-that encourages us to seek new frontiers, yet be grounded in the school's
-values and mission to contribute to community and nation. We share a common
-vision that as an RGS community, we strive to grow collectively and individually.</p>
-<p>Even as we write our own stories, we are one RGS.</p>
-<hr>
-<h3>Theme: Deep Roots, Strong Wings</h3>
+<h3>Deep Roots, Strong Wings</h3>
 <p>Roots are fundamental in every plant’s growth – they provide the foundation
 that keeps the plant standing strong. And just like roots, our principles
 and values are what keep us grounded. They are what guide us in our actions,
@@ -75,7 +53,7 @@ light, before they take flight and soar to their fullest potential.</p>
 <p>I'd choose these two things for the gifts that are best,</p>
 <p>For with Roots and with Wings, you'll find all the rest!</p>
 <hr>
-<h3><strong>Theme: Let Our Light Shine!</strong></h3>
+<h3>Theme: Let Our Light Shine!</h3>
 <p>The “Light” is a positive symbol of intelligence, direction and warmth.
 A source of energy that can shine bright even in the darkest of night.</p>
 <p>“Let Our Light Shine!” focuses on the immense potential that is found
@@ -108,7 +86,7 @@ some of us; it's in everyone. And as we let our own light shine, we unconsciousl
 give other people permission to do the same. As we are liberated from our
 own fear, our presence automatically liberates others.”</p>
 <hr>
-<h3><strong>Theme: One Heart, One Voice</strong></h3>
+<h3>Theme: One Heart, One Voice</h3>
 <p>‘One Heart, One Voice’ emphasises the importance and contribution that
 every member of the RGS community plays in fulfilling our mission. It reinforces
 the values of being united, of relationship building and synergy, and of
@@ -120,3 +98,26 @@ every RGS girl to be active creators of a better age for all. It is our
 wish that she discovers her sense of belonging, interacting with her peers
 and developing the capacity to move others towards shared goals for the
 good of the nation and community.</p>
+<hr>
+<h3>Theme: Different Stories, One Heartbeat</h3>
+<p>The story of each RGS girl begins when she dons her blue RGS pinafore
+and enters the gates of the school for the very first time. Like the chapters
+in a riveting book, each story builds and captivates as it chronicles the
+unique experiences of each girl that will make her RGS journey particularly
+memorable - stories of teachers who are inspiring, friends who are supportive,
+the running track where she had her first fall but also of how she learned
+to pick herself up again, the science lab where she braved her first experiment,
+the classroom where birthdays were celebrated... - and will set the RGS
+girl on a course to take ownership of her time and journey in RGS.</p>
+<p>While the RGS girl may come from diverse backgrounds, the sisterhood in
+RGS is strong.</p>
+<p>Each girl is embraced as a true Rafflesian and nurtured to her fullest
+potential as she discovers and understands her strengths, interest and
+talents. Even as each distinct story is being written, a constant theme
+runs through all of them, which speaks of the importance of having a strong
+sense of identity, staying true to who we are, members of the RGS family.</p>
+<p>We reaffirm the RGS tradition of excellence and unique pioneering spirit
+that encourages us to seek new frontiers, yet be grounded in the school's
+values and mission to contribute to community and nation. We share a common
+vision that as an RGS community, we strive to grow collectively and individually.</p>
+<p>Even as we write our own stories, we are one RGS.</p>

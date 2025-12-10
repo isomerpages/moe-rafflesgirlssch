@@ -14,7 +14,7 @@ Through service-learning, our students actively engage in enhancing the well-bei
 
 Based on \*Treffinger’s Levels of Service (LoS), service-learning in RGS is designed to provide for the different profiles of our students, who will complete a Community Exploration project by the time they are in Year 2. With this foundation, our students can make informed choices and pursue Community Action projects or continue with Community Service/Exploration projects when they are in Year 3 and Year 4.
 
-![](/images/Graduation_Assembly_2023.jpg)
+![](/images/rgs_via.png)
 
 ## The RGS Service-Learning Programme
 

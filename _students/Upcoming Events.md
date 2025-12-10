@@ -6,4 +6,4 @@ variant: markdown
 ---
 # Upcoming Events
 
-![](/images/2024_rgs_filiae_Centre_Activities.png)
+2026 updates TBC.

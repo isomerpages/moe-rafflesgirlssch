@@ -4,17 +4,17 @@ permalink: /admissions/2025y1/
 variant: tiptap
 description: ""
 ---
-<h2><strong>REGISTRATION for Year 1 Academic Year 2025 (Compulsory)</strong></h2>
+<h2><strong>REGISTRATION for Year 1 Academic Year 2026 (Compulsory)</strong></h2>
 <p>
-<br>To all students who will join RGS as a Year 1 student in 2025, congratulations
+<br>To all students who will join RGS as a Year 1 student in 2026, congratulations
 and welcome!&nbsp;</p>
 <p><em>(In RGS, we refer to Secondary 1 students as ‘Year 1s’ as they are in ‘Year 1’ of the 6-year Raffles Programme.)</em>
 </p>
 <p><strong><u>ONLINE REGISTRATION - MANDATORY</u></strong>
 </p>
-<p>Parents/Guardians of all 2025 Year 1 students will receive instructions
+<p>Parents/Guardians of all 2026 Year 1 students will receive instructions
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
-<p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2024 (Monday)</strong> to
+<p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2025 (Tuesday)</strong> to
 indicate that your daughter is taking up the place at RGS. You may refer
 to the <a href="/files/2024_Y1_Registration_Guide_19Dec_.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
 more details.</p>
@@ -31,7 +31,7 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://form.gov.sg/66f5113679b43e486077f799" rel="noopener nofollow" target="_blank">Online Registration Form</a></strong>
 </p>
-<p><strong>(Mandatory - to be submitted by 23 December 2024, 9.00am)</strong>
+<p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://form.gov.sg/66f23bf185944a55ba54c465" rel="noopener nofollow" target="_blank">Standing Order for use of Edusave Account at RGS for purchase of Personal Learning Device Bundle (PLDB)</a></strong>
 </p>
-<p><strong>(Mandatory - to be submitted by 23 December 2024, 9.00am)</strong>
+<p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://www.moelc.moe.edu.sg" rel="noopener nofollow" target="_blank">Third Language Registration with MOE Language Centre</a></strong>
 </p>
-<p><strong>(To be submitted by 2 January 2025, 11.59pm)</strong>
+<p><strong>(To be submitted by 2 January 2026, 11.59pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +79,7 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="/files/RGS_GIRO_Form__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Inter-bank GIRO Arrangements</a></strong>
 </p>
-<p><strong>(To be submitted by 3 January 2025, 5.00pm)</strong>
+<p><strong>(To be submitted by 3 January 2026, 5.00pm)</strong>
 </p>
 <p></p>
 </td>
@@ -95,7 +95,7 @@ website.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Financial Assistance Application</strong>
 </p>
-<p><strong>(To be completed by 17 January 2025, 5.00pm)</strong>
+<p><strong>(To be completed by 17 January 2026, 5.00pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,11 +104,11 @@ website.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>First Day of School (2 Jan 2025)</u></strong>
+<p><strong><u>First Day of School (5 Jan 2025)</u></strong>
 </p>
-<p>The first day of school for Academic Year 2025 is Thursday, 2 January
-2025. All Year 1 students are to report to RGS by 7.25am, in their RGS
-PE polo shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 2 January 2025. However, the online registration form MUST be completed by 23 December 2024, 9.00am.</strong>
+<p>The first day of school for Academic Year 2026 is Monday, 5 January 2026.
+All Year 1 students are to report to RGS by 7.25am, in their RGS PE polo
+shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 5 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
 </p>
 <p>
 <br><strong><u>SCHOOL UNIFORMS</u></strong>
@@ -122,11 +122,6 @@ at Bibi &amp; Baba shops.</p>
 <p>Textbooks and stationery can be bought via the link <a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://cascoedusupply.com.sg/</a>
 </p>
 <p></p>
-<p><strong><u>SCHOOL BUS OPERATORS LIST</u></strong>
-</p>
-<p>You may view the list of Bus Operators <a href="/files/School_Bus_Transport_Operators_27Dec2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. <strong>Parents/guardians must liaise directly with the bus vendors </strong>should
-they wish to arrange for transportation for their daughters/wards.</p>
-<p></p>
 <p><strong><u>Frequently Asked Questions for </u><em><u>Year 1 Posting Results and </u></em></strong>
 <br><strong><em><u>Y1 Registration</u></em></strong>
 </p>
@@ -136,7 +131,7 @@ they wish to arrange for transportation for their daughters/wards.</p>
 </p>
 </li>
 </ol>
-<p>Posting results will be released <strong>on 18 Dec 2024 </strong>online,
+<p>Posting results will be released <strong>on 19 Dec 2025 </strong>online,
 via SMS and your daughter’s primary school.&nbsp;</p>
 <p>Parents/guardians of all students successfully posted to RGS will receive
 instructions on the RGS Year 1 Registration process via Parents Gateway
@@ -185,7 +180,7 @@ at Bibi &amp; Baba shops.&nbsp;</p>
 <p>There is an orientation programme for all Secondary 1 students. (In RGS,
 we refer to these students as ‘Year 1s’ as they are in ‘Year 1’ of the
 6-year Raffles Programme). The 4-day Orientation Programme in RGS begins
-on Thursday 2 Jan 2025 and will end on Tuesday 7 Jan 2025. More details
+on Monday 5 Jan 2026 and will end on Thursday 8 Jan 2026. More details
 will be provided later via Parents Gateway.&nbsp;</p>
 <p></p>
 <ol start="5">

@@ -228,7 +228,8 @@ measures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Human Resources Executive</summary>
+<summary><strong>Human Resources Executive</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>We are looking for a proactive and meticulous HR Executive to join our

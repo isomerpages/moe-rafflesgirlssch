@@ -228,213 +228,110 @@ measures.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>School Counsellor</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>You will report to the Head, Guidance Services, in the following areas:
-<br>
-<br>1. Establish, implement, and evaluate the school counselling and guidance
-programme
-<br>
-<br>• Design and deliver developmentally appropriate initiatives that promote
-students’ social, emotional, and mental well-being.
-<br>Implement strategies for early identification and intervention of students
-with emotional, behavioural, or mental health concerns.
-<br>• Develop and refine a tiered referral and support system that ensures
-timely and effective care.
-<br>• Maintain accurate and professional documentation of counselling sessions
-and provide periodic reports to school management on counselling trends
-and student needs.
-<br>• Contribute expertise in child and adolescent development to the design,
-delivery, and evaluation of the school’s guidance curriculum and well-being
-programmes.
-<br>• Plan and conduct training sessions for staff and parents on counselling-related
-topics and emerging adolescent issues.
-<br>• Build and sustain partnerships with external agencies, mental health
-professionals, and community services to support referrals and multidisciplinary
-care.
-<br>
-<br>2. Provide socio-emotional counselling and consultation support
-<br>
-<br>• Offer direct counselling (individual and group) to students facing emotional,
-social, behavioural, or mental health challenges.
-<br>• Collaborate with key school personnel through structured case management
-discussions to ensure coordinated and holistic care for students.
-<br>• Engage parents/guardians in the counselling process and conduct home
-visits where appropriate.
-<br>• Refer students and families to relevant community or specialist services
-as needed.
-<br>
-<br>
-<br>3. Support school staff in student well-being, behavioural management,
-and crisis intervention
-<br>
-<br>• Advise and support teachers on managing students with socio-emotional
-or behavioural needs, including input on student development, classroom
-interventions, and support strategies.
-<br>• Provide crisis intervention and support to students experiencing acute
-emotional distress or risk situations.
-<br>• Support the school’s crisis management processes and contribute to the
-post-crisis recovery plan.
-<br>
-<br>Requirements
-<br>
-<br>• Relevant Postgraduate qualification in counselling, psychology, social
-work or equivalent
-<br>• Minimum 3 years of working experience in counselling, preferably with
-children or adolescents in an educational or adolescence-related setting.
-<br>• Possess an open mind, flexibility and cultural sensitivity
-<br>• Excellent interpersonal, communication and networking skills
-<br>• Strong collaborative and time management skills
-<br>• Ability to design and implement systems and structures
-<br>• Experience in developing digital content (e.g. videos, infographics,
-online toolkits) for adolescence education in mental health and well-being
-would be an advantage.
-<br>
-<br>(We regret only shortlisted candidates will be notified)</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Executive, Research</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>We are seeking a dedicated Research Executive to join the Centre for Pedagogical
-Research &amp; Learning (PeRL) team. You will be responsible for driving
-research and analytics to support the school’s mission of fostering evidence-backed
-teaching and learning practices. This role involves contributing to the
-strategic planning of key research projects and pedagogical innovation
-through data-driven insights and cross-departmental collaboration.
-<br>
-<br>Key Responsibilities
-<br>
-<br>Research and Data Analysis
-<br>• Conduct literature reviews to inform school-based research and innovation
-projects.
-<br>• Collect, analyze and synthesize qualitative and quantitative data from
-surveys, focus groups, dialogues and classroom observations to generate
-actionable insights.
-<br>• Develop visuals, dashboards and reports that translate research findings
-into strategic recommendations for school improvement.
-<br>
-<br>Professional Learning
-<br>• Present and communicate research findings to various stakeholders.
-<br>• Provide logistical and content support for PeRL’s professional learning
-events.
-<br>• Coordinate the publication and sharing of research findings in print,
-digital and presentation formats.
-<br>• Provide research support by building teachers’ capacity in research
-literacy through consultation, workshops and co-created resources that
-support practitioner inquiry.
-<br>• Collaborate with other departments to advance learning and innovation
-in alignment with the school’s evolving needs and strategic direction.
-<br>
-<br>Information Management
-<br>• Maintain project documentation, submissions and records of ongoing research
-projects.
-<br>• Manage PeRL’s research databases, archives, inventories and resource
-repositories to ensure accuracy and accessibility.
-<br>• Support the digitization of research processes to enhance data accuracy,
-streamline access and promote collaboration among departments.
-<br>
-<br>Requirements
-<br>• Degree or Diploma in Education, Social Sciences, Psychology, Statistics,
-or related fields of study.
-<br>• Minimum 1–2 years of relevant experience in research, data analysis
-or education-related work.
-<br>• Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)
-and basic statistical or data analysis tools (eg. SPSS Statistics, Google
-Sheets).
-<br>• Strong analytical, documentation and organizational skills with familiarity
-in research methodologies.
-<br>• Excellent team player with good interpersonal skills and the ability
-to work independently.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Data Scientist</strong>
+<summary><strong>Human Resources Executive</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>We are seeking a strategic and analytical Data Scientist to create intelligence
-systems that enhance teaching, learning and operational excellence. You
-will be responsible for designing data foundations, insight models, and
-automation pipelines to advance the school’s digital transformation efforts,
-strengthening data-driven decision-making and institutional foresight.</p>
-<p></p>
-<p>This role requires a data-driven professional with specialist expertise
-to harness data, automation, and artificial intelligence for building and
-sustaining institutional capabilities across the organization.</p>
-<p></p>
-<p>Responsibilities:</p>
-<p></p>
-<p><u>Institutional Intelligence and Data Infrastructure</u>
+<p>We are looking for a proactive and meticulous HR Executive to join our
+Human Resources team. In this role, you will help uphold our standards
+of excellence by ensuring robust HR operations, supporting staff well-being,
+and strengthening the overall employee experience. You will work closely
+with the Human Resource Manager, and partner with school leaders and staff
+to enable a supportive, values-driven workplace.
+<br>
+<br><strong>Key Responsibilities</strong>
+<br>
+<br>Payroll &amp; Compensation Administration
+<br>
 </p>
-<p>• Design, build, and maintain data pipelines and integration frameworks
-across school systems (e.g. Google Workspace, n8n, Power BI, PeRL, RPMS,
-and LMS data).</p>
-<p>• Develop dashboards, analytics models, and insight tools that provide
-leadership teams with predictive, diagnostic, and evaluative intelligence.</p>
-<p>• Create and manage a unified data architecture that supports institutional
-foresight, trend analysis, and strategic reporting.</p>
-<p>• Establish robust data governance structures in collaboration with IT
-and Planning &amp; Infrastructure, ensuring accuracy, privacy, and compliance.</p>
-<p></p>
-<p><u>AI, Automation and Digital Productivity</u>
+<ul data-tight="true" class="tight">
+<li>
+<p>Manage the full monthly payroll and CPF submission process, ensuring accuracy
+and timely disbursement.</p>
+</li>
+<li>
+<p>Administer and verify special payouts including PSD-declared bonuses,
+performance-related payments, annual merit increments, promotions, and
+the Connect Plan.</p>
+</li>
+<li>
+<p>Review and recommend salary packages for new hires, internal movements,
+and promotion cases according to internal guidelines and market norms.</p>
+</li>
+<li>
+<p>Maintain and reconcile the Connect Plan schedule to ensure accurate computation
+and payouts.
+<br>
 </p>
-<p>• Co-design and implement AI-enabled workflows to streamline administrative
-and pedagogical processes (e.g. RPMS automation, comment generation, e-portfolios,
-credentialing).</p>
-<p>• Explore and prototype data-driven automation systems that free teacher
-time and enhance decision quality.</p>
-<p>• Evaluate and apply machine-learning or analytics models to support operational
-efficiency, learning analytics, and resource optimisation.</p>
-<p></p>
-<p><u>Data Governance and Policy Implementation</u>
+<p>Performance Management &amp; Recognition
+<br>
 </p>
-<p>• Translate institutional policies on data protection, access control,
-and ethics into operational practice.</p>
-<p>• Maintain documentation, audit trails and metadata registries to ensure
-transparency and accountability.</p>
-<p>• Work closely with school leadership, IT, and academic departments to
-embed a culture of responsible data use and literacy.</p>
-<p></p>
-<p><u>Capacity Building and Knowledge Transfer</u>
+</li>
+<li>
+<p>Support School Leaders in the annual performance appraisal, ranking, and
+bonus review exercises.</p>
+</li>
+<li>
+<p>Coordinate the annual salary review process, including data collation,
+analysis, and preparation of proposals.
+<br>
+<br>Promotion &amp; Career Progression
+<br>
 </p>
-<p>• Build staff capability through workshops, guides, and documentation
-on data interpretation, dashboard use, and digital productivity tools.</p>
-<p>• Support teams in developing data fluency and in leveraging insights
-for curriculum, operations, and planning.</p>
-<p>• Contribute to professional learning, internal sharing, and cross-department
-collaboration on data-informed innovation.</p>
-<p></p>
-<p><u>Research, Development and Foresight</u>
+</li>
+<li>
+<p>Plan and oversee the annual promotion cycle, including eligibility checks,
+preparation of promotion letters, salary adjustments, and HR system updates.
+<br>
+<br>Staff Insurance &amp; Welfare Administration
+<br>
 </p>
-<p>• Undertake applied research and development in institutional analytics,
-automation, and artificial-intelligence systems aligned with RGS’s Digital
-Transformation roadmap.</p>
-<p>• Anticipate emerging technologies and propose adaptive strategies that
-strengthen the</p>
-<p>• school’s long-term digital readiness.</p>
-<p>• Translate foresight findings into actionable roadmaps for the Digital
-Transformation Office and senior leadership, guiding data-informed planning
-and resource decisions.</p>
-<p></p>
-<p>Qualifications &amp; Skills:</p>
-<p>• Bachelor’s degree or higher in Data Science, Analytics, Computer Science,
-Information Systems, Statistics, Mathematics, Engineering, or a related
-quantitative field.</p>
-<p>• Minimum three years of relevant experience in data science, analytics
-engineering, or related fields, with demonstrated experience in building
-analytics capabilities and integrated data solutions.</p>
-<p>• Experience with systems integration, workflow automation, or institutional
-analytics within education or public-sector is advantageous.</p>
-<p>• Proficiency in programming languages such as Python or R, with experience
-in machine-learning algorithms, statistical modelling, and predictive analytics.</p>
-<p>• Excellent stakeholder engagement, collaboration, and change management.</p>
-<p>• Fresh graduates with outstanding portfolios or postgraduate experience
-in data science projects may also be considered.</p>
-<p></p>
-<p>(We regret only shortlisted candidates will be notified)</p>
+</li>
+<li>
+<p>Oversee staff insurance matters such as policy renewals, claims processing,
+and liaison with insurers to ensure appropriate and timely coverage.</p>
+</li>
+<li>
+<p>Serve as the point of contact for staff queries related to insurance coverage,
+benefits, and claims procedures.
+<br>
+<br>Staff Welfare, Recognition &amp; Engagement
+<br>
+</p>
+</li>
+<li>
+<p>Administer staff welfare initiatives including staff gifts, get-well hampers,
+and recognition efforts that foster a caring and engaged staff community.
+<br>
+<br><strong>Requirements</strong>
+<br>
+</p>
+</li>
+<li>
+<p>Degree/Diploma in Business Administration, Human Resource Development,
+or related field.</p>
+</li>
+<li>
+<p>At least 3 years of relevant experience, including Payroll Administration
+using Times Software.</p>
+</li>
+<li>
+<p>Experience within the education sector is advantageous.</p>
+</li>
+<li>
+<p>Strong interpersonal skills, with the ability to communicate effectively
+and build positive working relationships.</p>
+</li>
+<li>
+<p>Able to manage multiple priorities in a dynamic environment.</p>
+</li>
+<li>
+<p>Strong project management, organisational skills, and attention to detail.</p>
+</li>
+<li>
+<p>A team player who embodies professionalism, integrity, and initiative.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>

@@ -16,8 +16,7 @@ and welcome!&nbsp;</p>
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2025 (Tuesday)</strong> to
 indicate that your daughter is taking up the place at RGS. You may refer
-to the <a href="/files/2024_Y1_Registration_Guide_19Dec_.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
-more details.</p>
+to the registration guide for more details.</p>
 <p>Please use the Web Links to complete the following tasks:
 <br>
 </p>
@@ -29,8 +28,7 @@ more details.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/66f5113679b43e486077f799" rel="noopener nofollow" target="_blank">Online Registration Form</a></strong>
-</p>
+<p>Online Registration Form</p>
 <p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
@@ -55,8 +53,8 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://form.gov.sg/66f23bf185944a55ba54c465" rel="noopener nofollow" target="_blank">Standing Order for use of Edusave Account at RGS for purchase of Personal Learning Device Bundle (PLDB)</a></strong>
-</p>
+<p>Standing Order for use of Edusave Account at RGS for purchase of Personal
+Learning Device Bundle (PLDB)</p>
 <p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
@@ -66,8 +64,7 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moelc.moe.edu.sg" rel="noopener nofollow" target="_blank">Third Language Registration with MOE Language Centre</a></strong>
-</p>
+<p>Third Language Registration with MOE Language Centre</p>
 <p><strong>(To be submitted by 2 January 2026, 11.59pm)</strong>
 </p>
 </td>
@@ -77,9 +74,8 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/RGS_GIRO_Form__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Inter-bank GIRO Arrangements</a></strong>
-</p>
-<p><strong>(To be submitted by 3 January 2026, 5.00pm)</strong>
+<p>Inter-bank Giro Arrangements</p>
+<p><strong>(To be submitted by 5 January 2026, 5.00pm)</strong>
 </p>
 <p></p>
 </td>
@@ -93,9 +89,8 @@ website.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Financial Assistance Application</strong>
-</p>
-<p><strong>(To be completed by 17 January 2026, 5.00pm)</strong>
+<p>Financial Assistance Application</p>
+<p><strong>(To be completed by 12 January 2026, 5.00pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

@@ -99,11 +99,11 @@ website.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>First Day of School (5 Jan 2025)</u></strong>
+<p><strong><u>First Day of School (2 Jan 2026)</u></strong>
 </p>
-<p>The first day of school for Academic Year 2026 is Monday, 5 January 2026.
+<p>The first day of school for Academic Year 2026 is Friday, 2 January 2026.
 All Year 1 students are to report to RGS by 7.25am, in their RGS PE polo
-shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 5 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
+shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 2 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
 </p>
 <p>
 <br><strong><u>SCHOOL UNIFORMS</u></strong>
@@ -175,7 +175,7 @@ at Bibi &amp; Baba shops.&nbsp;</p>
 <p>There is an orientation programme for all Secondary 1 students. (In RGS,
 we refer to these students as ‘Year 1s’ as they are in ‘Year 1’ of the
 6-year Raffles Programme). The 4-day Orientation Programme in RGS begins
-on Monday 5 Jan 2026 and will end on Thursday 8 Jan 2026. More details
+on Friday, 2 Jan 2026 and will end on Thursday 8 Jan 2026. More details
 will be provided later via Parents Gateway.&nbsp;</p>
 <p></p>
 <ol start="5">

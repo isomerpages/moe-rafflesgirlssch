@@ -146,14 +146,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Noorshidah Ibrahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Vivien Willamme</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -374,6 +366,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Canice Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Elizabeth Lin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,14 +423,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Mak Wai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamad Fadhly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -624,14 +616,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nuraini Bt Abdul Gapor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Zakiyah Binte Zakariah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -715,14 +699,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Koh King Koon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Huey Miin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -820,10 +796,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chrislin Lee</p>
+<p>Ms Jennie Quah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Head, Co-Curricular Activities</p>
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -886,14 +862,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norazlin Binte Normin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Head, Chemistry</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Irene Allan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -942,6 +910,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Danny Yip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Deborah Roshni Rajaratnam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -974,14 +950,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Yining</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nerine Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -990,7 +958,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Wei Jian</p>
+<p>Ms Puteri Dian - Laboratory Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -999,14 +967,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Sharifah Alkaff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Synth-Di Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1031,6 +991,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Yang Kian Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Zhi En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Winnie Liang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1337,14 +1313,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Hasanah Alfie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Year</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nora Kamsir</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Year</p>
@@ -1770,6 +1738,14 @@ variant: tiptap
 <p>Senior Executive, Strategic Communications</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cerise Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive, Strategic Communications</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Counselling &amp; Student Services</u></strong>
@@ -1799,14 +1775,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Janani Thuriraj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp;Nooraini Salleh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>

@@ -8,7 +8,7 @@ description: ""
 <p><strong>Application Period and Eligibility</strong>
 </p>
 <p>Application for Appeal to Transfer to RGS after Secondary One Posting
-2024 is meant for Primary 6 students who sat for the PSLE in 2024.</p>
+2025 is meant for Primary 6 students who sat for the PSLE in 2025.</p>
 <p>Students who have been posted to a school via DSA-Sec Exercise are <strong>NOT</strong> allowed
 to participate in this Appeal Exercise as they are expected to honour their
 commitment to the posted DSA school for the duration of the programme that
@@ -31,8 +31,7 @@ the application.</p>
 <p>The application will be deemed incomplete and will not be considered if
 applicant cannot be contacted or are unable to produce the original documents
 for verification purposes upon request.</p>
-<p>To apply, please click <a href="https://form.gov.sg/65659a0017464c0011a41c13" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete
-the online application. <strong>Application opens from 9am on 18 December 2024 to 9am, 23 December 2024.</strong>
+<p>To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 9am, 23 December 2025.</strong>
 </p>
 <p><strong>Secondary One Registration Day</strong>
 </p>
@@ -45,8 +44,8 @@ the applicant is eventually successful in her application for transfer.</p>
 </p>
 <p>The school’s entry scores (COP) given as total Achievement Levels (AL)
 will only be made known by MOE after the results of the PSLE posting every
-year. We have yet to receive information from MOE on the COP for our 2025
-Year 1 students. (RGS’s PSLE COP for 2023’s P6 cohort was AL 6.)</p>
+year. We have yet to receive information from MOE on the COP for our 2026
+Year 1 students. (RGS’s PSLE COP for 2024’s P6 cohort was AL 5.)</p>
 <p><strong>2) I am posted to a school through the DSA exercise (including NUS High School, School of Science and Technology, School of the Arts and Singapore Sports School). I want to transfer to RGS now. How can I do so?</strong>
 </p>
 <p>Students who have already gained admission into a secondary school via
@@ -59,8 +58,7 @@ that secondary school.</p>
 </p>
 <p>The appeal process starts on the day the PSLE posting results are released.
 Registration for appeal has to be done through e-application via the RGS
-Admission site. Please click <a href="https://www.rgs.edu.sg/admissions/Admission-to-RGS/appeal/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-details. <strong>Application will open from 9am, Wednesday 18 Dec 2024 to 9am, Monday 23 Dec 2024.</strong>
+Admission site. To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 9am, 23 December 2025.</strong>
 </p>
 <p>This appeal process is not applicable to students who have already gained
 admission to a secondary school via DSA or AEIS.</p>
@@ -71,7 +69,7 @@ to transfer to RGS) will be based on academic merit, i.e. PSLE performance,
 and objective measures.</p>
 <p>Students who wish to gain admission to RGS on the basis of other talents
 and achievements would have had the option of participating in the Direct
-Schools Admissions (DSA) Exercise, which was completed in September 2024.</p>
+Schools Admissions (DSA) Exercise, which was completed in September 2025.</p>
 <p><strong>5) What are my chances when I appeal?</strong>
 </p>
 <p>We are unable to advise you on this as your appeal is dependent on the
@@ -79,7 +77,7 @@ total number of ‘appeal’ applications and the number of vacancies available
 for the year.</p>
 <p><strong>6) What was the total enrolment for Year 1 (Secondary 1) last year?</strong>
 </p>
-<p>The total Year 1 enrolment for 2024 at RGS was around 400 students.</p>
+<p>The total Year 1 enrolment for 2025 at RGS was around 400 students.</p>
 <p><strong>7) How many applications of appeal were received last year?</strong>
 </p>
 <p>The number of applications and number of vacancies available at the appeal
@@ -90,7 +88,7 @@ stage vary from year to year.</p>
 school that they have been posted to as per MOE’s instructions. Students
 need not buy uniforms and books as yet because they have appealed to be
 considered for admission to other schools. If students are successful in
-their appeals to RGS, they will be contacted via phone or email by Monday
-30 December 2024 (tentative). All appeal applicants will receive an email
-informing them about the results of their applications by <strong>Tuesday 31 December 2024.</strong>
+their appeals to RGS, they will be contacted via phone or email by Wednesday
+31 December 2025 (tentative). All appeal applicants will receive an email
+informing them about the results of their applications by <strong>Monday 5 January 2025.</strong>
 </p>

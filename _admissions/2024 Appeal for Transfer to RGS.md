@@ -88,7 +88,7 @@ stage vary from year to year.</p>
 school that they have been posted to as per MOE’s instructions. Students
 need not buy uniforms and books as yet because they have appealed to be
 considered for admission to other schools. If students are successful in
-their appeals to RGS, they will be contacted via phone or email by Wednesday
-31 December 2025 (tentative). All appeal applicants will receive an email
+their appeals to RGS, they will be contacted via phone or email by Friday
+2 January 2025 (tentative). All appeal applicants will receive an email
 informing them about the results of their applications by <strong>Monday 5 January 2025.</strong>
 </p>

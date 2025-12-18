@@ -24,6 +24,8 @@ sections:
             url: https://www.rgs.edu.sg/holistic-education/cca/
           - title: Fees & Scholarship
             url: https://www.rgs.edu.sg/admissions/feesnscholarship/
+          - title: Appeal for School Transfer
+            url: https://www.rgs.edu.sg/admissions/2025appeal/
   - infobar:
       title: Academic Year 2026 Year 1 Registration
       subtitle: Y1 Registration 2026

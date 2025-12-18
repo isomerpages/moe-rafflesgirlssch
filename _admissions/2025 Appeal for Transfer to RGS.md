@@ -31,7 +31,7 @@ the application.</p>
 <p>The application will be deemed incomplete and will not be considered if
 applicant cannot be contacted or are unable to produce the original documents
 for verification purposes upon request.</p>
-<p>To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 9am, 23 December 2025.</strong>
+<p>To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 12pm, 24 December 2025.</strong>
 </p>
 <p><strong>Secondary One Registration Day</strong>
 </p>
@@ -58,7 +58,7 @@ that secondary school.</p>
 </p>
 <p>The appeal process starts on the day the PSLE posting results are released.
 Registration for appeal has to be done through e-application via the RGS
-Admission site. To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 9am, 23 December 2025.</strong>
+Admission site. To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 12pm, 24 December 2025.</strong>
 </p>
 <p>This appeal process is not applicable to students who have already gained
 admission to a secondary school via DSA or AEIS.</p>

@@ -108,7 +108,7 @@ website.</p>
 </p>
 <p>The first day of school for Academic Year 2026 is Friday, 2 January 2026.
 All Year 1 students are to report to RGS by 7.25am, in their RGS PE polo
-shirts, culottes and school shoes. <strong>There is no need to report in-person to the school prior to 2 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
+shirts, culottes, white school shoes and white socks. <strong>There is no need to report in-person to the school prior to 2 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
 </p>
 <p>
 <br><strong><u>SCHOOL UNIFORMS</u></strong>

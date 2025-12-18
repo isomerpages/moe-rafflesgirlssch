@@ -17,13 +17,12 @@ sections:
         - title: Filiae Melioris Aevi
           description: Daughters of a Better Age
           url: ""
-  - infopic:
+  - infobar:
       title: Academic Year 2026 Year 1 Registration
-      subtitle: Y1 REGISTRATION
-      id: infopic
-      button: Click here
+      subtitle: Y1 Registration 2026
+      id: infobar
+      button: Click HERE
       url: https://www.rgs.edu.sg/admissions/2026y1/
-      alt: Image alt text
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

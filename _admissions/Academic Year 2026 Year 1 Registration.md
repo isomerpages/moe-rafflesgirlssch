@@ -16,7 +16,8 @@ and welcome!&nbsp;</p>
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2025 (Tuesday)</strong> to
 indicate that your daughter is taking up the place at RGS. You may refer
-to the registration guide for more details.</p>
+to the <a href="/files/2025_Y1_Registration_Guide_Final_18_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
+more details.</p>
 <p>Please use the Web Links to complete the following tasks:
 <br>
 </p>
@@ -28,7 +29,8 @@ to the registration guide for more details.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Registration Form</p>
+<p><a href="https://go.gov.sg/2026rgsy1" rel="noopener nofollow" target="_blank">Online Registration Form</a>
+</p>
 <p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
@@ -53,8 +55,8 @@ to the registration guide for more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Standing Order for use of Edusave Account at RGS for purchase of Personal
-Learning Device Bundle (PLDB)</p>
+<p><a href="https://form.gov.sg/66f23bf185944a55ba54c465" rel="noopener nofollow" target="_blank">Standing Order for use of Edusave Account at RGS for purchase of Personal Learning Device Bundle (PLDB)</a>
+</p>
 <p><strong>(Mandatory - to be submitted by 23 December 2025, 9.00am)</strong>
 </p>
 </td>
@@ -64,7 +66,8 @@ Learning Device Bundle (PLDB)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Third Language Registration with MOE Language Centre</p>
+<p><a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">Third Language Registration with MOE Language Centre</a>
+</p>
 <p><strong>(To be submitted by 2 January 2026, 11.59pm)</strong>
 </p>
 </td>
@@ -74,7 +77,8 @@ Learning Device Bundle (PLDB)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter-bank Giro Arrangements</p>
+<p><a href="/files/RGS_GIRO_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Inter-bank Giro Arrangements</a>
+</p>
 <p><strong>(To be submitted by 5 January 2026, 5.00pm)</strong>
 </p>
 <p></p>
@@ -89,12 +93,13 @@ website.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Financial Assistance Application</p>
+<p><a href="https://go.gov.sg/moe-efasis" rel="noopener nofollow" target="_blank">Financial Assistance Application</a>
+</p>
 <p><strong>(To be completed by 12 January 2026, 5.00pm)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Form available on RGS Parents Portal.</p>
+<p></p>
 </td>
 </tr>
 </tbody>

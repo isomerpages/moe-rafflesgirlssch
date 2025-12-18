@@ -13,10 +13,17 @@ sections:
       alignment: right
       size: md
       title: Raffles Girls` School
-      key_highlights:
-        - title: Filiae Melioris Aevi
-          description: Daughters of a Better Age
-          url: ""
+      dropdown:
+        title: Click for more...
+        options:
+          - title: 2026 Year 1 Registration
+            url: https://www.rgs.edu.sg/admissions/2026y1/
+          - title: Academic Subjects
+            url: https://www.rgs.edu.sg/subjects/
+          - title: Co-Curricular Activities
+            url: https://www.rgs.edu.sg/holistic-education/cca/
+          - title: Fees & Scholarship
+            url: https://www.rgs.edu.sg/admissions/feesnscholarship/
   - infobar:
       title: Academic Year 2026 Year 1 Registration
       subtitle: Y1 Registration 2026

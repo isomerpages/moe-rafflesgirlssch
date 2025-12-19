@@ -33,12 +33,11 @@ applicant cannot be contacted or are unable to produce the original documents
 for verification purposes upon request.</p>
 <p>To apply, please click <a href="https://go.gov.sg/2026y1appeal" rel="noopener noreferrer nofollow" target="_blank">here</a> to complete the online application. <strong>Application opens from 9am on 19 December 2025 to 12pm, 24 December 2025.</strong>
 </p>
-<p><strong>Secondary One Registration Day</strong>
-</p>
-<p>Pending the outcome of appeal, all applicants are required to complete
-the S1 Registration of the secondary school that they are posted to by
+<p>Pending the outcome of appeal, all applicants are still required to complete
+the S1 Registration at the secondary school that they are posted to by
 the Ministry of Education. RGS will assist with the transfer process if
-the applicant is eventually successful in her application for transfer.</p>
+the applicant is eventually successful in her application for transfer
+to RGS.</p>
 <h2><strong>Frequently Asked Questions</strong></h2>
 <p><strong>1)What is the school’s entry scores (cut-off point or COP)?</strong>
 </p>
@@ -89,6 +88,6 @@ school that they have been posted to as per MOE’s instructions. Students
 need not buy uniforms and books as yet because they have appealed to be
 considered for admission to other schools. If students are successful in
 their appeals to RGS, they will be contacted via phone or email by Friday
-2 January 2025 (tentative). All appeal applicants will receive an email
-informing them about the results of their applications by <strong>Monday 5 January 2025.</strong>
+2 January 2025. All appeal applicants will receive an email informing them
+about the results of their applications by <strong>Monday 5 January 2025.</strong>
 </p>

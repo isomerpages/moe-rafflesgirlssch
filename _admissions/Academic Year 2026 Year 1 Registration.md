@@ -16,7 +16,7 @@ and welcome!&nbsp;</p>
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2025 (Tuesday)</strong> to
 indicate that your daughter is taking up the place at RGS. You may refer
-to the <a href="/files/2025_Y1_Registration_Guide_Final_18_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
+to the <a href="/files/2025_Y1_Registration_Guide_Final_19_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
 more details.</p>
 <p>Please use the Web Links to complete the following tasks:
 <br>

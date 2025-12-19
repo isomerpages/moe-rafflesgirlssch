@@ -68,7 +68,7 @@ more details.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moelc.moe.edu.sg/" rel="noopener nofollow" target="_blank">Third Language Registration with MOE Language Centre</a>
 </p>
-<p><strong>(MOELC site will open for submissions from 26 December to 2 January)</strong>
+<p><strong>(MOELC site will open for submissions from 26 December to 7 January)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

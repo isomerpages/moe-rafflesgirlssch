@@ -39,10 +39,10 @@ variant: tiptap
 <p>Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 March 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S$50.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -63,10 +63,10 @@ variant: tiptap
 <p>Korean / Japanese Cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 March 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S$50.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -87,10 +87,10 @@ variant: tiptap
 <p>Fusion cuisine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 March 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S$50.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -112,10 +112,10 @@ burritos, kimchi pasta, Thai green curry pizza, or teriyaki chicken wraps.</p>
 <p>Muslim Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>23 March 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>S$50.00</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -232,14 +232,6 @@ i.e. those containing your NRIC number&nbsp;with a password.</p>
 <p>Along Lorong 1 Toa Payoh: 59, 129, 231, 232, 235</p>
 </li>
 </ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

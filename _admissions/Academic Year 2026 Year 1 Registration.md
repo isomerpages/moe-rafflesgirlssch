@@ -16,7 +16,7 @@ and welcome!&nbsp;</p>
 on the RGS Year 1 Registration process <strong>via Parents Gateway</strong>.</p>
 <p>In preparation for your daughter’s start at RGS, parents <strong>MUST COMPLETE the Online Year 1 Registration Form by 9.00am, 23 December 2025 (Tuesday)</strong> to
 indicate that your daughter is taking up the place at RGS. You may refer
-to the <a href="/files/2025_Y1_Registration_Guide_Final_19_Dec.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
+to the <a href="/files/2025_Y1_Registration_Guide_Final_19_Dec_.pdf" rel="noopener noreferrer nofollow" target="_blank">registration guide</a> for
 more details.</p>
 <p>Please use the Web Links to complete the following tasks:
 <br>
@@ -107,7 +107,7 @@ website.</p>
 <p><strong><u>First Day of School (2 Jan 2026)</u></strong>
 </p>
 <p>The first day of school for Academic Year 2026 is Friday, 2 January 2026.
-All Year 1 students are to report to RGS by 7.25am, in their RGS PE polo
+All Year 1 students are to report to RGS by 9.00am, in their RGS PE polo
 shirts, culottes, white school shoes and white socks. <strong>There is no need to report in-person to the school prior to 2 January 2026. However, the online registration form MUST be completed by 23 December 2025, 9.00am.</strong>
 </p>
 <p>

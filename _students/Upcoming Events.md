@@ -6,4 +6,4 @@ variant: markdown
 ---
 # Upcoming Events
 
-2026 updates TBC.
+![](/images/2026_Guidance_Calendar.png)

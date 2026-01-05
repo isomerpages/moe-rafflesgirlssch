@@ -752,6 +752,30 @@ process with a staff engagement session in November, fostering a collaborative
 vision for the years ahead.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>In 2025, RGS further shifted its academic reporting approach to focus
+on holistic development and meaningful learning. Percentage scores, grade
+points, and the Grade Point Average were removed from the End-of-Year Progress
+Report, with qualitative reporting introduced to provide richer insights
+into students’ learning, effort, and growth. The “Top in Subject” award
+was replaced with “Excellence in Subject”, recognising groups of students
+who demonstrated strong understanding and engagement. These changes support
+the development of executive functioning skills, resilience, and a joy
+for learning beyond grades.</p>
+<p></p>
+<p>The RGS Strategic Plan for 2026 to 2030 was completed following extensive
+engagement with students, staff, parents, alumnae, and the Board of Governors.
+Central to the plan is the RGS Flywheel, which places people at the heart
+of sustainable change and highlights how culture, partnerships, and community
+uplift reinforce one another. The Flywheel powers the RGS Strategic House,
+whose four pillars guide the school’s priorities over the next five years,
+shaping how RGS nurtures its people, strengthens programmes, deepens partnerships,
+and supports meaningful and joyful learning.</p>
+</div>
+</details>
 </div>
 <p></p>
 <p>--</p>

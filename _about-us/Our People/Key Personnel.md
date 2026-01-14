@@ -55,7 +55,7 @@ variant: tiptap
 <p>Ms&nbsp;Valerie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal, Academic Studies</p>
+<p>Deputy Principal, Academics &amp; Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:valerie.yeo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valerie.yeo@rafflesgirlssch.edu.sg</a>
@@ -73,6 +73,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:magdalene.suey@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">magdalene.suey@rafflesgirlssch.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Carmen Hoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal, Learning &amp; Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="carmen.hoo@rafflesgirlssch.edu.sg" rel="noopener nofollow" target="_blank">carmen.hoo@rafflesgirlssch.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -202,13 +214,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carmen Hoo</p>
+<p>Mrs Ng Jia Xiu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head, Mathematics</p>
+<p>Head, Mathematics (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:carmen.hoo@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">carmen.hoo@rafflesgirlssch.edu.sg</a>
+<p><a href="jiaxiu.ng@rafflesgirlssch.edu.sg" rel="noopener nofollow" target="_blank">jiaxiu.ng@rafflesgirlssch.edu.sg</a>
 </p>
 </td>
 </tr>

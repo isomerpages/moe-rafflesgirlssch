@@ -43,15 +43,23 @@ variant: tiptap
 <p>Ms Valerie Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Deputy Principal, Academic Studies</p>
+<p>Deputy Principal, Academics &amp; Innovation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Magdalene Suey</p>
+<p>Ms Magdalene Suey</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deputy Principal, Organisational Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Carmen Hoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deputy Principal, Learning &amp; Development</p>
 </td>
 </tr>
 <tr>
@@ -114,14 +122,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Denise Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Gerald Teh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,6 +155,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Puay Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp;Elle Dumalaog</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -204,10 +212,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Malyanah Binte Mawar</p>
+<p>Ms Chang Jia Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Head, Literature</p>
+<p>Assistant Head, Literature (Acting)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Head, English Language (Acting)</p>
 </td>
 </tr>
 <tr>
@@ -229,14 +245,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Beatrice Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chang Jia Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -292,10 +300,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wendy Chen</p>
+<p>Ms Vickneashvari Putaran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Contract Adjunct Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

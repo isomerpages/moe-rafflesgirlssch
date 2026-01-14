@@ -1626,6 +1626,14 @@ variant: tiptap
 <p>Executive, Human Resources</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Zhou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive, Human Resources</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Information Technology</u></strong>
@@ -1734,6 +1742,14 @@ variant: tiptap
 <p>Officer, Library</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Megan Tham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Officer, Library</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Partnerships &amp; Community Relations</u></strong>
@@ -1760,17 +1776,9 @@ variant: tiptap
 <p>Assistant Head, Partnerships</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Clorisa Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive, Partnerships &amp; Community Relations</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong><u>Department - Strategic Communications</u></strong>
+<p><strong><u>Department - Strategic Communications &amp; Partnerships</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1791,7 +1799,7 @@ variant: tiptap
 <p>Mr Leonard Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Strategic Communications (Team Lead)</p>
+<p>Senior Executive, Strategic Communications &amp; Partnerships (Team Lead)</p>
 </td>
 </tr>
 <tr>
@@ -1799,7 +1807,7 @@ variant: tiptap
 <p>Mr Jamaluddin Johan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Strategic Communications</p>
+<p>Senior Executive, Strategic Communications &amp; Partnerships</p>
 </td>
 </tr>
 <tr>
@@ -1807,7 +1815,7 @@ variant: tiptap
 <p>Ms Cerise Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Executive, Strategic Communications</p>
+<p>Executive, Strategic Communications &amp; Partnerships</p>
 </td>
 </tr>
 </tbody>

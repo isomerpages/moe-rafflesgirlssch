@@ -796,7 +796,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Emily Huang</p>
+<p>Ms Emily Huang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head, Physical Education &amp; Co-Curricular Activities</p>
@@ -934,14 +934,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Danny Yip</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -983,14 +975,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nerine Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

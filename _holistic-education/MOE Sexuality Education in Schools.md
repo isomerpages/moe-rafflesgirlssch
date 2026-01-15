@@ -135,13 +135,12 @@ on:</p>
 what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use), consequences
 and impact</p>
-<p>&nbsp;</p>
+<p></p>
 <p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
 assertiveness, negotiation to say ‘no’ to peer pressure)</p>
-<p>&nbsp;</p>
+<p></p>
 <p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
 way, including avenues for help-seeking.</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -155,7 +154,6 @@ way, including avenues for help-seeking.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
 of a risky situation by applying skills of assertiveness and responsible
 decision-making</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 5</p>
@@ -178,12 +176,6 @@ Gateway at the end of Term 1. The completed form is to be submitted by
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be made available to parents via Parent Gateway
 at the end of Term 1. The completed form is to be submitted by 27/03/2026.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at &nbsp;
+<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at
 <a rel="noopener noreferrer nofollow" target="_blank">rgss@moe.edu.sg</a>or 67371845 for discussion or to seek clarification
 about the school’s Sexuality Education programme.</p>
-<p>
-<br>
-</p>
-<p><strong><br></strong>
-</p>
-<p></p>

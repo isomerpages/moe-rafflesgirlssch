@@ -58,22 +58,6 @@ the future..
 <p>Mathematics</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -225,6 +209,78 @@ measures.</p>
 <p>- Good organizing abilities, interpersonal and communications skills.</p>
 <p>
 <br>(We regret only shortlisted candidates will be notified)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Executive, Strategic Communications and Partnerships</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>We are seeking a dynamic and passionate Strategic Communications and Partnerships
+Executive to support key functions, including digital communications, corporate
+publications, visual documentation and stakeholder engagement. This role
+requires a proactive professional who can strengthen the school’s branding,
+communications and publicity efforts to ensure seamless alignment, content
+accuracy and brand consistency in all school messaging and communications.
+<br>
+<br><strong><u>Key Responsibilities</u></strong>
+<br>
+<br><strong>Digital Communications and Media Management</strong>
+<br>- Manage and update the school’s digital communication platforms to ensure
+accurate, timely, consistent messaging aligned with the school’s strategic
+priorities.
+<br>- Plan, create, and manage content across the school’s social media platforms
+to deliver consistent, targeted, and impactful messaging.
+<br>- Monitor and report media coverage and public discourse related to the
+school.
+<br>- Support media relations efforts such as pitching appropriate school
+stories to the media and coordinating responses to media enquiries in consultation
+with the Team Lead.
+<br>
+<br><strong>Corporate Publications and Content Production</strong>
+<br>- Coordinate and produce the Raffles Wave bi-annual newsletter which includes
+content planning, editorial coordination and liaison with internal and
+external stakeholders.
+<br>- Support the production of corporate and internal presentation slides
+for school leaders and departments.
+<br>- Assist in the design and production of banners and visual collaterals
+for key school events and initiatives.
+<br>- Maintain and curate a centralized library of corporate assets, including
+photographs, videos, publications, announcements for institutional use.
+<br>
+<br><strong>Photography, Videography and Visual Documentation</strong>
+<br>- Provide photography and videography support for school events and key
+milestones.
+<br>- Manage, brief, and supervise external photographers and videographers
+engaged for school-wide photography and documentation.
+<br>- Maintain and organize the school’s photo and video archives for ease
+of access and long-term use across platforms and publications.
+<br>
+<br><strong>Internal Communications and Brand Governance</strong>
+<br>- Support internal communications and advisory support efforts to ensure
+alignment and consistency in corporate branding across letters, collaterals,
+and event communications.
+<br>- Update and maintain the Corporate Communications Handbook which includes
+guidelines on branding, tone, templates and usage of communication collaterals.
+<br>
+<br><strong>Partnerships and Stakeholder Engagement Support</strong>
+<br>- Provide communications and event support for Parent Support Group (PRGS)
+and RGS Alumnae (RGSA) initiatives.
+<br>- Coordinate and support the administration and communications aspects
+of the Triple C Programme.
+<br>- Assist in stakeholder engagement efforts by preparing relevant communication
+materials and ensuring a coherent experience for partners and visitors.
+<br>
+<br>Requirements
+<br>
+<br>- Degree in Communications, Marketing or a related field of study.
+<br>- Minimum 3 years of relevant experience or equivalent demonstrated competency
+in marketing, corporate communications, public relations, digital content
+creation or journalism.
+<br>- Hands-on experience in media monitoring, social media and website content
+management would be advantageous.
+<br>- Proficient in graphic design and basic video editing tools such as Adobe
+Creative Suite and Canva.
+<br>- Excellent interpersonal, communication and stakeholder management skills.</p>
 </div>
 </details>
 </div>

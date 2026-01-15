@@ -13,12 +13,6 @@ sections:
       alignment: right
       size: md
       title: Raffles Girls` School
-  - infobar:
-      title: Academic Year 2026 Year 1 Registration
-      subtitle: Y1 Registration 2026
-      id: infobar
-      button: Click HERE
-      url: https://www.rgs.edu.sg/admissions/2026y1/
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

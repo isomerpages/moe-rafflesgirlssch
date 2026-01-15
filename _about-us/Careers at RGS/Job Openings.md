@@ -58,22 +58,6 @@ the future..
 <p>Mathematics</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Chinese Language</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>

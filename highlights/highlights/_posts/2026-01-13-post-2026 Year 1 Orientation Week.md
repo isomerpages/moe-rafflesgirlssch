@@ -16,6 +16,19 @@ based on the orientation theme,&nbsp;‘Deep Roots, Strong Wings’, and the
 RGS Initiation Ceremony, where the Year 1s were presented to their parents
 for the first time as full-fledged RGS students.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/englishweb.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/y1oc.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/y1oc2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/y1oc3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/y10c4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/y10c5.png">
 </div>
 <p>Welcome to the Rafflesian Family!</p>

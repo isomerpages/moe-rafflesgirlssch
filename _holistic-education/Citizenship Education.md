@@ -26,7 +26,7 @@ We empower our students by providing opportunities to co-initiate and organise N
 
 [National Day Celebrations](https://www.rgs.edu.sg/highlights/events-and-announcements/ndc2023/)
 
-![](https://www.rgs.edu.sg/images/ndp2023(2).jpg)
+![](/images/ndp222.png)
 
 **Think With Purpose**
 

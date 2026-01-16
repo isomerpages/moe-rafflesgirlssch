@@ -9,12 +9,12 @@ variant: markdown
 
 The Humanities disciplines in RGS nurture our students to be advocates and reflective thinkers who will be good stewards of humanity and the environment through emphasising real-world application and encouraging a heart for service to the community.
 
-###### <center>Learning Outcomes</center>
+### Learning Outcomes
 
 *   Develop the geographically educated person who contributes to the betterment of society by being responsible and active citizens of an increasingly interdependent global community
 *   Nurture our students to be thinkers with a reflective disposition to respond critically to complex and unpredictable situations, and pioneers who seize opportunities with inventiveness and creativity, for the common good
 
-###### <center>Programmes</center>
+### Programmes
 
 |   |   |   |   |
 |:-:|---|---|---|
@@ -26,7 +26,7 @@ The Humanities disciplines in RGS nurture our students to be advocates and refle
 | *   Learning Journey: Visit to local high-tech farm<br>*   Field studies: Investigation of Food Waste at Home<br>*   Regional Studies Programme<br>*   Humanities Showcase-STEM Week  | *   Field studies: Adaptation of trees within school campus<br>*   Field Studies: Inclusive Neighborhoods in Singapore<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Learning Journey: Pasir Ris Park Field Investigation<br>* Enrichment field trip: Singapore Mobility Gallery<br>*   Raffles Academy 2.0 Urban Development in Singapore<br>*   Year 3 and 4 Humanities Overseas Field Trip<br>*   Model United Nations<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Middle Division<br>*   Humanities Showcase-STEM Week  | *   Field study: Tourism studies at Singapore’s places of interest<br>*   Model United Nations<br>*   Year 3 and 4 Humanities Overseas Field Trip<br>*   Regional Studies Programme<br>*   Global Issues Problem Solving (GIPS) Senior Division<br>*   Humanities Showcase-STEM Week  |
 |   |   |   |   |
 
-#### Gallery
+### Gallery
 
 <img src="/images/Y1_geog_farm.jpeg" style="width:49%" align="right">
 

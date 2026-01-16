@@ -39,10 +39,7 @@ They are:</p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/ps2.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -56,8 +53,8 @@ They are:</p>
 <br>3. Netball
 <br>4. Rhythmic Gymnastics
 <br>5. Sailing
-<br>6. Shooting</p>
-<p>7.&nbsp;Softball</p>
+<br>6. Shooting
+<br>7.&nbsp;Softball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8.&nbsp;Squash
@@ -74,13 +71,7 @@ They are:</p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/vpa1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/vpa2.jpg">
-</div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -114,10 +105,7 @@ They are:</p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/ug2.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -144,10 +132,7 @@ They are:</p>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/cs2.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -163,14 +148,6 @@ They are:</p>
 <td rowspan="1" colspan="1">
 <p>4. Raffles Mind Sports
 <br>5. Robotics Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

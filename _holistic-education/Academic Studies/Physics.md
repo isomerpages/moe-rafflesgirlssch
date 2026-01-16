@@ -9,7 +9,7 @@ variant: markdown
 
 The curriculum is designed to provide the breadth of study in theoretical and experimental physics necessary for our learners to make informed decisions in the pursuit of physics-dependent disciplines. It also allows for the depth of study that leads to an understanding of the physical world, using fundamental physics concepts and principles. In this way, our students become confident and contributing citizens in a technological world, guided by a keen sense of curiosity, and refined by critical and creative thinking.
 
-###### <center>Learning Outcomes</center>
+### Learning Outcomes
 
 *   Develop interest in Physics and build the knowledge, skills and attitudes necessary for further studies in related fields&nbsp;
 *   Be scientifically literate citizens who are well-prepared for the challenges of the 21st century&nbsp;
@@ -17,7 +17,7 @@ The curriculum is designed to provide the breadth of study in theoretical and ex
 
 *   Understand that a small number of basic principles and core ideas can be applied to explain, analyse and solve problems in a variety of systems in the physical world
 
-###### <center>Programmes</center>
+### Programmes
 
 | **Year 1**  | **Year 2**| **Year 3** | **Year 4** |
 | -------- | -------- | -------- | -------- |

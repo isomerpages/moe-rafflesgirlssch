@@ -3,14 +3,15 @@ title: Food & Design
 permalink: /holistic-education/Academic-Studies/fnd/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
-## Food & Design
+## Food &amp; Design
 
-Our Food & Design curriculum equips students with life skills to lead a healthy life. Our students learn to prepare food that is nutritious, tasty and visually appealing. They also conduct research and exercise creativity to prepare a personalised dish for a specific consumer.
+Our Food &amp; Design curriculum equips students with life skills to lead a healthy life. Our students learn to prepare food that is nutritious, tasty and visually appealing. They also conduct research and exercise creativity to prepare a personalised dish for a specific consumer.
 
-###### <center>Learning Outcomes</center>
+### Learning Outcomes
 
-_Food & Design (Year 2)_
+_Food &amp; Design (Year 2)_
 
 *   Apply the principles of nutrition and a balanced diet
 *   Observe, measure and record investigative data accurately
@@ -20,7 +21,7 @@ _Food & Design (Year 2)_
 *   Demonstrate proficient use of equipment and good management of resources in food preparation
 *   Make ethical decisions
 
-###### <center>Programmes</center>
+### Programmes
 
 |   |
 |:-:|
@@ -29,14 +30,14 @@ _Food & Design (Year 2)_
 | _Science Concepts_<br>*   Heat Transference (Conduction, Convection and Radiation)<br>*   Biotechnology<br>*   Nutrients and Diet-Related Diseases  |
 |   |
 
-#### Gallery
+### Gallery
 
 Students in action during a class where they learnt how to cook one of Singapore’s iconic dishes, the curry chicken.
 
-<img src="/images/Food Design group cooking.jpg" style="width:49%" align=left>
-<img src="/images/Food Design Learning together.jpg" style="width:49%" align=right>
+<img src="/images/Food Design group cooking.jpg" style="width:49%" align="left">
+<img src="/images/Food Design Learning together.jpg" style="width:49%" align="right">
 <br clear="left"><br>
 
-<img src="/images/Food Design working together.jpg" style="width:49%" align=left>
-<img src="/images/Food Design.jpg" style="width:49%" align=right>
+<img src="/images/Food Design working together.jpg" style="width:49%" align="left">
+<img src="/images/Food Design.jpg" style="width:49%" align="right">
 <br clear="left"><br>

@@ -3,12 +3,13 @@ title: Biology
 permalink: /holistic-education/Academic-Studies/bio/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## Biology
 
 Biology is the understanding of the diversity and complexity of life and the interrelations among organisms through the process of scientific inquiry. In this way, we can appreciate the place of humanity in nature and be good stewards of the earth.
 
-###### <center>Learning Outcomes</center>
+## Learning Outcomes
 
 *   Understand that patterns and relationships underlie the systems of the natural and physical world
 *   Use the method of scientific inquiry, which involves asking testable questions, making critical observations, conducting controlled experiments and forming analyses
@@ -17,8 +18,7 @@ Biology is the understanding of the diversity and complexity of life and the int
 *   Understand that science, technology and engineering impact the course of history, society, economics, the environment and individual lives
 *   Demonstrate the attitudes relevant for scientific inquiry such as objectivity, integrity, curiosity, initiative, inventiveness, creativity, concern for accuracy and precision
 
-###### <center>Programmes</center>
-
+### Programmes
 
 
 | **Year 1**  | **Year 2**| **Year 3** | **Year 4** |
@@ -32,7 +32,7 @@ Biology is the understanding of the diversity and complexity of life and the int
 
 
 
-#### Gallery
+### Gallery
 
 <img src="/images/bio1.jpg" style="width:49%" align="right">
 

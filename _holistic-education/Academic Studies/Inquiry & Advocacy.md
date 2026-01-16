@@ -16,12 +16,12 @@ The Humanities disciplines in RGS nurture students to be advocates and reflectiv
 *   Through challenging their cognitive and creative abilities, our students integrate and apply their understanding in their areas of interest for the betterment of self and others
 
 ### Programmes
-### 
-|   |   |   |   |
-|:-:|---|---|---|
-| **Year 1**  | **Year 2**  | **Year 3**  | **Year 4**  |
-| Theme: Understanding Self, Values, Expectations<br><br>Unit 1: Thinking and Questioning Frameworks<br><br>Unit 2: Logic and Argumentation<br><br>Unit 3: Ethical Reasoning  | Themes: Understanding Self and Others, Understanding Singapore<br><br>Unit 1: Logic and Argumentation II – Introduction to Complex Arguments and Argument Evaluation<br><br>Unit 2: Ethical Reasoning II – Moral Principles and Virtue Ethics<br><br>Unit 3: Introduction to Citizenship &amp; Governance   | Theme: Understanding Singapore<br><br>Unit 1: Citizenship &amp; Governance – Working for the good of society<br><br>Unit 2: Living in a Diverse Society – Is harmony achievable? | Theme: Understanding the World<br><br>Unit 1: Economy and Society in a Globalised World <br><br>Unit 2: Advocacy in a Globalised World <br><br>Unit 3: Politics in a Globalised World   |
-|   |   |   |   |
+
+
+
+|  **Year 1** | **Year 2**| **Year 3** |**Year 4** |
+| -------- | -------- | -------- |-------- |
+| Theme: Understanding Self, Values, Expectations<br><br>Unit 1: Thinking and Questioning Frameworks<br><br>Unit 2: Logic and Argumentation<br><br>Unit 3: Ethical Reasoning    | Themes: Understanding Self and Others, Understanding Singapore<br><br>Unit 1: Logic and Argumentation II – Introduction to Complex Arguments and Argument Evaluation<br><br>Unit 2: Ethical Reasoning II – Moral Principles and Virtue Ethics<br><br>Unit 3: Introduction to Citizenship &amp; Governance    | Theme: Understanding Singapore<br><br>Unit 1: Citizenship &amp; Governance – Working for the good of society<br><br>Unit 2: Living in a Diverse Society – Is harmony achievable?    | Theme: Understanding the World<br><br>Unit 1: Economy and Society in a Globalised World <br><br>Unit 2: Advocacy in a Globalised World <br><br>Unit 3: Politics in a Globalised World   |
 
 ### Gallery
 

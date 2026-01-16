@@ -30,7 +30,7 @@ At RGS, the English Language empowers students to find their voice, sharpen thei
 ##### Lead Their Own Learning  
 "Use language as a tool to articulate metacognitive processes that facilitate self-directedness."**
 
-### <center>Programmes</center>
+### Programmes
 
 |   |   |   |   |
 |:-:|---|---|---|
@@ -41,7 +41,7 @@ At RGS, the English Language empowers students to find their voice, sharpen thei
 | Encoding Spoken and Written Narratives  | Oral Presentation: Speech and Pitch Proposal | Persuasive Speech  | Dialogic Discourse  |
 |   |   |   |   |
 
-## Events
+### Events
 
 
 ![](/images/englishweb__1_.png)

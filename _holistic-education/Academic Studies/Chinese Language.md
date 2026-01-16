@@ -3,12 +3,13 @@ title: Chinese Language
 permalink: /holistic-education/Academic-Studies/chinese/
 description: ""
 third_nav_title: Academic Studies
+variant: markdown
 ---
 ## Chinese Language
 
 语言是人类交际和思维的最主要工具，学习母语是为了掌握此工具，以便进行有效的沟通与思维。语言也是重要的文化载体，是民族文化的宝贵遗产。新加坡是一个多元种族、多元语言、多元文化的社会，因此，更为重要的是培养年轻一代对母族语言文化的认同感。
 
-###### <center>预期学习成果</center>
+### 预期学习成果
 
 培养精通双语的学生，以便他们能：
 
@@ -31,29 +32,29 @@ third_nav_title: Academic Studies
 | 辩论比赛  |辩论比赛   | 辩论比赛  | 辩论比赛  |
 |   |   |   |   |
 
-#### Gallery
+### Gallery
 
-<img src="/images/chi1.jpg" style="width:49%" align=right>
+<img src="/images/chi1.jpg" style="width:49%" align="right">
 
 莱佛士女中和新加坡文艺协会联合主办《全国中学生诗歌创作比赛》。
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chi2.jpg" style="width:49%" align=right>
+<img src="/images/chi2.jpg" style="width:49%" align="right">
 
 新年庆祝会后的大合照。
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chi3.jpg" style="width:49%" align=right>
+<img src="/images/chi3.jpg" style="width:49%" align="right">
 
 我们的华文特别课程的非华族学生在新年期间逛牛车水完成作业。
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chi4.jpg" style="width:49%" align=right>
+<img src="/images/chi4.jpg" style="width:49%" align="right">
 
 新年期间，全校大动员参与礼包活动，为弱势家庭带来温暖与快乐
-<br clear=right>
+<br clear="right">
 
-<img src="/images/chi5.jpeg" style="width:49%" align=right>
+<img src="/images/chi5.jpeg" style="width:49%" align="right">
 
 母语双周，学生猜灯谜。
-<br clear=right>
+<br clear="right">

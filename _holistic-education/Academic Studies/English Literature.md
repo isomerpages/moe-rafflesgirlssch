@@ -6,7 +6,7 @@ third_nav_title: Academic Studies
 variant: tiptap
 ---
 <h2>English Literature</h2>
-<h3>Our Philosophy</h3>
+<h4>Our Philosophy</h4>
 <p>Literature, rooted in life and centuries of human experience, is a mode
 of creative expression that engages the reader in the aesthetic domain.
 The literary tradition, an invaluable and ever-growing resource, gives
@@ -17,7 +17,7 @@ and invites a personal engagement with ideas in the aesthetic domain. An
 appreciation of Literature will enhance one’s sensitivity to the power
 of words and thus, the importance of using them critically and creatively
 to serve society, making the world a more humane and beautiful place.</p>
-<h3>Our Aspirations for Every RGS Literature Student</h3>
+<p>Our Aspirations for Every RGS Literature Student</p>
 <p>At RGS, Literature nurtures discerning readers, empathetic thinkers, and
 creative voices who shape the world with imagination and insight.</p>
 <h4>Appreciate Literature Across Time and Place</h4>

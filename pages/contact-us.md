@@ -26,7 +26,7 @@ locations:
         time: 7.00am - 6.00pm
         description: ""
       - days: Fri
-        time: 7.30am - 5.00pm
+        time: 7.00am - 5.00pm
         description: Closed on weekends & Public Holidays
     maps_link: ""
     title: During School Term

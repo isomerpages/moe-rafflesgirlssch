@@ -8,9 +8,9 @@ locations:
       - 2 Braddell Rise
       - Singapore 318871
       - ""
-    title: Raffles Girls' School
     operating_hours: []
     maps_link: ""
+    title: Raffles Girls' School
   - address:
       - ""
       - ""
@@ -34,7 +34,6 @@ locations:
       - ""
       - ""
       - ""
-    title: School Holiday
     operating_hours:
       - days: Mon - Thu
         time: 8.00am - 5.30pm
@@ -43,11 +42,11 @@ locations:
         time: 8.00 am - 5.00pm
         description: Closed on weekends & Public Holidays
     maps_link: ""
+    title: School Holiday
   - address:
       - ""
       - ""
       - ""
-    title: School Declared Holiday
     operating_hours:
       - days: Mon - Thu
         time: 8.00m - 5.00pm
@@ -56,6 +55,7 @@ locations:
         time: 8.00am - 4.30pm
         description: Closed on weekends & Public Holidays
     maps_link: ""
+    title: School Declared Holiday
 contacts:
   - content:
       - phone: +65 6737 1845

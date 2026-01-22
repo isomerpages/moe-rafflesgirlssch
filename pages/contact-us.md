@@ -28,7 +28,7 @@ locations:
       - days: Fri
         time: 7.00am - 5.00pm
         description: Closed on weekends & Public Holidays
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=2+Braddell+Rise+Singapore+318871+
     title: During School Term
   - address:
       - ""
@@ -41,7 +41,7 @@ locations:
       - days: Fri
         time: 8.00 am - 5.00pm
         description: Closed on weekends & Public Holidays
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=2+Braddell+Rise+Singapore+318871+
     title: School Holiday
   - address:
       - ""
@@ -54,7 +54,7 @@ locations:
       - days: Fri
         time: 8.00am - 4.30pm
         description: Closed on weekends & Public Holidays
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=2+Braddell+Rise+Singapore+318871+
     title: School Declared Holiday
 contacts:
   - content:

@@ -1206,6 +1206,14 @@ variant: tiptap
 <p>Specialist</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kim Youngbean</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive, Research</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Character &amp; Citizenship Education</u></strong>
@@ -1592,14 +1600,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Manager, Human Resources</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Connie Kong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Executive, Human Resources</p>
 </td>
 </tr>
 <tr>

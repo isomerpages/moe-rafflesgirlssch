@@ -98,94 +98,6 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Aesthetics</u></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Staff Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Anna Loo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head, Aesthetics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gerald Teh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lai Siew Yong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Mak Hwei Yoke</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Vivien Willamme</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yeo Puay Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Elle Dumalaog</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Asman Bin Yusof</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Higher Technician, Design &amp; Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sheila Loh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Attendant, Home Economic</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong><u>Department - English Language &amp; Literature</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -300,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vickneashvari Putaran</p>
+<p>Ms Pung Zi Bing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contract Adjunct Teacher</p>
@@ -308,7 +220,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pung Zi Bing</p>
+<p>Ms Vickneashvari Putaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contract Adjunct Teacher</p>
@@ -1534,6 +1446,14 @@ variant: tiptap
 <p>Executive, Procurement</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Elaine Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Executive, Procurement</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Finance</u></strong>
@@ -1788,15 +1708,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jamaluddin Johan</p>
+<p>Ms Cerise Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Strategic Communications &amp; Partnerships</p>
+<p>Executive, Strategic Communications &amp; Partnerships</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cerise Chua</p>
+<p>Miss Charlotte Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Executive, Strategic Communications &amp; Partnerships</p>

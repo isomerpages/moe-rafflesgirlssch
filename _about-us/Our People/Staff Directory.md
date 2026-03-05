@@ -934,14 +934,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Zhi En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Practicum)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Winnie Liang</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -29,7 +29,6 @@ issues and equips participants with advanced problem-solving skills.</p>
 <p>Congratulations to all the winners, and best wishes to the teams representing
 Singapore at the International Conference at Indiana University Bloomington
 this June!</p>
-<p></p>
 <h3>Global Issues Problem Solving</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -46,19 +45,236 @@ this June!</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Division - 1st place</strong>
+<br><em>ST02</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choy Jia En Vanessa
+<br>Lee Yi Ning Megan
+<br>Luo Xindi&nbsp;
+<br>Shannon Tang Shi En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 1st place</strong>
+<br><em>MT09</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Catherine Goh Hao Xuan
+<br>Li Pengfei
+<br>Selma Regina Yap
+<br>Teo Zhi Qing Charlotte</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 2nd place</strong>
+<br><em>MT08</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paige Joan Lee
+<br>Shanah Lucy Das
+<br>Sophia Lu Yanxi
+<br>Yuan Qiaoen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 3rd place</strong>
+<br><em>MT07</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bao Xinyan
+<br>Luo Xinya
+<br>Shi Chengqing
+<br>Zhang Yixin Amber</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Scenario Writing</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Category</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Student</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Middle Division - 3rd place</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Charissa Ooi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 6th place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ling Jia Xin, Jovie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 8th place</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allison Rae Yeoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Best Team Award</strong>
+<br><em>SWST01</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Charissa Ooi&nbsp;
+<br>(includes participants from other schools)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Community Problem Solving (CmPS)</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Division - 1st place</strong>
+<br><em>Project Seawing</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Michelle Khoo Hui Sin (S414 - 2025)
+<br>Esther Li Zeyang (S411 - 2025)&nbsp;
+<br>Selvakumar Kanishka (S407 - 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Senior Division - 2nd place</strong>
+<br><em>The Bondhomies (Formerly Queenstown Kakis, Continuing Project)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hsu Yih Hui Dyanne (S412 - 2025)&nbsp;
+<br>Clara Kho (S406 - 2025)&nbsp;
+<br>Chua Yu Rou Annabel (S311 - 2025)&nbsp;
+<br>Kyra Lee (S305 - 2025)&nbsp;
+<br>Soh Kit-Sen (S413 - 2025)&nbsp;
+<br>Azelea Li Yun'en (S311 - 2025)&nbsp;
+<br>Eng Yu Xuan (S305 - 2025)&nbsp;
+<br>Lee Jia Min (S402 - 2025)&nbsp;
+<br>Nikki Tan Jiaru (S408 - 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 1st place</strong>
+<br><em>Project Oculus</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kayla Low Kai En (S406)&nbsp;
+<br>Pan Yu Hui (S407)
+<br>Xie Qingyang (S410)
+<br>Azelea Li Yun'en (S411)
+<br>Michelle Wong Jia Qi (S411)
+<br>Tan Li Xin Alyssa (S412)
+<br>Selma Regina Yap (S414)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 2nd place</strong>
+<br><em>Project Amaryllis</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rutvi Vishal Malaviya (S401)
+<br>Chava Vrishini (S405)
+<br>Chia Lixuan, Erela (S407)
+<br>Chua Joan Ee (S408)
+<br>Leong Jie Ying Elise (S412)
+<br>Clara Yang Qiwen (S413)
+<br>Ng Raen (S413)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - 3rd place</strong>
+<br><em>Project BioBliss</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dionne Phua Xin Ying (S401)
+<br>Feronica Iin Binte Abdul Hamid (S402)
+<br>Gracelyn Kao Yun Ru (S404)
+<br>Chan Xin-Yann Binnie (S406)
+<br>Eiliyah Binte Mohamad Rizal (S406)
+<br>Pan Ying En (S412)
+<br>Wang Yixuan (S413)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - Honourable Mention</strong>
+<br><em>Project Hestia</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ming Yiwen (S303)
+<br>Myra Safira Binte Muhammad Khalil (S303)
+<br>Lee Yi'en, Rianne (S308)
+<br>Lee Ching (S310)
+<br>Steffi Verena Yap (S312)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Division - Honourable Mention</strong>
+<br><em>Project Apollo</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Ziyi Celine (S302)
+<br>Tew Jiaxuan Mika (S302)
+<br>Li Yixin (S303)
+<br>Shalika Gannappan (S303)
+<br>Ang Yui Nya (S304)
+<br>Xue Yuyan Evelyn (S305)
+<br>Yim Cleryce (S305)
+<br>Yashna Mehta (S307)</p>
 </td>
 </tr>
 </tbody>

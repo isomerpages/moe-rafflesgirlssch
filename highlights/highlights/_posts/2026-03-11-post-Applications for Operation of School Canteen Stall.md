@@ -38,7 +38,7 @@ variant: tiptap
 <p>Chinese Economic Rice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 Jun 2026 to 31 Dec 2027</p>
+<p>1 May 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S$50.00</p>
@@ -65,7 +65,7 @@ by the Health Promotion Board.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Closing date: 17 April 2026, 4.30pm by post or hand and 11.59pm by email.</strong>
+<p><strong>Closing date: 31 March 2026, 4.30pm by post or hand and 11.59pm by email.</strong>
 </p>
 <p></p>
 <p><strong>Application Procedure</strong>

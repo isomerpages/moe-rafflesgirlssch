@@ -258,9 +258,9 @@ this June!</p>
 <br>Lee Yi'en, Rianne (S308)
 <br>Lee Ching (S310)
 <br>Steffi Verena Yap (S312)
-<br>Chia Ying Syuan Mavis (S301)</p>
-<p>Chikrale Aryana Balaji (S307)</p>
-<p>Sophia Lu Yanxi (S301)</p>
+<br>Chia Ying Syuan Mavis (S301)
+<br>Chikrale Aryana Balaji (S307)
+<br>Sophia Lu Yanxi (S301)</p>
 </td>
 </tr>
 <tr>

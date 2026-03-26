@@ -189,11 +189,11 @@ this June!</p>
 <td rowspan="1" colspan="1">
 <p>Hsu Yih Hui Dyanne (S412 - 2025)&nbsp;
 <br>Clara Kho (S406 - 2025)&nbsp;
-<br>Chua Yu Rou Annabel (S311 - 2025)&nbsp;
-<br>Kyra Lee (S305 - 2025)&nbsp;
+<br>Chua Yu Rou Annabel (S411)&nbsp;
+<br>Kyra Lee (S405)&nbsp;
 <br>Soh Kit-Sen (S413 - 2025)&nbsp;
-<br>Azelea Li Yun'en (S311 - 2025)&nbsp;
-<br>Eng Yu Xuan (S305 - 2025)&nbsp;
+<br>Azelea Li Yun'en (S411)&nbsp;
+<br>Eng Yu Xuan (S405)&nbsp;
 <br>Lee Jia Min (S402 - 2025)&nbsp;
 <br>Nikki Tan Jiaru (S408 - 2025)</p>
 </td>

@@ -257,7 +257,10 @@ this June!</p>
 <br>Myra Safira Binte Muhammad Khalil (S303)
 <br>Lee Yi'en, Rianne (S308)
 <br>Lee Ching (S310)
-<br>Steffi Verena Yap (S312)</p>
+<br>Steffi Verena Yap (S312)
+<br>Chia Ying Syuan Mavis (S301)</p>
+<p>Chikrale Aryana Balaji (S307)</p>
+<p>Sophia Lu Yanxi (S301)</p>
 </td>
 </tr>
 <tr>

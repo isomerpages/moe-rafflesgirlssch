@@ -98,6 +98,96 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Aesthetics</u></strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Staff Name</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Anna Loo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head, Aesthetics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp;Elle Dumalaog</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Gerald Teh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp;Lai Siew Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp;Mak Hwei Yoke</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp;Vivien Willamme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Yeo Puay Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Asman Bin Yusof</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Technician, Design &amp; Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Sheila Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Attendant, Home Economics</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>Department - English Language &amp; Literature</u></strong>
 </p>
 <table style="minWidth: 50px">

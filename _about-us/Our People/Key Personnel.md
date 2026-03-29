@@ -299,6 +299,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Malyanah Mawar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:malyanah.mawar@rafflesgirlssch.edu.sg" rel="noopener noreferrer nofollow" target="_blank">malyanah.mawar@rafflesgirlssch.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

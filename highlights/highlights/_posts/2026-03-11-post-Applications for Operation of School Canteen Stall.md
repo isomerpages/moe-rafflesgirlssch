@@ -35,10 +35,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Economic Rice</p>
+<p>Rice &amp; Co.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 May 2026 to 31 Dec 2027</p>
+<p>29 June 2026 to 31 Dec 2027</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S$50.00</p>
@@ -46,8 +46,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Offer a variety of Chinese cooked dishes under the <strong>economy rice concept</strong> (e.g.
-chicken, fish, egg, tofu and vegetable dishes).</p>
+<p>Offer a variety of Chinese cooked dishes under the <strong>Rice &amp; Co.</strong>  <strong>concept</strong> (e.g.
+chicken, fish, egg, tofu and vegetable dishes served with rice or other
+staple grains). Vendors may also propose chicken rice sets or other rice
+set meals, such as a main protein (e.g., sliced fish, chicken, or meat)
+served with vegetables and rice.</p>
 </li>
 <li>
 <p>Provide a balanced selection daily, including <strong>at least 2–3 vegetable options</strong> and
@@ -60,12 +63,16 @@ lighter dishes suitable for secondary school students.</p>
 <p>Must be able to meet the <strong>Healthy Meals in Schools Programme (HMSP)</strong> requirements
 by the Health Promotion Board.</p>
 </li>
+<li>
+<p>Vendors should have the capability to prepare and serve food in bulk to
+meet the daily student population.</p>
+</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Closing date: 31 March 2026, 4.30pm by post or hand and 11.59pm by email.</strong>
+<p><strong>Closing date: 15 May 2026, 4.30pm by post or hand and 11.59pm by email.</strong>
 </p>
 <p></p>
 <p><strong>Application Procedure</strong>

@@ -166,7 +166,7 @@ consultation with the school canteen committee.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the “<a href="https://www.hpb.gov.sg/docs/default-source/pdf/healthy-meals-in-school-programme-v2-0-guidelines_20230414_final.pdf?sfvrsn=914969d5_2" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (HMSP)</a>”
+set by the Health Promotion Board (HPB) under the “<a href="https://isomer-user-content.by.gov.sg/484/cf94111e-fcfa-49c1-b9e8-f51c466ded68/healthy-meals-in-preschools-programme-v2-0-guidelines_20230414_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (HMSP)</a>”
 guidelines School Canteen Advertisement</p>
 </li>
 <li>

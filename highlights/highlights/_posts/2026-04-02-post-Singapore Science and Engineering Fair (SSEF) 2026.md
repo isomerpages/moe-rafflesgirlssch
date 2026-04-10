@@ -1,5 +1,5 @@
 ---
-title: SSEF 2026
+title: Singapore Science and Engineering Fair (SSEF) 2026
 permalink: /ssef-2026/
 date: 2026-04-02
 layout: post

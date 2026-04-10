@@ -1,5 +1,5 @@
 ---
-title: RU Week 2026
+title: Rafflesians Unite Week 2026
 permalink: /ru-week-2026/
 date: 2026-03-31
 layout: post

@@ -8,7 +8,7 @@ image: /images/housegroup.png
 <h2>The House System in RGS</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/housegroup.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/35.png">
 </div>
 <p>There are five Houses in RGS, and each is named after one of five consecutive
 RGS principals who had served the school. Chronologically, the Houses are
@@ -182,11 +182,11 @@ in Singapore.</p>
 </p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7KzOgoKs5e4?si=7N4s0c9UXBQJTNsn"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7KzOgoKs5e4?si=7N4s0c9UXBQJTNsn"></iframe>
 </div>
 <p><strong><u>House is where the Heart is!</u></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4dR87dfPFfg?"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4dR87dfPFfg?"></iframe>
 </div>
 <p></p>

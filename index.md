@@ -21,7 +21,7 @@ sections:
       title: RGS Corporate Video
       button: Watch Video
       url: https://youtu.be/bsFZe7s95Wg
-      image: /images/houseschool.JPG
+      image: /images/IMG_1354.jpg
       alt: RGS
   - infocols:
       title: Filiae Melioris Aevi

@@ -149,7 +149,7 @@ upon request when necessary.</p>
 <p><strong><u>Application for DSA-Sec through MOE's online DSA-Sec Portal</u></strong><u> </u>
 <br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
 <p><strong><u>Submission of additional documents to RGS via e-form</u></strong><u> </u>
-<br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
+<br>6 May 2026 (Wed), 11.00am to 19 June 2026 (Tue), 4.30pm</p>
 <p><strong><u>Selection tests/Auditions/Interviews for 18 talent areas</u></strong><u> </u>
 <br>Selections will take place between mid-July to mid-August 2026.</p>
 <p><strong>ONLY shortlisted applicants will be notified.</strong>

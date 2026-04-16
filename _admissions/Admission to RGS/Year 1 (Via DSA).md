@@ -16,7 +16,7 @@ PSLE results or participate in the annual S1 Posting Exercise.</p>
 <li>
 <p>are required to honour their commitment to the school for the duration
 of the 6-year Integrated Programme, and participate in the activities related
-to the talent they are selected for, from year 1-4.</p>
+to the talent they are admitted for, from Years 1-4.</p>
 </li>
 <li>
 <p>for the talent area 'Music Elective Programme', are required to join a
@@ -41,7 +41,7 @@ Programme from Years 1-4.</p>
 <p>The Applicant must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>be eligible for Secondary 1 in&nbsp;<strong>2026</strong>.</p>
+<p>be eligible for Secondary 1 in&nbsp;<strong>2027</strong>.</p>
 </li>
 <li>
 <p>have strong, consistent academic performance in primary school.</p>
@@ -69,7 +69,7 @@ assessing the potential of the applicants.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Application for DSA-Sec must be submitted through MOE's online DSA-Sec
-Portal. The application is free-of-charge and will <strong>open from 7 May 2025, 11am to 3 June 2025, 3pm</strong>.
+Portal. The application is free-of-charge and will <strong>open from 6 May 2026, 11am to 2 June 2026, 4.30pm</strong>.
 For more information on DSA-Sec, please refer to the MOE website at&nbsp;
 <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 </li>
@@ -96,39 +96,75 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 </ul>
 <p><strong>Important Note</strong>
 <br>
-<br><strong><a href="/files/2025_DSA_Website_Info_Details_Final_27_May.pdf" rel="noopener noreferrer nofollow" target="_blank">Required Submission of Additional Documents</a></strong>
 </p>
-<blockquote>
-<p><strong>Applicants may need to submit additional documents/videos directly to RGS before 20 June 2025 (Friday), via the relevant links that can be found <a href="/files/2025_DSA_Website_Info_Details_Final_27_May.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>Please read the <strong>additional information</strong> when applying for
+any of the 18 Talent Area <strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong> Information
+provided include who can apply, additional supporting documents required,
+what to do if shortlisted for the selection trials/auditions/interviews
+and development programmes available for each talent area.
+<br>
 </p>
-</blockquote>
-<p>This document contains detailed information of the talent areas, including
-who can apply, what are the additional information applicants are expected
-to provide and the selection process/criteria of each talent area.</p>
-<p>All documents/videos submitted will not be returned. Applicants MUST NOT
-submit original documents. Applicants must be prepared to produce the original
-documents for verification purposes upon request when necessary.</p>
-<h4><strong>19 Talent Areas for RGS DSA-Sec 2025</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA2025.png">
-</div>
+</li>
+</ol>
+<p><strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">Submission of Required Additional Supporting Documents</a></strong> (e.g.
+pieces of writing, portfolios or videos) for <strong>7 Talent Areas listed below</strong>:</p>
+<p>
+<br>The following 7 Talent Areas require the submission of additional supporting
+documents/portfolios/videos:
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>English Language</strong> – 3 pieces of writing</p>
+</li>
+<li>
+<p><strong>Chinese Language</strong> – 3 pieces of writing</p>
+</li>
+<li>
+<p><strong>Malay Language</strong> – 3 pieces of writing</p>
+</li>
+<li>
+<p><strong>Tamil Language</strong>– 3 pieces of writing</p>
+</li>
+<li>
+<p><strong>Music Elective Programme</strong> – video recording of applicant
+playing 2 pieces of music</p>
+</li>
+<li>
+<p><strong>Visual Arts</strong> – portfolio or a minimum of 5 and a maximum
+of 10 pieces of artwork</p>
+</li>
+<li>
+<p><strong>Rhythmic Gymnastics</strong> – a maximum of 2 video recordings</p>
+</li>
+</ol>
+<p>[Note: Please see more detailed instructions in the table <strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">DETAILED INSTRUCTIONS HERE</a></strong> for
+submissions for these 7 talent areas.]</p>
+<p><strong>Applicants will need to submit additional documents/videos directly to RGS by 19 June 2026 (Friday), 4.30p.m., via the relevant links that can be found in the above link. Late submissions will not be accepted.</strong>
+</p>
+<p>All pieces of writing/images in portfolios/videos submitted will not be
+returned. Applicants MUST NOT submit original documents. Applicants must
+be prepared to produce the original documents for verification purposes
+upon request when necessary.</p>
+<h4><strong>18 Talent Areas for RGS DSA-Sec 2026</strong></h4>
+<p></p>
 <h4><strong>Process Overview</strong></h4>
-<p><strong>Application for DSA-Sec through MOE's online DSA-Sec Portal</strong> 
-<br>7 May 2025, 11.00am to 3 June 2025, 3.00pm</p>
-<p><strong>Submission of additional documents to RGS via e-form</strong> 
-<br>Before 20 June 2025
-<br>Please check for further details for specific talent areas <strong><a href="/files/2025_DSA_Website_Info_Details_Final_27_May.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong>
+<p><strong><u>Application for DSA-Sec through MOE's online DSA-Sec Portal</u></strong><u> </u>
+<br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
+<p><strong><u>Submission of additional documents to RGS via e-form</u></strong><u> </u>
+<br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
+<p><strong><u>Selection tests/Auditions/Interviews for 18 talent areas</u></strong><u> </u>
+<br>Selections will take place between mid-July to mid-August 2026.</p>
+<p><strong>ONLY shortlisted applicants will be notified. </strong>
 </p>
-<p><strong>Selection tests/Auditions/Interviews for all 19 talent areas</strong> 
-<br>mid-July to end-August 2025</p>
-<p><strong>ONLY shortlisted applicants will be notified.</strong>
+<p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>&nbsp;<strong>There will NOT be an online mode for the selection process.</strong>
 </p>
-<p><strong>Notification of Final Selection Outcome</strong> 
-<br>All applicants will receive their application outcomes between 25 August
-and 4 September 2025.</p>
+<p><strong><u>Notification of Final Selection Outcome</u></strong><u> </u>
+<br>All applicants will receive their application outcomes between 17 to 28
+August 2026.</p>
 <p>Applicants will be notified via email and RGS reserves the right not to
 release the details of the outcome or the reasons for non-selection.</p>
-<p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>  <strong>There will NOT be an online mode for the selection process.</strong>
-</p>
 <p>For further enquiries on Admissions &amp; DSA, please e-mail us at <a href="mailto:admissions@rafflesgirlssch.edu.sg" rel="noopener nofollow" target="_blank">admissions@rafflesgirlssch.edu.sg</a>
 </p>

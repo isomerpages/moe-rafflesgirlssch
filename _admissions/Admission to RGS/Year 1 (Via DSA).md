@@ -94,9 +94,7 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 <p></p>
 </li>
 </ul>
-<p><strong>Important Note</strong>
-<br>
-</p>
+<h3><strong>Important Note</strong></h3>
 <p>Please read the <strong>additional information</strong> when applying for
 any of the 18 Talent Area <strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong> Information
 provided include who can apply, additional supporting documents required,

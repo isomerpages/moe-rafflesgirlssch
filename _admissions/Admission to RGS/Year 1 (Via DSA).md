@@ -97,20 +97,14 @@ please refer to AEIS website at&nbsp;<a href="https://www.moe.gov.sg/internation
 <p><strong>Important Note</strong>
 <br>
 </p>
-<ol data-tight="true" class="tight">
-<li>
 <p>Please read the <strong>additional information</strong> when applying for
 any of the 18 Talent Area <strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</strong> Information
 provided include who can apply, additional supporting documents required,
 what to do if shortlisted for the selection trials/auditions/interviews
-and development programmes available for each talent area.
-<br>
-</p>
-</li>
-</ol>
+and development programmes available for each talent area.</p>
 <p><strong><a href="/files/2026_Website_Info_Edited_Final_14_April.pdf" rel="noopener noreferrer nofollow" target="_blank">Submission of Required Additional Supporting Documents</a></strong> (e.g.
-pieces of writing, portfolios or videos) for <strong>7 Talent Areas listed below</strong>:</p>
-<p>
+pieces of writing, portfolios or videos) for <strong>7 Talent Areas listed below</strong>:
+<br>
 <br>The following 7 Talent Areas require the submission of additional supporting
 documents/portfolios/videos:
 <br>
@@ -150,6 +144,9 @@ be prepared to produce the original documents for verification purposes
 upon request when necessary.</p>
 <h4><strong>18 Talent Areas for RGS DSA-Sec 2026</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2026_04_16_at_9_26_00_AM.png">
+</div>
 <h4><strong>Process Overview</strong></h4>
 <p><strong><u>Application for DSA-Sec through MOE's online DSA-Sec Portal</u></strong><u> </u>
 <br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
@@ -157,7 +154,7 @@ upon request when necessary.</p>
 <br>6 May 2026 (Wed), 11.00am to 2 June 2026 (Tue), 4.30pm</p>
 <p><strong><u>Selection tests/Auditions/Interviews for 18 talent areas</u></strong><u> </u>
 <br>Selections will take place between mid-July to mid-August 2026.</p>
-<p><strong>ONLY shortlisted applicants will be notified. </strong>
+<p><strong>ONLY shortlisted applicants will be notified.</strong>
 </p>
 <p><strong>All applicants who are shortlisted will have to attend the selection tests/auditions/interviews in-person, on site at RGS.</strong>&nbsp;<strong>There will NOT be an online mode for the selection process.</strong>
 </p>

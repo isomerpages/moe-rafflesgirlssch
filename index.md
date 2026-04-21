@@ -59,4 +59,12 @@ sections:
             and service
           linktext: Learn more
           url: https://www.rgs.edu.sg/holistic-education/Talent-Development/td/
+  - infopic:
+      title: 2026 Open House
+      id: infopic
+      description: Come and discover the RGS Experience!
+      button: Find out more
+      url: https://openhouse.rgs.edu.sg/
+      image: /images/RGS_OH_2026_banner.jpg
+      alt: OH 2026
 ---

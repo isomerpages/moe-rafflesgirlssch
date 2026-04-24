@@ -13,15 +13,6 @@ sections:
       alignment: right
       size: md
       title: Raffles Girls` School
-  - infopic:
-      title: 2026 Open House
-      id: infopic
-      description: Come and discover the RGS Experience!
-      button: Find out more
-      url: https://openhouse.rgs.edu.sg/
-      image: /images/RGS_OH_2026_banner.jpg
-      alt: OH 2026
-      subtitle: 23 May 2026, Saturday
   - resources:
       title: Highlights
       subtitle: Stay updated with RGS

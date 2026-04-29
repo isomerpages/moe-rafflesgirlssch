@@ -27,6 +27,6 @@ activities, do email <a href="mailto:prgs@rafflesgirlssch.edu.sg" rel="noopener 
 </a>!&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents for RGS PRGS" src="/images/prgs2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgs_welcome.png">
 </div>
 <p></p>

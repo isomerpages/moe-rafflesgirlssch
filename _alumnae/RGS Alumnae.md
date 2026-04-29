@@ -155,7 +155,7 @@ RGS.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Andrea Tan (Class of 1996)</p>
+<p>Ms Lim Sze Wei Geraldyn (Class of 1991)</p>
 </td>
 </tr>
 </tbody>

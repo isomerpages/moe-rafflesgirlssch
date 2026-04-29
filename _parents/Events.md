@@ -27,6 +27,7 @@ Pure Imagination chocolate squares as gifts for Mum, and a Crochet Date
 with your Daughter workshop. We received an overwhelming response and thank
 parents for taking time out of their busy schedules to bond with their
 daughters over these fun activities.</p>
+<p></p>
 <h4>Parenting Talks</h4>
 <p>PRGS organises numerous talks for parents to equip them with the necessary
 information as they journey with their daughters over the 4 years at RGS.

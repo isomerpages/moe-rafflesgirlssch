@@ -11,8 +11,32 @@ of RGS students, and organise activities to allow our members to develop
 and maintain links with the school. We also collaborate with the school
 in running programmes to facilitate our members’ and their daughters’/wards’
 journeys through RGS.</p>
-<p><a href="https://drive.google.com/file/d/1nd5JLGnNO_p-8uyLLXPkZfEk4Dkxf_rV/view" rel="noopener noreferrer nofollow" target="_blank">2024/2025 PRGS Activities Highlight Video</a>
+<p><a href="https://drive.google.com/file/d/1CpUqU6LNMZhdgxuPAuU-Of3-15EA_ryo/view" rel="noopener noreferrer nofollow" target="_blank">2025/2026 PRGS Activities Highlight Video</a>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_7.jpg">
+</div>
+<p></p>
 <h4>Parent &amp; Child Bonding Events</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb25v1.png">
@@ -27,6 +51,7 @@ Pure Imagination chocolate squares as gifts for Mum, and a Crochet Date
 with your Daughter workshop. We received an overwhelming response and thank
 parents for taking time out of their busy schedules to bond with their
 daughters over these fun activities.</p>
+<p></p>
 <h4>Parenting Talks</h4>
 <p>PRGS organises numerous talks for parents to equip them with the necessary
 information as they journey with their daughters over the 4 years at RGS.

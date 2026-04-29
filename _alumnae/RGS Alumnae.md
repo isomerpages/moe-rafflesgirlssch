@@ -42,14 +42,19 @@ spirit and values and contribute to shaping and achieving the goals of
 RGS.</p>
 <p>Website:&nbsp;<a href="http://rgsalumnae.com/" rel="noopener noreferrer nofollow" target="_blank">rgsalumnae.com</a>
 </p>
-<p>The 6th Executive Council of the RGS Alumnae was voted in on 29 March
-2025.</p>
-<p>The office bearers for 2025/2026 are as follows:</p>
-<p><strong>RGS Alumnae 6th Executive Council</strong>
+<p>The 7th Executive Council of the RGS Alumnae was voted in on 28 March
+2026.</p>
+<p>The office bearers for 2026/2027 are as follows:</p>
+<p><strong>RGS Alumnae 7th Executive Council</strong>
 </p>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/rgsa_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/f7c8ec99_4515_4d3e_af8b_c30b26520a29.jpg">
 </div>
 <table style="minWidth: 50px">
 <colgroup>
@@ -86,7 +91,7 @@ RGS.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bella Chia (Class of 2012)</p>
+<p>Ms Monisha Cheong (Class of 2005)</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +115,7 @@ RGS.</p>
 <p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gow Hui Yian (Class of 1988)</p>
+<p>Ms Esther Er (Class of 1995)</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +131,7 @@ RGS.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Debbie Yong (Class of 2001)</p>
+<p>Ms Ainie Aziz (Class of 2000)</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +139,23 @@ RGS.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Andrea Tan (Class of 1996)</p>
+<p>Ms Tan Tian Lin Andrea (Class of 1996)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Gow Hui Yian (Class of 1988)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Sze Wei Geraldyn (Class of 1991)</p>
 </td>
 </tr>
 </tbody>

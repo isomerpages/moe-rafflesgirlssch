@@ -11,7 +11,7 @@ of RGS students, and organise activities to allow our members to develop
 and maintain links with the school. We also collaborate with the school
 in running programmes to facilitate our members’ and their daughters’/wards’
 journeys through RGS.</p>
-<p><a href="https://drive.google.com/file/d/1nd5JLGnNO_p-8uyLLXPkZfEk4Dkxf_rV/view" rel="noopener noreferrer nofollow" target="_blank">2024/2025 PRGS Activities Highlight Video</a>
+<p><a href="https://drive.google.com/file/d/1CpUqU6LNMZhdgxuPAuU-Of3-15EA_ryo/view" rel="noopener noreferrer nofollow" target="_blank">2025/2026 PRGS Activities Highlight Video</a>
 </p>
 <h4>Parent &amp; Child Bonding Events</h4>
 <div class="isomer-image-wrapper">

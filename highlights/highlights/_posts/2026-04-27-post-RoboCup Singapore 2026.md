@@ -69,7 +69,7 @@ the competition. 🤖🏆</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Overall Best Achievement School at the Competition</strong> 
+<p><strong>Overall Best Achievement School at the Competition</strong>
 </p>
 </td>
 </tr>

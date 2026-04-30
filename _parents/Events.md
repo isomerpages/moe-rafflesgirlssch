@@ -36,8 +36,7 @@ journeys through RGS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_7.jpg">
 </div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2024 Highlights</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -178,8 +177,6 @@ PRGS gifted each Year 4 student a personalised thermos, along with a generous
 contribution to the school fund for organising the graduation event. &nbsp;</p>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2023 Highlights</summary>
 <div data-type="detailsContent" class="isomer-details-content">

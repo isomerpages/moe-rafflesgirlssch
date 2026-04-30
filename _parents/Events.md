@@ -36,11 +36,16 @@ journeys through RGS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PRGS_image_7.jpg">
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024 Highlights</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>Parent &amp; Child Bonding Events</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb25v1.png">
 </div>
+<p></p>
 <p>Kickstarting the year was a special talk by best-selling author and international
 speaker, Andrew Matthews. This was followed by many more parent-and-child
 bonding workshops held throughout the year to engage parents and their
@@ -60,9 +65,11 @@ with the Principals series, offering tailored sessions for Year 2, Year
 3 and Year 4 parents. These small-group gatherings provided an intimate
 setting for parents to engage in meaningful discussions on topics relevant
 to their child’s year, which they found immensely valuable and insightful.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgs25web2.png">
 </div>
+<p></p>
 <p>A new and special series of university admissions talks was launched in
 2024 to help parents and their daughters to plan and prepare for university.
 The first session on US universities (which was also open to the whole
@@ -74,12 +81,15 @@ more in future. The talks follow in the tradition of the annual transition
 talk (from RGS to Raffles Institution), as activities aimed at equipping
 parents and our girls with ample knowledge for their educational journey
 toward excellence.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgs25web3.png">
 </div>
+<p></p>
 <p>Making a comeback for the second year was a talk on AI, this time focused
 on generative AI technologies. Many parents attended, wanting to know more
 to help their daughters leverage technology to aid their schoolwork.</p>
+<p></p>
 <h4>Partnering RGS to Create Holistic Fun for Our Girls</h4>
 <p>PRGS has always focused on the well-being of both parents and our daughters.
 While numerous events were held to engage parents, PRGS continued to support
@@ -91,9 +101,11 @@ the girls and RGS staff. We also sponsored Magnolia ice cream, Oreo cookies,
 gummy bears, healthy cookies, and even procured sponsorship for Jia Jia
 Herbal drinks to cool everyone down at the end of the event. The excitement
 and cheers ended Term 2 on a high note!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb8.png">
 </div>
+<p></p>
 <p>School reopened in Term 3 after the June break with yet another whole-school
 event: the annual Racial Harmony Day which PRGS proudly organised with
 the school to showcase the different cultures in Singapore. Our very own
@@ -105,15 +117,18 @@ also facilitated hands-on experiences such as Chinese lucky knot-tying
 and interactive appreciation of the aromatics used in bunga rampai. The
 highlight of the event was definitely the potong ice cream, which the girls
 relished during the warm afternoon of fun!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb6.png">
 </div>
+<p></p>
 <p>As the year came to an end, PRGS continued to deepen its support for the
 girls. For the first time, a special care pack containing a mini crochet
 toy with notes of encouragement was lovingly prepared for every girl to
 comfort and cheer them on as they prepare for the End-of-Year examinations.
 Both girls and parents were extremely delighted to receive them, and many
 came forward to express their gratitude.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb7.png">
 </div>
@@ -121,6 +136,7 @@ came forward to express their gratitude.</p>
 the after-exams series of activities. Mothers volunteered to teach a two-hour
 workshop, which was an especially meaningful woman-to-woman sharing session,
 facilitating personal grooming advice to the girls.</p>
+<p></p>
 <h4>Tribute to RGS</h4>
 <p>The school has been an excellent pillar of support in nurturing our girls
 to be Daughters of a Better Age. As RGS commemorated its 145th anniversary
@@ -130,9 +146,11 @@ to two deserving girls annually who demonstrated good character and values
 Founder’s Day celebration with a dessert table featuring a grand croquembouche
 tower cake. This delectable and intricately built assemblage received nothing
 short of rave reviews!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb9.png">
 </div>
+<p></p>
 <p>It takes a village to raise a child, they say, and certainly, we can be
 so proud of how eagerly and selflessly a group of devoted educators and
 staff rallied around our daughters, working to maximise each girl’s potential.
@@ -149,15 +167,16 @@ buffet spread. The day’s entertainment opened with parents performing a
 fast K-Pop dance, followed by the MEP girls who provided more “in-flight”
 entertainment. Every staff member went home with a prize and a PRGS travel
 bag, in keeping with the Around-the-world theme.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/prgsweb10.png">
 </div>
+<p></p>
 <p>Ending the year was the annual Farewell Alma Mater (FAM) ceremony, and
 PRGS gifted each Year 4 student a personalised thermos, along with a generous
-contribution to the school fund for organising the graduation event. &nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+contribution to the school fund for organising the graduation event. &nbsp;</p>
+</div>
+</details>
 <details class="isomer-details">
 <summary>2023 Highlights</summary>
 <div data-type="detailsContent" class="isomer-details-content">

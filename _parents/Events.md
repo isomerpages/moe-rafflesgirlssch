@@ -92,7 +92,6 @@ on generative AI technologies. Many parents attended, wanting to know more
 to help their daughters leverage technology to aid their schoolwork.</p>
 <p></p>
 <h4>Partnering RGS to Create Holistic Fun for Our Girls</h4>
-<p></p>
 <p>PRGS has always focused on the well-being of both parents and our daughters.
 While numerous events were held to engage parents, PRGS continued to support
 RGS in organising fun activities for our girls. 2024 saw SportsFest return
@@ -140,7 +139,6 @@ workshop, which was an especially meaningful woman-to-woman sharing session,
 facilitating personal grooming advice to the girls.</p>
 <p></p>
 <h4>Tribute to RGS</h4>
-<p></p>
 <p>The school has been an excellent pillar of support in nurturing our girls
 to be Daughters of a Better Age. As RGS commemorated its 145th anniversary
 in 2024, PRGS continued to support the school with its annual PRGS award

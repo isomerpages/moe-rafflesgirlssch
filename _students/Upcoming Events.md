@@ -6,4 +6,4 @@ variant: markdown
 ---
 # Upcoming Events
 
-![](/images/2026_Guidance_Calendar.png)
+![](/images/2026_Guidance_Calendar_updated.png)

@@ -39,7 +39,7 @@ We offer one-to-one appointments to address with students a myriad of issues the
 
 | **Interventions:** | |  |
 | -------- | -------- | -------- |
-| Individual counselling  | Group counselling     | Academic counselling    |
+| Individual counselling  | Group counselling     | Education and Career Guidance    |
 | Parent education  |     |     |
 
 ----------
@@ -54,6 +54,13 @@ To make an appointment with a counsellor, please click [HERE](https://inet.rgs.e
 
 # Peer Helpers
 
-![](/images/phelp.png)
+![](/images/1_3_Watering_Holes_EK1_5249.jpg)
 
-Trained by our school counselors, peer helpers play a crucial role in promoting a caring school environment and fostering relationships among students. These girls provide support, guidance, and assistance to their fellow students, serving as a valuable resource for peers dealing with various issues. In doing so, they contribute significantly to creating a supportive and inclusive atmosphere within the school.
+Trained by the school counsellors, the Peer Helpers are a passionate group of students who play a crucial role in supporting their peers through their RGS journey. They contribute to a caring and inclusive school environment by reaching out to students who may benefit from additional support and connection. Peer Helpers are also involved in Tier 1 and Tier 2 support programmes, including small-group activities and outreach initiatives, under the guidance of the Filiae Centre staff. In addition, they support the wider school community by creating educational videos, resources, and materials that promote student well-being.
+
+# Peer Coaches
+
+
+Besides speaking with counsellors, students at RGS also have the option of speaking with a Peer Coach as part of the Filiae Centre’s Tier 3 support. Peer Coaches are selected from student leaders and Peer Helpers who have undergone training in solution-focused coaching skills and techniques. They also receive supervision from a school counsellor. Peer coaching sessions are not counselling sessions, but they provide a structured space for students to explore academic-related matters, personal goals, and areas of growth. Through these conversations, Peer Coaches support their coachees in setting SMART goals and identifying practical steps forward.
+
+To make an appointment with a Peer Coach, please click [HERE](https://inet.rgs.edu.sg/students/Lists/Appointment_Peer_Helper/AllItems.aspx).

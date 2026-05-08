@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <h2>Committee</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="RGS PRGS Exco 2025" src="/images/PRGS_Exco_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A7401681_2.jpg">
 </div>
-<h4>PRGS 23rd Executive Committee (2025)</h4>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,6 +194,202 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h2></h2>
+<h4>PRGS 23rd Executive Committee (2025)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="RGS PRGS Exco 2025" src="/images/PRGS_Exco_2025.jpg">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Celia Au</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Seow Pei En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Li Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Cheah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cara Chan Tuan Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Chen Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Pei Pei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jinnie Pang Siyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Tan Teck San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eunice Tay Gim Hiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Winny Yap Yoke Moi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Elizabeth Tham Huiwen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yong Siow Hui, Michelle</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Koh Lee Eng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Montri Laokullavanich</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy Christine Kong Yean Huah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yoon-Young</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ang Ching Pin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Larissa Liang Huimin</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2024</summary>

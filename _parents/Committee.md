@@ -20,7 +20,7 @@ variant: tiptap
 <p>Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Celia Au</p>
+<p>Ms Grace Seow Pei En</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ variant: tiptap
 <p>Vice-Chairman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Seow Pei En</p>
+<p>Ms Esther Lim</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ variant: tiptap
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Li Li</p>
+<p>Ms Doris Wang</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Cheah</p>
+<p>Ms Grace Koh</p>
 </td>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lim</p>
+<p>Ms Lee Yoon-Young</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cara Chan Tuan Li</p>
+<p>Mrs Celia Au</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Chen Sheng</p>
+<p>Ms Cindy Kong</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Pei Pei</p>
+<p>Dr Elizabeth Tham</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Tan Teck San</p>
+<p>Mr Kevin Cheah</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Tay Gim Hiang</p>
+<p>Ms Michelle Yong</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ variant: tiptap
 <p>Ordinary Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Winny Yap Yoke Moi</p>
+<p>Ms Teo Li Li</p>
 </td>
 </tr>
 <tr>
@@ -132,23 +132,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Elizabeth Tham Huiwen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yong Siow Hui, Michelle</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Grace Koh Lee Eng</p>
+<p>Mr Chen Sheng</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +148,7 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Christine Kong Yean Huah</p>
+<p>Ms Valerie Ong Hwei Li</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +156,23 @@ variant: tiptap
 <p>Co-opted Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yoon-Young</p>
+<p>Mr Ang Pek Kiang Leonard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jessie Ruan Lu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Frances Koh</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ variant: tiptap
 <p>Honorary Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ang Ching Pin</p>
+<p>Mr Kaan Hoa Kong</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ variant: tiptap
 <p>Honorary Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Larissa Liang Huimin</p>
+<p>Ms Lynn Ong</p>
 </td>
 </tr>
 </tbody>

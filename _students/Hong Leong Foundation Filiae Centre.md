@@ -5,7 +5,7 @@ description: Hong Leong Foundation Filiae Centre
 variant: markdown
 ---
 # About Us
-The Hong Leong Foundation Filiae Centre is committed to helping students thrive within the RGS community and maintain lifelong wellness practices. We are here to help students who may need assistance in a variety of areas.
+The Hong Leong Foundation Filiae Centre, is a one-stop student development centre (a first for Singapore secondary schools) committed to supporting students in thriving within the RGS community. The Filiae Centre provides support for students who may need assistance across a range of areas, and helps them develop wellness practices they can carry beyond school.
 
 # Mission
 
@@ -20,10 +20,10 @@ The mission of the Hong Leong Foundation Filiae Centre is to create a culture th
 * Foster community through meaningful connections
 
 # Meet our Staff
-The Hong Leong Foundation Filiae Centre is staffed with three full-time counsellors and a Student Services Officer. They provide support with students’ challenges related to school, home, friends, career, and personal matters. The school counsellors also work collaboratively with other resources in order to provide the best holistic care to our students.   
+The Hong Leong Foundation Filiae Centre is staffed by three School Counsellors, an Education and Career Guidance (ECG) Counsellor, and a Student Services Officer. Together, the team supports students in navigating school, family, friendships, career guidance, and personal matters. The counsellors also work closely with key school personnel to provide holistic care and support for the overall well-being of our students.
   
 * Ms Karen Lau, Counsellor and Head, Guidance Services
 * Ms Humaira Binte Salleh, Student Services Officer
 * Ms Sarah Ee, Education and Career Guidance Counsellor
-* Miss Janani Thuriraj, Counsellor
+* Ms Janani Thuriraj, Counsellor
 * Ms Esther Sng, Counsellor

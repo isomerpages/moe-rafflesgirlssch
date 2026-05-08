@@ -2,8 +2,9 @@
 title: Book Rooms
 permalink: /students/bookrooms/
 description: ""
+variant: markdown
 ---
-![](/images/group%20students%20interact.jpg)
+![](/images/1_1_Learning_in_Motion_EK1_4943.jpg)
 # Filiae Meeting Rooms
 
 There are seven meeting rooms (Filiae 3-9) on Level 3 of the campus Galleria Block that students can book for their meetings and group discussions.

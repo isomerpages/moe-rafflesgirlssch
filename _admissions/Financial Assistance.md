@@ -4,6 +4,9 @@ permalink: /admissions/fas/
 description: ""
 variant: markdown
 ---
+
+![](/images/1_3_Watering_Holes_EK1_5396.jpg)
+
 ## Financial Assistance
 
 RGS is committed to ensuring that no deserving student is denied the opportunity to experience the Raffles Programme and pursue excellence in spite of socio-economic background. Financial assistance schemes such as the MOE Independent School Bursary (ISB), school-administered scholarships and bursaries, as well as other bursaries by self-help groups and external institutions are available to help our needy students continue with their education and motivate them to strive for greater accomplishments. &nbsp;&nbsp;

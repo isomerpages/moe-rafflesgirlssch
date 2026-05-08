@@ -4,7 +4,6 @@ permalink: /admissions/fas/
 description: ""
 variant: markdown
 ---
-
 ![](/images/1_3_Watering_Holes_EK1_5396.jpg)
 
 ## Financial Assistance

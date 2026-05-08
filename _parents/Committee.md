@@ -6,9 +6,203 @@ variant: tiptap
 ---
 <h2>Committee</h2>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A7401681_2.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Seow Pei En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Doris Wang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Yoon-Young</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Celia Au</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cindy Kong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Elizabeth Tham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jacqueline Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Jinnie Pang Siyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Cheah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Yong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ordinary Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Li Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Montri Laokullavanich</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Valerie Ong Hwei Li</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Pek Kiang Leonard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jessie Ruan Lu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-opted Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Frances Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kaan Hoa Kong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lynn Ong</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h2></h2>
+<h4>PRGS 23rd Executive Committee (2025)</h4>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="RGS PRGS Exco 2025" src="/images/PRGS_Exco_2025.jpg">
 </div>
-<h4>PRGS 23rd Executive Committee (2025)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,7 +387,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+</div>
+</details>
+</div>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>2024</summary>

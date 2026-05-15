@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/3_2_Students_with_Purpose_EK1_7766.jpg
+      background: /images/3_2_Students_with_Purpose_EK1_7728.jpg
       variant: image
       backgroundColor: gray
       alignment: right

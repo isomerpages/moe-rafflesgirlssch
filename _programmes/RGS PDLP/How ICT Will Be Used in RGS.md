@@ -2,13 +2,13 @@
 title: How ICT Will Be Used in RGS
 permalink: /programmes/RGS-1-1/ict/
 description: ""
-third_nav_title: RGS 1:1
+third_nav_title: RGS PDLP
 ---
 ## How ICT Will Be Used in RGS
 
 ICT will be used in RGS during class time and beyond to:
 
-**1 \.**       **Activate Learning**
+**1 \.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Activate Learning**
 
 *   Students access different types of media – text, videos, images, models, simulations, animations
 *   Students are oriented towards the learning objectives either before a lesson at home or at the start of a lesson in class
@@ -22,7 +22,7 @@ ICT will be used in RGS during class time and beyond to:
 *   Students can communicate with the teacher online to inform on what they have already learned, and what they would like to know more about even before a lesson starts
 *   Students set goals and targets and organise their own learning (e.g. wikis, blogs, online calendars, email)
 
-**2 \.**       **Promote Thinking and Discussion**
+**2 \.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Promote Thinking and Discussion**
 
 *   Students gather live data in authentic contexts
 *   Probes (provided by the school) are used in some subjects
@@ -34,12 +34,12 @@ ICT will be used in RGS during class time and beyond to:
 *   Students have access to teachers without having to meet them face-to-face
 *   Students have access to experts beyond the school
 
-**3 \.**       **Facilitate Demonstration of Learning**
+**3 \.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Facilitate Demonstration of Learning**
 
 *   Students create digital products (e.g. video editing software, authoring tools for infographics, slideshows, animations, websites, blogs, e-books, e-portfolios)
 *   Students can share/communicate information to demonstrate what they have learned with peers, experts, parents and their teachers
 
-**4 \.**       **Monitor and Provide Feedback**
+**4 \.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Monitor and Provide Feedback**
 
 *   Teachers can check for understanding using students’ works in different media
 *   Teachers can give timely and targeted feedback – this would be both generic, directed to the class as a whole, as well as targeted at individual students

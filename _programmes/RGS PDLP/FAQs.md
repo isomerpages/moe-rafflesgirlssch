@@ -2,7 +2,7 @@
 title: FAQs
 permalink: /programmes/RGS-1-1/faqs/
 description: ""
-third_nav_title: RGS 1:1
+third_nav_title: RGS PDLP
 variant: tiptap
 ---
 <h2>FAQs</h2>

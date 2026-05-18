@@ -2,7 +2,7 @@
 title: Device Management Application
 permalink: /programmes/RGS-1-1/dma/
 description: ""
-third_nav_title: RGS 1:1
+third_nav_title: RGS PDLP
 ---
 ## Device Management Application
 
@@ -17,7 +17,7 @@ third_nav_title: RGS 1:1
 Schools will determine DMA settings for in-school use. As a default, these settings will continue to be in place after school as well:
 
 *   MOE and the school will set the level of web content filtering, including filtering out objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)  
-*   Students will be able to use the device from <06.00 a.m. to 11 p.m.> (to be decided by the school) daily  
+*   Students will be able to use the device from &lt;06.00 a.m. to 11 p.m.&gt; (to be decided by the school) daily  
 *   The school will determine the apps and programs to be installed to support teaching and learning
 
 **Providing Parents/Guardians with Greater Choice for After-School PLD Use**
@@ -35,7 +35,7 @@ No data will be collected during use of PLD after school hours
 
 <img src="/images/dma1.jpg" style="width:100%">
 
-**\*** Screen time limits set by the school will override parents’/guardians’ settings during school hours.
+**\***&nbsp;Screen time limits set by the school will override parents’/guardians’ settings during school hours.
 
 **Deciding on the Choice of After-School DMA Option**<br>
 Parents/guardians may wish to consider the following questions before deciding on the choice of after-school DMA option which is best for your child’s/ward’s learning.

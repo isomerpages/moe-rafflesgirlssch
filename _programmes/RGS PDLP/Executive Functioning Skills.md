@@ -4,7 +4,7 @@ permalink: /executive-functioning-skills/
 variant: tiptap
 description: Executive Functioning Skills
 image: /images/EFS2.png
-third_nav_title: RGS 1:1
+third_nav_title: RGS PDLP
 ---
 <p>In Term 1, our Year 1 girls hone their Executive Function Skills (EFS)—including
 time management, prioritisation, and metacognition—through a series of

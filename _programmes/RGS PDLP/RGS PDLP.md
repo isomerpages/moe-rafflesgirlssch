@@ -1,10 +1,11 @@
 ---
-title: RGS 1:1
-permalink: /programmes/RGS-1-1/rgs/
+title: RGS PDLP
+permalink: /programmes/rgs-pdlp/rgs/
 description: ""
-third_nav_title: RGS 1:1
+third_nav_title: RGS PDLP
+variant: markdown
 ---
-## RGS 1:1
+## RGS PDLP
 
 <img src="/images/rgs.jpg" style="width:85%">
 
@@ -17,7 +18,7 @@ third_nav_title: RGS 1:1
 
 #### Digital Literacies
 
-In a 1:1 classroom environment, instruction would be student-centered, collaborative and technology enabled. In this environment, technology would enable students to accomplish tasks that would require:  
+In a PDLP classroom environment, instruction would be student-centered, collaborative and technology enabled. In this environment, technology would enable students to accomplish tasks that would require:  
 
 *   Input – Identifying, compiling and using information obtained from a variety of sources and modalities
 *   Process – Assessing the quality of input and working together transforming input into;

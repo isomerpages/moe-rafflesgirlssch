@@ -47,6 +47,9 @@ thinking.</p>
 <img style="width: 100%" height="auto" width="100%" alt="RGS Library Contact details" src="/images/Library_image.png">
 </div>
 <h1>Opening Hours</h1>
+<p><em>The Library is strictly open to Staff and Students of Raffles Girls' School only.</em>
+</p>
+<p></p>
 <p>During Term:</p>
 <ul data-tight="true" class="tight">
 <li>

@@ -16,9 +16,9 @@ Personal Information Change
 
 Parents can update their/their daughter’s/ward’s address, phone number, legal name etc. with Administrative Office via email at rgss@moe.edu.sg. We will then inform on follow-up procedures depending on the nature of the update.
 
-# Replacement or Reprint of Result Slip
+# Printing or Reprinting of Result Slip
 
-The request can be sent in via email at [rgss@moe.edu.sg](mailto:rgss@moe.edu.sg), and the requester will be sent the following link to make payment [https://ipay.rgs.edu.sg/exp/SitePages/Home.aspx](https://ipay.rgs.edu.sg/exp/SitePages/Home.aspx) (cost is $10.70 per document). After which, printing will be done and an email will be sent to inform the requester of the collection date.
+The request can be sent in via email at rgss@moe.edu.sg, and the requester will be sent the following link to make payment https://ipay.rgs.edu.sg/exp/SitePages/Home.aspx (cost is $10.90 per document). After which, printing will be done and an email will be sent to inform the requester of the collection date.
 
 # OpenCerts verifier
 

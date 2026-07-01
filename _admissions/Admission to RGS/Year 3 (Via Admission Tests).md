@@ -98,7 +98,7 @@ online application form:</p>
 <p>2.&nbsp;&nbsp;&nbsp; Secondary 1 End-Year Progress Report or Result Slip</p>
 <p>Applicants must be prepared to produce any original documents for verification
 purposes upon request, if necessary.</p>
-<p>Please click <a href="https://form.gov.sg/67d1322814ef0505bb1c5c23" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
+<p>Please click <a href="https://form.gov.sg/69a8efc5039880d851cea53f" rel="noopener noreferrer nofollow" target="_blank">HERE</a> to
 apply. This online application form will only be accessible during the
 application period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>

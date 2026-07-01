@@ -47,7 +47,7 @@ and Science.</p>
 <p>Application Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 9 am</strong>
+<p><strong>11 August 2026 (Tue) 9 am to 25 August 2026 (Tue) 9 am</strong>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 September 2025 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
+<p><strong>7 September 2026 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
 <br>
 <br><strong>3 Tests to be taken in-person at RGS</strong>
 </p>
@@ -73,7 +73,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mid-October – Mid-November 2025</strong>
+<p><strong>Mid-October – Mid-November 2026</strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ and Science.</p>
 <p>Notification of Result of Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>By 28 November 2025 (Friday)</strong>
+<p><strong>By 27 November 2026 (Friday)</strong>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ and Science.</p>
 </table>
 <p><strong>SUBMISSION OF APPLICATION</strong>
 </p>
-<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2025 (Monday). This is the only mode of application.</strong>
+<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2026 (Monday). This is the only mode of application.</strong>
 </p>
 <p>Applicants are required to submit soft copies of the following via the
 online application form:</p>

@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Year 3 (Via Admission Tests)</strong></h3>
 <h4><strong>Criteria</strong></h4>
 <p>This application is for admission into <strong>Year 3 only</strong> for
-the <strong>next academic year 2026</strong>.</p>
+the <strong>next academic year 2027</strong>.</p>
 <p>Any student who was successfully posted to a secondary school under the
 DSA-Sec Exercise or Admissions Exercise for International Student (AEIS)
 is not allowed to transfer to another school as she is expected to honour

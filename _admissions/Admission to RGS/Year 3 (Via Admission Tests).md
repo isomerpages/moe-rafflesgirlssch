@@ -8,7 +8,7 @@ variant: tiptap
 <h3><strong>Year 3 (Via Admission Tests)</strong></h3>
 <h4><strong>Criteria</strong></h4>
 <p>This application is for admission into <strong>Year 3 only</strong> for
-the <strong>next academic year 2026</strong>.</p>
+the <strong>next academic year 2027</strong>.</p>
 <p>Any student who was successfully posted to a secondary school under the
 DSA-Sec Exercise or Admissions Exercise for International Student (AEIS)
 is not allowed to transfer to another school as she is expected to honour
@@ -47,7 +47,7 @@ and Science.</p>
 <p>Application Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 August 2025 (Tue) 9 am to 25 August 2025 (Mon) 9 am</strong>
+<p><strong>11 August 2026 (Tue) 9 am to 25 August 2026 (Tue) 9 am</strong>
 </p>
 </td>
 </tr>
@@ -59,7 +59,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 September 2025 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
+<p><strong>7 September 2026 (Mon), from 8.00 am to 1.00 pm in-person at RGS</strong> 
 <br>
 <br><strong>3 Tests to be taken in-person at RGS</strong>
 </p>
@@ -73,7 +73,7 @@ and Science.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mid-October – Mid-November 2025</strong>
+<p><strong>Mid-October – Mid-November 2026</strong>
 </p>
 </td>
 </tr>
@@ -82,7 +82,7 @@ and Science.</p>
 <p>Notification of Result of Application</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>By 28 November 2025 (Friday)</strong>
+<p><strong>By 27 November 2026 (Friday)</strong>
 </p>
 </td>
 </tr>
@@ -90,7 +90,7 @@ and Science.</p>
 </table>
 <p><strong>SUBMISSION OF APPLICATION</strong>
 </p>
-<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2025 (Monday). This is the only mode of application.</strong>
+<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2026 (Monday). This is the only mode of application.</strong>
 </p>
 <p>Applicants are required to submit soft copies of the following via the
 online application form:</p>
@@ -103,7 +103,7 @@ apply. This online application form will only be accessible during the
 application period.</p>
 <p><strong>IMPORTANT INFORMATION</strong>
 </p>
-<p>For further details about the Admissions Tests, please click <a href="/files/2025_Webpages_RGS_Y3_Admissions_Info_Tests_ENT__FINAL_250325_.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
+<p>For further details about the Admissions Tests, please click <a href="/files/2026_Y3_Admission_Webpage_info_040326.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
 <p>Detailed results of the tests and interview, if any, will not be released
 and RGS reserves the right not to release the results or the reasons for
 non-selection.</p>

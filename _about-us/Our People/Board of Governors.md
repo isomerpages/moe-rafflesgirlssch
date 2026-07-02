@@ -11,8 +11,7 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BOG_2026_2__210___380_mm___210___400_mm_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BOG_2023__210___380_mm___210___400_mm__updated_2026.png">
 </div>
 <p></p>

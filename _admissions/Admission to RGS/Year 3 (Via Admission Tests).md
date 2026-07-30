@@ -90,7 +90,7 @@ and Science.</p>
 </table>
 <p><strong>SUBMISSION OF APPLICATION</strong>
 </p>
-<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2026 (Monday). This is the only mode of application.</strong>
+<p><strong>Applicants must complete and submit an <u>online</u> application<u> before</u> 9 am on 25 August 2026 (Tuesday). This is the only mode of application.</strong>
 </p>
 <p>Applicants are required to submit soft copies of the following via the
 online application form:</p>

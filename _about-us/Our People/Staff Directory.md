@@ -1682,7 +1682,7 @@ variant: tiptap
 <p>Mr Muhammad Ameen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant,&nbsp;Information Technology</p>
+<p>Officer,&nbsp;Information Technology</p>
 </td>
 </tr>
 <tr>
@@ -1690,7 +1690,7 @@ variant: tiptap
 <p>Mr Muhammad Shahid Bin Hussin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant,&nbsp;Information Technology</p>
+<p>Senior Assistant,&nbsp;Information Technology</p>
 </td>
 </tr>
 </tbody>

@@ -1758,7 +1758,7 @@ variant: tiptap
 <p>Mr Leonard Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Manager, Strategic Communications &amp; Partnerships (Team Lead)</p>
+<p>Assistant Manager, Strategic Communications &amp; Partnerships</p>
 </td>
 </tr>
 <tr>

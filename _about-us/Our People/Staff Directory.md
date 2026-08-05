@@ -98,7 +98,6 @@ variant: tiptap
 </table>
 <p><strong><u>Department - Aesthetics</u></strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -238,14 +237,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Alfieana Alphonso</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Beatrice Yong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +245,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Gemma Lee Pereira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms June Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Karen Alexander</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -302,7 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pung Zi Bing</p>
+<p>Ms Marianne Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Contract Adjunct Teacher</p>
@@ -570,23 +577,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Wan Rong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lin Yao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -724,7 +715,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh King Koon</p>
+<p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -732,7 +723,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Young Hui</p>
+<p>Mr Koh King Koon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -823,6 +814,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Jennie Quah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Melvin Seow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -1247,7 +1246,7 @@ variant: tiptap
 <p>Ms Low Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Head, Citizenship Education(Acting)</p>
+<p>Assistant Head, Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -1318,6 +1317,14 @@ variant: tiptap
 <p>Learning &amp; Technology Designer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Haley Tran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Data Scientist</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Student Management</u></strong>
@@ -1349,7 +1356,7 @@ variant: tiptap
 <p>Ms Denise Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Head, Student Leadership (Acting)</p>
+<p>Assistant Head, Student Leadership</p>
 </td>
 </tr>
 </tbody>
@@ -1383,7 +1390,7 @@ variant: tiptap
 <p>Ms Malyanah Binte Mawar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Acting)</p>
+<p>Year Head</p>
 </td>
 </tr>
 <tr>
@@ -1536,14 +1543,6 @@ variant: tiptap
 <p>Executive, Procurement</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Elaine Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Executive, Procurement</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p><strong><u>Department - Finance</u></strong>
@@ -1606,14 +1605,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sandra Goh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Manager, Human Resources</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Tiffany Goh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1656,14 +1647,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zhang Runsheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Executive, Information Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Teo Yen Li</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1673,6 +1656,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Khant Htel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Officer, Information Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Khang Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Officer, Information Technology</p>
@@ -1736,17 +1727,9 @@ variant: tiptap
 <p>Officer, Library</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Megan Tham</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Officer, Library</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p><strong><u>Department - Partnerships &amp; Community Relations</u></strong>
+<p><strong><u>Department - Strategic Communications &amp; Partnerships</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -1770,30 +1753,12 @@ variant: tiptap
 <p>Assistant Head, Partnerships</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><strong><u>Department - Strategic Communications &amp; Partnerships</u></strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Staff Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Designation</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Leonard Louis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Executive, Strategic Communications &amp; Partnerships (Team Lead)</p>
+<p>Assistant Manager, Strategic Communications &amp; Partnerships (Team Lead)</p>
 </td>
 </tr>
 <tr>

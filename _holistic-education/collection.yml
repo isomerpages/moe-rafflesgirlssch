@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Environmental Sustainability.md
       - Academic Studies/Subjects.md
       - Academic Studies/.keep
       - Academic Studies/Art & Design Programme.md

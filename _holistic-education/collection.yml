@@ -2,8 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - Academic Studies/Subjects.md
       - Academic Studies/.keep
+      - Academic Studies/Subjects.md
       - Academic Studies/Art & Design Programme.md
       - Academic Studies/General Music Programme.md
       - Academic Studies/Food & Design.md
@@ -27,10 +27,11 @@ collections:
       - Citizenship Education.md
       - Co Curricular Activities.md
       - Service Learning.md
-      - MOE Sexuality Education in Schools.md
-      - Student Leadership Development.md
       - Talent Development/.keep
       - Talent Development/Talent Development.md
       - Talent Development/Music Elective Programme.md
       - Talent Development/Research Studies.md
       - Talent Development/Special Art Programme.md
+      - Student Leadership Development.md
+      - Environmental Sustainability.md
+      - MOE Sexuality Education in Schools.md

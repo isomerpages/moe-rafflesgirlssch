@@ -2,9 +2,8 @@ collections:
   holistic-education:
     output: true
     order:
-      - Environmental Sustainability.md
-      - Academic Studies/Subjects.md
       - Academic Studies/.keep
+      - Academic Studies/Subjects.md
       - Academic Studies/Art & Design Programme.md
       - Academic Studies/General Music Programme.md
       - Academic Studies/Food & Design.md
@@ -35,3 +34,4 @@ collections:
       - Talent Development/Music Elective Programme.md
       - Talent Development/Research Studies.md
       - Talent Development/Special Art Programme.md
+      - Environmental Sustainability.md

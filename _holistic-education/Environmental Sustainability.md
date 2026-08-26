@@ -51,6 +51,12 @@ areas</p>
 <p>An urban regenerated forest</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Site_A_Plan_20260822_With_Zones.jpg">
+</div>
+<p><em><sub>Our Wild Garden with zones inspired by Singapore's natural habitat types</sub></em>
+</p>
+<p></p>
 <p>These habitats provide different conditions for plants and wildlife. As
 vegetation establishes, soils recover and the canopy develops, the garden
 will continue to evolve. Seeds and wildlife may move between the campus
@@ -70,6 +76,10 @@ this changing character is part of the garden’s life.</p>
 <p>Paths guide visitors through the different habitat zones, while changes
 in elevation, planting structure, texture and moisture create varied experiences
 for people and opportunities for wildlife.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SBPS_Plan_20250703.gif">
+</div>
 <h3><strong>What Is Biophilic Design?</strong></h3>
 <p>Biophilic design brings nature into human environments to support health,
 learning and well-being. At RGS, this includes opportunities to experience
@@ -86,4 +96,5 @@ and return regularly. Look closely at how the habitats change, listen for
 birds and insects, and notice how plants respond to light, rain and shade.
 Through these everyday encounters, the RGS campus becomes not only a place
 to learn about nature, but a place to learn <em>through</em> nature.</p>
+<p></p>
 <p></p>

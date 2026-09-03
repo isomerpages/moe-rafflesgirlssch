@@ -2,6 +2,7 @@
 title: Visitor Information
 permalink: /about-us/visitor-info/
 description: ""
+variant: markdown
 ---
 ## Visitor Information
 
@@ -23,11 +24,13 @@ For more details, please refer to our transport maps [here](/files/Getting%20to%
 
 **Contact Us** <br>
 Tel : 67371845 <br>
-Fax : 62353731 <br>
-Email: [rgss@moe.edu.sg](mailto:rgss@moe.edu.sg)  
+Alternative Corporate Contact: 97226419
 
-**Feedback & Enquiries** <br>
-For any feedback and enquiries, please submit a form [here](https://forms.cwp.gov.sg/rgs/FormRSFBY).  
+Fax : 62353731 <br>
+Email:&nbsp;[rgss@moe.edu.sg](mailto:rgss@moe.edu.sg)  
+
+**Feedback &amp; Enquiries** <br>
+For any feedback and enquiries, please submit a form&nbsp;[here](https://forms.cwp.gov.sg/rgs/FormRSFBY).  
   
 **Opening Hours** <br>
 _General Office_ <br>

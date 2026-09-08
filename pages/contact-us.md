@@ -62,10 +62,5 @@ contacts:
       - email: rgss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: +65 9722 6419
-      - email: ""
-      - other: ""
-    title: Alternative Corporate Contact
 feedback: ""
 ---

@@ -24,8 +24,6 @@ For more details, please refer to our transport maps [here](/files/Getting%20to%
 
 **Contact Us** <br>
 Tel : 67371845 <br>
-Alternative Corporate Contact: 97226419
-
 Fax : 62353731 <br>
 Email:&nbsp;[rgss@moe.edu.sg](mailto:rgss@moe.edu.sg)  
 

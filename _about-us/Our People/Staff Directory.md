@@ -1605,6 +1605,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Evelyn Suah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Manager, Human Resources</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wendy Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Manager, Human Resources</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Tiffany Goh</p>
 </td>
 <td rowspan="1" colspan="1">
